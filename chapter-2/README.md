@@ -110,6 +110,82 @@ assignment in the notebook.
 
 ## Functions
 
+A function is really just a convenient way to re-use code. We've actually already
+seen several kinds of functions. For example:
+
+* The print function. All this function does is take some input (any object), and
+    display that input on the screen.
+* The `min()` and `max()` functions. These take a collection, and **return** either
+    the smallest or the largest element of that collection.
+
+The word 'return' is used when a function produces any output that can be used for
+further computation. For example: `min([1,2,3])` returns `1`. But `print('hello')`
+does not return anything. It just outputs text on your screen. When a function returns
+output, you can assign that output to a variable, like so:
+
+```python
+x = min([1,2,3])
+print(x) # This will print '1'.
+```
+
+When you try to do the same with `print('hello')`, you get a different result:
+
+```python
+x = print('hello')
+print(x) # This will print None.
+```
+
+You could write a simple implementation of `min()` every time you wanted to get
+the smallest number. For example:
+
+```python
+list_of_numbers = [2,3,1,4,5,6,2,4,0]
+smallest = list_of_numbers[0]
+for number in list_of_numbers:
+    if number < smallest:
+        smallest = number
+# To show that this works:
+print('smallest number is', smallest)
+```
+
+This would print `0`, which is the smallest number in the list. But if you wanted
+to do this multiple times in your program, it would be a waste of time to write
+the same piece of code multiple times. Functions are nothing but names for pieces
+of code that are defined elsewhere. In the definition of `min()`, it is specified
+that the **argument** of `min()` should correspond to `list_of_numbers`, and that
+it should output `smallest` after determining which number is the smallest.
+
+### Writing your own functions
+Here is how you define a function:
+
+* write `def`;
+* the name you would like to call your function;
+* a set of parentheses containing the argument(s) of your function;
+* a colon;
+* a **docstring** describing what your function does;
+* the function definition;
+* ending with a **return statement**.
+
+```python
+def min(list_of_numbers):
+    """
+    Function to determine which number is the smallest.
+    The input is a list of number, and the output is a specific number.
+    """
+    smallest = list_of_numbers[0]
+    for number in list_of_numbers:
+        if number < smallest:
+            smallest = number
+    return smallest
+
+# To show that this works:
+lon = [2,3,1,4,5,6,2,4,0]
+x = min(lon)
+print('smallest number is', x)
+```
+
+### Built-in functions
+
 ## Working with files
 
 ### Plain text
