@@ -1,4 +1,5 @@
 # Chapter 2 -- Control flow tools and files
+**indentation, indentation, indentation...**
 
 This chapter we will start working with files, and introduce for-loops, while-loops, and functions.
 You will learn how to define your own functions, and use those functions to analyze
@@ -106,7 +107,84 @@ assignment in the notebook.
 
 ## While-loops
 
+While-loops are the oldest type of loops. Every programming language that has loops, has a while-loop. Here is an example:
+
+```python
+i = 0
+while i < 10:
+	print(i)
+	i += 1
+```
+
+This is equivalent to:
+
+```python
+for i in range(10):
+	print(i)
+```
+
+While-loops always start with the word `while`, followed by a **(boolean) condition**. You can read the first line of a while-loop as: "while the condition holds, perform all the operations in the local context." In this case, the only two operations are `print(i)` and `i += 1`. This incrementation of `i` ensures that the loop will eventually end, once `i` is equal to 10.
+
+(Booleans are useful for `while`-loops, as well as `if... elif... else...`-statements. We'll cover them in the notebook.)
+
+As you can see above, the for-loop is much shorter than the while-loop. This is usually the case when all you want to do is iterate over some collection of things. Since 'iterating over a collection of things' is usually enough for our purposes, we will mainly use the for-loop.
+
+So when do you use `while`? Our rule-of-thumb is this:
+
+> Use `while` if there is a clear condition for success (or failure), and you're not sure how long it will take to get to that point.
+
+For example: 
+
+* If you're collecting data from webpage that doesnt always load: keep trying until it loads.
+* If you're mining web pages for information, and you want to collect a certain amount of that information: keep looking until you have enough.* If you're working with a Queue or a to-do list: keep working until there is nothing more to do. (You can even add stuff to the list during the loop.)
+
 ## If, elif, else
+
+The `if... elif... else...`-statements provide a powerful way to structure your code. You can use them to run different bits of code depending on a particular set of conditions.
+
+Here is an example:
+
+```python
+# Inter-rater reliability is a measure to assess annotation quality.
+# Here is some code to interpret Cohen's Kappa.
+# (according to Landis & Koch 1977)
+
+if kappa == 0:
+	print('Poor')
+elif kappa <= 0.2:
+	print('Slight')
+elif kappa <= 0.4:
+	print('Fair')
+elif kappa <= 0.6:
+	print('Moderate')
+elif kappa <= 0.8:
+	print('Substantial')
+else:
+	print('(Almost) perfect')
+```
+
+While `if... elif... else...`-statements are very useful, they do not always provide the optimal solution. Here is one example:
+
+```python
+# Beware if you do something like this:
+if x == 1:
+	y = 'a'
+elif x == 2:
+	y = 'b'
+elif x == 3:
+	y == 'c'
+elif x == 4:
+	y = 'd'
+
+# Use a dictionary instead:
+d = {1:'a', 2:'b', 3:'c', 4:'d'}
+y = d[x]
+```
+
+The reason why the conditionals worked so well in the first example is that they cover a range of values. This is almost impossible to capture in a dictionary.
+
+Most often, you'll probably use a single `if`-statement, or an `if` combined with an `else`. Long sequences of `if... elif... else...` like in the first example are not that common, but it's very useful to know!
+
 
 ## Functions
 
@@ -185,6 +263,8 @@ print('smallest number is', x)
 ```
 
 ### Built-in functions
+
+Before you define a function, however, you should be aware that Python has a wide range of built-in functions.
 
 ## Working with files
 
