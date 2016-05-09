@@ -1,6 +1,6 @@
-# Week 1
+# Chapter 1 -- The basics
 
-This document provides an overview of the theory covered in week 1.
+Welcome to our Python course! This first chapter covers a lot of material. 
 You do not need to know everything by heart just yet.
 This page is intended as a global reference that you will need less and less as we
 progress through the course.
@@ -16,6 +16,11 @@ Some helpful links:
 * [General documentation](https://docs.python.org/3.5/index.html)
 * [Stack Overflow](http://stackoverflow.com/)
 * [Learning resources on /r/learnpython](https://www.reddit.com/r/learnpython/wiki/index)
+
+If you take a piece of code from StackOverflow (or some other website), always
+acknowledge the source in the comments, and explain what that bit of code does.
+(This is also to protect yourself: you should never run code that you haven't
+verified or don't understand.)
 
 **GitHub and Markdown:**
 
