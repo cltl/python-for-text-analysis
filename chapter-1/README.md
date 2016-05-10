@@ -106,7 +106,7 @@ AttributeError: 'int' object has no attribute 'startswith'
 ```
 
 If you really do want to perform string operations on an integer, the only thing
-you can do is **cast** the variable to another type:
+you can do is **cast** the variable to another type using the built-in `str()` function:
 
 ```python
 >>> x = str(x)
@@ -117,7 +117,10 @@ True
 What happened here is that the integer 11 is re-interpreted as a string of two characters:
 '1' and '1'.
 
+For other built-in type methods, see the built-in functions section below.
+
 **Other methods**
+
 * List methods are given [here](https://docs.python.org/3.5/tutorial/datastructures.html#more-on-lists).
 * Dictionary methods are given [here](https://docs.python.org/3.5/library/stdtypes.html#typesmapping)
 * Set methods are given [here](https://docs.python.org/3.5/library/stdtypes.html#set-types-set-frozenset)
@@ -233,7 +236,16 @@ All sequences are **iterable**, which means that you can iterate over them using
 Here is a small example of a for-loop:
 
 ```python
-for fruit in ['apple', 'pear', 'orange']:
+fruits = ['apple', 'pear', 'orange']
+for fruit in fruits:
+    print(fruit)
+
+# You can also do this in different orders, using the built-in
+# functions sorted() and reversed():
+for fruit in sorted(fruits):
+    print(fruit)
+
+for fruit in reversed(fruits):
     print(fruit)
 ```
 
@@ -246,7 +258,7 @@ over a dictionary you get keys, and if you iterate over a file you get lines.)
 
 Ned Batchelder has a [great video about iteration](http://nedbatchelder.com/text/iter.html).
 
-### Mutability
+### Side-note: Mutability
 We will sometimes mention that some object is (im)mutable.
 [The Python glossary](https://docs.python.org/3.5/glossary.html) provides useful definitions:
 
@@ -259,6 +271,34 @@ later week. If you area really interested, Ned Batchelder has an [excellent talk
 Objects that are instances of a built-in immutable type are *hashable* and can be
 used as keys in a dictionary. For a really good explanation of this, see the youtube
 video [the mighty dictionary](https://www.youtube.com/watch?v=C4Kc8xzcA68).
+
+### Built-in functions
+
+Python has a lot of built-in functionality. See [this section](https://docs.python.org/3/library/functions.html) of the library reference. We'll mostly cover the relevant ones in the notebooks, but here's a selection with short descriptions:
+
+**Type-related**
+
+* `bool()` turns an object into a boolean (True or False).
+* `dict()` without an argument, it creates an empty dictionary, but can also be used with arguments to populate the dictionary. See the notebook for exercises.
+* `float()` Turns an integer or a string-representation of a floating point number into a floating point number.
+* `int()` Turns a float or a string-representation of a natural number into an integer.
+* `list()` Creates an empty list or turns an iterable into a list.
+* `set()` Creates an empty set or turns an iterable into a set.
+* `str()` Turns objects into strings.
+* `tuple()` Turns iterables into tuples.
+
+* `type()` can be used to check the type of a variable.
+
+**Math-related**
+
+* `sum(iterable)` returns the sum of an iterable.
+* `divmod(x,y)` takes two ints and returns the quotient and the remainder.
+* `pow(x,y)` raises `x` to the power of `y`.
+* `round(x[,n])` rounds its argument to the nearest integer, or the nearest float with `n` digits.
+* `min(iterable)` returns the lowest number in an iterable. (This function can also take any number of arguments to do the same for those arguments.)
+* `max(iterable)` returns the highest number in an iterable. (This function can also take any number of arguments to do the same for those arguments.)
+
+Methods and built-in functions are the first places to check if you want to solve a programming question. Ask yourself: *What kind of data am I working with?* If it's text data, check out the string methods and the string-related modules. If it's numeric data, check out the built-in functions and operators, and the `math` module. We will talk about modules soon.
 
 ----------------
 #### Later on in the course..

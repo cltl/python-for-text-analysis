@@ -262,9 +262,7 @@ x = min(lon)
 print('smallest number is', x)
 ```
 
-### Built-in functions
-
-Before you define a function, however, you should be aware that Python has a wide range of built-in functions.
+Before you define a function, however, you should always check if that function hasn't been implemented already in Python's standard library. Also: ***never*** use a function name that has been defined already, even if you mean to replace Python's built-in functionality. (This makes your code more re-usable and future-proof.)
 
 ## Working with files
 
