@@ -133,7 +133,7 @@ So when do you use `while`? Our rule-of-thumb is this:
 
 > Use `while` if there is a clear condition for success (or failure), and you're not sure how long it will take to get to that point.
 
-For example: 
+For example:
 
 * If you're collecting data from webpage that doesnt always load: keep trying until it loads.
 * If you're mining web pages for information, and you want to collect a certain amount of that information: keep looking until you have enough.* If you're working with a Queue or a to-do list: keep working until there is nothing more to do. (You can even add stuff to the list during the loop.)
@@ -279,9 +279,21 @@ are a good reference if you want to learn about the details.
 
 ### CSV and TSV files
 
-### 'Machine-readable format'
+### JSON files
 
---------------------
-##### Later in this course
+### Making files both human- and machine-readable
+
+There are no strict rules to make files both human- and machine-readable.
+But there are some principles that you should follow:
+
+* Structure your file.
+* Use special characters to separate different parts. For example:
+    * Use a colon for text fields ('Name: John')
+    * Use dashes to separate entries ('--------------').
+    * Use blank lines to separate different parts of an entry.
+* Be consistent in your format.
+* Think about usability: people make less mistakes if the format feels natural to use.
+
+### XML and HTML
 
 We will talk about XML and HTML files.
