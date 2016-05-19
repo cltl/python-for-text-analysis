@@ -36,3 +36,87 @@ We will focus on these sections:
 * **14.1.** [csv](https://docs.python.org/3.5/library/csv.html)
 * **19.2.** [json](https://docs.python.org/3.5/library/json.html)
 * **26.3** [doctest](https://docs.python.org/3.5/library/doctest.html)
+
+## String: useful tools to work with strings
+
+The `string` module doesn't add much to the string functionality in Python, but
+it does provide some useful constants (copied from the docs):
+
+* **string.ascii_letters** The concatenation of the ascii_lowercase and ascii_uppercase constants described below. This value is not locale-dependent.
+
+* **string.ascii_lowercase** The lowercase letters 'abcdefghijklmnopqrstuvwxyz'. This value is not locale-dependent and will not change.
+
+* **string.ascii_uppercase** The uppercase letters 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'. This value is not locale-dependent and will not change.
+
+* **string.digits** The string '0123456789'.
+
+* **string.hexdigits** The string '0123456789abcdefABCDEF'.
+
+* **string.octdigits** The string '01234567'.
+
+* **string.punctuation** String of ASCII characters which are considered punctuation characters in the C locale.
+
+* **string.printable** String of ASCII characters which are considered printable. This is a combination of digits, ascii_letters, punctuation, and whitespace.
+
+* **string.whitespace** A string containing all ASCII characters that are considered whitespace. This includes the characters space, tab, linefeed, return, formfeed, and vertical tab.
+
+Use these constants whenever you want to loop over all characters or all numbers.
+As a general rule: **don't implement stuff that already exists in Python.** At the
+very least it will save you from embarrassing typos (missing letters in the alphabet).
+
+## Re: regular expressions
+
+Regular expressions provide a very powerful way to search for patterns in text.
+The Python documentation already offers [a great how-to](https://docs.python.org/3/howto/regex.html#regex-howto)
+that tells you all you should know about regular expressions. We will practice regular
+expressions in the notebooks.
+
+## Datetime: to work with dates
+
+
+
+## Collections: useful classes to store data
+
+
+
+## Math: everything you need for basic math
+
+
+
+## Random: shuffle lists, sample data, or generate random numbers
+
+
+
+## Itertools: make your loops even better
+
+
+
+## Functools: advanced function manipulation
+
+
+
+## os.path: manipulate paths
+
+
+
+## Glob: find ALL the files!
+
+
+
+## Pickle: save python objects
+
+
+
+## Gzip: compressing files
+
+
+
+## Csv: manipulate csv and tsv files
+
+
+
+## Json: manipulate json files
+
+
+
+## Doctest: Enhance your docstrings and test your functions
