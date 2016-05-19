@@ -9,6 +9,23 @@ that you install [Anaconda](https://www.continuum.io/downloads).
 (If you have worked with Python 3 before, be sure to check if Jupyter Notebook
 is installed on your machine. We will work extensively with notebooks.)
 
+## Courseware structure
+
+Our materials are structured as follows:
+
+* Chapters on Python can be found in the `Python-chapters` folder. Each chapter
+  consists of a README summarizing the theory for that chapter, and a notebook to
+  practice your Python skills.
+
+* Other topics, related to natural language processing and 'everyday work' are covered
+  in the NLP-topics folder. So if you're just here to learn Python, you can skip these
+  notebooks. You may still find them useful, however!
+  
+* The Data folder contains all data used in this course, and scripts used to obtain
+  this data. (So you can see what techniques we used.)
+
+This file serves as the syllabus and a general reference for this course.
+
 ## Core principles
 
 Every course has a set of core principles that its teachers adhere to.
