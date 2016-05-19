@@ -352,18 +352,65 @@ underscore, so that you can 'dissect' the file name using the `str.split('_')` o
 
 ### Plain text
 
-**Readings**
+Plain text is the most basic file format: it's just everyday characters that you're
+used to, plus some special characters to add whitespace. You will mostly be using
+ tab (`\t`) and newline (`\n`).
 
+The only issue with plain text is that the characters maybe stored in some exotic
+format. In that case you need to convert their encoding to unicode. You can use  
+[the codecs module](https://docs.python.org/3.5/library/codecs.html) for this.
+
+To learn more about unicode and character sets, see the following **readings**.
 These two links are super relevant if you want to learn more about proper text
-handling. Don't worry if you don't understand everything. Resources like these
-are a good reference if you want to learn about the details.
+handling. Don't worry if you don't understand everything. We will discuss them in
+class.
 
 * [The absolute minimum every software developer absolutely, positively should know about unicode and character sets (no excuses)](http://www.joelonsoftware.com/articles/Unicode.html)
 * [Ned Batchelder on 'pragmatic unicode'](http://nedbatchelder.com/text/unipain.html)
 
+During the course, we will mostly just work with unicode, so encodings won't come
+up very frequently.
+
 ### CSV and TSV files
 
+CSV and TSV are one step up from plain text. These formats are used for data that
+is structured in rows and columns (like a spreadsheet in Excel). Each line corresponds
+to a row, and cells are either separated by commas (CSV) or tabs (TSV). These files
+may start with a *header*: a row with labels for each column. We will use the `csv`
+module to work with CSV and TSV files. See the notebook for exercises.
+
+```python
+# Open a TSV file for reading
+# For CSV files you can leave out the delimiter argument.
+with open('example.tsv') as f:
+    reader = csv.reader(f, delimiter='\t')
+    for row in reader:
+        # Do stuff
+
+# Open a TSV file for writing
+with open('example.tsv','w') as f:
+    writer = csv.writer(f, delimiter='\t')
+    # If rows is an iterable containing rows, you can use writerows()
+    # rows could be something like [[1,2,3],[4,5,6]]
+    writer.writerows(rows)
+```
+
 ### JSON files
+
+JSON is one of the standard data formats for the web. [Wikipedia](https://en.wikipedia.org/wiki/JSON)
+has a very good description of what JSON files are and what they look like. We will
+use the `json` module to deal with them.
+
+```python
+# Load a json file as a dictionary (common use case)
+with open('example.json') as f:
+    d = json.load(f)
+
+# Write out a dictionary as a JSON file. Note that not all objects can be written
+# to a JSON file. E.g. sets are disallowed (you could cast them to lists instead).
+with open('example.json','w') as f:
+    json.dump(d,f)
+```
 
 ### Making files both human- and machine-readable
 
@@ -377,6 +424,8 @@ But there are some principles that you should follow:
     * Use blank lines to separate different parts of an entry.
 * Be consistent in your format.
 * Think about usability: people make less mistakes if the format feels natural to use.
+
+We'll work with several different examples in the notebook.
 
 ### XML and HTML
 
