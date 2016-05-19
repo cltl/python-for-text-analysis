@@ -425,8 +425,18 @@ But there are some principles that you should follow:
 * Be consistent in your format.
 * Think about usability: people make less mistakes if the format feels natural to use.
 
-We'll work with several different examples in the notebook.
+We'll work with several different examples in the notebook. One of these is the
+*linguist list* data, which consists of messages sent to a mailing list. Messages
+for each day are bundled together and sent to the subscribers of the mailing list.
+The structure of each set of bundled messages is such that you can recover the main
+properties of the individual messages. But at the same time, because the mailing
+list is meant to be read by researchers, the editors took care to present everything
+in a readable format.
 
 ### XML and HTML
 
-We will talk about XML and HTML files.
+Finally, we will talk about [XML](https://en.wikipedia.org/wiki/XML) and
+[HTML](https://en.wikipedia.org/wiki/HTML) files. (Click on those links for an
+explanation of these file types.) These formats are commonly used to store data,
+or to present it on the web. We will use the `lxml` module to deal with the former,
+and the `beautifulsoup` library to deal with the latter. See the notebook for examples.

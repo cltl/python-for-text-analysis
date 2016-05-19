@@ -34,10 +34,10 @@ Our materials are structured as follows:
   practice your Python skills.
 
 * Other topics, related to natural language processing and 'everyday work' are covered
-  in the NLP-topics folder. So if you're just here to learn Python, you can skip these
+  in the `NLP-topics` folder. So if you're just here to learn Python, you can skip these
   notebooks. You may still find them useful, however!
   
-* The Data folder contains all data used in this course, and scripts used to obtain
+* The `Data` folder contains all data used in this course, and scripts used to obtain
   this data. (So you can see what techniques we used.)
 
 This file serves as the syllabus and a general reference for this course.
