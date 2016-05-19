@@ -9,6 +9,22 @@ that you install [Anaconda](https://www.continuum.io/downloads).
 (If you have worked with Python 3 before, be sure to check if Jupyter Notebook
 is installed on your machine. We will work extensively with notebooks.)
 
+## Core principles
+
+Every course has a set of core principles that its teachers adhere to.
+We strongly believe in the principles outlined by Mike Bostock in his article
+[What makes software good?](https://medium.com/@mbostock/what-makes-software-good-943557f8a488) Here they are:
+
+* **Good software is approachable**. It can be understood completely in independent, easy pieces. You don’t need to understand everything before you can understand anything.
+
+* **Good software is consistent**. It lets you take what you’ve learned about one part and extrapolate it to the rest. It doesn’t self-contradict. It is parsimonious, avoiding superfluous elements.
+
+* **Good software explains itself**. It has affordances for learning and discovery. It is role-expressive and minimizes hidden magic.
+
+* **Good software teaches**. It doesn’t just automate an existing task, but provides insight or imparts knowledge, such as a best practice or a new perspective on a problem.
+
+* **Good software is for humans**. It is cognizant of people and the reality in which they live. It does not expect elaborate and arbitrary rules to be memorized. It anticipates the need for learning and debugging.
+
 ## Courseware structure
 
 Our materials are structured as follows:
@@ -25,22 +41,6 @@ Our materials are structured as follows:
   this data. (So you can see what techniques we used.)
 
 This file serves as the syllabus and a general reference for this course.
-
-## Core principles
-
-Every course has a set of core principles that its teachers adhere to.
-We strongly believe in the principles outlined by Mike Bostock in his article
-[What makes software good?](https://medium.com/@mbostock/what-makes-software-good-943557f8a488) Here they are:
-
-* **Good software is approachable**. It can be understood completely in independent, easy pieces. You don’t need to understand everything before you can understand anything.
-
-* **Good software is consistent**. It lets you take what you’ve learned about one part and extrapolate it to the rest. It doesn’t self-contradict. It is parsimonious, avoiding superfluous elements.
-
-* **Good software explains itself**. It has affordances for learning and discovery. It is role-expressive and minimizes hidden magic.
-
-* **Good software teaches**. It doesn’t just automate an existing task, but provides insight or imparts knowledge, such as a best practice or a new perspective on a problem.
-
-* **Good software is for humans**. It is cognizant of people and the reality in which they live. It does not expect elaborate and arbitrary rules to be memorized. It anticipates the need for learning and debugging.
 
 ## Assignments and Grading
 
