@@ -266,6 +266,90 @@ Before you define a function, however, you should always check if that function 
 
 ## Working with files
 
+There are two ways to work with files. The preferred way is to use `with`-statement.
+like this:
+
+```python
+# Open the file, call it 'f'
+with open('some_file.txt') as f:
+    # Get the text data.
+    text = f.read()
+```
+
+Which is equivalent to:
+
+```python
+# Open the file.
+f = open('some_file.txt')
+# Get the text data.
+text = f.read()
+# ...Some time later, close the file.
+f.close()
+```
+
+In both cases, you create a *file object* called `f` (the conventional name, but
+you could call it `mickey_mouse` and it would still work). That object has a method
+called `read()` that returns all the text in the file as one big string. This string
+value gets assigned to the variable called `text`.
+
+The main advantage of using the `with`-statement is that it automatically closes
+the file once you leave the local context defined by the indentation level. If you
+'manually' open and close the file, you risk forgetting to close the file.
+
+The `open` function can be used in different *modes*. By default it opens files
+in *read mode*, which means that Python can access the contents, but cannot modify
+the file. You can make the mode explicit by adding an additional argument. For example,
+you could use `open('some_file.txt', 'r')` to explicitly state that you want to open
+the file in read mode. Here is a table with all the modes (copied from [here](https://docs.python.org/3.5/library/functions.html#open)):
+
+| Character | Meaning |
+| --------- | ------- |
+|'r' |	open for reading (default)|
+|'w' |	open for writing, truncating the file first|
+|'x' |	open for exclusive creation, failing if the file already exists|
+|'a' |	open for writing, appending to the end of the file if it exists|
+|'b' |	binary mode|
+|'t' |	text mode (default)|
+|'+' |	open a disk file for updating (reading and writing)|
+|'U' |	universal newlines mode (deprecated)|
+
+**Common file operations** are:
+
+* Skipping a line. For example if the first line of the document doesn't contain
+  relevant information, use: `next(f)`.
+
+* Going over a file line by line. Use a for-loop: `for line in f: ...`. This is
+  strictly preferred over `f.readlines()`!
+
+* Reading all text in a file: `f.read()`
+
+* Writing a single line: `f.write(line)`
+
+* Writing multiple lines: `f.writelines(list_of_lines)`. Note that lines have to
+  end with a newline character (`\n`) or else there won't be any breaks!
+
+We'll practice with these in the notebook.
+
+**File names**:
+
+You can put a lot of information inside a file name. Here's a small list of ideas
+that may come in useful. Keep in mind how you might retrieve this information from
+the file name once you've generated it. For example by separating all parts with an
+underscore, so that you can 'dissect' the file name using the `str.split('_')` operation.
+
+* The date and time. For now you can just assume we'll generate one file, and you
+  can hard-code the date, using the YYYYMMDD format (this format is easiest to sort).
+  Later you can use [the time module](https://docs.python.org/3.5/library/time.html#time.strftime)
+  for this.
+  
+* The index/rank of the file in a sequence. You can either include the index in
+  the file name directly, or better: pad the number with zeroes so that the file
+  names are easier to sort and the numbers are nicely aligned: you can do this
+  using the `rjust` command, like this: `'1'.rjust(5,'0')`.
+
+* The extension. Your file doesn't have to end with '.txt' or '.csv'. You can use
+  any extension you like! E.g. '.results' or '.log'.
+
 ### Plain text
 
 **Readings**
