@@ -37,6 +37,25 @@ We will focus on these sections:
 * **19.2.** [json](https://docs.python.org/3.5/library/json.html)
 * **26.3** [doctest](https://docs.python.org/3.5/library/doctest.html)
 
+## Importing modules
+
+Whenever you want to use a module, you first have to import that module. For example:
+`import re` lets you import the regular expressions module.
+
+You can rename a module as you import it: `import re as regex4life` if you want to
+show how much of a fan of regex you are, for example. Or just if you want to avoid
+a clash between names that have already been defined and the module name.
+
+You can also import part of a module, for example: `from string import ascii_lowercase`.
+This allows you to use that part directly, without having to use `string.ascii_lowercase`.
+(It also saves you from importing the *entire* library.)
+
+One thing that you will see, but should *never* do is `from re import *`. That asterisk
+tells Python to import everything from the `re` module into your namespace. But that
+also means that you might be overriding functions or variables that you've defined
+before! After all: it's unclear how much you're importing and what all these new things
+are called.
+
 ## String: useful tools to work with strings
 
 The `string` module doesn't add much to the string functionality in Python, but
