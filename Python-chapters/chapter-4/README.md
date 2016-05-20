@@ -146,8 +146,10 @@ If you haven't already, now is the time to watch [Ned Batchelder's *loop like a 
 
 As you've already seen, Python is an object-oriented language. It has basic classes,
 like lists, strings, dictionaries, and sets that all have their own methods. And
-it's fairly easy to extend those classes to provide new functionality. The `Counter`
-and `defaultdict` classes are examples of extensions of the dict class, and the
+it's fairly easy to extend those classes to provide new functionality. Or to create
+completely new classes (inheriting from `object`).
+
+The `Counter` and `defaultdict` classes are examples of extensions of the dict class, and the
 `namedtuple` class is an extension of `tuple`. The Python tutorial has a
 [good section on classes](https://docs.python.org/3.5/tutorial/classes.html).
 
@@ -157,6 +159,24 @@ there, but for our purposes we will generally not be needing to define new ones.
 Watch [Raymond Hettinger's talk](https://www.youtube.com/watch?v=HTLu2DFOdTg) on classes, though.
 There are some really good ideas in it.
 
-## Standalone files
-
 ## External modules
+
+While working on a problem, it's always worthwile to look around online to see if
+someone else has worked on something similar (or even on the same problem). Often
+you will find that, yes, someone has worked on something similar before, and there's
+even a module out there that is super useful and would save you a lot of work. Awesome!
+Now how to go from here?
+
+The first thing to do is see if you already have the module installed. Just try
+to import it and see what happens. Worst case, you'll see something like this:
+
+```
+>>> import unknown_module
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+ImportError: No module named 'unknown_module'
+```
+
+If the module is not already installed, and you're using anaconda, use `conda install MODULENAME`.
+(Where MODULENAME is replaced by whatever the module is called.) If that doesn't work, try `pip install MODULENAME`.
+This usually works. If it doesn't, look for instructions on how to install the module.

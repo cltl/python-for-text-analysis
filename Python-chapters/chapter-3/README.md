@@ -139,3 +139,30 @@ expressions in the notebooks.
 
 
 ## Doctest: Enhance your docstrings and test your functions
+
+
+## Standalone scripts and the Argparse module
+
+While we've mostly been working with notebooks so far, you can also just write
+python scripts as standalone files. Basically it's just a plain text file with
+python code (called a 'script'), saved with the `.py` extension. Here's a very
+minimal example:
+
+```python
+def main():
+    "The main function."
+    print("Hello, world!")
+
+if __name__ == "__main__":
+    main()
+```
+
+If you save this file as "helloworld.py", you can either import it (`import helloworld`)
+or run it from the command line by typing `python helloworld.py`. The if-statement
+is there so that it will only run the main function if the script is run from the
+command line. If you import the file, it won't print "Hello, world!" unless you
+use `helloworld.main()`.
+
+If your program becomes bigger, you will probably want to pass arguments to the
+script from the command line. (Maybe you want to say "Hello" to a specific person!)
+The best thing to do then is to look into the `argparse` module.
