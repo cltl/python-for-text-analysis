@@ -96,7 +96,28 @@ expressions in the notebooks.
 
 ## Collections: useful classes to store data
 
+The collections module provides specialized classes that build on the core classes
+in the standard library. You can use them by importing them from the `collections`
+module, e.g. `from collections import namedtuple`. The most useful ones are listed
+below.
 
+* **namedtuple** is an extension of the `tuple` class. It enables you to make your
+code more explicit and self-documenting, by making custom tuples. Suppose we were
+working with coordinates a lot. Then you could use `namedtuple` to create a `Point`
+object like this: Point = namedtuple('Point',['x', 'y']). Now every time you want to work
+with coordinates, you can use `Point` with the relevant coordinate values to instantiate
+a new point. E.g. `Point(5,8)` returns a `Point` object with attributes `x` and `y`,
+where the value of `x` is 5 and the value of `y` is 8.
+
+* **defaultdict** is an extension of `dict` that lets you create dictionaries
+with default values. E.g. `d = defaultdict(list)` creates a dictionary where the
+standard value is an empty list. So you could immediately add values to that list
+for any key, without checking whether the key is in the dictionary already.
+
+* **Counter** is an extension of `dict` that makes counting much easier. You can
+initialize it with an iterable to immediately count all the objects in the iterable,
+e.g. c = Counter([1,2,3,4,5,6,5,4,35,3,2,2,4,6,7,8]), or you can initialize an empty
+Counter and update the counts. E.g. `c = Counter()` followed by `c.update([1,2,3,4,1])`.
 
 ## Math: everything you need for basic math
 
@@ -104,7 +125,13 @@ expressions in the notebooks.
 
 ## Random: shuffle lists, sample data, or generate random numbers
 
+* **Shuffle a list**
 
+* **Sample a subset**
+
+* **Generate random numbers**
+
+* **Seeding the random number generator**
 
 ## Itertools: make your loops even better
 

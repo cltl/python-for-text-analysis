@@ -25,6 +25,9 @@
   think about what it is you're doing. Variables called 'a', 'b', 'c' obfuscate
   problems. (Unless these characters have a specific meaning in the context.)
 
+* If you get stuck, try to explain to yourself what every part of your code does.
+  This also works with others: see pair programming and rubber duck debugging.
+
 ## How to deal with large amounts of data
 
 When you have to deal with large amounts of data, it's important to think about
