@@ -147,7 +147,12 @@ Counter and update the counts. E.g. `c = Counter()` followed by `c.update([1,2,3
 
 ## Glob: find ALL the files!
 
-
+The `glob` module is useful to list all the files in a particular directory. After
+importing the module with `import glob`, you can find files using the `glob.glob()`
+function. For example, if you have a folder called 'data' with different kinds of
+files, and you want a list of all the text files, you might use `glob.glob('data/*.txt')`.
+The asterisk serves as a wildcard that matches any filename. You can also use the
+asterisk to match folders, e.g. `glob.glob('*/*.txt')`.
 
 ## Pickle: save python objects
 
@@ -192,6 +197,48 @@ returns a string. You can turn that string back into a JSON-serializable object 
 
 ## Doctest: Enhance your docstrings and test your functions
 
+Doctest is a module that enables you to automatically check whether your functions
+produce the output that you expect. It works like this:
+
+```python
+# Example in /Examples/doctest-example.py
+
+def hello(name):
+    """
+    Function that returns a greeting for whatever name you enter.
+
+    Usage:
+    >>> hello('Emiel')
+    'Hello, Emiel!'
+    """
+    return ''.join(["Hello, ", name, '!'])
+```
+
+The docstring shows how to use the function, and the expected output of the function.
+The Doctest module allows you to test whether you actually get that expected output
+when you use the function as in the example. You can try this yourself. Navigate to
+the Examples folder on the command line and use the following command: `python -m doctest -v doctest-example.py`
+This should print the following message:
+
+```
+Trying:
+    hello('Emiel')
+Expecting:
+    'Hello, Emiel!'
+ok
+1 items had no tests:
+    doctest-example
+1 items passed all tests:
+   1 tests in doctest-example.hello
+1 tests in 2 items.
+1 passed and 0 failed.
+Test passed.
+```
+
+Of course this is a trivial example, but it's very useful if you're working on a
+larger codebase. Especially if you want to add new functionality without changing
+the behavior of your functions. Then you really want to be able to check that
+everything still works as expected.
 
 ## Standalone scripts and the Argparse module
 
@@ -231,7 +278,7 @@ parser.add_argument("--target", help="Person you want to say 'hello' to.", type=
 parser.add_argument("--source", help="Who is saying hello?", type=str)
 
 def hello(source, target):
-    "The main function."
+    "The main function that says 'hello' to the target, with greetings by the source."
     print("Hello", target)
     print("Greetings from", source)
 
