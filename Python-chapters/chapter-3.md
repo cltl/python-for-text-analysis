@@ -192,4 +192,45 @@ use `helloworld.main()`.
 
 If your program becomes bigger, you will probably want to pass arguments to the
 script from the command line. (Maybe you want to say "Hello" to a specific person!)
-The best thing to do then is to look into the `argparse` module.
+The best thing to do then is to look into the `argparse` module. Here's how you set it up:
+
+```python
+# import the module
+import argparse
+
+# Initialize the parser
+parser = argparse.ArgumentParser()
+
+# Add arguments to be specified on the command line:
+parser.add_argument("--target", help="Person you want to say 'hello' to.", type=str)
+parser.add_argument("--source", help="Who is saying hello?", type=str)
+
+def hello(source, target):
+    "The main function."
+    print("Hello", target)
+    print("Greetings from", source)
+
+if __name__ == "__main__":
+    args = parser.parse_args()
+    hello(args.source, args.target)
+```
+
+You can test whether your code works by providing it with some arguments like this:
+
+```python
+import argparse
+
+parser = argparse.ArgumentParser()
+
+parser.add_argument("--target", help="Person you want to say 'hello' to.", type=str)
+parser.add_argument("--source", help="Who is saying hello?", type=str)
+
+arguments = '--source Emiel --target Marten'.split()
+print(parser.parse_args(arguments))
+# This will print Namespace(source='Emiel', target='Marten')
+```
+
+For full reproducibility, it's recommended that you store all the arguments in a
+log file so that you'll always know exactly how the program was called.
+[Here](https://docs.python.org/3.5/howto/argparse.html) is a longer tutorial on
+the use of argparse.
