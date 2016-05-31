@@ -163,7 +163,32 @@ Counter and update the counts. E.g. `c = Counter()` followed by `c.update([1,2,3
 
 ## Json: manipulate json files
 
+JSON is a very common file format on the internet, and it's useful to store data
+(lists, dicts, numbers and strings -- no sets or tuples!) in a readable format.
 
+Here's how to load a JSON file:
+
+```python
+import json
+
+with open('filename.json') as f:
+    obj = json.load(f)
+```
+
+Writing out JSON files is equally simple:
+
+```python
+import json
+
+obj = ['bla', 2.0, {1: 'apple', 2: 'pear'}]
+
+with open('filename.json','w') as f:
+    json.dump(obj, f)
+```
+
+If you ever need to pretty-print a JSON object: `json.dumps(obj, indent=4, sort_keys=True)`
+returns a string. You can turn that string back into a JSON-serializable object by using
+`json.loads(str_representation)`.
 
 ## Doctest: Enhance your docstrings and test your functions
 
