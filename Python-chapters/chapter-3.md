@@ -116,7 +116,7 @@ for any key, without checking whether the key is in the dictionary already.
 
 * **Counter** is an extension of `dict` that makes counting much easier. You can
 initialize it with an iterable to immediately count all the objects in the iterable,
-e.g. c = Counter([1,2,3,4,5,6,5,4,35,3,2,2,4,6,7,8]), or you can initialize an empty
+e.g. `c = Counter([1,2,3,4,5,6,5,4,35,3,2,2,4,6,7,8])`, or you can initialize an empty
 Counter and update the counts. E.g. `c = Counter()` followed by `c.update([1,2,3,4,1])`.
 
 ## Math: everything you need for basic math

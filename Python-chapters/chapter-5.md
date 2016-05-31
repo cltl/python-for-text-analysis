@@ -1,5 +1,9 @@
 # Chapter 5 -- On your own
 
+Now that you know the basics of Python, let's talk strategy. How do you tackle new
+problems? What do you do when you get stuck? What if your program takes ages to finish?
+That's what this chapter is about: tips and tricks that we've found helpful over the years.
+
 ## How to tackle any problem
 
 * Start small, with one data point.
