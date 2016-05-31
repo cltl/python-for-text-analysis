@@ -7,19 +7,19 @@ If you have any questions, of course you can always contact me.
 
 ## Natural language processing
 
-* Natural Language ToolKit (NLTK): Incredibly versatile library with a bit of everything.
+* [Natural Language ToolKit (NLTK)](http://www.nltk.org/): Incredibly versatile library with a bit of everything.
   The only downside is that it's not the fastest library out there, and it lags behind the
   state-of-the-art.
     * Access to several corpora.
-    * Create a POS-tagger.
+    * Create a POS-tagger. (Some of these are actually state-of-the-art if you have enough training data.)
     * Perform corpus analyses.
     * Interface with WordNet.
-* Pattern: A module that describes itself as a 'web mining module'. Implements a
+* [Pattern](http://www.clips.ua.ac.be/pattern): A module that describes itself as a 'web mining module'. Implements a
     tokenizer, tagger, parser, and sentiment analyzer for multiple different languages.
     Also provides an API for Google, Twitter, Wikipedia and Bing.
-* Textblob: Another general NLP library that builds on the NLTK and Pattern.
-* SpaCy: Tokenizer, POS-tagger, parser and entity classifier.
-* Gensim: For building vector spaces and topic models.
+* [Textblob](http://textblob.readthedocs.io/en/dev/): Another general NLP library that builds on the NLTK and Pattern.
+* [SpaCy](https://spacy.io/): Tokenizer, POS-tagger, parser and entity classifier for English and German. (More languages in progress.)
+* [Gensim](http://radimrehurek.com/gensim/): For building vector spaces and topic models.
 
 ## Data analysis and machine learning
 
