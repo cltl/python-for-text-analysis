@@ -145,7 +145,7 @@ Counter and update the counts. E.g. `c = Counter()` followed by `c.update([1,2,3
 
 
 
-## Glob: find ALL the files!
+## Glob: find files
 
 The `glob` module is useful to list all the files in a particular directory. After
 importing the module with `import glob`, you can find files using the `glob.glob()`
@@ -156,7 +156,27 @@ asterisk to match folders, e.g. `glob.glob('*/*.txt')`.
 
 ## Pickle: save python objects
 
+The `pickle` module lets you save Python objects to your computer, so that you can
+reload them later. This may be useful if those objects take a long time to create.
+A downside of pickling objects, as opposed to saving your data in CSV/TSV/JSON/TXT/XML
+format is that `.pickle` files are not human-readable. Moreover, you should never
+try to load a `.pickle` file from an untrusted source, as it may contain malicious
+code that will be executed when you load the file.
 
+```python
+import pickle
+
+# Create a dictionary
+d = {'a':0, 'b':1, 'c':3}
+
+# Write it to a pickle file:
+with open('dictionary.pickle','w') as f:
+    pickle.dump(d,f)
+
+# Read a pickle file and load the object:
+with open('dictionary.pickle') as f:
+    obj = pickle.load(f)
+```
 
 ## Gzip: compressing files
 
