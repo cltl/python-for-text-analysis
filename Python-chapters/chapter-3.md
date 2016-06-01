@@ -139,11 +139,47 @@ Counter and update the counts. E.g. `c = Counter()` followed by `c.update([1,2,3
 
 ## Functools: advanced function manipulation
 
+The `functools` module has useful meta-functions that you can use to manipulate
+existing functions. These are the two most common ones.
 
+* `@functools.lru_cache()` is a decorator that memorizes input-output combinations
+  for a function. This can speed up your code tremendously if you frequently call
+  a particular function with the same input.
 
+* The `partial` function is useful to 'fill in' an argument in a function, so that
+  you won't have to type as much.
+
+```python
+from functools import partial
+
+def hello(source, target):
+    "Tell someone hello."
+    print('Hello,', source, '\nGreetings,', target)
+    
+hello_from_emiel = partial(hello, target='Emiel')
+
+# This will print:
+# "Hello Marten
+# Greetings, Emiel"
+hello_from_emiel('Marten')
+```
 ## os.path: manipulate paths
 
+Windows machines have paths that look like 'C:\\some\folder', whereas UNIX-based
+operating systems have paths that look like '/some/folder'.
+Os.path is a very useful library if you want to create OS-independent paths, so
+that your scripts will work on any computer without modifications. Here's how to
+use it:
 
+```python
+import os
+# Suppose that you have a set of texts in ./data/corpora/exciting corpus.
+# If you want to make an OS-independent path to that folder, use:
+relative_path = os.path.join('data', 'corpora','exciting_corpus')
+absolute_path = os.path.abspath(relative_path)
+```
+
+This module is very useful in combination with `glob`.
 
 ## Glob: find files
 
