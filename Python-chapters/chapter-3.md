@@ -125,22 +125,29 @@ Counter and update the counts. E.g. `c = Counter()` followed by `c.update([1,2,3
 
 ## Random: shuffle lists, sample data, or generate random numbers
 
-* **Shuffle a list**
+The `random` module provides all kinds of randomizations. After you've imported
+`random`, you can:
 
-* **Sample a subset**
+* **Shuffle a list** in place using `random.shuffle(the_list)`
 
-* **Generate random numbers**
+* **Sample a subset** using `random.sample(the_list, 25)`. You can also use this
+  function as a shuffling function. If `n = len(the_list)`, use `random.sample(the_list, n)`.
 
-* **Seeding the random number generator**
+* **Generate random numbers** either use `random.random()` to generate a number
+  between 0 and 1, or use `random.choice(range(30))`.
 
-## Itertools: make your loops even better
+* **Seed the random number generator** to make your results reproducible. Just use
+  `random.seed(12345)` right after importing the `random` module and it will use that
+  seed number to generate pseudorandom numbers that will be the same each run.
 
+## Itertools: loop over your data
 
+The `itertools` module has too many useful functions to list here. [Read the docs](https://docs.python.org/3/library/itertools.html)
 
 ## Functools: advanced function manipulation
 
 The `functools` module has useful meta-functions that you can use to manipulate
-existing functions. These are the two most common ones.
+existing functions. These are the two most common ones for me.
 
 * `@functools.lru_cache()` is a decorator that memorizes input-output combinations
   for a function. This can speed up your code tremendously if you frequently call
