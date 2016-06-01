@@ -19,7 +19,8 @@ You may want to read these first, but you can also skip them and move to the bui
 * **3.** [Built-in Constants](https://docs.python.org/3.5/library/constants.html)
 * **4.** [Built-in Types](https://docs.python.org/3.5/library/stdtypes.html)
 
-We will focus on these sections:
+We will focus on the following sections, making a selection of the most important parts.
+Of course you can also just read the full documentation if you prefer.
 
 * **6.1** [string](https://docs.python.org/3.5/library/string.html)
 * **6.2.** [re](https://docs.python.org/3.5/library/re.html)
@@ -92,7 +93,7 @@ expressions in the notebooks.
 
 ## Datetime: to work with dates
 
-
+Read [the documentation](https://docs.python.org/3.5/library/datetime.html).
 
 ## Collections: useful classes to store data
 
@@ -121,7 +122,10 @@ Counter and update the counts. E.g. `c = Counter()` followed by `c.update([1,2,3
 
 ## Math: everything you need for basic math
 
-
+Read [the documentation](https://docs.python.org/3/library/math.html). If the math
+module isn't enough, then [numpy](http://www.numpy.org/) or [scipy](https://www.scipy.org/)
+might be something for you. (E.g. if you want to use matrices, or compute correlations
+or other statistical measures.)
 
 ## Random: shuffle lists, sample data, or generate random numbers
 
