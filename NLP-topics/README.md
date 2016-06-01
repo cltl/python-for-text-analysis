@@ -17,7 +17,7 @@ This folder contains all the NLP-related subject matter for this course.
 * [Hearst patterns](./hearstpatterns.md) (TODO)
 * [Log-likelihood](./loglikelihood.md) (TODO)
 * [APIs and scraping](apis.md) (TODO)
-* [Machine learning: some intuitions](./machinelearning.md) (TODO)
+* [Metrics and evaluation](./metrics.md) (TODO)
 
 ### Presenting your results
 
