@@ -1,4 +1,5 @@
 # Python for text analysis
+*As taught at the Vrije Universiteit Amsterdam in the Research MA Linguistics, track [Linguistic Engineering](http://www.cltl.nl/teaching/research-master-linguistic-engineering/).*
 
 This is a practical course in Python, geared towards those who want to get some hands-on experience working with language data.
 Our number one goal is for you to become an independent programmer, who is able to properly manage their code.
