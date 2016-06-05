@@ -1,0 +1,16 @@
+{% extends "layout.html" %}
+<!-- Define title -->
+{% block title %}<h1>Concreteness</h1>
+
+Compute the concreteness here!
+{% endblock %}
+
+<!-- Define contents -->
+{% block content %}
+<form action="/concreteness-results/" method="POST">
+<textarea rows="4" cols="50" name="textfield">
+Put some text here, and press submit to see the concreteness score!
+</textarea>
+<input type="submit" value="Submit">
+</form>
+{% endblock %}

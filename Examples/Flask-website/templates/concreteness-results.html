@@ -1,0 +1,12 @@
+{% extends "layout.html" %}
+<!-- Define title -->
+{% block title %}<h1>Results</h1>{% endblock %}
+
+<!-- Define contents -->
+{% block content %}
+<b>Score:</b> {{concreteness_data.concreteness}} out of 5 (higher is more concrete)<br />
+<b>Words considered:</b>
+<ul>
+{% for word in concreteness_data.words %}<li>{{word}}</li>{% endfor %}
+<ul>
+{% endblock %}
