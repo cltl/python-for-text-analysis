@@ -1,3 +1,12 @@
+"""
+Flask example website.
+
+Run 'python my_first_website.py' and go to http://127.0.0.1:5000/ in your browser
+to see a basic text message. Then go to http://127.0.0.1:5000/hello/yourname to see
+a custom generated page, generated using a template.
+"""
+
+
 from flask import Flask, render_template
 
 app = Flask(__name__)

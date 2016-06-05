@@ -9,6 +9,16 @@ Some other resources:
 * The Flask [tutorial](http://flask.pocoo.org/docs/0.11/tutorial/)
 * Miguel Grinberg's [Mega tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 
+## Html, layout, design
+
+Here are some links to help you layout and design your webpage.
+
+* [Html tutorial](http://htmldog.com/guides/html/beginner/)
+* [Html forms tutorial](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms)
+* [Jinja tutorial](http://jinja.pocoo.org/docs/dev/templates/)
+* [CSS layout tutorial](http://learnlayout.com/)
+* [Website with color schemes](http://www.colorcombos.com/)
+
 ## A personal history (Emiel)
 
 I started using Flask a couple of years ago with [this tutorial](https://github.com/bev-a-tron/MyFlaskTutorial).
