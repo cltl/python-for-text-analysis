@@ -4,6 +4,22 @@ This chapter is the last one covering Python-internals. After this, you know mos
 of what there is to know about the language. The topics in this chapter may be
 considered *advanced*, but understanding them is very rewarding.
 
+## Python names and values
+
+It's important to understand the way that Python assigns values to variables.
+Consider the following piece of code:
+
+```python
+x = [1]
+y = x
+y.pop()
+```
+
+What is the value of `x`? The answer may surprise you. Click [here](http://pythontutor.com/visualize.html#code=x+%3D+%5B1%5D%0Ay+%3D+x%0Ay.pop(%29%0A&mode=display&origin=opt-frontend.js&cumulative=false&heapPrimitives=false&textReferences=false&py=3&rawInputLstJSON=%5B%5D&curInstr=0) to see what happens when you run this code.
+
+Ned Batchelder has a [great video about names and values](http://nedbatchelder.com/text/names1.html).
+We'll discuss this video in class.
+
 ## Comprehensions
 
 It's possible in Python to define lists using a for-loop. It works like this:
