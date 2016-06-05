@@ -1,0 +1,18 @@
+body {
+font-family: sans-serif
+}
+
+.clearfix:after {
+content: ".";
+display: block;
+height: 0;
+clear: both;
+visibility: hidden;
+}
+nav {
+float: left;
+width: 200px;
+}
+section {
+margin-left: 200px;
+}

@@ -1,0 +1,35 @@
+<html>
+<!-- Layout structure from: http://learnlayout.com/float-layout.html -->
+<!-- This structure is inherited by all other pages. -->
+<head>
+    <title>My first website!</title>
+    <link rel="stylesheet" type="text/css" href="/static/style.css"/>
+</head>
+
+<body>
+<div class="clearfix elem">
+
+  <nav class="elem elem-red">
+    <ul>
+      <li>
+        <a href="/">Home</a>
+      </li>
+      <li>
+        <a href="/type-token-ratio/">Type-token ratio</a>
+      </li>
+    </ul>
+  </nav>
+
+  <section class="elem elem-green">
+      <!--Define title block for the template.-->
+      {% block title %}<h1>Page title</h1>{% endblock %}
+  </section>
+
+  <section class="elem elem-green ipsum">
+      <!--Define content block for the template.-->
+    {% block content %}Bla bla bla{% endblock %}
+  </section>
+
+</div>
+</body>
+</html>

@@ -1,40 +1,71 @@
 """
-Flask example website.
+Example website in Flask, with web forms.
 
-Run 'python my_first_website.py' and go to http://127.0.0.1:5000/ in your browser
-to see a basic text message. Then go to http://127.0.0.1:5000/hello/yourname to see
-a custom generated page, generated using a template.
+This is a fully working example showing how to use web forms on a Flask-based website.
+I've found this basic structure very useful in setting up annotation tools or demos.
 """
 
+# Flask-related imports:
+from flask import Flask, request, render_template
 
-from flask import Flask, render_template
+# Other imports go here:
+from collections import Counter
+from nltk.tokenize import sent_tokenize, word_tokenize
 
+
+################################################################################
+# Set up general functions
+
+def type_token_ratio(text):
+    "Computes the type-token ratio and returns a dictionary with the results."
+    c = Counter()
+    for sentence in sent_tokenize(text):
+        c.update([word for word in word_tokenize(sentence) if len(word) > 1])
+    num_tokens = sum(c.values())
+    num_types = len(c)
+    return {'Types': num_types,
+            'Tokens': num_tokens,
+            'Ratio': float(num_types)/num_tokens}
+
+################################################################################
+# Load data
+
+
+
+################################################################################
+# Set up app:
 app = Flask(__name__)
 
-# This is what Python will do if you go to http://127.0.0.1:5000/ in your browser.
-@app.route('/')
-def hello_world():
-    """
-    This function just returns a page with the words 'Index page.' Pretty boring!
-    """
-    return "Index page."
+################################################################################
+# Webpage-related functions
 
-# This is what Python will do if you go to http://127.0.0.1:5000/hello in your browser.
-@app.route('/hello/')
-# But also what Python will do if you go to http://127.0.0.1:5000/hello/Emiel in your browser.
-# In that case, the string value 'Emiel' will be assigned to the variable `name`.
-@app.route('/hello/<name>')
-def hello(name=None):
+@app.route('/', methods=['GET'])
+def main_page():
     """
-    This function renders the template 'hello.html', which presents a personalized
-    greeting if the name is not None.
+    Function to display the main page. This is the first thing you see when you
+    load the website.
     """
-    return render_template('hello.html', name=name)
+    return render_template('index.html')
 
-# This enables you to type "python my_first_website.py" in the command line, and
-# have a running website at http://127.0.0.1:5000/. Note that the debug mode is
-# set to true. Never use debug mode for a website that is exposed to the outside
-# world! (I.e. the internet.)
+
+@app.route('/type-token-ratio/', methods=['GET'])
+def type_token_ratio_form():
+    """
+    Display webpage with a form.
+    """
+    return render_template('ttr.html')
+
+
+@app.route('/type-token-results/', methods=['POST'])
+def type_token_results():
+    """
+    Show the page with submitted information.
+    """
+    return render_template('results.html')
+
+################################################################################
+# Running the website
+
 if __name__ == '__main__':
     app.debug = True
     app.run()
