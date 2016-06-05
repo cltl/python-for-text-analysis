@@ -1,0 +1,16 @@
+{% extends "layout.html" %}
+<!-- Define title -->
+{% block title %}<h1>Results</h1>{% endblock %}
+
+<!-- Define contents -->
+{% block content %}
+<table>
+<tr><td>Types:</td><td>{{ ttr_data.Types }}</td> </tr>
+<tr><td>Tokens:</td><td>{{ ttr_data.Tokens }}</td></tr>
+<tr><td>Ratio:</td><td>{{ ttr_data.Ratio }}</td></tr>
+</table>
+
+{% if ttr_data.Types is equalto ttr_data.Tokens %}
+    You have as many types as you have tokens. Try pasting a longer text!
+{% endif %}
+{% endblock %}

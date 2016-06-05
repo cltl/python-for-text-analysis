@@ -6,4 +6,11 @@ Compute the TTR here!
 {% endblock %}
 
 <!-- Define contents -->
-{% block content %}Use the navigation menu on the left to do awesome stuff!{% endblock %}
+{% block content %}
+<form action="/type-token-results/" method="POST">
+<textarea rows="4" cols="50" name="textfield">
+Put some text here, and press submit to see the type-token ratio!
+</textarea>
+<input type="submit" value="Submit">
+</form>
+{% endblock %}

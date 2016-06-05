@@ -19,7 +19,7 @@ from nltk.tokenize import sent_tokenize, word_tokenize
 def type_token_ratio(text):
     "Computes the type-token ratio and returns a dictionary with the results."
     c = Counter()
-    for sentence in sent_tokenize(text):
+    for sentence in sent_tokenize(text.lower()):
         c.update([word for word in word_tokenize(sentence) if len(word) > 1])
     num_tokens = sum(c.values())
     num_types = len(c)
@@ -61,7 +61,9 @@ def type_token_results():
     """
     Show the page with submitted information.
     """
-    return render_template('results.html')
+    text = request.form['textfield']
+    ttr_dict = type_token_ratio(text)
+    return render_template('results.html', ttr_data= ttr_dict)
 
 ################################################################################
 # Running the website
