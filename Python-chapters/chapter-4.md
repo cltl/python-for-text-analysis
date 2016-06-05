@@ -15,7 +15,8 @@ y = x
 y.pop()
 ```
 
-What is the value of `x`? The answer may surprise you. Click [here](http://pythontutor.com/visualize.html#code=x+%3D+%5B1%5D%0Ay+%3D+x%0Ay.pop(%29%0A&mode=display&origin=opt-frontend.js&cumulative=false&heapPrimitives=false&textReferences=false&py=3&rawInputLstJSON=%5B%5D&curInstr=0) to see what happens when you run this code.
+What is the value of `x`? The answer may surprise you.
+Click [here](http://www.pythontutor.com/visualize.html#mode=edit) and copy-paste the code to see what happens when you run this code.
 
 Ned Batchelder has a [great video about names and values](http://nedbatchelder.com/text/names1.html).
 We'll discuss this video in class.
