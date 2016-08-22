@@ -26,6 +26,13 @@ We strongly believe in the principles outlined by Mike Bostock in his article
 
 * **Good software is for humans**. It is cognizant of people and the reality in which they live. It does not expect elaborate and arbitrary rules to be memorized. It anticipates the need for learning and debugging.
 
+## The 15 minute rule
+
+When you are just learning how to program, it sometimes happens that you get stuck and you don't know what to do next. This is normal.
+There are many fantastic resources online that we encourage you to use to solve your problem on your own. But we don't want this to be a frustrating experience for you. So if you're stuck for more than 15 minutes: please contact us! No matter how small the problem. If you're stuck, you're stuck.
+
+In our experience it does help to solve the exercises together with a classmate. (See [pair programming](https://en.wikipedia.org/wiki/Pair_programming) and [rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging).) If either one of you gets stuck, try to explain the thought process behind your program, and go through the lines step by step. Making your thought process explicit is a great way to find bugs in your code!
+
 ## Courseware structure
 
 Our materials are structured as follows:
