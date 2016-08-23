@@ -1,5 +1,5 @@
 # Publication Requirements
-By **Antske Fokkens**, originally appeared on [the CLTL website](www.cltl.nl).
+By **Antske Fokkens**, originally appeared on [the CLTL website](http://www.cltl.nl).
 
 
 At CLTL, we strive for sharing resources and software and making sure our research results are replicable. We therefore have the following guidelines. Principles 1. and 2. are required for any publication by a member of the CLTL group.
