@@ -20,6 +20,7 @@ If you have any questions, of course you can always contact me.
 * [Textblob](http://textblob.readthedocs.io/en/dev/): Another general NLP library that builds on the NLTK and Pattern.
 * [SpaCy](https://spacy.io/): Tokenizer, POS-tagger, parser and entity classifier for English and German. (More languages in progress.)
 * [Gensim](http://radimrehurek.com/gensim/): For building vector spaces and topic models.
+* [Corpkit](http://corpkit.readthedocs.io/en/latest/) is a module for corpus building and corpus management. Includes an interface to the Stanford CoreNLP parser.
 
 ## Data analysis and machine learning
 
@@ -44,6 +45,7 @@ Also see the visualization notebook.
 
 ## Other
 
+* [python-ftfy](https://github.com/LuminosoInsight/python-ftfy): fixes unicode errors, and makes text readable again.
 * Networkx: one of the best libraries to work with data represented as a graph.
   Exports to Gephi format, so that you can make beautiful visualizations.
 * Flask: lightweight module to create websites. Very useful if you want to make a

@@ -1,6 +1,6 @@
 # Chapter 1 -- The basics
 
-Welcome to our Python course! This first chapter covers a lot of material. 
+Welcome to our Python course! This first chapter covers a lot of material.
 You do not need to know everything by heart just yet.
 This page is intended as a global reference that you will need less and less as we
 progress through the course.
@@ -29,27 +29,25 @@ verified or don't understand.)
 * [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## Python: an object-oriented language
-Python is an **object-oriented** programming language. This means that the computer
-'reasons' about the world in terms of **objects**: chunks of information.
-Different kinds of information are represented in different ways.
-To this end, Python has different built-in **classes**:
+
+Object-oriented programming means that you think about programming in terms of
+manipulating different kinds (or *classes*) of objects. These are the classes that
+Python has built-in:
 
 * **String** for text.
 * **Integers** and **floats** for whole and decimal numbers.
 * **Booleans** for truth values.
 * **Lists** for ordered sequences of objects.
 * **None** for the special value of 'nothing'.
-
-We will later discuss three other classes:
-
-* **Set** and **frozenset** for sets.
+* **Set** and **frozenset** for unordered collections of objects.
 * **Dictionary** for mappings between objects.
 * **Tuple** for immutable ordered sequences.
 
-Classes in Python are made so that you can perform particular operations on them.
-For example: you can compute the sum of two numbers (e.g. `1 + 2`).
-This operation is not defined for text; it would make no sense to ask what is the
-sum of `'eggs'` and `'spam'`.
+This distinction is useful, because the creators of Python have built in many handy
+class-specific *methods* (ways to manipulate a particular object). So when you enter
+a string like `"Dog"` or `"This is a sentence."`, the Python interpreter immediately
+knows what you can do with it. For example: you can compute the sum of two numbers,
+or count the number of letters in a word.
 
 ## An example
 
@@ -168,7 +166,64 @@ Result:
 (If you are doing this on the command line, you might have entered a different
 'mode' to read the help text. Press 'q' and <enter> to go back to the interpreter.)
 
-## Class properties & general operations
+## Sets, lists, and tuples
+Sets and tuples are often confusing to people just starting out with Python; if
+there are already lists, why bother with these other container types? But after
+working with Python for a while, you'll start to see that each of them has its own
+strengths and weaknesses, and they're all useful in different contexts.
+
+* Lists are useful because they are ordered and indexable. You can also easily add
+  stuff to the head or the tail of a list. Importantly, the same object can occur
+  multiple times in the same list.
+
+* Sets are useful because they are fast. If you want to check whether an object is
+  in a container, use sets. (For lists, the interpreter needs to check every element,
+  while element lookup for a set is instantaneous, because all its elements are hashed
+  --see the note on mutability below.) Items cannot occur more than once in a list, and
+  duplicates are removed. This is perfect for storing vocabularies!
+
+* Tuples are useful because they are immutable and hashable. Read the note below
+  for what that means exactly, but in practice you'll find that tuples are very
+  useful as objects to return from a function, and as keys to dictionaries.
+
+Note that you can switch between types at all times using the type-related built-in
+functions (see further below).
+
+### Side-note: Mutability
+We will sometimes mention that some object is (im)mutable.
+[The Python glossary](https://docs.python.org/3.5/glossary.html) provides useful definitions:
+
+* **Immutable**: An object with a fixed value. Immutable objects include numbers, strings and tuples. Such an object cannot be altered. A new object has to be created if a different value has to be stored. They play an important role in places where a constant hash value is needed, for example as a key in a dictionary.
+* **Mutable**: Mutable objects can change their value but keep their id(). See also immutable.
+
+Examples of mutable objects are lists, sets, and dictionaries. Why this is relevant is a topic for a
+later week. If you area really interested, Ned Batchelder has an [excellent talk about Python names and values that discusses these concepts](http://nedbatchelder.com/text/names1.html)
+
+Objects that are instances of a built-in immutable type are *hashable* and can be
+used as keys in a dictionary. For a really good explanation of this, see the youtube
+video [the mighty dictionary](https://www.youtube.com/watch?v=C4Kc8xzcA68).
+
+
+## Dictionaries
+Dictionaries are known in other languages under various names, such as 'hash tables', or 'maps'.
+You can use them to associate keys and values. The easiest example is a shopping
+list:
+
+```python
+>>> shopping_list = {'bacon': 2, 'eggs': 6, 'spam':50}
+>>> print(shopping_list.keys())
+dict_keys(['spam', 'bacon', 'eggs'])
+
+# How any eggs should I buy?
+>>> print(shopping_list['eggs'])
+6
+```
+
+Dictionaries have one limitation: you can only use hashable objects as keys. 
+If you haven't already, see the youtube video [the mighty dictionary](https://www.youtube.com/watch?v=C4Kc8xzcA68)
+to find out how dictionaries work exactly.
+
+## General operations
 In addition to the class methods, Python also provides a set of general functions
 and operators. [Here is a list of built-in functions](https://docs.python.org/3.5/library/functions.html). We'll cover these in the notebooks.
 
@@ -254,23 +309,10 @@ gets updated so that it refers to the next string in the list. Then it prints th
 relevant string and continues with the next one, until all strings have been printed.
 
 Other things that are iterable include dicts, sets, and **file objects**. (If you iterate
-over a dictionary you get keys, and if you iterate over a file you get lines.)
+over a dictionary you get keys, and if you iterate over a file you get lines.) But because
+sets and dictionaries are not ordered, you cannot index them (`s[i]`).
 
 Ned Batchelder has a [great video about iteration](http://nedbatchelder.com/text/iter.html).
-
-### Side-note: Mutability
-We will sometimes mention that some object is (im)mutable.
-[The Python glossary](https://docs.python.org/3.5/glossary.html) provides useful definitions:
-
-* **Immutable**: An object with a fixed value. Immutable objects include numbers, strings and tuples. Such an object cannot be altered. A new object has to be created if a different value has to be stored. They play an important role in places where a constant hash value is needed, for example as a key in a dictionary.
-* **Mutable**: Mutable objects can change their value but keep their id(). See also immutable.
-
-Examples of mutable objects are lists, sets, and dictionaries. Why this is relevant is a topic for a
-later week. If you area really interested, Ned Batchelder has an [excellent talk about Python names and values that discusses these concepts](http://nedbatchelder.com/text/names1.html)
-
-Objects that are instances of a built-in immutable type are *hashable* and can be
-used as keys in a dictionary. For a really good explanation of this, see the youtube
-video [the mighty dictionary](https://www.youtube.com/watch?v=C4Kc8xzcA68).
 
 ### Built-in functions
 
