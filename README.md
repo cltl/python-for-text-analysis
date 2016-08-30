@@ -53,6 +53,39 @@ This file serves as the syllabus and a general reference for this course.
 ## Assignments and Grading
 
 There will be weekly assignments, a midterm exam, and a final assignment.
+These are weighted as follows.
+
+| Part    | weight %|| Part    | weight %|
+|---------|---------||---------|---------|
+|Assignment 1|	 4  || Total Assignments |	35 |
+|Assignment 2|	 4  || Exam	            |	20 |
+|Assignment 3|	 9  || Final assignment  |	45 |
+|Assignment 4|	 9  || **Total**         |	100 |
+|Assignment 5|	 9  |
+|**Total Assignments** |	35 |
+
+### Planning
+The schedule for the entire course follows the same structure, illustrated below.
+Our philosophy is that programming should be taught in a hands-on manner, so we tried
+to reduce 'powerpoint time' to a minimum. Most theory is mainly taught through the
+notebooks, but we'll also address the major topics in class.
+
+After the introductory session, assignments will be given on Thursday. You can
+work on these assignments in class and at home. We'll have a Q&A session on Monday,
+along with additional theory. We'll also work on the assignments in class. Assignments
+are handed in on Tuesday, so we can check everything in time for Thursday where you
+will receive feedback and get the new assignment.
+
+| Week | Day    | Activities                         |
+|------|--------|------------------------------------|
+| 1    | Monday |Practical matters + getting started |
+| 1    | Thursday | Theory + give assignment 1       |
+| 2    | Monday | Theory + Work on assignment        |
+| 2    | Tuesday | Hand in assignment 1              |
+| 2    | Thursday | Feedback + Give assignment 2     |
+| 3    | Monday | Theory + Work on assignment        |
+| 3    | Tuesday | Hand in assignment 2              |
+| ...  | ...     | ...                               |
 
 ### Weekly assignments
 Every week you are asked to hand in an assignment. We use these assignments to keep
@@ -79,7 +112,7 @@ You can expect a project in which you are asked to:
 3. present that information to the user;
 4. store the information in a useful format
 
-We will consider the following questions to evaluate your final assignment:
+We will consider the following questions (along with the core principles) to evaluate your final assignment:
 
 * Does the code work?
 * Does the code fulfill the requirements?

@@ -13,6 +13,7 @@ Some helpful links:
 
 **Python:**
 
+* [A whirlwind tour of Python](http://www.oreilly.com/programming/free/files/a-whirlwind-tour-of-python.pdf)
 * [General documentation](https://docs.python.org/3.5/index.html)
 * [Stack Overflow](http://stackoverflow.com/)
 * [Learning resources on /r/learnpython](https://www.reddit.com/r/learnpython/wiki/index)
@@ -219,7 +220,7 @@ dict_keys(['spam', 'bacon', 'eggs'])
 6
 ```
 
-Dictionaries have one limitation: you can only use hashable objects as keys. 
+Dictionaries have one limitation: you can only use hashable objects as keys.
 If you haven't already, see the youtube video [the mighty dictionary](https://www.youtube.com/watch?v=C4Kc8xzcA68)
 to find out how dictionaries work exactly.
 
