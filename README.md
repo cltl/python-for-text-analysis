@@ -55,14 +55,14 @@ This file serves as the syllabus and a general reference for this course.
 There will be weekly assignments, a midterm exam, and a final assignment.
 These are weighted as follows.
 
-| Part    | weight %|| Part    | weight %|
-|---------|---------||---------|---------|
-|Assignment 1|	 4  || Total Assignments |	35 |
-|Assignment 2|	 4  || Exam	            |	20 |
-|Assignment 3|	 9  || Final assignment  |	45 |
-|Assignment 4|	 9  || **Total**         |	100 |
-|Assignment 5|	 9  |
-|**Total Assignments** |	35 |
+| Part    | weight % | | Part    | weight % |
+|---------|---------|---|---------|---------|
+|Assignment 1|	 4  | | Total Assignments |	35 |
+|Assignment 2|	 4  | | Exam	            |	20 |
+|Assignment 3|	 9  | | Final assignment  |	45 |
+|Assignment 4|	 9  | | **Total**         |	100 |
+|Assignment 5|	 9  | | | |
+|**Total Assignments** |	35 | | | |
 
 ### Planning
 The schedule for the entire course follows the same structure, illustrated below.
