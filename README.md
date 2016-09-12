@@ -2,13 +2,22 @@
 *As taught at the Vrije Universiteit Amsterdam in the Research MA Linguistics, track [Linguistic Engineering](http://www.cltl.nl/teaching/research-master-linguistic-engineering/).*
 
 This is a practical course in Python, geared towards those who want to get some hands-on experience working with language data.
-Our number one goal is for you to become an independent programmer, who is able to properly manage their code.
 No knowledge of programming is required or presupposed.
-We will work with Python 3. If you haven't worked with Python before, we recommend
-that you install [Anaconda](https://www.continuum.io/downloads).
+We will work with Python 3. If you haven't worked with Python before, we recommend that you install [Anaconda](https://www.continuum.io/downloads).
 
 (If you have worked with Python 3 before, be sure to check if Jupyter Notebook
 is installed on your machine. We will work extensively with notebooks.)
+
+## Goals
+
+After this course you will know the basics of the Python programming language, and you will be familiar with several external libraries that are commonly used to analyze text. Our goal is for you to become an independent programmer, who is able to find solutions to new problems. You will..
+
+*	Learn how to deal with structured and unstructured (text) data (reading, representing, and analyzing).
+*	Learn how to get the data you want (through APIs or using a script).
+*	Learn how to deal with large amounts of (text) data.
+*	Learn how to share your code and results.
+
+This course is very pragmatic and hands-on. We focus on *understandability* and *re-usability* of the code above all (so that Future You will also be able to use the code that you've written).
 
 ## Core principles
 
@@ -37,9 +46,9 @@ In our experience it does help to solve the exercises together with a classmate.
 
 Our materials are structured as follows:
 
-* Chapters on Python can be found in the `Python-chapters` folder. Each chapter
-  consists of a README summarizing the theory for that chapter, and a notebook to
-  practice your Python skills.
+* Notebooks can be found in the `Notebooks` folder. This is our primary teaching material. You will work through an interactive notebook every week.
+
+* Chapters on Python can be found in the `Python-chapters` folder. You can use these chapters for future reference.
 
 * Other topics, related to natural language processing and 'everyday work' are covered
   in the `NLP-topics` folder. So if you're just here to learn Python, you can skip these
