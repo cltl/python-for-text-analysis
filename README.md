@@ -12,12 +12,13 @@ is installed on your machine. We will work extensively with notebooks.)
 
 After this course you will know the basics of the Python programming language, and you will be familiar with several external libraries that are commonly used to analyze text. Our goal is for you to become an independent programmer, who is able to find solutions to new problems. You will..
 
-*	Learn how to deal with structured and unstructured (text) data (reading, representing, and analyzing).
+*	Learn how to analyze text data using Python.
+*	Learn how to deal with different file types (plain text, doc, CSV, JSON, HTML, XML).
 *	Learn how to get the data you want (through APIs or using a script).
 *	Learn how to deal with large amounts of (text) data.
-*	Learn how to share your code and results.
+*	Learn how to visualize and share your code and results.
 
-This course is very pragmatic and hands-on. We focus on *understandability* and *re-usability* of the code above all (so that Future You will also be able to use the code that you've written).
+We will focus on readability and understandability, so that you will be able to share your code and results with others, and re-use your code in the future. This is a practical course, in which you will get a lot of hands-on experience. Due to the nature of this course, active participation is required.
 
 ## Core principles
 
