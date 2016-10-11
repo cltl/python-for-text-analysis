@@ -14,10 +14,10 @@ This folder contains all the NLP-related subject matter for this course.
 ### NLP techniques
 
 * [Language resources](./resources.md)
-* [Hearst patterns](./hearstpatterns.md) (TODO)
+* [Hearst patterns](./hearstpatterns.md)
 * [Log-likelihood](./loglikelihood.md) (TODO)
-* [APIs and scraping](apis.md) (TODO)
-* [Metrics and evaluation](./metrics.md) (TODO)
+* [APIs and scraping](apis.md)
+* [Metrics and evaluation](./metrics.md)
 
 ### Presenting your results
 
