@@ -24,7 +24,9 @@ some very strong NLP programs out there that don't rely on Python. You can typic
 call these programs from the command line. Examples are:
 
 * [Treetagger](http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/) is a POS-tagger
-  and lemmatizer in one. It provides support for many different languages.
+  and lemmatizer in one. It provides support for many different languages. If you want to
+  call Treetagger from Python, use [treetaggerwrapper](http://treetaggerwrapper.readthedocs.io/).
+  [Treetagger-python](https://github.com/miotto/treetagger-python) also works, but is much slower.
 
 * [Stanford's CoreNLP](http://stanfordnlp.github.io/CoreNLP/) is a very powerful system
   that is able to process English, German, Spanish, French, Chinese and Arabic. (Each to
