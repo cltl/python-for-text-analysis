@@ -12,3 +12,4 @@ scripts that I used to get the data.
 * `MSCOCO` contains image annotations, provided by Microsoft Research. These were
     downloadeded from [here](http://mscoco.org/dataset/#download).
 * The `concreteness` folder contains concreteness ratings downloaded from [here](http://crr.ugent.be/archives/1330).
+* The `baby_names` folder contains baby names from Social Security applications in the USA (downloaded from [here](http://catalog.data.gov/dataset/baby-names-from-social-security-card-applications-national-level-data)). 
