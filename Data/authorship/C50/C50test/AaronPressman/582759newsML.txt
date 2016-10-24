@@ -1,0 +1,14 @@
+Legislation to dramatically relax U.S. export restrictions on computer encoding technology moved ahead on Wednesday as the House Judiciary Committee approved the measure.
+The bill, known as the Security and Freedom through Encryption Act, now goes to the House International Relations Committee where opponents plan to make their stand.
+Encryption, computer programmes that scramble information and render it unreadable without a password or software "key," has become an essential component of global communications and electronic commerce over the Internet.
+The Clinton administration has opposed the bill and similiar measures in the Senate, arguing that allowing strong encryption out of the country will put it in the hands of international criminals and terrorists.
+Representative Bob Goodlatte, the bill's author, said he had spoken to administration officials on Tuesday and hoped a compromise could be reached.
+"We're very, very close in many areas," the Virginia Republican told reporters after the committee vote. "The export control issue is probably the area that we're still the furthest apart on."
+Goodlatte's bill would also write into law the current policy of allowing unrestricted domestic use of encryption.
+The bill would criminalize the use of encryption to conceal information related to the commission of a felony. That provision came on an amendment from Massachusetts Democrat Representative William Delahunt which replaced a broader criminalization provision included in the original bill.
+The committee also approved an amendment requiring law enforcement officials to compile statistics for Congress on the use of encryption by criminals.
+Software industry officials and privacy advocates, who have strongly opposed the export limits, urged lawmakers to continue moving the legislation forward.
+The International Relations Committee "will have a go at it but it's great to have some momentum," Netscape Communications Corp. public policy counsel Peter Harter said after the vote. "We've come a long way in a very short period of time. This legislation is moving at Internet time."
+Jonah Seiger, communications director at the Centre for Democracy and Technology, said the vote was a "historic moment."
+"The Judiciary Committee agreed that the administration has the wrong policy sending a very clear signal that we need to change direction," Seiger said.
+Before the vote, committee Chairman Henry Hyde of Illinois prohibited amendments to the bill on the controversial export section. Hyde said the export section fell under the jurisdiction of the International Relations Committee.

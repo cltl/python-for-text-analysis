@@ -1,0 +1,20 @@
+Database software company Informix Corp. said Friday it filed a lawsuit against Oracle Corp., accusing its bigger rival of stealing trade secrets by hiring away its employees.
+Oracle hired 11 Informix employees from Informix's Portland, Ore., research and development centre. All 11 workers quit on Wednesday morning, said Informix Chief Executive Phil White.
+Informix stock fell $1.50, or 6.6 percent, to $21.375 in active trading on Nasdaq. Oracle stock fell 87.5 cents to $39.625, also on Nasdaq.
+"This is a blatant effort by Oracle," said White. "They're behind significantly technically. We're not going to let someone who's significantly behind technically just buy his way in."
+Oracle officials called the lawsuit "ridiculous" and said the 11 programmers approached Oracle on their own. They also had approached Microsoft Corp. about jobs, said Jerry Held, Oracle senior vice president of server technologies.
+"This is a group of senior developers that was very frustrated by the lack of vision of Informix top managers," Held said. "We did no active recruiting. I was called absolutely out of the blue" when the former Informix staff joined Oracle.
+The lawsuit, filed on Thursday in Oregon Circuit Court in Portland, seeks unspecified damages. Informix on Thursday also obtained a temporary injunction barring the former employees from giving trade secrets to Oracle, Informix said.
+Informix also charged Gary Kelley, a former Informix product development vice president who left for Oracle, with breach of contract. Kelley did not return phone calls to Oracle's Portland facility.
+Informix, based in Menlo Park, Calif., and Oracle, based 20 miles north in Redwood Shores, Calif., both write sophisticated programmes that store and retrieve huge amounts of information in corporate computer networks.
+The companies for years have been fighting a marketing war touting their advances in database technology with each new release of their respective flagship products.
+White said he believed Oracle was interested in gaining Informix's expertise in writing software for so-called massively parallel computers -- top-of-the-line machines that can process huge amounts of transactions simultaneously.
+The 11 Informix employees who left for Oracle were working on this type of product, White said.
+Held said Oracle does not have an interest in Informix's technology because Oracle is ahead in that area.
+"Oracle has had parallel technology for years," Held said. "Informix is playing catch-up. Phil has a knack for being behind and saying he's ahead."
+Technology debates aside, the spat is the most serious between the companies in years. White, normally a publicity-shy executive, said he was livid about Oracle's tactics and intended to make the lawsuit a political cause in Silicon Valley for preventing employee raids.
+White said he personally went to the home of Oracle Chief Executive Larry Ellison on Thursday night to discuss the issue, but Ellison was in Hong Kong. Both men live in the same small town in Silicon Valley.
+"I'm doing this not only for Informix and for our shareholders but also for the industry," White said. "We can't let companies come in and throw big financial incentives and walk away with intellectual property we spent hundreds of millions of dollars developing."
+In recent years, several software rivals in Silicon Valley have accused each other of trade secret theft by employee snatching.
+In 1992, Borland International Inc. accused a former employee of sending confidential electronic mail to new employer Symantec Corp.. Last year, Cadence Design Systems Inc.. filed a similar charges against direct competitor Avant Corp..
+The court has set a hearing in the Informix case for Feb. 7.

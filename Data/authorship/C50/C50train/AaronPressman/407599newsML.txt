@@ -1,0 +1,16 @@
+Legislators introduced two bills Thursday to overturn the Clinton administration's export limits on computer encryption technology, a key component of online commerce and global communications.
+Encryption products, which scramble information and render it unreadable without a password or software "key," were once the realm of spies and generals.
+But with the booming growth of the Internet, secret coding is now used for everything from keeping a business's e-mail confidential to protecting a consumer's credit card number if it is transmitted online.
+Senators said export restrictions on encryption products were hindering the development of the Internet and making it impossible for U.S. companies to compete with foreign firms.
+The bills "roll back current restrictions on the export of strong cryptography so that high-tech U.S. firms are free to compete in the global marketplace and meet the demand of customers," Sen. Pat Leahy, a Vermont Democrat and co-sponsor of both bills, said at a Capitol Hill news conference.
+"Online commerce will never reach its full potential under the policies of this and past administrations," said Sen. Conrad Burns, a Montana Republican , also a co-sponsor.
+The bills would generally allow a U.S. company to export a product with strong encryption features if similiar products were being offered for sale by a foreign supplier. Leahy and Burns introduced similiar measures in the last Congress.
+Under the current Clinton administration policy, a company may export strong encryption only if the product also includes a feature to allow the U.S. government to crack the code by recovering the software "key" when acting under a court order or similiar authority. The administration says it must be able to crack the codes to catch international criminals and terrorists.
+If the bills became law, mandatory key recovery would be banned but the government would still be permitted to restrict the export of encryption for military use or to countries posing terrorist threats.
+The legislation would also write into law the current policy permitting unrestricted domestic use of encryption -- but one bill would criminalize the use of codes to obstruct justice.
+The Clinton administration signalled its displeasure with the new bills.
+"We continue to be disappointed with Senator Burns' approach because it does not balance the needs of individual privacy and economic growth with national security and public safety," Undersecretary of Commerce William Reinsch said. "We believe there is a market for key recovery products from businesses who recognise the need for a back door to their own corporate data."
+Computer companies and privacy advocates hailed the bills.
+"Both bills promote the freedom of this nation's fastest-growing industry to provide customers here and abroad with products they demand," said Robert Holleyman, president of the Business Software Alliance. The group includes Microsoft Corp., International Business Machines Corp.'s Lotus Development and Apple Computer Inc., among others.
+"This is the most important privacy legislation before the Congress today," said Jerry Berman, executive director of the Centre for Democracy and Technology.
+Berman, who strongly opposes mandatory key recovery, said the policy ought to be "my lock, my key."

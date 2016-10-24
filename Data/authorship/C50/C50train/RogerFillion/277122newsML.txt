@@ -1,0 +1,17 @@
+Regulators this week gave final approval to a technology standard for a new generation of high-definition digital television, setting off a race between computer makers and TV manufacturers to woo viewers.
+The Federal Communications Commission on Tuesday approved the compromise standard hammered out last month between TV manufacturers, broadcasters and the computer industry.
+Digital TV offers crystal-clear pictures and CD-quality sound. It is also expected to promote a "computer friendly" TV system that allows viewers to watch programmes while surfing the Internet over the same "smart box."
+The new standard "hastens convergence, transporting us into a competitive world of computer-friendly television sets and broadcast-friendly computers," commissioner Susan Ness said. "Our decision also provides a springboard for global leadership in high-definition digital equipment and programming."
+The standard, among other things, covers how voice and video material will be attached to digital signals, how the signals will be "compressed" for transmission, and how they will be "reopened" at the TV receiver.
+But not every detail is spelled out. Under the industry compromise, the standard does not specify the video format by which images will be put onto the screen, or "scanned."
+Broadcasters and TV manufacturers had wanted to require a format known as "interlace" scanning. Computer companies argued that would stifle the convergence of TV and computer technologies. They wanted to mandate "progressive" scanning, which is better suited to computers, or no format at all.
+Progressive scanning, used by most computers, updates every line of the TV picture at each pass. Interlaced scanning, used in exisiting television sets, updates every other line.
+Because no scanning format was specified, the computer industry will be free to manufacture computers that use just progressive scanning. And TV manufacturers are ready to make sets that offer both interlace and progressive technology.
+That sets up a competition between the two industries over how consumers will want to watch TV -- over a TV set or over a computer.
+"Ultimately, the personal computer will be the preferred communications device in the household," said Paul Misener, manager of telecommunications and computer technology policy at Intel Corp., a major computer chip maker.
+Not so fast, argue TV manufacturers.
+"The computer people need to evaluate how the average consumer wants to get delivery to the home," said Lisa Fasold, a spokeswoman for the Consumer Electronics Manufacturers Association, an industry group.
+"TV sets typically last a lot longer than computers. And they're much more simple to operate."
+In any event, industry officials agree that digital TV is likely to hasten the long-promised convergence of TV and computer technologies.
+For example, sports fans will be able to watch a baseball game and split the screen of their machine to receive up-to-the-minute scores of other games over the Internet, according to industry officials.
+TV manufacuters expect to begin bringing digital receivers to market in 1998. The new sets are expected to cost from $1,500 to $3,000. Prices are forecast to drop as broadcasters offer more digitally transmitted programmes, presumably boosting demand for digital TV.

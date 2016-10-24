@@ -1,0 +1,20 @@
+Intel Corp. executives said late Tuesday the company has agreed to invest cash and technical know-how in a new company to deliver multimedia content by satellite to personal computers across Europe.
+Intel said the investment, to be formally announced at the CeBIT technology trade fair in Hannover, Germany, on Wednesday, will be Intel's first investment in personal computer delivery services, although it has sought to foster other technologies that can help drive the use of personal computers worldwide.
+Intel will hold a minority stake in the newly formed European Satellite Multimedia Services S.A. (ESM), said Leslie Vadasz, Intel senior vice president and director of corporate business development.
+"Europe has a lot of satellite use, so it was an obvious place," to begin such a service, Vadasz told Reuters. "There is a need to provide a new kind of service for PC users."
+Industry sources valued the Intel investment at $15 million, with Luxenbourg's Societe Europeenne des Satellite (SES) holding a majority stake in the new company, which will also be based in Luxenbourg.
+Intel executives declined to comment on the cash value of the deal, but said the company would also be contributing technology to the endeavor, and hopes to bring in partners capable of supplying multimedia content to the venture.
+"Part of our contribution will be technology. Part of it will be our relationship with many of our customers, content and media companies," Vadasz said in an interview.
+Other investors are expected to be announced in the near future, he said. Negotiations with prospective investors aere under way, he said, but he declined to elaborate.
+The new company will launch ASTRA-NET, a system for communications using SES's ASTRA satellite system already in place. The first business-to-business communications links will be operational in the second half of this year.
+ESM is expected to eventually bring PC services to European homes much as increasingly popular satellite television services, like BSkyB, have done for TV.
+Intel noted that more than 16 million personal computers bought in Europe last year, according to the research firm Dataquest, and 23 million European households have direct access to ASTRA satellite transmissions.
+ASTRA-NET reception throughout Europe will require 50-60 centimeter satellite dish, less than two feet in diameter, connected to a PC equipped with a high-performance Intel Pentium microprocessor and a PC card which is compatible with Europe's Digital Video Broadcasting (DVB) transmissions.
+Intel said business data can be sent to servers at speeds up to 38 megabits per second, well above the 56 kilobit speeds of leading-edge telephone modems or the 128 kilobits per second rates of Integrated Digital Services Network (ISDN).
+Speeds of six megabits per second to the home will be possible, with technology likely to be available by the year 2000 which could enable two-way satellite traffic.
+At first, traffic will be broadcast-only, however, with the capcity to send data and multimedia programming at speeds hundreds of times faster than over conventional phones.
+"As satellite technology moves along, there's be more and more opportunity to do an on-demand type of service," such as higher-speed Internet browsing. "Initially, this will be a push technology only."
+Vadasz said Intel's work on developing technology for cable modems and on Ethernet local area network (LAN) adapters can be brought to bear in the project. Intel also has been working on a wireless data standard dubbed Intercast.
+Vadasz has argued that PC communications have lagged wellbehind other technologies, stating in a recent editorial letter to the San Jose Mercury News that such services could result in more than $10 billion in annual U.S. sales alone.
+To foster such a market, he wrote, higher bandwidth connections with instant access, multimedia integration, security and affordable pricing were necessary features.
+((sam.perry@reuters.com, Palo Alto Bureau 415 846 5400))

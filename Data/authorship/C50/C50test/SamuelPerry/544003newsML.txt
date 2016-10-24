@@ -1,0 +1,10 @@
+General Magic Inc. Monday demonstrated components of a new service that will let people use phones, pagers and the Internet itself to keep track of schedules, electronic mail, voice mail and telephone call processing.
+The service, code-named Serengeti will allow mobile workers to check and respond to electronic mail and scheduling details from the road using voice commands.
+The system may compete with voicemail providers like Octel Communications Inc. and Siemens' Rolm systems, as well as electronic mail readers which small startups are developing, but it appears to be the first which integrates all these components into one service.
+For example, users can check their schedules by computer or cellular telephone, while also checking voice mail and electronic mail, and using everyday English to communicate with with the service.
+The service will be accessible from most devices, including desktop PCs as well as via telephones and pagers.
+General Magic Chairman Steve Markman said in an interview at the Upside/David Coursey Internet Showcase here that a pilot version of the service will enter testing in May and it could generate revenues later in 1997.
+"Our focus is to make sure we've got the service right," said Markman, who unveiled the company's new business plan earlier this year and repeated that General Magic does not expect to make significant revenues from it until mid-1998.
+Executives declined to discuss pricing or distribution of the product, but said it would be available to individual mobile workers. Kevin Surace, who headed the Serengeti project, said it would cost less than "hundreds of dollars."
+General Magic also announced a joint technology accord with Starfish Software, Inc., which was founded in 1994 by technologists including former Borland Inc. head Philippe Kahn to develop products focused on the Internet, wireless communications and computer telephony.
+Under the Starfish agreement, the two companies will work together to integrate Starfish's technology based on the Java programming language into General Magic's Serengeti service.

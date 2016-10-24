@@ -1,0 +1,24 @@
+The Czech Statistical Bureau (CSU) said on Thursday it would change its methodology for calculating industrial production, to bring it in line with western standards.
+CSU Chairman Edvard Outrata said the change, which updates the old methodology introduced in 1953 under communist planning, would take effect in January 1997.
+The new methodology excludes multiple calculation of semi-finished products, resources, and other materials and commodities, which were included in output data at every stage under the old method measuring the gross value of all goods produced, the CSU said.
+The new index will measure output changes by units, weight or other measurements, of the total of 1,304 products out of 879 product groups consisting of one or more similar products.
+The product groups's output indices will be placed in sectors, using weighting equal to their weight in the respective industrial sector.
+The overall index will be calculated from weighted changes in the sectoral indices.
+Outrata said the old system of measuring "gross production", or "goods production" was suited for the management of a planned economy as it allowed to measure the total summ of production and compare it with state plans.
+Construction output data will be adjusted to the new methodology at the beginning of 1998, Outrata added.
+Preliminary monthly data will be released on the 40th day after the end of the month being examined.
+Outrata also said the data would include seasonally adjusted figures and data adjusted if the number of working days in the period differed from previously measured periods.
+He added the CSU would gradually, throughout next year, start releasing seasonally adjusted and pro-rated figures for most data on the same day as the raw figures.
+ MONTH ('96)	REAL IND. OUTPUT		REAL IND. OUTPUT
+		   UNDER CURRENT METHOD (YR/YR)   UNDER NEW METHOD
+ Sept (pct)	   +6.9				 +7.8
+ August		 +5.9				 +0.9
+ July		  +15.7				+24.5
+ June		   +1.5				 +2.2
+ May		    +6.0				 +1.8
+ April		 +12.8				 +6.9
+ March		  +4.5				 +2.1
+ Feb		   +13.4				+12.2
+ Jan		   +12.0				 +7.8
+Note. Current methodology examines companies with over 100 employees and includes estimates for smaller firms. The new methodology includes data from some 5,200 firms with 25 or more employees. As of January, it will include data form firms with 20 or more workers.
+-- Prague Newsroom, 42-2-2423-0003

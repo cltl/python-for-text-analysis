@@ -1,0 +1,13 @@
+The U.S. Commerce Department showed an unexpected degree of flexibility in approving an application from Sybase Inc to export computer encoding products, company officials said on Wednesday.
+About a dozen companies have already gotten permission this year to export products with encryption, data scrambling technology that renders information unreadable without a password or software "key."
+But Sybase's products appeared to skirt strict U.S. export rules in effect since the beginning of the year.  
+"I was sufficiently surprised when I got word over the phone that we had been approved that I wrote a letter spelling out what I saw as the differences of our approach versus (the regulations)," said Tom Parenty, Sybase's director of data and communication security. Shortly thereafter, Parenty said, he received written confirmation.
+To export powerful encryption under the current rules, a company must include features allowing the government to crack the codes by gaining access to the software keys. Companies may export medium-strength encryption by promising to include so-called key recovery features within two years.  
+The rules indicate that a product must allow key recovery both for encrypted stored data, like a file on a hard drive, as well as for live communications that are encoded.
+But Sybase's products, Internet transaction software and client-server database programs, will allow for key recovery within two years only of stored data. Encrypted communications between a customer and a web site using the Sybase transaction software, for example, would not allow for government decoding, Parenty said.
+The key recovery feature was designed to meet the needs of customers, he said.  
+"Many people want a key recovery mechanism for stored data," Parenty said. "But there is no reason, once I have the answer to my query, to want the keys to decrypt those communications."
+Sybase still supports legislative proposals that Congress is considering that would eliminate most of the export restrictions, Parenty said.
+The Clinton administration has opposed loosening the rules, but pressure for change continued to mount this week, as Sun Microsystems Inc announced it would get around the rules by marketing Russian-made encryption with its export products.
+And on Wednesday, a group of cryptography experts released a study concluding that the large-scale infrastructure needed to support key recovery for law enforcement agencies could compromise the security of lawful encryption users.
+((--202-898-8312))

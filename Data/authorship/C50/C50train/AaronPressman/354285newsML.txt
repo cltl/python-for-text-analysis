@@ -1,0 +1,20 @@
+An influential global research group is preparing guidelines on encryption policy for its member countries but will duck some of the most contentious issues involved, according to a draft of the report obtained by Reuters.
+The Clinton administration, seeking to rally support at home and abroad for its controversial encryption export policy, got some discussion of its approach in the Organization for Economic Cooperation and Development guidelines but not an endorsement.  
+On perhaps the most difficult issue, the draft guidelines do not favor or oppose a requirement in the U.S. policy that data-scrambling encryption programs provide a means for law enforcement officials to obtain keys to crack the codes when necessary.
+After indicating that governments should carefully weigh the costs and benefits of imposing so-called key recovery, the draft states "this principle should not be interpreted as implying that governments should, or should not, initiate legislation that would allow lawful access."  
+On all the controversial areas in the draft, "the member countries of the OECD have strongly held views but they don't always coincide," said John Dryden, head of the group's Information, Computer and Communications Policy division, in a telephone interview from Paris.
+Some countries see widespread use of encryption as a means to protect the privacy of computer users and businesses, thereby encouraging global commerce, Dryden observed.
+But others see encryption as possibly thwarting law enforcement's efforts to catch criminals and global terrorists, he said.  
+The guidelines suggest that encryption users should have "access to cryptography that meets their needs."  Government controls should be "no more than are essential to the discharge of government responsibilities."
+Instead of reconciling the different views, the draft guidelines lay out competing interests and possible approaches.
+"It's not in itself a cryptography policy and it's not a attempt to draft a model national law that we're encouraging people to adopt," Dryden said.  
+The guidelines also suggest encryption standards and usage should be "determined by the market in an open and competitive environment."
+"There's a strong view that the private sector should have the possibility to use information networks to the best of their potential in order to create growth and jobs," Dryden said.
+U.S. officials who have seen the preliminary draft praised its approach.  "They're an important and helpful step forward," Under Secretary of Commerce William Reinsch said.  
+"They're helpful because they put down on paper the proper foundation for getting into this," he added
+Reinsch maintained that most countries will follow the U.S. lead and require so-called key recovery features for law enforcement.  Under the Clinton policy, domestic use of encryption is not regulated but the strongest coding products cannot be exported unless they include key recovery.
+The draft guidelines, approved by a group of government and private sector experts at a meeting at the end of January, still must be approved by the top-level OECD council.  
+The council is composed of ambassadors from the 29 member countries.
+U.S. companies that have opposed the Clinton policy, contending it stifles their ability to compete with unfettered foreign firms, drew little solace from the OECD draft.
+"This is not helpful," Netscape Communications Corp's public policy counsel Peter Harter said.  Netscape and other companies preferred stronger language endorsing free market policies, he said.
+((--202-898-8312))

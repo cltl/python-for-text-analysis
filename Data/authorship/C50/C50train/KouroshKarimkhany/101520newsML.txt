@@ -1,0 +1,15 @@
+The semiconductor industry's key indicator of computer chip demand rose in September to its highest level this year, reflecting a stronger-than-expected increase in new orders.
+The Semiconductor Industry Association said Tuesday the North American book-to-bill ratio, which measures the value of orders against shipments, rose to 0.99 in September from a revised 0.93 in August. The ratio means manufacturers received $99 in new orders last month for every $100 in shipments.
+Industry analysts had expected the ratio to inch closer to breakeven with most estimates averaging around 0.95.
+New orders for chips rose to $3.19 billion, a 9 percent increase from August, and shipments inched upward to $3.22 billion, or 2.1 percent above August's level.
+"From any perspective, these are the most positive numbers we've seen all year," Douglas Andrey, director of information systems and finance for the association, said in a statement. "The modest increase in orders for August and September suggest the 1996 slowdown in growth has bottomed out.
+The ratio, a leading indicator of future demand tallied by the industry trade group, has been improving recently, reflecting an increase in orders by personal computer makers and more stable prices for memory chips.
+"People are buying PCs as if there's no tomorrow," said Dan Klesken, an analyst at Robertson Stephens in San Francisco. "We're having a PC-led recovery in the chip industry."
+Analysts predicted the better-than-expected ratio would likely send shares of key technology stocks higher on Wednesday.
+In after-hours trading, shares of Intel Corp., the world's largest chipmaker, rose $1.375 to $103 and shares of Micron Technology Inc., a key supplier of memory chips, jumped 87.5 cents to $32.375.
+Prices of memory chips, or DRAMs, plummeted over the course of the year to a fraction of what they were in January. Because memory chips make up about 40 percent of the unit volume of semiconductors shipped in a year, their prices have had a big influence on orders and sales measured in dollars.
+But since mid-September, memory prices have risen 30 percent to 50 percent from their lows.
+The September ratio marked the highest level since December of 1995 when the index hit 1.12. A year ago it stood at 1.16.
+Micron said late last week that memory chip inventories were down to desirable levels from formerly excessive levels.
+Worldwide, the ratio rose to 0.97 in August from 0.95 in July. Global figures include Asia, Europe, North America and Japan and are one month behind North American figures. The Japan book-to-bill ratio rose above 1.0.
+Robertson Stephen's Klesken said he was particulary impressed by the rise in Europe, which had a ration of 1.04.

@@ -1,0 +1,9 @@
+A computer scientist barred from exporting a floppy disk containing computer encryption programming asked a federal court Friday to strike down the export limits as a violation of his right to free speech.
+Philip Karn challenged the rules after the State Department in 1994 denied his request to export the programming on disk but allowed him to export the identical material contained in a book.
+U.S. law treats many kinds of encryption, computer coding and decoding programs, under the same category as munitions.  
+The Clinton administration recently issued new rules relaxing the export limits, but most existing encryption programs remain classified as munitions and are subject to strict export limits.
+The limits infringed on Karn's constitutional rights to free speech and due process, his attorney, Kenneth Bass, told a three judge panel of the U.S. Court of Appeals for the District of Columbia on Friday.
+The First Amendment of the Constitution ought to apply equally to computer code written in a book or saved in text form on a floppy disk, Bass argued.  
+"It just cannot be that the Constitution doesn't recognize progress," Bass said.
+Karn did not attempt to export "object" computer code, a working program that could be run on a computer to encrypt and decrypt data. Karn's disk contained "source" code, or directions that could be used to write such software.
+In another case, Federal district court Judge Marilyn Patel held last month that source code should be considered a protected form of speech. But the ruling, in the Northern District of California, is not binding on the D.C. Appeals court.

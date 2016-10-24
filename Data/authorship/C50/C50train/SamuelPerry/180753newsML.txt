@@ -1,0 +1,15 @@
+Moving to capitalise on enormous growth in the use of laser printers, Hewlett-Packard Co on Monday will launch a new genre of printers it calls the "mopier" to steal work from the copy machine.
+The new device, dubbed the HP LaserJet 5Si Mopier, reduces the need to use copiers by allowing workers to make multiple original prints -- or "mopies" -- from their own desktop.
+HP, which is already a market leader in printers, faxsimile machines and scanners, hopes the new model will help it capture a share of the $18.5 billion a year copier market.
+Analysts expect the printers will present a challenge to copy machine giant Xerox Corp and other copier makers, as sales revenues of mid-range 20-30 pages per minute copiers is projected to drop by $300 million to $1 billion by 2000.
+"Xerox is a dominant copier and printer vendor. This is a challenge and an opportunity for Xerox," said Robert Fennell, industry analyst at the market research firm Dataquest.
+The market for midrange printers based on Canon Inc's 24-page per minute engine, until recently a relatively small segment of the market, is projected to surge by some 500 percent this year from 1995, he said.
+With a U.S. list price of $9,549, the machine is more expensive than other departmental laser printers, but it contains more features and it is priced less than midrange copiers costing between $13,000 and $20,000.
+Executives at Hewlett-Packard's LaserJet Solutions Group in Boise, Idaho, said the Mopier is part of its recently-unveiled Digital Workplace strategy aimed at addressing work flow and document management problems at work.
+"Our customer research found that people are already mopying today," one of the executives said in an interview.
+The new machine is based on HP's existing LaserJet 5Si models, but adds finishing tasks -- such as stapling and collating of documents.
+A user-friendly interface to help guide workers through the printing options and tells them when their job is completed.
+The Mopier is designed to cut down on the time office workers spend running between printers and copy machines, waiting for others to copy, and fixing paper jams.
+It contains a 420 megabyte hard drive and reduces network traffic as well by storing each print task once and printing the number of copies specified, rather than requiring each print job to be sent down the network one at a time.
+The initial Mopier model may pave the way for a whole family in the future, if it lives up to its expectations.
+The introduction is timed to take advantage of a major shift towards network printing -- International Data Corp. reported the number of pages printed on printers in 1995 for the first year exceeded those printed of photocopy machines.

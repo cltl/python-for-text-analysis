@@ -1,0 +1,24 @@
+Faced with market share battles on several fronts, Novell Inc provided the outlines of a five-year game-plan that would reduce dependence on its mainstay network operating system business and diversify its revenue base into faster-growing software businesses.
+In a speech to an investor conference here, Joseph Marengi, recently named president and chief operating officer, also said his company is contemplating the judicious use of its $1 billion in cash to make selective technology acquisitions.  
+In response to a question, the executive downplayed persistent rumors that it is an acquisition target by saying that Novell's strategy remains focused on building its business as a "standalone" company.
+"This is a company with a market cap of $4 billion, $1 billion in cash and $1.5 billion in revenues," he said. "Everything we are doing is to position ourselves to be standalone.
+He declined to comment on financial results of Novell's quarter ended in January, noting that it was in a quiet period ahead of the report due out next week.  
+"Business is okay," he noted in passing.
+Marengi said that as part of its plan to diversify its revenue base over the next five years, the company expected its core NetWare operating systems business to decline to 40 percent of total revenues from its current 60 percent position.
+He said that by 2002, the company expected 25 percent of revenues from what he called "platform-independent" or non-NetWare server products and 25 percent from network applications software such as its group communications, systems management and Internet-related software products.  
+Novell's strategy is to move beyond its historic dominance of the client/server-based local area network market and into the emerging future in which personal computers connect to the wider Internet without regard to whether the connection is local or on the other side of the globe, he said.
+"We are trying to get people to think about client/network computing as opposed to client/server," Marengi said in response to a reporter's question.
+By later this year, he said Novell expected to displace Microsoft Corp's Exchange product as the number two electronic messaging product in the world.  
+He allowed that International Business Machines Corp's cc:Mail product would continue as the best-selling messaging product in the coming year.
+In the near-term, Marengi said he believes Novell will successfully defend its position as the market leader among network operating systems, fending off a growing challenge from Microsoft's Windows NT.
+While acknowledging that Windows NT was gaining ground as the core operating system used to manage corporate networks, he said this was mostly concentrated at the low-end of the market among smaller and newer businesses.  
+He said Novell NetWare continues to dominate in larger corporate departmental networks, and estimated that only 2 percent of current NetWare customers had switched to alternative network operating systems such as Windows NT. NT's success had come among new users, he said, and noted that the company is re-doubling its efforts to target such emerging markets.
+"We want to grow through acquisitions," Marengi said of the company's plan to once again consider acquisitions to fill technology gaps in its product line. "We will make sure that any company we do acquire will fit (our overall) strategy," he said. "Nothing on the scale of WordPerfect," he said.  
+Novell sold WordPerfect Corp to Canada's Corel Corp at a substantial loss last year.
+Marengi said he expected the company to double its installed base of server software units to 8 million units in 2000 from 4 million units currently, as part of a plan to put its server software count at over 10 million units five years out.
+Server software are products used to manage the operations of centralized computers that manage traffic on local area networks that typically tie together numerous personal computers.
+NetWare is used to connect local area networks that include 60 million desktop computers worldwide.  
+He said Novell expects international revenues to contribute 60 percent of revenues five years out, up from 49 percent currently. As an example, he said Novell intends to capitalize on its leading position as "The networking company in China."
+The executive said the company's operating profit margins have been hovering in the 20 to 23 percent range recently, and that those percentages will "be up a little bit" by the end of calendar 1997, " but "not significantly."
+He said the company's search for a new chief executive was on track and that he expected an appointment to be announced within 30 to 60 days.
+He said Novell did not plan to use any of its $1 billion cash hoard to buy back stock.

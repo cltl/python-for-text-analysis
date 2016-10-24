@@ -1,0 +1,18 @@
+The semiconductor industry said Monday its key indicator rose last month to the highest level in almost a year, reflecting a surge in new orders for computer chips.
+The so-called book-to-bill ratio, which measures the value of new orders compared with shipments over a trailing three-month period, jumped to 1.10 in October from a revised 0.98 in September, marking the first time it has been over 1 since December 1995.
+The index, widely regarded as a sign of the computer industry's health, means that manufacturers received $110 in new orders for every $100 in shipments.
+The Semiconductor Industry Association said new chip orders in October rose 17.9 percent to $3.84 billion while shipments increased by 5 percent from the previous month to $3.39 billion.
+Analysts said the surge was likely a one-time phenomenon as vendors sought to catch up with increasing demand after having pared back inventories sharply early in the year when prices of memory chips in particular were tumbling.
+"These strong numbers for new orders in the Americas market should reinforce our industry's cautious optimism for a solid fourth quarter," said Douglas Andrey, director of Information Systems and Finance at the Securities Industry Association.
+Analysts said they expect computer chip stocks, which had been firm ahead of the announcement on the expectation the ratio would rise modestly to somewhere between 0.99 and 1.03, to advance further following the upbeat data.
+Shares of Intel Corp, the world's largest maker of semiconductors, surged as high as $124.69 in after-hours trade, 6 cents below its all-time trading high last week. Earlier, it closed up $1.625 at $123.875 on the Nasdaq market.
+"I think it's an overall positive for stocks tomorrow," said Charles Boucher, semiconductor analyst at UBS Securities.
+"The Street got possibly a little better than they were looking for, so I think you've got a chance to add on to this rally tomorrow," he said. "The danger here is in investors getting too enthusiastic about the size of this number."
+Separately, the trade group said it was planning to phase out the North American semiconductor index and replace it with a global index that would help industry watchers keep better track of demand for computer chips.
+The industry group said it was making the change because the current figure only tracks sales and orders in the Americas, representing only a third of the total world market, and provided disproportionate data on certain chip sectors.
+While both industry and analysts have criticized the wide fluctuations and frequent revisions in the data -- even the September number was revised to 0.98 from 0.99 -- the move taken by industry consensus met with mixed reviews.
+"I think it's a good idea," said Intel spokesman Howard High. "The book-to-bill hasn't really reflected the true health of the industry, good or bad, for quite a while."
+"As the business turned very global in its nature, the book-to-bill flash report was a U.S.-based number," he said. "If you take it to the global market, it's really not done the job that people have been using it for."
+But some analysts said the decision to drop aggregate bookings data altogether would only increase the amount of market uncertainty, as investors would have to rely on far more speculative estimates of new orders.
+"I think it's going to blow up in their face," one top analyst said. "It's going to be a lot more speculative. We're all going to be trying to do the analysis but we're going to be doing it based on our own independent surveys."
+Key semiconductor makers had argued, however, that bookings data was imprecise and subject to varying inventory strategies of distributors without any uniform reporting methods.

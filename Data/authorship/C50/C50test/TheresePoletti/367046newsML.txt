@@ -1,0 +1,18 @@
+Progressive Networks Inc., whose RealAudio software has become a popular way to listen to music on the Internet, Monday unveiled RealVideo, which adds sights to the sounds, and announced support from major entertainment and media companies.
+RealVideo became available for free, beginning Monday, by downloading Progressive Networks' RealPlayer software from its Web site (http://www.realaudio.com). A more fully featured version can be purchased from the site for $29.99.
+RealVideo delivers live, on-demand video over the Internet and the corporate, Internet-like networks known as intranets.
+Privately held, Seattle-based Progressive Networks said it believed that RealVideo will do for video on the Internet what RealAudio did for audio.
+Lining up to support the new software were more than 50 entertainment, media and computer companies, including Walt Disney Co.'s ABC, Time Warner Inc., Cable News Network, News Corp.'s Fox News and MSNBC, the cable TV and Web site venture of Microsoft Corp. and General Electric Co.'s NBC.
+The news conference held to announce the software included an appearance by film director Spike Lee, who premiered three short films developed using RealVideo.
+One of the films, which last three to five minutes and can be viewed from Progressive Network's Web site, features dancer Savion Glover of the Broadway show "Bring in Da Noise, Bring in Da Funk" talking about tap dancing and showing his 13 pairs of tap dancing shoes.
+The RealPlayer software also will include RealAudio version 3.0. There are now more than 10 million users of RealAudio, the company estimates.
+Progressive Networks said it planned to make money by selling the software to content developers that will use the software to transmit video over the Internet.
+Video over the Internet has been problematic because of the lack of bandwidth -- that is, a data "pipeline" big enough to handle the relatively large amount of information video involves. Video over the Internet still resides on only a small part of the computer screen, with some jerkiness and at a slower rate than full-motion video.
+"We are boldly going where we haven't gone before," Progressive Networks Chief Executive Officer Rob Glaser said in an interview.
+The RealPlayer is designed to run on PCs with an Intel Corp. Pentium processor at speeds of 75 megahertz and above and using Microsoft Corp.'s Windows 95 or NT.
+One content developer who is using the software said his firm has embraced RealVideo because it believes it will become the de facto standard in Internet video, in the same manner that RealAudio has become the audio standard.
+"It gives us another tool we can use," said Ken Locker, an executive producer at MGM Interactive. "But the Internet is not television. When I say video, it's not even full-motion video, which is 30 frames per second."
+Locker said RealVideo averages about seven to 12 frames per second. "It works very well and Progressive Networks is positioned to make theirs the standard."
+RealVideo works by sending packets of video in a stream from a server, or network computer. If a personal computer receives only 90 percent of the packets, it sends a message back to the server asking for a retransmission.
+The process, called video streaming, is not new and has been available on the Internet from companies such as privately held VXtreme and VDONet. But analysts said that, because of RealAudio's widespread adoption, they expect RealVideo to dominate.
+"They have a reputation with over 40,000 content developers, which use RealAudio-equipped servers," said Jae Kim, an analyst at Paul Kagan &amp; Associates, in Carmel, Calif.

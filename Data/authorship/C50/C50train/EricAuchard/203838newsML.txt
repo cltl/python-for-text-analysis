@@ -1,0 +1,23 @@
+Microcom Inc and Rockwell Semiconductor Systems said Wednesday they plan to beef up their technology partnership to speed development of higher speed 56-kilobit modems for central switch equipment.
+The 56 kilobit modems would allow computer users to connect to the Internet at speeds nearly double the rate of current 28.8 kilobit modems now available using standard phone lines.
+The deal builds on a decade-old product development partnership between Microcom and Rockwell. Rockwell Semiconductor is a unit of Rockwell International Corp.  
+New Microcom central site switch equipment would give the receiving end -- phone carriers, Internet Service Providers (ISPs) and corporate central offices -- the capacity to handle incoming calls from computers with 56 kilobit modems.
+"It increases the market scope of Rockwell's 56k offering," said Prudential analyst Jim Thayer of Rockwell's 56 kilobit modem plans. He maintains a buy rating on Microcom.
+However, Hambrecht &amp; Quist analyst Rakesh Sood said the Microcom/Rockwell pact was a defensive response to a U.S. Robotics Inc initiative already well under way by the company to offer its own set of 56 kilobit modem products.  
+In the Rockwell/Microcom pact, Rockwell will contribute its K56Plus modem chipset to the venture, while Microcom will offer its Modemware technology, a software interface that other equipment providers license to build their own modems.
+To speed 56k development, Rockwell said it is opening an East Coast development center with 15 to 20 Rockwell engineers working alongside Microcom staff. The center will initially be at Microcom's headquarters in Norwood, Massachusetts. Rockwell is based in Seal Beach, Calif.  
+As part of the partnership, Rockwell and Microcom are working together to drive standards development of a new high speed modem standard that would incorporate Microcom's MNP (Microcom Networking Protocol) standard.
+Modems based on the Rockwell chip design would not be compatible with those from Robotics until an industry-wide standard for compatability can be hammered out, which no industry player seriously expects before 1998.  
+In the intervening period, modems based on Rockwell's standard will work only with central office switches from partners such as Microcom, while Robotics modems will work only with equipment offered by backers of its standard.
+U.S. Robotics has licensed its X2 56 kilobit technology to chipmakers Texas Instruments Inc and Cirrus Logic Inc and to modem supplier Cardinal Technologies Inc CRTK.O.
+Robotics plans to introduce 56 kilobit modems in January and remote access equipment in February, a spokeswoman said.
+Rockwell's own 56 kilobit plans have been slower getting off the ground, but the company has said it too plans to introduce new 56k modems in the first quarter of 1997.  
+Nonetheless, Rockwell's technology has been embraced by Ascend Communications Inc and consumer modem makers Boca Research Inc, Hayes Microcomputer Inc and Zoom Telephonics Inc, who are unhappy doing business with rival U.S. Robotics Inc, the dominant consumer modem supplier.
+Microcom said it plans to incorporate the Rockwell K56Plus technology into central site modem systems that it sells both directly and indirectly, through partnerships with Cisco Systems Inc, Bay Networks Inc, Digital Equipment Corp and Gandalf Technologies INc.  
+Microcom officials said they expect Rockwell/Microcom modems to be adopted by many network equipment makers who fear relying on Robotics, which is seen as a competitive threat.
+Microcom said products based the Rockwell design will be available for test and evaluation early in 1997 and that finished products will ship in central site and remote modem equipment by late in the first quarter of 1997.
+Thayer argued the schism over standards should buy time for the Rockwell camp and may allow it to gain market share from Robotics due to Rockwell's wider base of support.
+"They should have a fairly high share of 56 kilobit market over time," Thayer said of the Rockwell/Microcom partnership.
+However, Sood argues the market for 56 kilobit modems will come largely from home computer users not office workers, who have access to other high-speed communications alternatives.
+This plays to U.S. Robotics' strength as an equipment supplier to a majority of the top 10 Internet access providers aimed at consumers, like America Online Inc and Netcom On-line Communications Inc, Sood said.
+-- New York Newsdesk, 212-859-1736

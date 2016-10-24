@@ -1,0 +1,21 @@
+The proposed $6.6 billion acquisition of modem maker U.S. Robotics Corp. by computer network equipment manufacturer 3Com Corp. triggered a drop Thursday in the stocks of those and other major network companies.
+Santa Clara, Calif.-based 3Com's stock fell $4 to $35 and was the most heavily traded issue on Nasdaq, with more than 40 million shares changing hands. U.S. Robotics dropped $1.875 to $59.125, also on Nasdaq, and was the second-most active share.
+Analysts said the proposed stock swap unveiled Wednesday undervalued Skokie, Ill.-based U.S. Robotics, the world's leading maker of computer modems for the consumer market.
+"I think U.S. Robotics shareholders are being robbed," said Donaldson Lufkin analyst Eric Buck, who harshly criticised the terms of the deal.
+Several analysts said the offer -- involving stock and options valued at $7.3 billion in all -- put a low-ball value on U.S. Robotics of 20 times annual earnings vs. its historic multiple of 25.
+"If anything, this deal is more of a take-under than a takeover," Salomon analyst Peter Swartz said of the 3Com deal. "Both stocks are down 50 percent from their highs." Swartz noted that many network stocks are trading at historic lows.
+U.S. Robotics Chairman Casey Cowell said the sale price was "absolutely" not too low, noting that networking company valuations have been very volatile recently and that both U.S. Robotics and 3Com stock prices have fallen.
+3Com especially has been under pressure after announcing its fiscal third quarter revenues would be weaker and that it cut prices on its core product, its adapter cards.
+The merger, if approved by shareholders and government regulators, would create a combined company with $5 billion in annual revenues and 12,000 employees -- second only to leader Cisco Systems Inc. with more than $6 billion in annual revenues. The merger also comes as the Internet and other computer networks continue to grow in importance.
+Analysts said the deal put pressure on other network equipment players to use their stock to fund major acquisitions of their own.
+"We believe the competitive landscape of the networking sector is undergoing a fundamental restructuring," J.P. Morgan analyst Bill Rabin said in published comments. "Other networking vendors will have to combine or be bought."
+Along with 3Com and U.S. Robotics, network company stocks were among the most actively traded on Nasdaq Thursday.
+Cisco Systems fell $3.06 to $55.06, Ascend Communications Inc. dropped $5.375 to $57, and Cascade Communications Corp. slipped $2.50 to $30.125.
+The main beneficiaries of the 3Com-Robotics deal appeared to be Bay Networks Inc. and Shiva Corp. -- two stocks that have sat in the doghouse for some time -- based on their potential as acquisition targets, analysts said.
+Shiva rose 62.5 cents to $15.875 on Nasdaq, recovering from its historic low, while Bay added 12.5 cents to $19.375 on the New York Stock Exchange.
+"The merger forces other players in the industry to ante up to play in this bigger game," said Steve Harmon, an independent financial analyst who publishes the Internet Stock Report.
+"It forces equipment makers to look for end-to-end solutions supplying network products to both businesses and consumers," he said, referring to how the 3Com-Robotics merger would allow the combined company to compete in both markets.
+The pressure to do deals adds to the burdens already weighing on the computer network industry, analysts said.
+Earnings shortfalls or close calls, fears of slowing industry growth and cautionary comments from 3Com, Cascade and Shiva have triggered fears about the whole sector, Rabin said.
+In addition, technology changes in the industry and the growing threat of competition from outsiders like chip makers Intel Corp. and Rockwell International Corp. have dimmed the outlook for the industry as a whole.
+Some analysts cited fears that Intel may decide to integrate network adapter cards or modem chips directly into the computer chassis it builds, rendering stand-alone products from many network suppliers a commodity -- if not obsolete.

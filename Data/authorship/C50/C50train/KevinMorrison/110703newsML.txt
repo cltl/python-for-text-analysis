@@ -1,0 +1,16 @@
+The growth of the Internet has created the biggest creative explosion in the history of the computing world, said Sun Microsystems Inc chairman Scott McNealy on Friday.
+"It is only been since we unleashed the Internet that you have suddenly seen this unleashing of technology and innovation and research and a transformation," McNealy told Reuters in an interview.
+McNealy cited the launch of the Netscape Communications Corp Navigation browser and his company's Java computer language that allows users to operate across all computer operating systems as examples of recent computer innovation.
+The Internet and Java is likely to pose the biggest threat to U.S. software giant Microsoft, said McNealy, who is on a 10-day visit to Australian and New Zealand along with 2,500 Sun employees, who are in Sydney attending a sales convention.
+"Its two main two sources of revenue, (Microsoft) Office (software) and the desktop operating system are under threat," said McNealy, who is well known for firing salvos at Bill Gates, Microsoft's co-founder.
+Microsoft and Sun are locked in many battles across the fiercely competitive computer industry. Microsoft has annual revenues around US$8.6 billion, while Sun has revenues of US$7.00 billion a year.
+McNealy said Java users could operate in all operating systems including Windows, while the Internet and Java allowed users to download word processing applications without buying Microsoft's popular Microsoft Office software.
+"The Internet has forced them (Microsoft) to change their strategies," said the 42-year-old computer millionaire.
+Microsoft unveiled plans on Thursday to relaunch its online service Microsoft Network (MSN) with a US$100 million promotion push in order to double MSN's subscriber base. But McNealy said this showed another Internet strategy shift by Microsoft.
+"Do you know what the Internet has done to our business? Absolutely nothing, we haven't changed our strategy one bit," said McNealy, who is on his first visit to Australia.
+Java, which was developed by Sun and launched in May 1995, is a language that specialises in letting a wide range of computers share information with each other through networks.
+Those capabilities are in themselves a threat to dominant players like Microsoft, whose MS-DOS and family of Windows operating systems run on nearly 90 percent of the world's PCs, industry sources said.
+Sun has already licenced its Java technology to most of the world's computer industry, including Microsoft.
+McNealy sees no threat from selling Sun's Java technology to its competitors. "We don't own the language, we compete by doing something better in the language. It is like trying to own the English language, you compete by what you do with the language."
+Java computers, known as Network Computers, would be launched soon, which McNealy likened to the launch of the car. The Network Computer is the third wave in the evolution of the computer, McNealy said. The first was the mainframe, with the second wave being the personal computer, he said.
+"We will still have buses and trains, which work on centralised systems like the mainframe. We will still have bicycles, which are like PCs, but the preferred mode of transportation for most of us is the automobile, which will be the Network Computer," McNealy said.

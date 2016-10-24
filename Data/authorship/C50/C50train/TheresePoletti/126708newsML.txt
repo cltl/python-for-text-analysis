@@ -1,0 +1,18 @@
+IBM reports earnings on Monday and analysts expect growth of about 5 percent for the third quarter, boosted by sales of personal computers, other hardware and its fast-growing service business.
+Industry analysts expect the improvement after a difficult second quarter for International Business Machines Corp., the nation's biggest computer company, and despite a product transition that depressed results in its mainframe business.
+The strong dollar will also constrain IBM's results, though not as much as in the second quarter, analysts said.
+"I don't hear any whispers that it's a blowout or any whispers that it's going to be soft," said John Jones at Salomon Brothers. "I think it's going to be modestly above consensus."
+According to First Call, which tracks forecasts, IBM is expected to earn $2.43 a share, on average, up from $2.30 a share, in the 1995 quarter. Estimates range from $2.17 a share to $2.60 a share.
+In the third quarter of 1995 IBM earned $1.3 billion excluding a one-time charge of $1.8 billion associated with its aquisition of Lotus Development Corp. Including the Lotus charge, IBM lost $538 million, or 96 cents a share.
+IBM stock rose $3.75 to $129.375 on the New York Stock Exchange, as some investors were apparently betting on solid results.
+Sales grew in all of IBM's hardware businesses except mainframes, where tough pricing by competitors and IBM's transition to a new line of low-cost CMOS machines constrained results, analysts said. CMOS, or complimentary metal oxide semicondutor, mainframes are cheaper to manfacture and use less power.
+"This quarter is not all that important a quarter," said Daniel Ries at Nomura Equity Research. "It was still a transition for the mainframe products. They started shipping them in volume on Sept. 30," right when the quarter ended.
+Bill Milton at Brown Brothers Harriman said IBM most likely benefited from the sharp drop in memory chip prices that hurt its semiconductor operations in the second quarter. IBM's Microelectronics unit makes the dynamic random access memory (DRAM) chips that are the brains of many PCs.
+"In the second quarter, the company felt the pain as a producer," Milton said. "But in the third quarter, many of those low-priced DRAMs were incorporated in IBM PCs and they saw a net benefit as a consumer," he said.
+Analysts said they expect the rest of IBM's hardware businesses to show growth, including personal computers, AS/400 minicomputers, which are used in corporations and are the company's second most profitable computers, and RS/6000 workstations, used by engineers and designers.
+PC sales growth will not match the second quarter's 30 percent rate, analysts said. Compaq Computer Corp. was upgrading products in the second quarter, which helped IBM's PC sales.
+"Last quarter they had the strongest quarter in years (in PCs)," said Nomura's Ries. "The significant contributing factor to that was that Compaq was refreshing their product line."
+But Ries said PC demand was very strong now, especially with corporate customers, one of IBM's strengths.
+Analysts also said they expect continued strong growth in IBM's computer services, the stellar performer last quarter with growth of 23 percent.
+"Services will continue to grow at more than 20 percent," Brown Brothers' Milton said.
+IBM Chief Financial Officer G. Richard Thoman and other executives will discuss the results with analysts on Monday morning in New York.

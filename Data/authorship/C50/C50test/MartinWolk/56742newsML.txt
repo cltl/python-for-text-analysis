@@ -1,0 +1,18 @@
+Microsoft Corp on Monday plans to announce a version of its Windows 95 operating system for hand-held consumer devices that will be available this year, according to sources familiar with the company's plans.
+The Windows CE system for consumer electronics comes two years after Microsoft scuttled a similar project known as Winpad because its intensive memory requirements would have made the hardware too costly.
+Since then the explosive growth of the Internet has expanded the market possibilities for small wireless devices, while Microsoft rival Oracle Corp has popularised the concept of a $500 consumer device for accessing the Internet.
+Microsoft officials declined to comment, but the company said it would have an announcement on Monday on "a significant addition in the area of Microsoft Windows platform software."
+Microsoft executives previously had disclosed plans to supply a system for hand-held devices in time for the holiday season.
+The devices, ranging from a "smart" wireless telephone to personal organisers with communcations capabilities, will be marketed by eight computer and consumer electronics companies including Hewlett-Packard Co., Casio Computer Co. Ltd., and Philips Electronics NV, industry analysts said.
+The operating system will include stripped-down versions of Microsoft's Word and Excel applications and are likely to have some ability to get information off the Internet's World Wide Web.
+But with their tiny, monochrome screens, analysts believe they will be used at first largely for accessing electronic mail and personal information such as telephone numbers and appointments.
+"The Web doesn't look good on a 4-inch screen," said analyst Mike McGuire of Dataquest. "What this is about is Internet transactions and communications."
+While hand-held "personal digital assistants" such as Apple Computer Inc.'s Newton have been available for several years the products have failed to grow beyond a niche category in part because of the difficulty of swapping information between them and desktop computers, analysts say.
+Microsoft aims to break that logjam with its new system, built for RISC microprocessors from Hitachi and others rather than the Intel Corp. processors used for most Windows-based computers.
+But at $500 -- or close to $1,000 for a machine fully loaded with communications accessories -- price will continue to be an obstacle, said analyst Rob Enderle of Giga Information Group, who said the "sweet spot" for small devices was about $300.
+"I don't really think the market is going to really jump off in big number until next year," he said.
+McGuire of Dataquest estimated worldwide shipments of hand-held devices would rise to at least five million units a year by the end of the decade from the current one million.
+While that's still relatively small compared with a personal computer market of about 60 million units annually, Microsoft needs to protect its Windows franchise from any potential incursion, said analyst Scott McAdams of Ragen MacKenzie.
+"If you let someone else get that operating system, over time someone could start working that system upmarket," he said. "Microsoft needs to be a player here."
+Microsoft move into hand-held systems could pose a threat to U.S. Robotics Corp. and Britain's Psion Software Plc, two of the most successful marketers of proprietary hand-held products.
+The Windows CE system also could be licensed for use with a rival to Oracle's  Network Computer, analysts said.

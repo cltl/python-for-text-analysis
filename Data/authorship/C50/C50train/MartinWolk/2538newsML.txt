@@ -1,0 +1,20 @@
+The Internet browser wars heated up Monday as market leader Netscape Communications Corp launched its latest Navigator software and officials of rival Microsoft Corp. said they saw little new.
+Netscape, countering Microsoft's high-profile launch of its Internet Explorer 3.0 last week, said it had linked up with more than 20 content providers, including The New York Times and Sportsline USA, to offer tailored news and information to users.
+Microsoft last week made a similar offer, saying that users who download its new browser would get free trial subscriptions to The Wall Street Journal Interactive Edition, ESPN SportsZone and other services.
+While Netscape has a commanding lead in the growing browser market, with a share estimated at over 80 percent, industry analysts say Microsoft's latest software poses a threat to that dominance.
+"I'd say at the very minimum Microsoft has leveled the playing field, and the real battle can now begin," said Adam Schoenfeld of the Jupiter Communications research firm.
+Microsoft said more than 1 million users had downloaded its browser off the Internet since it became available last Tuesday.
+Microsoft stock fell 75 cents to $123.50 a share, while Netscape dropped $2.375 to $36.50, its lowest close since October.
+In launching the latest version of Navigator, Mountain View, Calif.-based Netscape highlighted a new electronic mail feature that will deliver information from selected content providers directly to the user's computer "in box."
+The new software also offers enhanced audio, video and three-dimensional animation.
+In a statement sent to reporters, Redmond, Wash.-based Microsoft called Netscape's new electronic mail feature "glorified junk mail" and said its own Internet Explorer offers faster access to multimedia clips.
+On its World Wide Web site, Microsoft was less blunt but invited users to try both products and compare.
+"We're confident that in this scenario Internet Explorer 3.0 will fare very well," Microsoft said in the Web statement.
+Schoenfeld agreed, saying, "To the average user now, the products are probably indistinguishable in terms of quality."
+Microsoft also pointed out that its product is free, while Netscape charges most users a $49 license fee after a free 90-day trial period.
+While Navigator is available for a variety of computer platforms, the new version of Internet Explorer so far requires Microsoft's most recent operating systems, Windows 95 or Windows NT.
+Microsoft officials said versions for previous versions of Windows and for Apple Computer Inc.'s Macintosh system were forthcoming.
+Analysts said while the rapidly expanding Internet market was big enough for both players, Netscape was certain to see its share of the browser market diminish.
+They said the browser war was likely to become even more intense when Microsoft unveiled its Internet Explorer version 4.0, expected early next year.
+The new browser will be integrated into the Windows operating system, allowing users to "browse" through their local computer as well as the Internet.
+"Netscape doesn't own the operating system, so it will be very difficult for them to counter that," said Michael Wallace of UBS Securities.

@@ -1,0 +1,18 @@
+For years Microsoft Corp. Chairman Bill Gates and other executives have watched with mixed feelings as longtime rival Apple Computer Inc. has slowly self-destructed.
+While the two companies have had frequent clashes over the years, including a landmark copyright lawsuit that went to the Supreme Court, Microsoft also has become the largest independent producer of software for the Macintosh platform.
+But as Apple goes through yet another reorganization aimed at stanching losses and regaining lost market share, Microsoft has long since turned its attention to other, more pressing rivalries.
+"I am very interested in continuing to work with Apple as we have done through history," Gates said in Frankfurt, Germany, where he appeared for a product launch. "But I am confused by the Apple operating system strategy ... and have decided not to worry about the future (in this respect)."
+Indeed, Microsoft has little need to worry about Apple, which just a few years ago provided the only credible threat to the hegemony of Microsoft's Windows operating system, the software that runs a personal computer.
+Now, various versions of Windows are installed on about 80 percent of new desktop copmputers, compared with about 5 percent for the ailing Apple Macintosh operating system.
+More importantly, the competitive landscape has been shifting rapidly due to the rise of the Internet and the Java programming language, which is independent of any operating system.
+"The Mac operating system vs. the Windows operating system is almost a sideshow nowadays," said Dwight Davis, editor of Windows Watcher, an industry newsletter. "In centre stage is Java, which has huge momentum and a lot of companies supporting it."
+Both Microsoft and Apple have been trying to "pigeonhole" Java as simply one of many development languages with little success, Davis said.
+"Now that Java's on everybody's lips, there's really a critical mass of vendors out there, many of them driven by an anti-Microsoft agenda, and they're going to use Java as their rallying cry to erode Microsoft's dominance in the industry," Davis said.
+As for Microsoft's Macintosh software, at an estimated $250 million a year it would be a huge business for almost any computer software company -- but now represents just 2.5 percent of the Redmond, Wash.-based company's annual revenues.
+Nevertheless, last month Microsoft signalled its commitment to the Macintosh platform by forming a product unit with 100 employees dedicated to designing a new version of its Office software bundle for Apple computers, expected out sometime in the fall.
+Shortly afterward, Gates visited Apple's Cupertino, Calif., headquarters to meet with Chairman Gilbert Amelio and Apple co-founder Steven Jobs and discuss closer cooperation, according to published reports.
+Gates confirmed meeting with Jobs but said he was not devoting a lot of time to Apple.
+"People like Apple and would like them to succeed," Gates said. "But that doesn't mean they will succeed."
+Dave Meltzer, Microsoft group product manager for Macintosh applications, estimated that 8 million Macintosh users have at least one Microsoft product, creating steady demand for upgrades.
+"We continue to sell more units than ever," Meltzer said.
+"To the extent they they're experiencing difficulties, that's a sad thing for us," he said. "We're certainly confident they will take the right steps to put the company on an even footing."

@@ -1,0 +1,21 @@
+After arriving late to the Internet party, computer software giant Microsoft Corp has crafted a strategy that poses a serious threat to rival Netscape Communications Corp.
+The latest version of Microsoft's Internet Explorer software for browsing the vast computer network, launched last week, eliminates the formerly commanding technological lead Netscape's market-leading Navigator, industry analysts said.  
+Because Microsoft is giving away its browser, the Redmond, Wash.-based company likely will boost its market share from less than 10 percent to as much as 40 percent by mid-1997, according to one estimate.
+The market battle is expected to escalate next year when Microsoft launches a new version of its browser that can be used instead of the Windows interface, allowing users to search for information on their own computer or the Internet with a single stroke.  
+"Netscape doesn't own the operating system, so it will be very difficult for them to counter that," said Michael Wallace of UBS Secrurities.
+Microsoft also has integrated Internet server software for no additional cost into its high-end Windows NT operating system, taking aim at another key Netscape market.
+"It's clearly a strategy to cut off any revenue stream that Netscape might have because Netscape does pose a real threat to Microsoft," said Phil Lemmons, editor in chief of PC World magazine.  
+While the Internet browser market itself is not expected to generate significant revenue, it is a crucial battleground because the browser is seen as the next-generation "front end" for the operating system.
+"Whoever dominates the browser market will determine the direction of the Internet," Wallace said.
+He and others are betting that Microsoft will continue to make inroads as its Chairman Bill Gates tenaciously defends the company's dominance of the personal computer desktop.  
+"I don't think Netscape is going to do very well in the long run with Bill Gates waking up every morning thinking, 'How can I get Netscape today?'" said Adam Schoenfeld or research firm Jupiter Communications.
+"As other companies have painfully learned, when Gates is out to get you he's serious," Schoenfeld said.
+Netscape can count on support from software developers and corporate executives eager for an alternative to Microsoft's Windows platform.  
+And Netscape has a chance to beat its much-larger rival in areas not dominated by Microsoft products, such as television set-top boxes, video game devices and stripped-down "network computers" being backed by Oracle Corp and other Microsoft rivals.
+But analysts say Netscape faces a tough battle with broad ramifications for the software industry.
+"It's very hard to bet against them given the amount of resources that they can and are throwing at it," Lemmons said. "Microsoft is a formidable foe, and there's nothing so deep and mysterious about Netscape's technology that it can't be cloned."  
+Lemmons said that despite Microsoft's near-monopoly in key areas of desktop computing software, the strategy of giving away Internet software appears to be legal, and the company has withstood years of antitrust scrutiny.
+Software developers and industry executives will be watching closely as the battle between Microsoft and Netscape continues to heat up over the coming year, Schoenfeld said.
+"The question for any innovative software company is what can you do that Microsoft can't also do," he said.
+"The damning thing is Microsoft doesn't even have to do it as well -- they just have to do it and leverage their desktop control," Schoenfeld said. "That looms over the entire industry."
+					-- Seattle bureau 206-386-4848

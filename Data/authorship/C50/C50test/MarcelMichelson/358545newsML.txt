@@ -1,0 +1,20 @@
+Microsoft Chairman Bill Gates said on Wednesday that French President Jacques Chirac was reluctant to allow private companies to use highly encrypted code for messages and transactions on the Internet.
+"We had one problem with the U.S. government, now we have a second one with France," Gates told a news conference after meeting Chirac for more than an hour at the Elysee Palace.
+"We should be able in France to use strong encryption," he added. Encryption makes messages and transactions safe on the Internet but also makes them harder to track by authorities.
+Gates, who was in France as part of a European tour, also discussed education with Chirac and stressed the importance of computer literacy for future competitiveness.
+"It's not the gap in Internet use (between the United States and Europe) of today that counts. It's the gap in 10 years' time that will be important," he said.
+His private foundation will support European school computer projects with the first French projects expected in 1997.
+Gates, perhap the richest man in the world, said he wanted to spend most of his wealth on such projects and charity. "Ninety-five percent of my wealth will be returned to society, not to my heirs," he said.
+In a keynote speech to the Comdex/IT forum computer show, Gates said an important feature for future Microsoft products would be simplicity to make computers easier to use.
+He said that although in the past personal computer prices had remained stable while the machines' power and features increased dramatically, he now expected prices to come down.
+Microsoft unveiled its Office 97 software package, integrating Internet and Intranet capabilities with its familiar productivity tools, at the show.
+Jean-Philippe Courtois of Microsoft France said France ranked ninth in both the number of Internet users and web sites.
+He said he expected three million personal computers to be sold in France in 1997 -- 700,000 of them to households.
+Gates said only a small part of the installed computer base was linked up to the net and strong growth was to be expected. He also foresaw a mix between personal computers and television.
+On that theme, Jacques Segela, vice president of Havas Advertising, said ads would become more personal and interactive than the broadly targetted and often blunt messages broadcast on television.
+"In three years' time, people will invest more in ads on the net than on television," he said.
+Roel Pieper, chief executive of Tandem Computers Inc., said an expected shift to Internet transactions from online transactions (like cash machines) would need secure, scalable clusters of computers and high-capacity telecommunications networks -- land lines as well as mobiles and pagers.
+He said telecoms operators would be able to tap a new market in selling information about the use of their network, something which is already happening in the United States but breaches privacy laws in some European countries.
+Herbert Budd, general manager Business Intelligence Solutions at IBM, told Reuters that many companies do not use the full potential of their data.
+IBM and other companies are proposing to build data warehouses. IBM is also developing SurfAid, due out in the United States in the first half of 1997, to facilitate searches of text and data on the Internet.
+Budd said such business solutions would represent a market of $30 billion in 2000, compared with between $6 and $8 billion currently.

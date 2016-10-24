@@ -1,0 +1,21 @@
+There may be many more places to hang your hat in cyberspace soon, thanks to a plan adopted by the Internet Society and a host of other groups, the society announced Tuesday.
+But while some major Internet companies immediately endorsed the plan, online services providers gave it a cool reception.
+The Internet Society, which helps develop and coordinate Internet standards, said the plan would provide seven new top-level domains, the last three letters at the end of every electronic mail or Web site address.
+New domain names such as "firm," "arts," and "web" will be added to existing top-level domains such as "com," "net," and "org" starting in the third quarter of 1997, the society said.
+Computer maker Digital Equipment Corp., telecommunications company MCI Communications Corp. and UUNET Technologies Inc., a unit of Worldcom Inc., endorsed the plan, first unveiled in February, the society said.
+But America Online Inc., the largest online service in the world with more than 8 million members, said some details still needed to be worked out.
+"We are still studying the proposal," said William Burrington, director of law and public policy at America Online. While praising the plan's concept, Burrington said he thought "it still needs some more work." The company hopes to craft a better plan "that is more saleable," he added.
+The largest "pure Internet" service provider, AT&amp;T Corp.'s Worldnet service, was equally unenthusiastic. "We are still looking at these domain names," spokesman Mike Miller said. "We are studying them."
+The plan also has been endorsed by the Internet Assigned Numbers Authority, the central coordinator of Internet addresses and other standards operating under a charter from the society and the Federal Network Council.
+The plan also establishes an arbitration and mediation procedure for resolving disputes over names, such as when a trademarked name is used in an Internet address.
+Last year, for example, toymaker Hasbro Inc. won a lawsuit to regain control of the address "candyland.com," which was being used for an adult Web site with nude photographs. But more complex disputes arise when both parties may have a legitimate claim to an address name.
+"Responsible self-governance is the key factor in assuring that the Internet will reach its fullest potential," Internet Society President Donald Heath said.
+Although other groups have tried to establish alternate domain names, they have not succeeded in persuading the vast majority of Internet service providers to add their new names to the computers that route information across the network.
+The Internet Society plan better meets the needs of major providers, supporters said.
+"The Internet is growing up rapidly and it is vital that the processes, procedures and policies that define its adminstration be sound, stable and sustainable in an international setting," MCI Senior Vice President Vincent Cerf said.
+MCI is a top operator of the Internet's backbone network.
+Currently, one company, Network Solutions Inc., registers addresses under most existing top-level domains under a contract with the National Science Foundation. Under the plan, up to 28 new registration agents will be chosen in a process overseen by the Big Six accounting firm Arthur Andersen.
+But Network Solutions Senior Vice President Don Telage said having so many registrars would create chaos on the Net.
+"This plan risks the stability of the Internet," he said.
+The current system functions "pretty well" without international arbitration procedures, Telage said, noting his company has registered 1.2 million addresses and been sued only 26 times.
+Herndon, Va.-based Network Solutions will come out with its own plan soon for reforming the domain name registration system, Telage added.

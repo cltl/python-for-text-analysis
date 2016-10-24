@@ -1,0 +1,14 @@
+Citrix Systems Inc. stock surged 69 percent Monday after Microsoft Corp. agreed to license its software technology and include it in upcoming versions of Microsoft Windows NT.
+As part of the agreement, Citrix, based in Fort Lauderdale, Fla., will get an initial $75 million fee from Microsoft and as much as $100 million in royalties tied to sales of Microsoft products using Citrix technology, the companies said.
+Citrix shares jumped $13.375 to $32.625 on trading of 12.9 million shares on Nasdaq, where it was the most active stock.
+Citrix writes software that lets an old PC or an outdated terminal -- a type of computer that gets its computing horsepower from a corporate network -- run programmes written for Microsoft's Windows.
+Monday's agreement erased much of the concern in recent months about Citrix. In February, Citrix's stock plunged after Microsoft told Citrix executives that if the companies could not agree to develop the technology together, Microsoft would go it alone.
+Microsoft agreed to add Citrix's so-called multi-user technology to Windows NT, which would let several terminal users share one server for running common business software, such as data-entry and word processing.
+The agreement makes it easier for Citrix to sell additional products to Windows NT customers, analysts said.
+"Basically, Citrix now has Windows NT pre-enabled for their products," said John Powers, analyst at Robertson Stephens &amp; Co. in San Francisco. "For Citrix, it's good that Microsoft has multi-user capabilites. It's even better that it's from Citrix."
+The agreement also is a shift in strategy for Microsoft. In recent months, Microsoft, after initially ridiculing the idea, has taken the idea of stripped-down network computers seriously. Big corporate customers have been clamouring for cheaper and easier-to-use machines that do not require the latest in software and hardware gadgets.
+Microsoft also said Monday it agreed to license technology from France's Prologue Software SA, another company that writes terminal software.
+Microsoft, based in Redmond, Wash., owns a 6 percent stake in Citrix. Microsoft's treasurer, Greg Maffei, also sits on Citrix's board.
+Some analysts, however, were cautious about Citrix's outlook in coming years. As Microsoft adds more multi-user functions to Windows NT, customers might not need separate Citrix products.
+"That's what I have warned our investors about," said Dawn Simon, analyst at investment bank Furman Selz in New York. "It's a truce between the companies, but the burden will be on Citrix to innovate."
+Under the agreement, Citrix will get up to $100 million in royalties from Microsoft. Mark Templeton, Citrix vice president of worldwide marketing, said it is not clear whether Citrix will get a new royalty contract once Citrix gets all of the original $100 million.

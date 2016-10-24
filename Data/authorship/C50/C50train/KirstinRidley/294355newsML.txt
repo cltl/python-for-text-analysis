@@ -1,0 +1,20 @@
+Intel Corp launched its new Pentium chip with multimedia extension (MMX) technology on Wednesday, promising TV-quality video, stereo surround sound and three-dimensional graphics for personal computers.
+The world's largest computer chip maker, Intel has collaborated with more than 100 software developers, some of which have created programs such as UbiSoft's dizzying new car race game called Pod' especially for Intel's Pentium processors that have the new MMX technology.
+"This means life-like colour, full screen video and graphics, CD (compact disk) quality stereo sound, real-time animation and a better Internet experience," Intel said.
+Long-awaited in the computer market, the MMX has helped drive Intel shares to record levels over recent weeks and is expected by industry watchers to boost computer sales.
+Intel shares rose a further four dollars on Tuesday to $143-3/8 but were down slightly in active early Wednesday trade.
+Trumpeting MMX as a "giant leap forward" for PC users, European technology director Ian Wilson told Reuters that new multimedia software written to take advantage of MMX technology ran up to 60 percent faster than on Intel's previous Pentium processors. Existing software runs up to 10-20 percent faster.
+Intel says the new technology will boost computer sales and soon become an industry standard.
+"The new features we have introduced with MMX technology allow a much better, richer multi-media experience...and we'll see a home and consumer demand for PCs growing even more," Wilson said.
+Intel said that for the first time in its history, a wide range of consumer software was available right at launch to exploit the powers of the new chip.
+The MMX chip will initially be offered with the 166 and 200 MHz Pentium processors, improving the performance of personal computer-based multimedia and high-speed communications with faster "modems" for speeding access to the Internet.
+A host of computer manufacturers are offering the Pentium MMX processor, including America's International Business Machines Corp, Compaq, Hewlett-Packard, Italy's Olivetti and Japan's Toshiba.
+British electrical retail chain Dixons said new Pentium processors with MMX technology would be available in some of its stores from Wednesday.
+Wilson said he expected systems incorporating the new MMX technology to retail at between $1,500 and $2,000.
+Analysts have estimated that Intel could sell 30 million to 45 million MMX chips this year -- about half of the microprocessor units it will sell this year.
+But Wilson declined to comment on shipments, saying only: "By end of year, a significant percentage of our microprocessors being shipped will be incorporating MMX technology."
+The MMX chip, which is available on desktop PCs as well as on low-power portable computers, contains 4.5 million transistors and adds 57 processor instructions to speed up software instructions.
+The added performance of the technology frees up more of the Pentium processor to work on several tasks at once, including low-cost PC videoconferencing over standard telephone lines.
+Intel said it planned to build technology to upgrade some of its older Pentium processors later this year.
+The company does not expect a re-run of its experiences in 1992, when it was forced to recall hardware because of problems with its processor chips.
+"I think we have learnt a lot from that experience," Wilson said. "We're very confident of the quality and reliability of the product we are shipping."

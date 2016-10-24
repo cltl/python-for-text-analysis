@@ -1,0 +1,23 @@
+For many computer owners, 1997 will be the year when Internet users will begin to see more features aimed at making the Net more lifelike. But it is also likely to be marked by frequent communications breakdowns caused, in part, by increased demand.
+"I wrote a year ago about a collapse, but it's really collapses, getting more frequent, deeper and longer," said Robert Metcalfe, the inventor of the Ethernet computer networking technology and founder of 3Com Corp. who is now vice president of technology at International Data Group, of Boston, Massachusetts.
+Metcalfe said the congestion that causes many people to call the World Wide Web the "World Wide Wait" is only one of many problems that can prompt it to crash.
+Major outages have been caused by such seemingly minor events as a rodent chewing a power cable or an ampersand typed in the wrong place in software on central Internet devices.
+Over the summer, more than six million customers of America Online Inc., the world's largest online computer service, were without service for 19 hours because of a software problem.
+In October, a failure at Internet service provider BBN Corp.'s Stanford University Internet facility cut off access for 400 top high tech firms for nearly a day.
+MORE OUTAGES AS PROVIDERS TRY TO KEEP UP WITH DEMAND
+Experts such as Metcalfe predict similar types of outages next year as telecommunications companies and Internet providers struggle to keep up with demand.
+Still, Web surfers are also likely to see many new features in 1997, from advanced graphics to slick ways to communicate with each other using animated characters in virtual chat rooms and high-tech games.
+Dozens of companies, including the Germany-based Black Sun Interactive which recently opened an operation in San Francisco, have been developing new virtual worlds based on a technology called Virtual Reality Modelling Language (VRML).
+The technology, pronounced "ver-mul", enables creators of multi-player computer games, for example, to design lifelike characters and three-dimensional settings that will exploit new 3-D computer chip designs and speeded-up microprocessors with added multimedia features due next year.
+New capabilities include interactive, three-dimensional fly-over cities created by the startup Bigbook, which allows users to swoop down on a building and click on it with a mouse to see who the occupants are.
+SHOWDOWN OVER ONLINE PORN LIKELY
+But as the Net becomes more lifelike, the prospects for a showdown between regulators and free-speech advocates over the issue of online pornography is likely to increase.
+In October, the U.S. Federal Bureau of Investigation said it was investigating an electronic mail message sent to thousands of Internet users offering child pornography for sale.
+The question of whether to regulate the content of the Internet, both within a country's borders and internationally, comes as officials in Washington are pressing for reductions in sexual and violent content in film and television.
+One solution offered by some software firms is a device like television's V-chip, which allows parents to restrict access to certain programmes.
+Next year will also see new electronic communities in which people can participate as consumer, customer, contributor or even investor in enterprises over the Web.
+Although 1997 will not be the year people rush out to do all their shopping on line, it will be a critical year for deploying the technologies that will make electronic commerce widely available in 1998 and 1999, according to analysts.
+Michael Parekh, Internet analyst at Goldman Sachs, expects companies to continue using Internet technology both in internal networks, known as Intranets, and to create what are known as Extranets, to reach customers and suppliers.
+"The big thing for 1997 is going to be the way users think of the Web goes from a pull paradigm to a push paradigm," he said, referring to the goal of being able to send data to individuals rather than waiting for them to seek it.
+In the United States, only about one third of the country's 97 million households have a personal computer, and just 11 percent of U.S. households are estimated to have the modem devices necessary to link them to the Internet.
+Faster, 56-kilobit modems are due next year, but analysts expect a battle over standards will slow their spread.

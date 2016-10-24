@@ -1,0 +1,15 @@
+Novell Inc. Tuesday named Eric Schmidt, a prime architect of Sun Microsystems Inc.'s Internet and Java language strategy, as its chairman and chief executive officer.
+Schmidt, who will join Novell April 7, will be charged with re-energizing the network software company, which has been involved in a head-to-head battle with software giant Microsoft Corp..
+Over the last 18 months, Novell has managed to dispose of software applications WordPerfect and Quattro Pro, which had been acquired by former Novell chief executive officer Ray Noorda in a failed effort take on industry leader Microsoft.
+Analysts and industry executives, some of whom were startled by the move, said Schmidt had the energy and intellect to help hone the company's strategy and to draw talented but scarce developers to its ranks.
+"A lot of guys want to ride at the front," one analyst said of Schmidt's move to the chief executive position.
+Schmidt, who joined Sun in 1983 as a manager of software, said the opportunity to run Novell would fulfill "a lifelong dream" of heading up a company in the industry.
+In recent months, Schmidt has emerged as a main spokesman for development of the Internet and of Sun's effort to promote the Java language, designed to enable software to run on virtually all computer systems.
+These skills will be critical at Novell, analysts said, where former Hewlett-Packard Co. Chairman John Young has been serving as chairman since last August when former Novell CEO Robert Frankenberg stepped down, just as the company was gearing up a new Internet focus.
+Young will move to the post of vice-chairman.
+Chris Le Tocq, an industry analyst at Dataquest, said Schmidt "will bring the vision" Novell has been lacking.
+Despite facing competitive pressure from Microsoft, Novell still has the No. 1 market share in network operating systems.
+Joe Marengi, Novell's president and chief operating officer who was serving as acting CEO since Frankenberg's departure, said Novell currently claims 60 million users worldwide.
+"I think it's a very defensible position and, in fact, one that we can grow very rapidly, in my personal view," Schmidt said of Novell's market position.
+In addition to competing with Microsoft in advanced networking features, Schmidt said the company will work to make sure its software works well on both Microsoft's Windows NT and Unix networking environments.
+Schmidt received a degree in electrical engineering from Princeton University and a doctorate in computer science from the University of California at Berkeley. He has worked at Xerox Corp.'s Palo Alto Research Center, at Bell Laboratories and Zilog Inc.

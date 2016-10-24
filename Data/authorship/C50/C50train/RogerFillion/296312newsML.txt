@@ -1,0 +1,13 @@
+Regulators set aside a chunk of airwaves Thursday to let schools, businesses, communities and others bypass phone lines and send video images, data and voice over their own local wireless computer networks.
+The Federal Communications Commission's decision, for example, will allow a school to create a high-speed wireless network among classrooms that could then hook up to the World Wide Web, the multimedia portion of the Internet.
+That way, the school can avoid the costs of rewiring a building with high-capacity phone lines for computer use. Drilling through walls with asbestos can be expensive.
+"In many buildings, including schools, a wireless connection will be a cost-effective alternative to pulling wire through walls and ceilings," said Commissioner Susan Ness.
+Hospitals, community groups, companies and libraries also could create local high-speed networks in a building, or link up with computers and printers in nearby facilities or communities.
+Users of the new spectrum will not need an FCC license, just like users of baby monitors and cordless phones that also operate over the radio spectrum.
+And users will be able to cram more data on a high-speed wireless network than over a traditional phone line.
+Computers equipped with antennas are expected to allow consumers, businesses, hospitals and others to create the networks. Now that the FCC has set aside the spectrum, companies are set to produce the needed technology. The equipment, when it is available, must receive FCC approval.
+"Companies can now go ahead and build products for use in the spectrum," said Eric DeSilva, an attorney representing the Wireless Information Networks Forum. The consortium is made up of Lucent Technologies Inc., International Business Machines Corp. and other companies promoting wireless networks.
+Government and industry officials said potential applications abound.
+Hospitals staffers could receive on-the-spot patient data or X-rays over a wireless network throughout the building. Or a neighbourhood group could communicate within a community over the airwaves via computer.
+The FCC set power limits on the different spectrum bands that will be used so that existing users of the airwaves -- such as satellites and high-powered government radar systems -- will not face interference.
+Operators over the lowest spectrum band will be restricted to indoor use. Users of the middle band will be able to operate over a wider area, such as a college campus. And those using the highest band will be able to operate over several kilometres, such as within a community or with a nearby community.

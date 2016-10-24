@@ -1,0 +1,14 @@
+Informix Corp. , facing plunging sales of its database software products, plans to raise cash and is considering refinancing its leases to keep its operations going at current levels, the company said in filings with federal regulators.
+(Clarifies that company has yet to decide whether to refinance its leases).
+The struggling database software company plans to raise capital to offset upcoming losses from operations, and to shore up its shrinking cash supply, according to a filing with the Securities and Exchange Commission.
+Informix also is considering arranging for the refinancing of leases on parcels of land in Santa Clara, Calif., where it intended to build new corporate headquarters.
+"While the company believes it will acquire the necessary financing, there can be no assurance that such financing will be available," Informix said in the filing. "The company's failure to raise working capital would have adverse effect on its business, results of operations and financial condition."
+Informix, based in Menlo Park, Calif., is the second-largest publisher of database software, the computer programmes that let companies store huge libraries of vital information on computer networks.
+Earlier this year, the company made a huge bet on a jazzy new database product, dubbed Universal Server, aimed at customers in just-emerging multimedia markets.
+The bet, Informix executives have said, turned out to be misplaced. By focusing its marketing on the new product, Informix neglected its older, better-selling products.
+It reported a first-quarter loss of $140.1 million, or 93 cents, on revenue of $133.7 million. Sales declined 34 percent in the first quarter.
+The huge loss slashed Informix's cash supply in half to $120.6 million from $261 million, the company said. Part of the decline also was due to a $61.5 million cash deposit with Banque Nationale de Paris, which provided the financing for the Santa Clara land.
+Informix also needs the money to carry on its plan to build 14 Information Superstores, a chain of showrooms where the company plans to demostrate the capabilities of its programmes to potential customers.
+Informix's financial trouble also has raised speculation that the company is a candidate for an acquisition by a larger software vendor, possibly Computer Associates International Inc. or Netscape Communications Corp., analysts said.
+Based on the speculation, Informix shares jumped $2.19, or 24 percent, to $11.375 on trading of 17.6 million shares on Nasdaq, where it was the most active issue.
+An Informix spokesman declined to comment about the takeover speculation.

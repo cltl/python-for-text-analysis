@@ -1,0 +1,24 @@
+Congress revives the debate over encryption export policy this week but much has changed since last year's tussles.
+Once the domain of spies and generals, encryption has become a critical component of electronic commerce and global communications on the Internet.
+This year, the Clinton administration has a new policy in place allowing freer export of encryption products, programs that scramble information and render it unreadable without a password or software "key."
+The new Clinton policy, enacted through executive order in November and in effect since January 1, allows export of stronger encryption than previously allowed. But it requires companies to incorporate features within two years allowing the government to crack the codes by getting access to the software keys.
+The government says it needs the ability to crack strong encryption to catch criminals and terrorists.
+While a few companies, most notably International Business Machines, have obtained export licenses under the new policy, most high-tech companies remain frustrated.  
+They want to be able to export very strong encryption without including the government access features.
+Privacy advocates also oppose the current Clinton policy, which they say puts too much power in the hands of government.
+Since the government does not require guaranteed access to the keys to one's home, it should not be given such access to the keys to one's data, they argue. "My lock, my key," is the slogan on their buttons this week.
+In congress, the passage of time has crystallized the issue for many members and both sides in the debate have found new allies. Last year, most lawmakers seemed either in favor of relaxed export restrictions or undecided.
+The full Senate Commerce Committee will hear testimony Wednesday on two bills introduced in the Senate to remove almost all export restrictions, and Thursday, the House Judiciary subcommittee on Courts and Intellectual Property will debate a similiar bill under consideration there.
+While the list of supporters of the bills has grown, some outspoken opponents have surfaced for the first time.
+Sen Bob Kerrey made a statement on the Senate floor March 3 opposing the Senate bills.  
+"The administration's policy not only can work, it is working," the Nebraska Democrat said. "Congress should let the administration's negotiations and policies on encryption go forward, to succeed or fail on their own merits."
+At confirmation hearings for Anthony Lake to head the Central Intelligence Agency last week, senators also raised the encryption issue and appeared to side with the administration, including Kerrey, Sen John Kyl, Republican of Arizona, and Sen John Kerry, Democrat of Massachusetts.
+Lake Monday dropped out of the running for CIA chief.
+Kyl plans to make a policy statement on the issue shortly, a staffer said, possibly as soon as Wednesday at a hearing on Internet crime in the Judiciary subcommittee Kyl chairs.
+Sen Max Baucus was also said to be leaning towards the administration but a spokeswomen denied the Montana Democrat was inclined toward either side. Baucus is seeking a consensus approach and "has taken no position on any of the proposed bills," spokeswoman Naomi Seligman said.
+Sen Kerry's office did not return calls for comment.  
+At the House encryption hearing, Under Secretary of Commerce William Reinsch, deputy director of the National Security Agency William Crowell and a member of the Department of Justice criminal division, will defend the Clinton policy.
+The Senate will also hear from FBI director Louis Freeh and special encryption envoy David Aaron.
+Industry representatives at the hearings will include officials from Netscape Communications Corp, one of the most vocal administration critics, and Microsoft Corp.
+Privacy advocates will testify in the House, including Jerry Berman, executive director of the Center for Democracy and Technology, and Marc Rotenberg, director of the Electronic Privacy Information Center.
+((--202-898-8312))

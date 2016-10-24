@@ -1,0 +1,25 @@
+Promising the computer industry equivalent of universal harmony, a U.S.-based start-up formed by a brain trust of Israeli computer scientists Monday unveiled a technology that promises to overcome barriers dividing users of rival software programs.
+Anysoft Inc. said its set of software technologies allows computer users to manipulate information from any application while retaining all formatting and other properties.
+The system functions as an underlying layer of operating system software, but independent of any one operating system. An operating system controls the basic functions of a computer. Anysoft officials asserted the system can handle text, numerical data, graphical images, video and other data, including information available only at remote Internet sites.
+"This is the beginning of true software interoperability," Anysoft Chief Executive Illan Poreh said in a statement. "For the first time, all applications, including those that have not incorporated the ANY Technologies, will work together."
+The private Cambridge, Mass.-based firm is backed by Bank Leumi, Israel's largest bank, and 21 private investors, including several senior executives at modem maker U.S. Robotics Corp..
+In an interview, Anysoft founder Poreh said the company's team of software programmers was handpicked from among top professors and graduate students at leading Israeli universities, including Technion, the Israeli Institute of Technology.
+Industry analysts briefed on the technology hailed it as a decisive breakthrough, based on its potential to liberate computer users from dependence on any single operating system, such as Microsoft Corp.'s Windows.
+"This is certainly one of the most significant technologies I've seen in the past five years," said veteran industry analyst Tim Bajarin, who heads Creative Strategies, a San Jose, Calif.-based consulting firm.
+"What Anysoft has done is taken software interoperability beyond a forced Windows-X86 environment," Barjarin said, referring to the ruling combination of Microsoft software and Intel Corp. software and hardware systems.
+Nonetheless, Anysoft's audacious goal is set against a history of failed industry attempts to create a universally accepted format capable of handling all types of computer data.
+In recent years, leading computer makers like International Business Machines Corp., Digital Equipment Corp. and Hewlett-Packard Co. have rallied around a common software compabability standard known as CORBA.
+However, this and similar initiatives have been hamstrung by competitive rivalries among industry players and the belief that programmers must unify around a single standard for creating software.
+Microsoft's own effort at ushering in a "Golden Age" of software compatability has gone by several names, such as Object Linking and Embedding (OLE), and ActiveX, its Internet-based compatability standard.
+But Microsoft's efforts have met with foot-dragging by companies unwilling to cede the software giant any more standard-setting power than it already has.
+By contrast, the ANY concept is based on the seemingly simple idea that the only univeral information from different operating systems is what computer users see displayed on a screen.
+"The screen is the only standard that everyone is using," Poreh maintained.
+Anysoft has created software extensions that give computer users the perception of compatibility without having to address underlying programming differences that have ensnared previous efforts, he said.
+Anysoft's go-it-alone strategy depends on seeding its technology widely among software companies, Internet service providers and large corporations developing their own software applications, all of which might include Anysoft's universal data routing features in their own products.
+Consumers would have to wait until products using the technology become available from these companies.
+Poreh said he plans to charge companies using Anysoft technology in their products a licensing fee starting at around $20,000 and running up to $400,000, depending on the potential number of users of the product.
+In addition, Poreh said Anysoft plans to ask for a royalty of 1 percent to 3 percent, or a flat fee, again depending on the potential number of customers.
+ANY technology is designed to extend software systems such as Windows or Lotus Notes, and existing compatibility programs such as Adobe Systems Inc.'s  Acrobat, Sun Microsystems Inc.'s Java or even the Internet, rather than replace them, Anysoft officials said.
+Anysoft said it has held licensing talks with five of the world's top 10 independent software development companies, including IBM.
+Poreh said IBM's main interest appeared to be in using ANY technology to recover data from so-called "legacy" applications running on older mainframe computers where the underlying software is no longer being actively maintained.
+ANY technology currently works with software running on Microsoft's Windows operating systems. The technology is in the process of being made compatible with Apple Computer Inc.'s Macintosh, IBM's OS/2 and the Unix-based X/Windows operating system, company officials said.

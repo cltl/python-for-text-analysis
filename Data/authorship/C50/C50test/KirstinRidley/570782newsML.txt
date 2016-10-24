@@ -1,0 +1,38 @@
+Forget applets, baud rates and java. Computer experts say they don't matter -- not without cryptography.
+With new technology fuelling an explosive growth in communication over the Internet, companies are looking to cash in on developing codes so tough they will render information unintelligible.
+Cryptography -- encoding data, establishing its authenticity and preventing its undetected modification and unauthorised use -- is seen as the key to the future of the booming virtual business world.
+But throw in terms, abbreviations and acronyms such as TTPs (trusted third parties), LEAKs (law enforcement access to keys), key escrow, key recovery and algorithms -- and confusion reigns.
+"I've been working in this industry for four years and I don't know what some of the terms mean," complained a member of the high-powered audience at the snappily-named "Encryption Feasibility Summit" in London last month.
+INTERNET MARKET DRIVES ECONOMIC GROWTH
+Nearly 200 million people expect to be connected over the Internet in the next few years.
+Investment bankers Takumo Amano and Robert Blohm say the Internet market is the single most important factor behind the strength of the United States economy.
+They estimate that as business on the Internet met demand for software, hardware products and communications lines, it contributed some $200 billion, or roughly three percent, to last year's U.S. gross domestic product.
+But while everyone agrees that it is vital to encourage electronic commerce by allowing secure transactions across international borders, law enforcers and the business community stand diametrically opposed on how to do it.
+REGULATION DEBATE
+Should encryption, which hides data from both computer-hacking corporate rivals and the police, be regulated? And if so, how?
+"There are two approaches," says David Hendon, the British government's Internet regulation expert at the Department of Trade and Industry (DTI).
+"One is the fear that strong encryption will become available on the Internet. The other is the fear that it will not become available on the Internet."
+The drawn-out debate has spawned new creatures -- cryptoanarchists (those wanting no controls on cryptography), cryptofascists (those wanting total government control) and the middle-of-the-roaders -- crytoconservatives and cryptoliberals (those believing in some controls).
+IS NATIONAL SECURITY AT RISK?
+While companies say they need to keep transactions over the Internet secret, governments are reluctant to accept technology that, for the first time, might make legally intercepted messages unreadable.
+What is not at issue is whether cryptography, like a spell checker, will soon be available on all software. It will.
+The issue is how impenetrable it should be and whether state security agencies should have access to the keys, or algorithms, that can unscramble codes.
+Codes come in various "bits" -- or key lengths. The longer the "bit", the tougher the code is to crack.
+While companies say they won't do business over the Internet unless they can use the toughest security available, governments are afraid that such codes will prevent them from uncovering crimes ranging from international guerrilla warfare to child pornography.
+THE AMERICAN ANSWER
+The U.S. government bans top U.S. software firms, like Netscape Communications Corp, from exporting their toughest 128-bit encryption technology.
+To the outrage of companies, U.S. export laws permit only ready exports of not more than 40-bit keys for all but a narrow category of products for financial transactions.
+"Too many consumers have heard about successful computer hackers. Without strong encryption, electronic commerce cannot advance beyond where it is today -- a nascent industry with less than approximately $500 million in total sales," says Netscape.
+THE BRITISH SUGGESTION
+In Britain, a consultation paper on cryptography regulation suggests licensing trusted third parties -- those firms offering cryptographic services to the public.
+To qualify for a licence, companies might have to store copies of the keys that decode their users' private files so that law enforcers, and some private parties, can intercept communications under certain circumstances.
+Critics complain that they no longer understand the definition of trusted third parties. "It seems to have changed from who the user trusts to who the government trusts," noted one speaker at the encryption conference.
+Another added: "I'm beginning to wonder whether there is a third party I can trust to tell me which third party to trust."
+Encryption is not new. A range of technologies designed to encrypt data that is stored and transmitted in cyberspace has been used by military and diplomatic governmental bodies for years.
+Although some companies already encrypt internal electronic information, the technology has not been open to full, international commerce.
+INTO THE REALM OF INTERNATIONAL LAW
+With multinational, lawful access to electronic data also at stake without multinational policies, international bodies such as the European Commission and the Organisation for Economic Co-operation and Development (OECD) have muscled in on negotiations that are moving in the direction of international law.
+After a year of talks with more than 100 government and business representatives, the OECD has called on countries to avoid creating unjustified obstacles to trade in the name of cryptography policy.
+Publishing eight, non-binding, recommendations, the 29-country group did not rule out giving governments access to keys to unlock encrypted material. But it also suggested that the right to privacy should be respected.
+General Motors, the world's biggest car maker operating in 170 countries and employing 745,000 staff, is calling for prompt multinational agreements that will allow it to choose its own encryption requirements which will be legal in all the countries in which it operates.
+"If we fail here, it is going to have devastating economic consequences for us," says James Dunn, a representative of General Motors International Operations.

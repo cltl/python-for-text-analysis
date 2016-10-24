@@ -1,0 +1,13 @@
+Tandem Computer Inc on Wednesday will become the latest maker of high-end, proprietary computers to introduce a line of machines based on personal computer technology.
+Tandem, which specializes in making transaction-processing computers for banks and stock exchanges, said it will unveil a line of servers based on Intel Corp's Pentium Pro microprocessors and Microsoft Corp's Windows NT networking operating system.
+The servers -- which are computers souped up to control the flow of information through a network -- will include some of Tandem's technology for handling huge volumes of transactions, the company said. Tandem plans to pitch the machines to customers who want to set up shop on the Internet.
+The machines are Tandem's first step to rely less on sales of computers based on its own proprietary software and technology.
+Banks, telephone companies and stock exchanges still rely heavily on Tandem's so-called fault-tolerant computers for their heavy-duty computing.
+But Tandem's sales growth has stalled in recent years as its customers have replaced some of its machines with networks of cheaper computers from companies such as Sun Microsystems Inc and Compaq Computer Corp.
+To strike back, Tandem unveiled a strategy earlier this year that includes making servers based on off-the-shelf technology from Intel and Microsoft.
+Other high-end computer makers, such as International Business Machines Corp and Digital Equipment Corp, embarked on similar strategies years ago.
+With its new machines, Tandem plans to help its existing customers set up networks based on Microsoft's Windows NT networking software, said Chris Rooke, Tandem's vice president of corporate marketing.
+"We expect Tandem to now be on our customers' vendor list when they're looking at using Windows NT in more business- critical applications," Rooke said. "Yes, we do expect to open new accounts, but we expect to still be Fortune 500-class customers."
+Rooke said Tandem will concentrate on selling the machines as foundations for businesses that want to sell their wares online.
+Tandem also plans on Wednesday to unveil a new line of its Himalaya servers, a line of proprietary servers for storing and retrieving huge libraries of corporate information.
+Rooke declined to discuss the pricing of its new lines.

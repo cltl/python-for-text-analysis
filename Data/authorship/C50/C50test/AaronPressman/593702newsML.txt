@@ -1,0 +1,11 @@
+Sun Microsystem Inc's decision to use powerful computer encoding software made in Russia put added pressure on the Clinton administration on Monday to relax strict U.S. export controls on similiar products made by American companies.
+Encryption products, which scramble information and render it unreadable without a password or software "key," have become a critical component of global communications and online commerce over the Internet.  
+But encryption's power to prevent hackers from snooping on telephone calls and credit card numbers sent over the Internet can also be employed by drug cartels or terrorists to thwart law enforcement survellience.
+Clinton administration officials oppose allowing exports of powerful U.S. encryption programs unless the software is designed to allow the government to crack the codes by gaining access to the software keys.
+Federal Bureau of Investigation Director Louis Freeh and others have said repeatedly that the encryption "genie" is not yet "out of the bottle."  
+"It's an arguably legal way around what is clearly a ludicrous export control policy of the administration that is creating jobs in Russia," Rep. Bob Goodlatte said in a telephone interview.
+Goodlatte, Republican of Virginia, introduced one of several measures being considered by Congress to relax the export controls. The bill was passed by the House Judiciary Committee last week and is awaiting action by the International Relations Committee.
+If U.S. export restrictions stay in place, industry officials warned, other companies will go the same route.
+"A lot of U.S. companies have been contemplating this," said Jon Englund, vice president at the Information Technology Association of America. "Sun's move is the first example of a trend that will continue. We'll see more and more of that."
+Administration officials had no comment on the Sun announcement.
+((202-898-8312))

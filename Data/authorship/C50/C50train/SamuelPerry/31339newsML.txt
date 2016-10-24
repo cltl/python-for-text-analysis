@@ -1,0 +1,12 @@
+Lotus Development Corp. Chief Executive Officer Michael Zisman said Wednesday the company will focus its attention on what could become a $1 billion market for collaborative Internet software by 1999.
+Lotus, acquired by International Business Machines Corp. last year in a deal valued at more than $3 billion, should not try to be all things to all people, he said, but to concentrate its core business of software for groups, or so-called groupware.
+"Collaboration is clearly our sweet spot," he said in a keynote address at a three-day Internet &amp; Electronic Commerce conference here organised by the Gartner Group.
+A new version of the company's popular Lotus Notes software due out in the fourth quarter, version 4.5, will offer Notes server software to host collaboration over the Internet. Servers are computers that manage the flow of data in a network.
+This latter feature is provided by new Lotus technology dubbed Domino, which is currently being tested.
+Zisman said too much attention was now devoted to browsers, software that lets users help navigate the Internet.
+"The browser market is being eclipsed by the server market today as we speak," he said, noting browsers will most likely be offered as part of the operating system, as with Windows.
+"The action, I believe, is going to be in the server market," he said, adding that server software for collaboration through Internet sites alone is projected to be a $1 billion market by the end of the decade.
+The market for servers at the hub of Web sites will likely segment into at least three distinct classes -- content, collaboration and commerce -- and larger organisations will likely mix "best of breed" applications from different suppliers, he said.
+Lotus Development is concentrating helping people work together electronically, he said, because "content without collaboration is useless ... the value is not in the content."
+He noted as an example Web sites which not only carried information, but enabled people to communicate interactively with the Web site or other individuals using the Internet.
+"The borders are blurry. I don't believe that we will see pure content sites and I don't believe that we will see pure commerce sites," he said. "We will obtain and retain customers if we engage them."

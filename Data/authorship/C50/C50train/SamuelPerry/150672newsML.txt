@@ -1,0 +1,23 @@
+Sun Microsystems Inc's newly launched Javastation network computer is its first machine to compete directly with low-end personal computers, but analysts aren't expecting runaway sales just yet.
+"Maybe a couple of years from now it will begin competing with low-end PCs," said Evan Quinn, an analyst at International Data Corp, noting Sun's network computing strategy is tied to future expansion of its Java technology.
+An entry-level NC will be available in December.  
+Earlier Tuesday, the Mountain View, Calif.-based provider of network computing products and powerful workstations, introduced the JavaStation, a scaled-down PC designed to access corporate networks and the Internet, with an entry price of $742.
+The company said the entry-level model would contain eight megabytes of memory and will ship beginning in December. A fully configured system, which includes memory, a keyboard, a mouse and fourteen-inch monitor will ship for $995.  
+Sun officials are hoping the device will appeal to corporate clients looking to cut their costs for upgrading and maintaining office PC's.
+However, given the entry of long-time NC doubter Microsoft Corp into the market with plans for a light version of its Windows operating system, the market will be hotly contested.
+International Business Machines Corp launched its first NC model last month.  
+Redwood City, Calif.-based Oracle Corp, which has been beating the drum for creating a new NC standard for 18 months, is leading a further effort to build network computers for broader markets.
+"This is just beginning to heat up and could potentially start getting very interesting," one analyst said of the brewing slugfest between computer industry titans.
+Sun Microsystems's machines are more highly targeted than many of its adversaries', however, and it has linked them together with a Java-centric model of future computing.  
+Java, a hot new technology introduced by Sun in May 1995 as a programming language initially, has since been expanded into a whole computing architecture for both hardware and software as Sun moved aggressively to proliferate its use.
+Sun has licensed Java to the suppliers of nearly all major computer operating systems, including Microsoft and its popular Windows operating systems. One of Java's most compelling features is that it can be used across rival systems.  
+This feature should enable software developers in the future to write one version of their software that could work on nearly all systems, known as "write once, play anywhere."
+Initially, the market will be to replace very basic computer terminals, such as IBM's 3270 terminals or IBM AS/400 midrange character-based terminals, in very simple, dedicated functions such as entering data into a company's network.
+International Data Corp projects there are "a couple of million" such terminals in use currently, and perhaps as many as 10 million personal computers used for such activities.  
+The market for the NC is likely to build sales gradually, according to IDC, which expects a million to be sold around the world in 1997, still dwarfed by the tens of millions of personal computers sold annually.
+Some industry analysts have questioned whether the NC will ever really catch on, and many believe it will not do so for at least some 18 months or so, by which time Sun's partners should be producing microprocessors optimized for Java.
+Ed Zander, president of Sun Microsystems Computer Company, said in an interview that Sun realistically expects acceptance to be a gradual process, but to lead to a new computing epoch.
+"We worked long and hard about not just producing a cheap box, but (also addressing the question) 'How does that box work in a corporate environment?'," he said. "'How do you administer it? How do manage it? How do you develop it? How do you deploy it?'"
+He acknowledges Sun's approach produced a system that is "markedly different" from the NCs that Oracle and IBM are talking about, or even that of Microsoft's NetPC.
+Sun is targeting cost savings, claiming large organizations can reduce the three-year cost of ownership using its Java systems to around $7,500, or as much as one fifth of three-year networkedPC costs projected at up to $36,000.
+--sam.perry@reuters.com, Palo Alto Bureau, +1415 846 5400

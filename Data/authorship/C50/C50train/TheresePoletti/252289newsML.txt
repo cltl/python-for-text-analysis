@@ -1,0 +1,17 @@
+One of the hottest topics this week at an Internet show is so-called "push technology," which directly broadcasts customized news to a networked PC, but it is also already seen as the next area ripe for a shakeout.
+Internet broadcasters are lead by companies like PointCast Inc., a privately-held firm in Santa Clara, Calif., which announced a major deal with Microsoft Corp on Tuesday.
+PointCast of Cupertino, Calif., and several other start-up companies deliver customized news, or specific Web sites, depending on the service, to consumer or corporate users, several times a day, so that a user doesn't have to go to the Internet and wait, the content is delivered.
+"Making the Internet a broadcast medium is a direction that a lot of companies are going in, but that's already really crowded," said Ted Julian, an analyst with IDC Corp.
+At Internet World, there are several privately-held push technology companies that are exhibiting and demonstrating their service, and trying to differentiate themselves amid all the hype about Internet broadcasting.
+PointCast was the first company to develop these systems, called personalized broadcast systems, and it now has 1.7 million subscribers. It delivers news from the New York Times, the Boston Globe, Reuters Holdings Plc, and now, MSNBC, the online venture of Microsoft and General Electric's NBC.
+PointCast and most of the other startup companies all operate on the same model, which is an advertising-based model. These companies sell advertising space on their service and offer the service for free to subscribers. By building up lots of subscribers, they can gain more advertising revenue.
+The deal PointCast signed Tuesday with Microsoft has the potential to significantly expand its subscriber base, because PointCast will become part of its next generation desktop software.
+The Boston-based Yankee Group said in a study to be soon released that the Internet broadcasting market will significantly affect the way companies collect advertising dollars on the World Wide Web.
+Yankee is predicting that by 2000, Internet broadcasting will be worth $5.7 billion in revenues.
+But with many more companies arriving on the scene and Microsoft and Netscape Communications Corp getting into this market, consolidation in on the horizon, because media companies will not want to develop a channel for each delivery system, most of which for now are proprietary.
+"There is no way I am going to download all four of these, and I am in the industry," said Jerry Yang, one of the founders of Yahoo! Corp. "This is a huge issue."
+Even the players themselves are also predicting a shakeout, but each company predicts it will be one of the winners.
+Some of the other players include Freeloader, which was recently purchased by Individual Inc. Freeloader lets subcribers customize whatever Web sites they want delivered to their desktop, plus the news that is available on Individual.
+"Clearly there will be a big shakeout," said Sunil Paul, president of Freeloader. "PointCast clearly stands out and we will be one of them (survivors)."
+Another talked about startup, called IFusion, is offering television-like content with video and audio in its service which will be introduced early next year, called Arrive. The company also offers development for media companies.
+"Ultimately there will be some sort of shakeout and we will be left standing," said Candice Meyers, director of content development at IFusion, based in New York.

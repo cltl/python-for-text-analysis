@@ -1,0 +1,11 @@
+MCI Communications Corp on Wednesday said it developed a new network type called Vault which combines conventional voice telephone networks with packet-switched networks like the Internet on a single line.
+MCI said the cost is part of the $100 million a year it is spending on upgrading its Internet networks. The company plans to earn $2 billion a year in Internet revenues by the end of the century.
+"It can be done over a conventional phone line," MCI Chief Engineering Officer Fred Briggs told Reuters.
+For example the technology will allow a customer to talk to and receive computer data from an MCI service representative simultaneously on a single, conventional telephone line by turning the voice into data packets.
+"We have been working on this for months," Briggs said. He declined to say whether MCI had patented the technology.
+Customers currently need separate lines to communicate over a telephone network and a packet-switched network.
+Packet switching means that traffic is divided into manageable chunks and labelled for its ultimate destination. It will be sent via the most convenient route, while conventional phone calls can only travel the route set in advance.
+Packet switching has a network efficiency benefit. It is the difference between diverting cars away from city congestion and not being able to do the same to bypass a breakdown on the subway.
+"From a customer's perspective, communications will be simplified.  The issue of which network a communication travels over will be irrelevant," said MCI President and Chief Operating Officer Tim Price.
+MCI is already using Vault technology to provide enhanced features to its directlineMCI product by allowing customers to update their account profiles via the World Wide Web.
+MCI plans to add products suitable for vault in areas like intranet managed services, facsimile, document sharing, video conferencing and communications management. ((-- New York Newsrom 212 859 1610))

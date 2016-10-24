@@ -1,0 +1,20 @@
+Computer Associates International Inc. is expected to unveil Monday a new Internet division that promises to save businesses from the headaches of seeking numerous vendors now needed to set up and manage a Web site.
+The company, which manages Web sites for large corporate customers, also plans to sign up hundreds of thousands of small businesses to use the service whether they own computers or not, sources close to the company said.
+In this "community" Internet service, neighbourhood businesses such as pizza parlours would contract with Computer Associates to establish an Internet presence, allowing customers to call up a shop's Web site to place an order.
+Currently, a company wishing to establish itself on the the Internet is confronted with a maze of separate vendors from which they must buy the necessary hardware, software and consultanting services to put together the disparate elements.
+The aim of Computer Associates' one-stop Internet service would be to shoulder all the messy technical responsibilities for customers, allowing them to focus on their own business.
+"Computer Associates wants to ride the electronic commerce wave that is coming down the pike," said one source familiar with the CA Internet unit strategy. "CA will provide a company the capacity for electronic commerce (on Web) sites in return for a revenue-sharing arrangement."
+Although not nearly so well known as Microsoft Corp. and other brand name PC software makers, Computer Associates is the world's top mainframe software supplier and the second largest independent software firm overall after Microsoft.
+Launching the new business unit is one of several major announcements the company is expected to make at its three-day CA World conference that started Sunday in New Orleans.
+In addition, Islandia, N.Y.-based Computer Associates has slated separate press conferences with Microsoft, Intel Corp. and Tandem Computers Inc. Monday and Tuesday.
+Microsoft Chairman Bill Gates is scheduled to deliver a keynote speech Tuesday evening that is likely to centre on the further integration of Consumer Associates and Microsoft software strategies.
+Computer Associates declined to comment on announcements that may be in the works. Specifically, officials would not discuss plans to launch a separate Internet business unit.
+But sources familiar with Consumer Associates' plans confirmed that the new Internet unit has been formed to help customers create dynamic Web sites tied to internal corporate database systems.
+A special focus would be to make customer information stored on legacy mainframe systems available via the Web.
+Web-based electronic commerce tools would tie the system directly to a company's back-office accounting department.
+The division will account for only a few hundred out of Computer Associates' 9,000 total employees, the sources said.
+The planned business, which has been in the works since April, would be a natural extension of CA's systems management and database products target its existing customer base of the world's largest corporations, as well as smaller firms.
+In the pizza parlour example, a customer order would be routed over Computer Associates computers to the local pizza parlour, which would bake the pizza, bill the customer's credit card account and then deliver the order.
+Customer data storage would be hosted on Consumer Associates mainframes, an unusual feature compared to the hundreds of other Web service providers, who tend to leave information management in the hands of customers once Web site development work is complete.
+In effect, Computer Associates' plans would resurrect mainframe time-sharing, where in companies rent time on remote computers and pay service providers to assume responsibility for the headaches of managing the systems.
+Computer Associates stock, which has been trading at historic highs recently, rose $1 to close at $58.25 on the New York Stock Exchange Friday.

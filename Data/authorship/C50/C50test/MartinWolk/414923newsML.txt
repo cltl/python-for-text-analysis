@@ -1,0 +1,12 @@
+Continuing its sweeping effort to acquire key Internet technology, Microsoft Corp. said Monday it had purchased Interse Corp., a privately held developer of Web site analysis software.
+Terms of the deal for the 30-person Sunnvale, Calif.-based company were not disclosed.
+A Microsoft executive said Interse's market focus tool would be added quickly to the software giant's BackOffice line of server products, but details of how the software will be repackaged had not been worked out.
+Interse market focus, which ranges in price from $695 to $6,995 depending on features, allows Web site operators to track visitor behaviour.
+"Understanding usage patterns on your Web site is the best way to see what your customers are interested in so you can deliver the most targeted content," Microsoft Chairman and Chief Executive Officer Bill Gates said in a statement. "Interse is the team that had this vision and is delivering on it."
+"It's really a comprehensive usage analysis and reporting solution," said Terry Myerson, president and chief executive officer of Interse, who along with some other of the company's employees will be joining Redmond, Wash.-based Microsoft.
+He said in an interview that he would continue to work on the technology with the aim of being able to dynamically create customised Web pages based on a user's known preferences.
+"That is the holy grail of what this medium wants to be," said Steve Harmon, senior investment analyst with MecklerMedia Corp. "What it's all about really is what I call the 'me-net.'"
+While Microsoft probably could have developed its own solution, the compressed product cycles of "Internet time" have spurred the company to buy dozens of small startups over the past year to ensure it does not fall behind competitors.
+"Every day that goes by when you don't have a solution, you're that much more open to a competitor gaining a strong market hold," Harmon said.
+With its buoyant stock and $9 billion in cash, Microsoft can afford to be generous.
+"All of our employees were taken care of terrifically," Interse's Myerson said. "It was a very positive experience."

@@ -1,0 +1,13 @@
+The stock of networking software company Citrix Systems Inc. lost almost 60 percent of its value Thursday amid concerns that its core product might face competition from industry behemoth Microsoft Corp.
+Citrix shares tumbled $15.625 to $10.625 in heavy trading, with over 13.8 million shares changing hands.
+Late Wednesday, Citrix said it was told by Microsoft that Microsoft was looking to develop multi-user features in its increasingly popular Windows NT operating system that would compete with Citrix's WinFrame software that lets users of multiple computers acccess Windows NT.
+Microsoft later said it does have a product team working on such a software project, Microsoft Senior Vice President Jim Allchin said Thursday.
+"We have a development team under way," Allchin said in a phone interview. He also said Microsoft is "always talking" to other companies about licensing technology.
+Allchin said Microsoft will end up offering the multi-user capability to its users in Windows NT, but it has yet to decide if the technology will come from its own development, from Citrix, or from another company.
+Fort Lauderdale, Fla.-based Citrix said Wednesday that if Microsoft decided to develop features that would compete with its WinFrame technology, it would hurt Citrix's finances, but it did not give any specifics.
+A Citrix spokeswoman said the licensing talks were continuing and that its relationship with Redmond, Wash.-based Microsoft "remains strong." A Microsoft spokeswoman said that the talks between the two are continuing and nothing is final.
+Microsoft Treasurer Greg Maffei is a member of Citrix's board of directors, and Microsoft owns an equity stake of about 6 percent of Citrix.
+Microsoft's Allchin said, "Customers are asking for this.... It's a natural extension of the family that we already have. It should not be a surprise to anyone. It's just another part of the Windows family."
+Last year Microsoft introduced Windows CE, a slimmed-down version of Windows and applications for personal digital assistants and consumer devices in the future.
+Allchin said Microsoft already has a team of "reasonable" size working on developing multi-user capability, which would allow, with remote access, users on multiple devices ranging from personal digital assistants, PCs, so-called network computers, laptops and other devices, to access a server running Windows NT and applications.
+Last month, Citrix reported record revenues of $15.6 million in the fourth quarter, up from $5.2 million in the year-ago quarter. The company said that its strong quarter reflected the momentum in the Windows NT marketplace.

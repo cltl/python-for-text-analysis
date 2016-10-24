@@ -1,0 +1,26 @@
+Netscape Communications Corp. Tuesday unveiled a line of low-cost software to make corporate networks more like the Internet and said that it would "embrace" archrival Microsoft Corp.'s products as part of its war for control of the corporate software market.
+Netscape is under heavy attack from software behemoth Microsoft, which is seeking to wrestle away some of Netscape's dominant share in both Internet and intranet software.
+The Mountain View, Calif.-based upstart has about 80 percent of the Internet browser software arena with its Navigator software and between 60 percent to 70 percent of the exploding "intranet" market.
+A corporate "intranet" is a computer network designed around Internet technology and open standards.
+As part of its plan to try to hold onto its lead and to gain entree to more companies, Netscape unveiled several products for the corporate market and said it was "embracing" Microsoft applications software and its operating systems because many potential customers rely on Microsoft products.
+"We are very hard-core about ... fitting into our customers' 'legacy' systems," Marc Andreessen, co-founder and senior vice president of technology at Netscape, told a news conference, in one of many jabs at Microsoft.
+"Legacy systems" is a term in the industry that usually refers to the established, older technology running a corporation, such as mainframe computers.
+Netscape stock dipped 62.5 cents to $44.25, while Microsoft rose $2.25 to $138.875 on Nasdaq.
+Netscape announced several new intranet products, including new software incorporating the latest upgrade of its popular Navigator Web browser, Version 4.0, and priced them way below similar offerings by both Microsoft and Lotus Development Corp., Netscape said.
+One new software product, Netscape Communicator, combines Navigator and other components: Composer, to create documents in the hypertext markup language (HTML) used on the Internet's World Wide Web; Messenger, an electronic mail application; Collabra group discussion software; and the Netscape Inbox Direct service, which delivers messages and news stories to an e-mail address daily at no extra cost.
+Netscape Communicator will replace the current Navigator software for consumers. Communicator is priced at $49 for the standard version and $79 for the professional edition, per user.
+Netscape expects to make Communicator available by next year's first quarter for 17 major computer operating systems, including Windows 95, Windows 3.1 and Apple's Macintosh.
+Users of Navigator 3.0 who have purchased a subscription will receive an upgrade to Communicator at no charge.
+Netscape also introduced an upgrade of its SuiteSpot software, which manages the server computers that run corporate networks.
+SuiteSpot is priced at $57,900 for 1,000 users. This compares with prices of $73,590 to $279,590 for competing products from Microsoft and Lotus, Netscape said.
+Netscape also unveiled an initiative to help corporate users make it easier to use its software with core Microsoft products, such as its Windows 95 and Windows NT operating systems and Microsoft Office with Netscape products.
+Analysts said Netscape is trying to appeal to a whole new group of corporations by enabling its software to run with the huge installed base of Microsoft-based PCs and servers.
+"The strategy is not to scare away the IT (information technology) managers," said Eric Brown, a Forrester Research analyst.
+Netscape's not-so-friendly bear hug of Microsoft is part of the David-and-Goliath war with Redmond, Wash.-based Microsoft, the world's No. 1 software company, for control of the Web browser market and more importantly, control of the corporate network. Netscape already derives 80 percent of it revenues from sales of intranet software.
+But Netscape acknowledged it may lose some share in the future intranet software market, which Forrester Research is forecasting to reach $10 billion by 2000.
+"Dominance is hard to measure," Andreessen said in an interview. "I think we can get at least 50 percent of the intranet software market in five years."
+According to a recent Hambrecht &amp; Quist survey of 200 companies, Netscape now has about 60 percent of corporate intranets, Microsoft's BackOffice has 30 percent and International Business Machines Corp.'s Lotus Notes 10 percent.
+Netscape's Navigator software has created a huge brand name and a "calling card," giving it entree to major  corporations. Now the company must execute its strategy and build a sales infrastructure, Andreessen said, a major challenge as its growth continues to explode.
+The company, which went public in August 1995, is expected to grow to about 1,700 employees by year-end, up from about 400 at the time of its initial public offering, Andreessen said.
+Andreessen added that Netscape has not abandoned its consumer focus in favor of the corporate user.
+Netscape also signed deals with more than 70 manufacturing partners, including Apple Computer Inc., Compaq Computer Corp., Digital Equipment Corp., Hewlett-Packard Co., International Business Machines Corp., Ing. C. Olivetti &amp; C. SpA, Siemens Nixdorf and Sun Microsystems Inc.

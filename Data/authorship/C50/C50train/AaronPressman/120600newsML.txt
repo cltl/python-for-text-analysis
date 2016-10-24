@@ -1,0 +1,15 @@
+The U.S. Postal Service announced Wednesday a plan to boost online commerce by enhancing the security and reliability of electronic mail traveling on the Internet.
+Under the plan, businesses and consumers can verify that e-mail has not been tampered with and use services now available for ordinary mail like sending a certified letter.
+"The leap from trading messages to buying and selling goods has been blocked by the fear of security threats," Robert Reisner, vice president of stategic planning, said.  
+"To expand from local area networks and bilateral secure communications to wide use of electronic commerce will require a new generation of security services," Reisner said.
+Cylink Corp is developing a system for the Post Office to use to verify the identity of e-mail senders. The system will enable people to register a digital "signature" with the Post Office that can be compared against electronic mail they send.
+If any tampering is discovered, the Postal Service would investigate, just like it investigates tampering with regular mail, Reisner said.  
+The Post Office is also using the Internet to enhance non-electronic mail delivery.
+In conjunction with Sun Microsystems, the Postal Service has also developed a new online system for bulk mailers that relies on Sun's Java computer language, Reisner said.
+Instead of manually calculating postage rates for bulk mailings, possibly using outdated forms, a bulk mailer will be able to add up the charges using a software application written with Java and posted on the Internet.  
+Eventually, the Post Office plans to offer hybrid services involving both kinds of mail, Reisner said.
+Electronic mail could be converted to paper and delivered within one business day, for example. Or someone who moves could register a change of address with the Post Office over the Internet.
+Critics of the Post Office's Internet plans have said the service is usurping functions that could be better performed by the private sector. But Reisner rejected those arguments, maintaining that the Post Office has often facilitated the spread of new technologies, such as railroads and aircraft.  
+"Remember the pilots who returned from World War I and then risked their lives in an even more dangerous duty," Resiner said refering to early airmail delivery efforts.
+"To keep these daring pilots alive, the Postal Service had to create parts of what we know as the weather service today. Navigation aids had to be developed. We are watching many of these same dynamics today. Earlier experience tells us that this is a public and private job."
+--202-898-8312

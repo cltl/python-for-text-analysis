@@ -1,0 +1,13 @@
+Sun Microsystems Inc said on Wednesday its profits rose 41 percent in the latest quarter and its revenues jumped to record levels, driven by sales of the company's server computer and power desktop systems.
+Sun said its net income for the fiscal second quarter ended Dec. 29 rose to $178.3 million from $126 million in second quarter a year ago. Earnings per share rose to 46 cents from 32 cents.
+Revenues rose nearly 19 percent to $2.08 billion.
+The per share earnings beat Wall Street expectations of 42 cents, according to First Call, which tracks analysts' earnings estimates.
+"The current fiscal year continues to yield strong financial results," Sun Microsystems Chief Financial Officer Michael Lehman said in a statement. "Sun is winning big in corporate intranets, the Internet, and the extranet."
+So-called intranets are in-house networks modelled on the Internet, while extranets, which are secure networks outside a company, such as a private network.
+Lehman said the company's investments in research and development and sales and support infrastructure were paying off as it moved to broaden its global presence.
+The company said gross profit margins rose to 50.4 percent, up more than 5 percentage points from the comparable period the previous year.
+Sun Microsystems Chief Executive Scott McNealy told analysts in a conference call that it was difficult to say whether the strong gross margins were sustainable.
+Sun's order backlog rose to $470 million from $407 million in its first quarter, but it was still much less than the $522 million backlog at the end of its 1996 fiscal year last June.
+McNealy said the company planned to announce new high-end computers, codenamed Starfire, next week as it seeks to offer computers that can be used for the most intensive corporate computing tasks, like databases and network management.
+Lehman said initial market data showed Sun appeared to be taking market share from its traditional rivals, and he said Sun will continue to make further significant price cuts.
+The executives said Sun was deriving increasing amounts of revenues from storage products, professional services and licensing of products based on the Java programming language, which is used to develop Internet applications.

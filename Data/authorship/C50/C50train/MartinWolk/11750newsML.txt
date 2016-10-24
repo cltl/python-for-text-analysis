@@ -1,0 +1,18 @@
+A year after its massively publicized introduction, Microsoft Corp.'s Windows 95 computer operating system has fallen short of the most optimistic expectations for the software giant and the industry.
+Even though more than 40 million copies of Windows 95 have been sold, making it the fastest-selling new software ever, it would have been impossible for any product to live up to the unprecedented hype of the Aug. 24, 1995 launch, when stores around the world opened at midnight to greet long lines of customers.
+The Redmond, Wash.-based company spent tens of millions of dollars promoting the product with stunts that included buying the entire print run of the Times of London and lighting New York's Empire State building in a Windows color scheme.
+But the product, delivered eight months late, has fallen short of its sales potential in part because Microsoft delivered a mixed message to business customers, analysts said.
+"It didn't do as well as it could have," said Rob Enderle, an analyst with Giga Information Group.
+Scores of software and hardware companies that had hoped for a big boost in sales were disappointed when only a brief spike materialized.
+"People who were expecting major coat-tails were somewhat disappointed," said Scott Winkler, an analyst with Gartner Group.
+"It's not as though it hasn't had an impact," he said. "It just hasn't had the huge earth-shattering impact some people were looking for."
+Symantec Corp., which had been among the most bullish of software companies at the time of the Windows 95 launch, ended up posting disappointing financial results when retail sales of the operating system fell short of its projections.
+Touchstone Software Corp. had to pay $1.3 million in cash and stock to settle a shareholders lawsuit brought after the company's sales failed to meet expectations tied to the Windows 95 launch.
+Many software developers apparently saw their crucial holiday season sales suffer last year because store shelves were jammed with blue-and-white boxes of Windows 95, resulting in a shortage of space for seasonal products, said Ann Stephens, president of PC Data Inc.
+To be sure, sales of Windows 95 and the accompanying Office 95 upgrade drove Microsoft sales up 46 percent last year to a record $8.67 billion and cemented the company's status as the industry's dominant company.
+Microsoft executives say they are thrilled with the sales figures, and industry analysts estimate that by sometime next year, the installed base of Windows 95 will surpass that of the older version of Windows, now used on about 100 million computers worldwide.
+But Enderle said the figure could have been even higher if Microsoft had done a better job of handling the huge demand for technical support from customers who were frustrated trying to install the system.
+He and other analysts said corporate America adopted a go-slow approach because Microsoft already was promoting the new version of its high-end Windows NT operating system, expected to be available in stores in the next several weeks.
+"Microsoft sent a lot of signals that NT was going to be the answer," Winkler said. "Many people began to believe that Windows 95 was being downplayed."
+But now that Windows NT 4.0 has been launched, Winkler and others believe only a relatively small proportion of corporate users will elect to pay the added software and hardware costs needed to use it instead of Windows 95.
+"Windows 95 is going to do great," he said. "The mistake people made was in thinking it was going to be a fast, sweeping change rather than a slow, building change."

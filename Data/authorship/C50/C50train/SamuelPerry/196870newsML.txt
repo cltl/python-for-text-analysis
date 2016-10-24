@@ -1,0 +1,15 @@
+Intel Corp. President Andrew Grove said the $400 billion personal computer industry must serve up more than just television-like features to impress its most demanding customers: 10-year-old kids.
+In an opening speech at the Comdex trade show in which he hailed the 25th anniversary of the microprocessor which Intel invented, Grove demonstrated how PCs with his company's next-generation microchips will be able to deliver full-screen video with theater-like, surround-sound stereo.
+But, he said, this would only bring the PC to parity with the television as an entertainment device.
+The industry must focus on satisfying "our most demanding users: 10-year-old kids," he said.
+Using Intel chips and graphics technology from Salt Lake City-based Evans &amp; Southerland Computer Co., Grove demonstrated how graphics could improve by the year 2000 to provide a more lifelike "flythrough" down a quiet English village street.
+Demonstrating Intel's renewed emphasis on increasing consumer use of products based on its chips and technologies, Grove said the entire industry needs to focus on satisfying customers with aggressive output of new products.
+"My fear is that some day that (product) cycle might sputter," he told reporters after his address. The industry should aim to grow by 15 percent to 17 percent a year, as it has for the last decade or more, he said.
+"Just as we are investing in technology for the long term, we need to target the new users of the future today."
+This is particularly important as the cost of building a semiconductor plant has risen dramatically from $3 million in 1973 to $2.5 billion for its latest plant and will reach as much as $10 billion entering the next millennium.
+Grove said the industry must be prepared to meet consumers' expectations, including those formed over a half century during which the television defined visual experience.
+"We are in competition for these consumers, for their dollars and their leisure time," he said, arguing that time especially was a "finite" commodity and computers needed to compete with TV for consumer share.
+Grove said there are only about one-third as many personal computers as TVs installed worldwide, even though the numbers of PCs sold annually is starting to outpace the number of new televisions sold on a worldwide basis.
+"In this war, he who captures the most eyeballs wins," he said. "In our battle for eyeballs, user experience on the PC must not only meet the expectation levels set by TV viewing, it must exceed them."
+Grove projected that microprocessors could by the year 2011 be capable of holding 1 billion transistors and deliver 100,000 million instructions per second, or MIPS.
+Grove said these advances are possible with current technology. Microprocessors are the semiconductors, invented by Intel engineers in 1971, which serve as the brains of personal computers.

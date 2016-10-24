@@ -1,0 +1,23 @@
+The number of personal computers shipped worldwide rose by 15.4 percent in the first quarter, led by strong sales at Compaq Computer Corp. and International Business Machines Corp., market researcher Dataquest said Sunday.
+The first quarter traditionally has been a slow time for PC makers. So a robust 15 percent growth means the industry is well on track to grow by 19 percent for 1997, as previously forecast, said Bill Schaub, director of computer research at Dataquest.
+"Everybody had a really good quarter," Schaub said.
+In the first three months of the year, the industry shipped 18.7 million machines, compared with 16.3 million in the same period a year ago.
+Compaq, the world's biggest PC maker, widened its market-share lead in the quarter by shipping 1.87 million units, 18 percent better than the 1.59 million units last year. Compaq had 10 percent of the world's PC market.
+Dell Computer Corp., the world's fourth-biggest PC maker, had the biggest shipment increase. The company's shipments rose 62 percent to 945,000 units in the first quarter, compared with the 584,000 units in the same quarter a year ago.
+IBM, in the No. 2 spot, had a solid quarter, shipping 1.6 million units, 37 percent more than last year's 1.17 million units.
+Packard Bell NEC Inc., the third-biggest PC maker, had a flat quarter, shipping 1.11 million PCs. Packard Bell is a closely held company.
+Apple Computer Inc. was notable for not ranking in the top five spots this quarter. The company traditionally has been a fixture on Dataquest's top-five lists.
+Still struggling to return to profits, Apple shipped only 602,000 units in the first quarter -- well below Toshiba Corp., the No. 5 vendor, which shipped 879,000 PCs.
+Schaub said he was particularly impressed by Dell, which sells its PCs only through mail-order.
+"Dell is really leveraging their direct approach," Schaub said. "Because they can move their inventory really fast, they have a 15 percent cost advantage over Compaq and IBM."
+Dell's approach has been so successful, in fact, that Compaq wants to copy it. In recent weeks Wall Street analysts have speculated that Compaq will try to expand its direct-sales business by buying another company.
+Compaq may be eyeing Gateway 2000 Inc. or Micron Electronics Inc., analysts have said in recent days.
+Following is a chart of top-five vendors in the first quarter:
+ Company	     1997	     1996	   Market share
+ Compaq	  1.870 million   1.589 million   10.0 percent
+ IBM	     1.600 million   1.166 million    8.5
+ Packard Bell  1.108 million   1.070 million    5.9
+ Dell		945,000	   584,000	  5.0
+ Toshiba	   879,000	   560,000	  4.7
+ Others	 12.338 million  11.281 million   65.8
+    Total     18.740 million  16.250 million

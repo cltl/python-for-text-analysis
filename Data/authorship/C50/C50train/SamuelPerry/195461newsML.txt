@@ -1,0 +1,26 @@
+A fast-selling product that allows grannies all across America to exchange electronic mail securely with their families may become a key weapon in challenging the U.S. government's tight encryption policies.
+Computer industry executives said the strong encryption which startup USWeb Networks is delivering on hundreds of thousands of television-based Internet browsing devices is still prohibited from export by U.S. Cold War munitions laws.
+Executives at Palo Alto, Calif.-based WebTV said they chose to use the strongest coding standard available to give consumers the assurance their communications would be kept confidential.
+"The only way we felt we could guarantee the level of security we felt was uncrackable by anyone...was if we were essentially using CIA-class security procedures," said Steve Perlman, co-founder and chief executive of WebTV Networks.
+WebTV uses 128-bit encryption, based on coded 'keys' with 128 characters of information, the same level of coding used in some of the most secretive U.S. government communications.
+"It's very similar to what they use when they're communicating with cruise missiles," Perlman said.
+This is a useful fact to point out in reassuring potential customers they can both communicate and pay for goods and services securely over the Internet, he added.
+"They love it. They really love it, beause now they can just relax and forget about it," he said. Using a credit card number over WebTV's encrypted communications is safer than reading it over a telephone, which can be tapped, he argues.
+"While the FBI can get your credit card that way (over the telephone), they can't get it through WebTV," he said.
+Perhaps equally excited about the decision by WebTV to use such strong encryption is the Silicon Valley high tech business community, which has been deadlocked in a battle with the Clinton administration over encryption restrictions.
+Laws against the export of encryption date back to the start of the Cold War, when earlier versions of coding were considered vital to national security and were classified as munitions explicitly barred from export.
+Top computer executives now say the use of encryption in relatively normal, consumer-oriented applications such as WebTV is a perfect example why they feel the government's efforts to restrict the technology should ultimately fail.
+"Without commenting specifically on WebTV, I can tell you that the government is fighting essentially a losing battle here," said Eric Schmidt, chief technology officer at Sun Microsystems Inc.
+"What's happened is that the technology is now so ubiquitous and there are so many people using it that the current law...really needs to be scrapped."
+In addition to the need for U.S. businesses to have strong encryption to secure their own systems when operating overseas, the computer industry argues that competitors in other countries are being given an open market to sell higher levels of encryption U.S. companies are barred from selling.
+But Washington insists that law enforcement authorities must have a means of breaking into encoded messages to investigate criminal activity.
+The Administration recently offered a compromise where companies could export modestly strong 'keys,' less powerful than those used by WebTV, as long as they could be recovered by authorities to crack codes after obtaining a court warrant.
+Industry is not pleased with the idea.
+It would be difficult, and unduly expensive, to administer and is unlikely to be acceptable to foreign customers who might not consider the U.S. government to have a right to break into their confidential communications, many argue.
+"Our personal view is that the notion of key recovery is something that's not going to be very acceptable, particularly to other countries -- the notion that the U.S. government would be able to recover the keys," said Deborah Triant, chief executive of Check Point Software Technologies, Inc.
+In the meantime, however, WebTV will be prohibited except by special license from exporting its devices, which are being sold by consumer electronics manufacturers Sony Corp. and Philips Electronics NV through retail stores.
+In fact, the issue came to light publicly following a letter from one of the manufacturers to its distributors, warning not to export the machines due to the munitions laws.
+"It would definitely be unfortunate if sombedy was to carry one over the border," said Perlman, adding the WebTV boxes have more computing power than the world's most powerful supercomputer -- Cray Reasearch's XMP-48 -- did in 1987.
+"That was a $50 million computer in 1987. This is a $300 computer and it outperforms the Cray," he said.
+WebTV has attracted investments from Microsoft Corp. and a unit of US West Inc..
+"This WebTV is the first of many we're going to see where legitimate customers really do need very strong encryption for things involving really normal day-to-day use," said Schmidt.

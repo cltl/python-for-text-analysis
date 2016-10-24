@@ -1,0 +1,16 @@
+Intel Corp. said Friday its Pentium Pro and new Pentium II chips have a flaw that can cause computers to sometimes make mistakes but said the problems could be fixed easily with rewritten software.
+The company will not need to recall the chips, Intel officials said. The flaw was officially dubbed the "Flag Erratum" by Intel, the world's biggest chip maker.
+"Basically, an erratum is a design defect that may cause the product to deviate from published specifications," Intel spokesman Tom Waldrop said. "All microprocessors have flaws in them."
+Intel, based in Santa Clara, Calif., has been investigating the flaw since it was uncovered by an independent analyst last week.
+The discovery caused concern among investors and customers because it came just four days before Intel launched the Pentium II, its biggest new product in years.
+Some investors feared the flaw could force Intel to replace tens of thousands of chips, as it did in 1994 due to a defect in the original Pentium chip.
+International Business Machines Corp. said the flaw should not have any major impact on its PC customers.
+"We currently have no information to believe that this reported anomaly will have a major impact on our customers," said a spokesman for the IBM PC Co.
+"We are continuing to ship product," a spokesman for Houston-based Compaq Computer Corp. said. "Every processor has some kind of errata. This is obviously one that Intel is working on. It's not a show stopper."
+The Flag Erratum occurs when some programs try to convert so-called floating point numbers, or decimal numbers, into integers. In some cases, the chip makes rounding errors, and it does not raise a warning flag that it made the error.
+Waldrop said Intel would not judge how serious the flaw was, leaving that to computer makers and software developers. But Intel will help developers rewrite programs to compensate for the error when it does come up.
+The Pentium Pro, a chip Intel began selling in November 1995, also has the defect.
+At first glance, the flaw does not appear to be too serious because it had gone undetected in the Pentium Pro for 18 months, said Rick Doherty, a director at Envisioneering Group Inc., a market researcher company.
+"We've got a year-and-half of work on this puppy and no one has reported a single problem with their applications yet," Doherty said.
+"But it's not over yet," he said. "This means that an IBM and a Microsoft will have to go through their software packages to see if things are affected by it."
+Waldrop said Intel will fix the defect in the new chips it makes. Investors apparently were not concerned about the flaw, as Intel rose 75 cents to $159.50 on Nasdaq.

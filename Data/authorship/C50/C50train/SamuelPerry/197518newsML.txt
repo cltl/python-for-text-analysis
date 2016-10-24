@@ -1,0 +1,17 @@
+International Business Machines Corp's Lotus Development Corp unveiled the company's next productivity suite, SmartSuite 97, and said the product will begin shipping in January.
+Lotus President Jeff Papows said on Sunday night the company will continue to add Internet functionality, with a further upgrade planned in the first quarter of 1998.
+He took a shot across the bow of Netscape Communications Corp's aspirations in challenging Lotus's share of the corporate marketplace.
+"If they thought the browser war was bloody, just wait," he said of Netscape's ambition to expand its role in supplying corporate internal networks, or intranets.
+"This will be a whole new level of bloodiness," he told reporters after the launch of the new SmartSuite package on the eve of the Comdex annual computer show here, the largest industry trade gathering in the United States.
+Lotus executives made clear Lotus plans to continue building new features into its applications suite, while undercutting the prices charged by market leader Microsoft Corp, which dominates the market with nearly 70 percent share.
+Although the new Lotus SmartSuite carries an estimated retail price of $399, current Lotus applications users, or those using competing products, may upgrade for just $149.
+Those buying the current SmartSuite edition through year-end 1996 will receive a free upgrade and a $50 rebate, bringing the effective price to $99.
+Users of certain recent Corel applications packages will be allowed to trade these in for a free CD upgrade to the current SmartSuite for Windows 95 or Windows 3.1 by year-end.
+Papows cited a 1996 International Data Corp survey showing the size of the suite application market growing from around $4.4 billion in 1997 to around $6 billion by the year 2000.
+Lotus achieved a 26.3 percent share of unit volume in the third quarter, according to IDC data, and has benefited from nine million units sold through computer makers worldwide in the first year of its preloading program.
+Online registrations in this program have been rising 600 percent quarter over quarter this year, and retail sales have soared 65 percent, the Lotus executive said.
+Lotus aims to differentiate its productivity suite by providing the ability to easily find, share and collaborate, as well as publish, using Internet technology.
+SmartSuite 97 works on Microsoft's 32-bit Windows 95 and Windows NT 4.0 operating systems, and permits users to drag and drop Internet information for use on the desktop, dynamically update spreadsheets and conduct searches over the Web.
+Lotus product managers also gave previews of Lotus Components for the Internet "applet," due to be released in 1997, to create spreadsheets, charts and diagrams within applications. An applet is a small program, written in the Java environment developed by Sun Microsystems Inc.
+Lotus said it currently has some 300 to 400 programmers working in Java -- roughly equivalent to the numbers that Sun's JavaSoft unit itself has had, although Sun now plans to accelerate its number of Java programmers to around 700.
+-- Silicon Valley Bureau "1 415 846 5400

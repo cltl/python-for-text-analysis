@@ -1,0 +1,16 @@
+The Commerce Department will issue final rules on Dec. 30 to implement its new policy on export of computer encoding products, but the proposal is unlikely to mollify the software industry and privacy advocates who objected to a draft version.
+Some changes were made in the final rules, available Friday at a government printing office, from the earlier draft. But the bulk of the proposal remains the same, including portions strongly criticized by the software industry that applied to real-time communications.
+Commerce undersecretary William Reinsch had said two weeks ago that the draft rules would be modestly revised, but warned that some objections could not be addressed.
+Under the previous rules dating from the Cold war, the administration severely limited the export of products containing encryption, programs that use mathematical formulas to scramble information and render it unreadable without a password or software "key."
+In the past, products could be exported using "keys" as long as 40 digital bits, a string of forty ones and zeros. But as the speed of computers has grown, 40-bit keys have become easy to crack and longer keys have come into general use.
+At the same time, with the growth of the Internet and online commerce, demand for encryption-capable products is growing worldwide. Coded messages can keep a business' e-mail confidential or protect a consumer's credit card number sent on the Internet.
+The Commerce Department rules were intended as a compromise, allowing U.S. companies to compete in the encryption market while protecting the interests of law enforcement officials.
+The policy relies on so-called key recovery features which allow government officials to decode encrypted messages when acting under proper legal authority.
+Under the policy to be issued Monday, products containing key recovery features will be eligible for export after a one-time review.
+Software firms had hoped the key recovery exception would only apply to stored data, like a document on a hard drive. But the final rules, like the draft rules, also require key recovery for real-time data transamission such as coded phone calls.
+Non-key recovery software with keys of up to 56 bits will be exportable under six-month, renewable licenses until the end of 1998, but only if the manufacturer commits to producing software with key recovery by then.
+Some companies had complained that the government was asking for too much information about their future plans, but the final rules still require submission of detailed plans and committments.
+All other encryption products, such as state-of-the art 128-bit software without key recovery features, would continue to be treated as munitions. Such products include ordinary e-mail programs and even the recently introduced set-top box for surfing the Internet with a television.
+The rules deleted a draft provision allowing keys to be stored with a recovery agent located outside of the United States.
+The final rules also made clear that an applicant's public support of the administration's policy would not be a factor in export license decisions. Rather, helping build the necessary infrastructure would be a factor, the final rules said.
+A criteria listed as "public support for a key management infrastructure," was changed to "or other support for the key management infrastructure."

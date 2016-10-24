@@ -1,0 +1,13 @@
+Just days after a U.S. graduate student cracked the most powerful computer encryption system allowed out of the country, the Commerce Department announced it would allow three companies to export an even stronger system.
+Until this year, computer encryption programmes, which scramble information and render it unreadable without a password or software "key," were classified as munitions and stronger programmes could not be exported.
+But under a controversial new Clinton administration policy that took effect Jan. 1, companies may recieve permission to export stronger programmes.
+"I'm happy that we've been able to do this within the first month without rancour or difficulty," Under Secretary of Commerce for Export Administration William Reinsch said in a telephone interview.
+To export stronger programmes immediately, companies must agree to incorporate features within two years allowing the government to decode encrypted messages by recovering the software keys.
+The adminstration's policy has been widely criticised as not relaxing the export limits enough and some companies feared the requirement for a two-year plan would substantially delay export approvals.
+The quick approvals should quell some of the criticism and encourage more applicants, Reinsch said.
+"As a result of this, you will have more companies taking it seriously and we will expect more plans over the next couple of months," he said.
+Encryption was once the realm of spies and generals. But with the explosion of online commerce on the Internet, encryption has become a vital tool for protecting everything from a business' e-mail message to a consumer's credit card number sent over the Net.
+The amount of protection afforded by encryption is largely a function of the length of the software key measured in bits, the smallest unit of computer data.
+Companies said products with just 40-bit long keys, the old limit, were too easy to crack. The approvals came just days after Ian Goldberg, a graduate student at the University of California, cracked a message encoded with a sofware key 40-bits long.
+The government did not name the companies on Friday given permission to export stronger, 56-bit programmes, but Glenwood, Maryland-based Trusted Information Systems acknowledged that it was one of the three.
+"Recent attacks on 40-bit encryption have shown that a global move to at least 56-bit (U.S. government standard) security must come soon," Trusted Information Executive Vice President Steven Lipner said.

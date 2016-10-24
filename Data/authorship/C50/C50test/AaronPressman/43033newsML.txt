@@ -1,0 +1,13 @@
+A broad coalition of corporations went to Capitol Hill on Tuesday to lobby in favor of relaxed export restrictions on computer encoding technology.
+On Thursday, the Senate Commerce Committee will mark-up the Promotion of Commerce Online in the Digital Era Act of 1996 known as Pro-CODE, a bill that would abolish most export restrictions.
+Under a Cold War-era munitions statute, only weak encryption programs created in the United States can be sold abroad, although domestic use of encryption is not regulated.
+Companies in the high-tech industry argued they are losing business to foreign competitors who are not bound by U.S. export restrictions. And multinational companies in other industries said the the restrictions hamper their ability to conduct business overseas.
+"We are at a competitive disadvantage vis-a-vis our foreign competitors and that is an unacceptable situation," Gregory Garcia, director of international trade affairs for the American Electronics Association, said at a press briefing here.
+The Pro-Code bill, sponsored by Republican Senator Conrad Burns of Montana, Democratic Senator Pat Leahy of Vermont and others, has bipartisan support in the Commerce Committee.
+"We support the Burns bill because it does enable companies to utilize encryption technology securely which is vital if we're going to compete in a very tough global marketplace," Victor Parra, president of the Electronic Messaging Association, said.
+The association represents companies that rely on electronic communications, including Exxon Corp, Citicorp and Boeing Co, Parra said.
+Encryption programs use mathematical formulas to scramble information and render it unreadable without a password or software "key."
+Earlier this week, Senator James Exon, the Nebraska Democrat, came out against the current bill in a letter to Commerce Committee chairman Sen Larry Pressler. Exon will likely offer amendments at the mark-up, an aide to the senator said.
+The Clinton administration opposes the Pro-CODE bill, arguing that export of encryption technology would hamper law enforcement and intelligence gathering operatiobns.
+The House Judiciary Committee will hold a hearing on a similiar measure on September 25.
+--202-898-8312

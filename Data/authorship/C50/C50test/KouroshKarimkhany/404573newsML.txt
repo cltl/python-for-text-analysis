@@ -1,0 +1,10 @@
+Sybase Inc., trying to boost sales growth, will revamp its flagship database software product and most of its other programmes this year, Chief Executive Officer Mitchell Kertzman said Wednesday.
+The lineup will include an improved version of SQL Server System 11, the company's chief database software product, by the second or third quarter and a host of development tools to let customers more easily store and retrieve information in corporate databases, Kertzman said.
+In the past two years, Sybase has been struggling because of increasing competition form its traditional rivals Oracle Corp. and Informix Corp., as well as a new competitor, Microsoft Corp.
+Kertzman during the past year has trimmed Sybase's product lines and cut hundreds of jobs to focus the company on its core database business.
+"Our customers wanted a symphony and we were giving them a lot of jam sessions" with unrelated software product lines, Kertzman said at an investment conference.
+To counter rivals and grow the company's core business, Sybase, based in Emeryville, Calif., plans to release a test version soon of an improved System 11, code-named 11G, Kertzman said.
+The programme, likely to be released in the second or third quarter, will have better performance in so-called parallel systems -- a feature to take on Informix, which replaced Sybase as the No. 2 database vendor in 1996.
+Sybase also will release this year a product code-named "Jaguar," a so-called transaction server that helps customers more easily retrieve data from databases, Kertzman said.
+Sybase stock rose 62.5 cents to $16.625 on Nasdaq.
+The technology investment conference was hosted by Robertson Stephens &amp; Co.

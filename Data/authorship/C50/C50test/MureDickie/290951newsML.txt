@@ -1,0 +1,19 @@
+Microsoft Corp on Tuesday launched a Chinese version of its Windows NT 4.0 software, saying the network operating system was a vital advance for the U.S giant into China's infant but fast-growing software market.
+Microsoft, which saw its return to official favour in China marred when anti-communist phrases were found in its Windows 95 programme in September, was determined to lead the nation's growing software industry, company officials said.
+"The speed at which computing is taking off here is really incredible," Microsoft Greater China Regional Director Bryan Nelson told a briefing before the launch of Windows NT 4.0.
+While still small by international standards and plagued by copyright piracy that was costing Microsoft millions of dollars a year, the Chinese market was developing quickly, Nelson said.
+"The marketplace is maturing very fast, there's a long way to go but it's extremely exciting," he said.
+Windows NT 4.0, which combines the Windows 95 interface with more powerful 32-bit software for networks of personal computers, would sell mainly to large Chinese and foreign companies operating on the mainland, company officials said.
+The system, released alongside Microsoft's Workstation 4.0 and equipped with a Chinese version of its Internet browser, was a key addition to the China product range, Nelson said.
+"Products like NT for us are absolutely vital," he said, adding that the local version of Windows NT 4.0, which works with the simplified characters used on the mainland, was a step towards tapping Chinese enthusiasm for the Internet.
+"The Internet in China is red hot," he said. "There are so many projects... being done on the Internet and intranets that we can't service them all."
+Microsoft's Internet applications would allow controls on access to particular sites on the worldwide computer network -- a sensitive issue in China where officials have said they are keen to block sites deemed politically hostile or pornographic.
+"You could call it censorship... (but) there's nothing different in our Chinese product than in our English versions," said Microsoft Regional Marketing Director Fernando de Sousa.
+Demand for ways to control Internet access existed in Western markets as well, he said.
+Nelson said Microsoft's ties with Chinese officials had more than recovered after the discovery of phrases once favoured by Beijing's Nationalist rivals in Taiwan in the Windows 95 programme.
+Microsoft, whose negotiations with Beijing were once described by a Chinese official as a trial of strength, saw its return to favour threatened by phrases such as "communist bandits" and "Taiwan independence".
+The discovery of the phrases forced Microsoft to temporarily stop shipping the system and prompted angry articles in Chinese newspapers about the U.S. firm's cultural insensitivity.
+"It was a challenging time... (but) the follow-up has been a closer relationship," Nelson said, adding that Microsoft and Chinese officials had taken just six days to resolve the issue.
+The company had lost more in terms of market momentum than in the financial outlay needed to correct the software and issue free updates to previous buyers, he said.
+While copyright piracy continued to be a problem in China, with unlicensed use running at up to 95 percent for some applications, Microsoft had seen some improvment in the domestic market, Nelson said.
+The company had seen no progress from Beijing's clampdown on pirates who exported counterfeit goods, he said.

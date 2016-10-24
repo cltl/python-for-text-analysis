@@ -1,0 +1,19 @@
+Microsoft Corp. faces increasingly stiff competition and some skeptical corporate customers as it launches the latest version of its hugely profitable Office suite of applications.
+Company Chairman Bill Gates has predicted Office 97 will be the biggest upgrade ever in percentage terms for the market-dominating product, which has an installed base approaching 50 million users including component applications such as Word and Excel.
+While early reviews of Office 97 have been positive, industry analysts said corporate users in particular will take a hard look before deciding whether the dozens of new features are worth an upgrade investment of $200 per seat or more.
+"Corporations are realizing they don't need to upgrade their office suite environment nearly as often as Microsoft would like them to," said Michael Pinckney, research director for the Gartner Group.
+By most estimates Microsoft dominates the market for desktop productivity suites, capturing more than 90 percent of revenues.
+Office and its component applications have been a key driver for the company's earnings, contributing some $1.8 billion of Microsoft's $8.4 billion in sales for the fiscal year that ended June 30, 1996, estimated analyst Scott McAdams of Ragen MacKenzie.
+He projected Office would account for nearly $3 billion of a total $10.2 billion in revenues this year.
+"There's no question, it's enormous," he said.
+In addition to its financial importance the new Office is filled with Internet hooks designed to drive broader acceptance of Microsoft's Internet Explorer browser, "so it's an important product strategically," McAdams said.
+But Microsoft, which will launch the product Thursday at a glitzy media event featuring Gates on the stage of New York's Alice Tully Hall, faces increasingly aggressive competition from Canada's Corel Corp. and International Business Machines Corp.'s Lotus unit.
+Corel, which uses WordPerfect word-processing software as the core of its suite, made a significant dent in Microsoft's retail market share in the second half of last year, according to PC Data.
+"Corel has proven that if a competitor has the right offering at the right price point, even Microsoft is vulnerable -- at least temporarily," said Liz Buyer of T.Rowe Price in a newsletter.
+And Corel has gotten a jump on the market by announcing a new version of its suite based on Java, the Internet-friendly programming language.
+Analysts say the emergence of network computers and their "thin client" applications pose no immediate threat to Microsoft Office, which demands over 100 megabytes of hard disk space for a standard installation.
+"Over time you will move toward a more Internet-intranet driven model, where the basic applications reside inside your Internet structure and you download it as you need it, but that's going to take a few years," said Tim Bajarain, president of Creative Strategies consulting.
+In the near term, the biggest threat to Office 97 is intertia, analysts said.
+Most Office users take advantage of only a small percentage of features as it is.
+Analysts are divided on whether significant demand will be driven by Office 97 features including a built-in system to track appointments and phone numbers and animated assistants to guide users through tasks.
+More importantly, many large enterprise users have not upgraded to the Windows 95 or Windows NT operating systems, which are required to use Office 97.

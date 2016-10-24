@@ -1,0 +1,15 @@
+An international task force working to resolve the simmering controversy over desirable addresses on the Internet released a draft plan Friday for a substantial expansion of the total number of destinations.
+The International Ad Hoc Committee on domain names, formed by the Internet Society in October, recommended that seven new so-called top-level domains be added to the Internet.
+Top-level domains are the three-letter designations most Internet sites end with, such as "com" in http://www.gm.com and other commercial sites, "gov" in government sites and "edu" for sites run by schools.
+The committee recommended that an unlimited number of firms be authorised to register the new addresses, although the panel said it hoped to initially approve 20 to 30 new registration services.
+Addresses for most sites are currently handed out by Network Solutions Inc. of Herndon, Va., which charges $100 for each registration.
+At first, Network Solutions would continue to have a monopoly on the domain names it already controls but the committee said its "ultimate goal" is to have all names handled by all qualifed firms.
+"The IAHC members were faced with a formidable challenge," said Donald Heath, president of the Internet Society and chairman of the committee. "We accomplished our goal, in no small part, because we were able to bring people together from around the world, via the Internet."
+The full text of the recommendations was posted on the Internet at http://www.iahc.org, Heath said. The proposal will be open for public comment until Jan. 17 and a final report is expected by Feb. 3.
+New names and competing registration services should help quell disputes over popular or trademarked names.
+Disputes are arising more frequently, usually when the holder of a trademark discovers that someone else is using their trademark as the name of an Internet site.
+For example, Viacom Inc.'s MTV music channel fought with one of its employees, who had registered "mtv.com," eventually regaining control of the name in an out-of-court settlement.
+In another case, a journalist tweaked McDonald's Corp. by registering "mcdonalds.com" before the fast-food giant did and before the Web had attained its current prominence. The address now belongs to McDonald's.
+Once new top-level domain names are available, 10 people or organisations could register similar names. The new top-level domains will contain three to five letters but have not yet been selected.
+The committee included members from the Internet Society, which helps coordinate and develop Net standards; the Internet Assigned Number Authority, which oversees certain of the standards, and the Internet Architecture Board, which helps draft and promulgate new technical standards.
+The committee also included representatives from the International Telecommunications Union, the World Intellectual Property Organisation and the International Trademark Association.

@@ -1,0 +1,27 @@
+3Com Corp and U.S. Robotics Corp's merger promises to create a second powerhouse in the data networking industry capable of competing head-to-head in the Internet access business with Cisco Systems Inc.
+The merger, valued at $6.6 billion in stock, represents the largest such deal ever in the computer network industry.
+But analysts were divided on whether the merger by two of the top six network equipment suppliers will be strong enough to offer end-to-end network connections on the scale of Cisco.  
+"No more Cisco and the Seven Dwarfs," Bear Stearns analyst Eric Blachno said, invoking an analogy frequently heard in the industry to describe Cisco's dominant market leadership.
+"It appears the Cisco has acquired a large competitor," he said in reaction to the latest industry consolidation move.
+However, veteran industry analyst Frank Dzubeck questioned the viability of combining the two companies in light of precedents set by previous mega-mergers in the industry.  
+"This could be another Bay-Wellfleet-Synoptics deal," he said, referring to the 1994 merger that formed Bay Networks Inc, a union seen as running aground over conflicts in integrating product lines, company cultures and managements.
+Similarly, Dzubeck, president of Communications Networks Architects Inc, an industry consulting firm, said 3Com and U.S. Robotics represented "two cultures, two different product streams, two managements."
+"A lot depends on how they meet the organizational challenges," the analyst said of the complexities inherent in combining companies centered about 2,000 miles apart.  
+3Com is headquartered in Santa Clara, Calif., the heart of Silicon Valley, while U.S. Robotics is located in Skokie, Ill.
+3Com is known as the leading maker of network adapter cards used to connect personal computers to office networks. Roughly 40 percent of its $2.3 billion in fiscal 1996 revenues were derived from adapter card sales, analysts say.
+By contrast, Robotics is the top maker of computer modems for consumers and other products providing Internet access.
+The $1.9 billion company also sells switchboard-like data communications hubs, which Internet Service Providers (ISPs) use to handle scores of simultaneous incoming consumer calls.  
+"The whole concept of those two companies getting together is a very strong one," said Paul Deninger, chief executive of Broadview Associates, a high-technology investment banking firm, when asked Tuesday to speculate on rumors of the merger.
+"Robotics is a remote access company," Deninger said. "3Com has no remote access strategy. This provides them one."
+While Deninger is an active dealmaker in the networking industry -- completing 24 smaller technology acquisition deals in the last 18 months -- the latest merger was managed by Morgan Stanley and Goldman Sachs, according to the companies.  
+In a conference call, executives of the two companies said 3Com's strength as a corporate equipment supplier and U.S. Robotics' strong retail presence would allow the company to compete in both local-area and wide-area networks.
+But several industry analaysts said rather than allowing 3Com to compete head-to-head in every market segment of the networking industry, the merger was best seen as allowing it to create a defensible niche in important segments.  
+3Com Chairman and Chief Executive Eric Benhamou acknowledged as much in saying his company's strengths lie at what he called "the edge of the network" -- selling products to connect office workers and consumers to computer networks.
+"We are much stronger at the edge of the network," Benhamou said, allowing that archrival Cisco dominates the core of office networks and long-distance "backbone" networks.
+Cisco's strength in the larger network equipment used to build these portions of computer networks was bolstered by a major acquisition of its own last April, when it paid about $4 billion to acquire Stratacom Inc.  
+The combination of 3Com and Robotics comes no where near Cisco in several vital respects. Their combined revenues are running at roughly $5 billion a year, officials said, compared with Cisco's current annual run rate of more than $6 billion.
+But Cisco's daunting advantages become more apparent when the underlying growth rates of the companies are compared.
+While the 3Com and Robotics businesses are estimated to be growing at 40 percent per year -- a healthy rate by most any industry measure -- Cisco continues to outrun all major competitors by its explosive 80 percent per year pace.
+"That's an amazing growth rate," Deninger said of Cisco's market momentum. "Especially since no one else in the industry is growing faster than 40 percent," he said.
+Across a variety of measures Cisco remains the dominant player in the industry, followed by a 3Com/Robotics combination, Bay Networks Inc and Cabletron Systems Inc.
+((New York newsdesk, 212-859-1736))

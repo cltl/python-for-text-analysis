@@ -1,0 +1,15 @@
+Informix Corp, still investing money and resources in a new generation of database software products, aims to increase its revenue by 30 percent in 1997, Informix's chief executive said.
+Thirty percent growth may fall short of what some investors would like to see, but Informix's top priority right now is beefing up marketing, not sales, said Phil White, CEO of the No. 2 database software company.  
+"Wall Street thinks I'm investing too heavily because they don't see enough revenue growth," White said in a recent interview. "But I'm going to have to invest for the future of the business, and I think what I'm doing is absolutely the best thing to do."
+Informix, based in Menlo Park, Calif., writes computer programs that help companies store and retrieve huge amounts of vital corporate information, such as customer names and inventory lists. Its flagship database product is the data storehouse of companies such as MCI Communications Corp and investment bank CS First Boston.  
+In December, Informix introduced Universal Server, a database that is not only adept at storing text and numbers, the traditional format of corporate information. But it also can handle new types of data such as photographs, maps, sound and video -- the media that make the World Wide Web compelling and easy to use.
+White said he thought increasing demand for programs that store and retrieve sound and video, propelled by the growth of business on the Web, would drive sales of his Universal Server.  
+White said Informix would spend heavily this year on marketing its Universal Server in an effort to build on its lead over Oracle. There is a price, however. Informix's profit and revenue will not rise as fast as it has in recent years, White said.
+"I've got the best technology, but I can't lay back and hope Oracle fails or Microsoft fails," he said.
+The prospect of slower profit growth has weighed down Informix's stock. In the past 12 months, the shares have lost more than half their value from a high of about 36. The stock was down 1/2 at 15-1/4 late Wednesday afternoon.  
+"The growth rate has been disappointing," said Jim Pickrel, software analyst at investment bank Hambrecht &amp; Quist Group Inc in San Francisco. "The earnings outlook for this year is fairly moderate."
+In 1996, net income, including $5.91 million in acquisition expenses, was little changed at $97.8 million, or $0.63 a share, compared with $97.6 million, or $0.65, the previous year. The per-share figure fell as the company's shares outstanding rose 3 percent.  
+Revenue in 1996 rose 32 percent to $939.3 million from $714.2 million. By comparison, revenue jumped 50 percent in 1995 from 1994.
+Pickrel estimates per-share earnings in 1997 will rise to $0.86.
+While Universal Server's technology is impressive, sales will not likely take off until near year-end, Pickrel said.
+"It will be a little tough for Informix to make headway against Oracle," he said.

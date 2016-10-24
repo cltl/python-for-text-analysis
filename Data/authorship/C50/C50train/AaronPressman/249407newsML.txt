@@ -1,0 +1,14 @@
+The Clinton administration will modestly revise controversial export rules for computer encoding technology after a private meeting Wednesday with computer and telecommunications companies, a top Commerce Department official said.
+"This is a work in progress," Under Secretary of Commerce William Reinsch said in a telephone interview after the hour and a half long meeting. "There will be some changes that will be more than technical."  
+The administration circulated a draft this week of new rules that would overhaul Cold War era export limits on products containing encryption, computer programs that scramble information and render it unreadable without a password or software "key."
+With the growth of the Internet and online commerce, demand for encryption-capable products is growing worldwide. Coded messages can keep a business' e-mail confidential or protect a consumer's credit card number sent on the Internet.
+Reinsch and others who attended Wednesday's meeting said the tone was civil.  
+"We had a long meeting but it was actually quite a constructive one and actually also a polite one," Reinsch said.
+Industry officials argued at the meeting that the draft rules were unclear or unworkable on a number of points.
+"In some cases we could tell them what we meant which made them feel better and now we'll go off and try to fix it," Reinsch acknowledged. "In other cases we're going to have to think a little more about what they said and in some cases I'm not sure there is a way to fix it."  
+"We are not optimistic that these (rules) will be turned around and we feel going to Congress is our only option," Smiroldo said. The alliance includes a dozen large software firms including Microsoft Corp and International Business Machine Corp's Lotus Development.
+Several bills that would dramatically ease encryption export limits were introduced in the last Congress and are expected to be revived next year.
+Ambassador David Aaron, appointed by President Clinton as special envoy for cryptography last month, also attended the meeting, Reinsch said.
+The draft rules implement an executive order signed by President Bill Clinton last month. Under the order, limits on export of products containing strong encryption would be eased if the products allowed the government to decode encrypted messages by recovering the keys.
+The draft rules detail for the first time the government's definition of acceptable key recovery features and other aspects of the revised export approval process.
+For example, until 1999, companies will be allowed to export some products that do not include key recovery if the companies promise to include key recovery in future products. -- 202-898-8312

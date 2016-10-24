@@ -1,0 +1,17 @@
+An international Internet group released its plan Wednesday to dramatically increase the number of available addresses in cyberspace while quelling disputes over the use of trademarks in those address names.
+The International Ad Hoc Committee, which includes members of Internet standards-setting bodies and legal and communications experts, proposed seven new "top-level domains," the last block of letters at the end of every Internet address.
+If the plan is adopted, Net surfers will see addresses ending in "web", "store", "info", "firm", "arts", "rec" and "nom", joining "com", "edu", "gov" and other existing top-level domains.
+Each new domain reflects a particular type or category of Internet site. For example, "rec" would be for sites emphasising recreation and entertainment, while "nom" would be for those desiring individual or personal nomenclature.
+In drafting the plan, the group received more than 4,000 comments from around the world. The consensus-building approach followed an outcry that arose when a few Internet bodies unveiled a similiar plan last August.
+"We are very pleased with the acceptance and broad consensus that we have achieved in this process," said Donald Heath, president of the Internet Society and chair of the ad hoc committee. "To attain its fullest potential, the Internet requires true self-governance."
+Heath said the plan should be approved by Internet standard setters within a few weeks, allowing new domains to come online about three months later.
+The plan includes provisions to resolve disputes arising over the use of trademarked names as Internet addresses.
+Last year, for example, toymaker Hasbro Inc. won a lawsuit to regain control of the Internet address "candyland.com," which was being used for an adult Web site with nude photographs.
+But more complex disputes are arising where both parties may have a legitimate claim to an Internet address.
+Under the committee plan, anyone applying for an Internet address will have to agree to resolve disputes through online mediation under the rules of the World Intellectual Property Organisation. Mediation will be provided by panels composed of international experts on intellectual property, trademarks and the Net. Challenges initiated within 60 days of an address registration would be resolved within 30 days.
+All challenges and proposed decisions would be made public and time allowed for comment before a final decision was rendered.
+The plan will not completely eliminate court battles, attorneys said. "It's much better than the policies we've seen in the past, but, just by the nature of how valuable these domains have become, litigation will continue," said Paul Terry, Internet law specialist at Winthrop, Stimson, Putnam &amp; Roberts.
+The plan also calls for establishing up to 28 competing registration firms to dole out the new addresses. The firms will operate under the auspices of a Council of Registrars, to be established as a non-profit association in Switzerland.
+Currently, one firm, Herndon, Va.-based Network Solutions Inc., hands out addresses in the most popular domains, charging $100 for a two-year registration.
+Network Solutions, which registers over 80,000 new Internet addresses a month, had no comment on the plan, but a spokesman raised doubts about its viability. "We're concerned with the stability and integrity of the registration process," spokesman Christopher Clough said.
+The complete proposal is posted on the World Wide Web at http://www.iahc.org/draft-iahc-recommend-00.html.

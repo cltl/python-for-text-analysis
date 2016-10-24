@@ -1,0 +1,17 @@
+As a new class of financial derivative based on credit risk continues to grow in popularity, U.S. banking regulators are still pondering how to best assess the sometimes complex instruments.
+Most derivatives, financial instruments whose value is based on or "derived from" the value of something else, are linked to interest rates or currencies. Credit derivatives are based on the value of loans, bonds or other lending vehicles.  
+"I think, inevitably, the regulators, the lawyers and the accountants tend to be reacting to market developments and, to an extent, trying to keep up," William Kroener, general counsel of the Federal Deposit Insurance Corp, said Friday at a symposium sponsored by the agency.
+Last August, bank regulators issued preliminary guidance to bank examiners concerning credit derivatives. The guidance emphasized that banks should have policies in place describing how they intend to manage the risks incurred from credit derivatives.  
+Regulators also asked banks to clearly list credit derivative activity in their call reports instead of lumping the deals into bigger derivative categories such as interest rate swaps.
+But regulators are likely to revise the guidance and are still considering perhaps the most critical issue, the amount of capital a bank must set aside against its credit derivative portfolio.
+"The real issue is whether a credit derivative is different than other loans," FDIC chairman Ricki Helfer said at the symposium.  
+"Our challenge is to identify the risks embedded in credit derivatives and establish appropriate standards for those risks -- including appropriate capital requirements under the Basle risk-based capital accord," Helfer said.
+Like other derivatives, credit products can be used to limit or reduce risks taken by banks, regulators said.
+"They have great potential to enhance the management of credit risk," Christine Cumming, senior vice president in the bank supervison group of the Federal Reserve Bank of New York, said at the symposium. "And the better you can manage credit risk the better you can manage all of a bank's risks."  
+So far, regulators see credit derivatives as analagous to letters of credit, Cumming said. When a bank issues a letter of credit, it promises to make good on a loan or bond if the original borrower defaults.
+"The capital issue of course is the most important in the sense that it has a dollars and cents implication for banking institutions involved in this market," Cumming said.
+Market innovations could make easier the task of tracking credit risk and assessing capital standards, industry participants said.  
+J.P. Morgan &amp; Co unveiled a product on Thursday called "Creditmetrics," which is designed to help banks and others better measure and manage credit risk both on derivatives and on ordinary bonds and loans.
+"It is only if we can promote better understanding of credit risks in a portfolio framework that we will be able to generate greater transparency of credit risk, and ultimately, greater liquidity in the credit markets," Blythe Masters, head of global credit derivatives at the bank, said.
+CreditMetrics is also meant to "kick-start or set forward the dialogue we have with bank regulators," Masters said. "One of the perhaps most obvious applications of the CreditMetrics framework is a move towards a more risk-driven allocation of economic and potentially regulatory capital for credit risky instruments, including potentially credit derivatives."
+((--202-898-8312))

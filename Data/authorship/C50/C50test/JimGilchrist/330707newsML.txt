@@ -1,0 +1,9 @@
+Hong Kong Air Cargo Terminals Limited (HACTL) is developing a new computerised memory system to ensure pallets fit into aircraft first time and avoid potentially costly delays, the company's deputy managing director Yueng Kwok Keung told Reuters in an interview.
+HACTL hopes the new system, provisionally called a Pallet Contour Identification System, will save time, money and arguments with truck drivers insisting their cargo is packed properly.
+Each arriving cargo will have to pass through a gantry fitted with precise measurement sensors which send high speed signals of a three dimensional picture to a computer. A memory bank contains a complete catalogue of all possible container contours and exact dimensions of each individual aircraft which use HACTL.
+If the shape fits, the computer identifies the container as "good to go" and allows it to continue its journey. If the shape does not conform, the computer rejects it, long before handlers struggle to try to squeeze it into an aircraft, Yueng said.
+"It's a very simple idea which can speed up the truck dock procedures and increase the reliability of container reception. It ensures there are no delays and every aircraft takes off with its intended load," Yueng said.
+HACTL intends to test the prototype during the second quarter of this year at Kai Tak, continuously refine the design and implement the final design at the company's SuperTerminal One complex now under construction at Hong Kong's new airport.
+Yeung, who is credited by observers as playing a leading role in developing HACTL's renowned computerised handling technology, said the new development could eventually be marketed to other air cargo operators around the world.
+The cost of developing the new system has not been disclosed.
+--Air Cargo Newsroom Tel+44-171-542-7706 Fax+44-171-542-5017

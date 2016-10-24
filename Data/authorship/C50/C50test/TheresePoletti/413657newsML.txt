@@ -1,0 +1,18 @@
+JAMtv, a six-month-old online company started by a Chicago music promoter, hopes to turn the personal computer into a personalized jukebox.
+As a first step, the company will unveil on Monday a music network on the Internet using multimedia technology from Intel Corp.
+JAMtv plans to broadcast live concerts, link with radio stations for other programming, sell CDs and other merchandise and provide daily news and reviews.
+The company is also working with privately held BackWeb, one of the leading "push" technology companies, which broadcasts personalized news and information directly to a person's PC.
+"The goal is that you will have your own personal jukebox on your computer," Howard Tullman, chief executive of JAMtv, said.
+JAMtv spun out from Jam Productions Ltd, a well-known concert producer and promoter in Chicago whose co-founder, Jerry Mickelsen, is chairman.
+The company hopes its network will become the main source of music on the Internet, featuring contemporary and alternative rock arists and eventually country and jazz.
+But JAMtv is not trying to be the MTV of the Internet, Tullman stressed.
+He noted that in recent years MTV has had to change its programming to offer more shows and features, like the "Real World" soap opera, because MTV viewers tired of someone else making their programming decisions for them.
+"It's a network of one," Tullman said of the planned JAMtv service.
+"Anytime you go there, you can listen to what you want. You don't have to wait for someone to make these programming decisions for you," he said. "We will let you design your profile and what you want."
+He said the JAMtv site on the World Wide Web will have daily events, with a calender of more than 1,500 events already planned for this year based on upcoming Jam Productions events, such as a U2 concert in Soldier Field in Chicago as part of the group's tour.
+Users of the JAMtv site can also buy from a catalog of more than 140,000 music CDs, 70,000 music and entertainment videos and access an archive of images, audio, video and other data on hundreds of artists.
+Tullman also said JAMtv was talking to computer makers and to Microsoft Corp. and Netscape Commuications Corp. in an effort in get a spot on the Windows desktop and a part of the Netscape browser, so that users will be able to simply click on an icon and have their JAMtv.
+JAMtv is also embracing Intel's "hybrid" method of sending fat audio and video files over the Internet, by providing users with compact disks of some audio and video, which is then supplemented by updated audio and video streams sent over the Internet.
+The company hopes to make money is several ways, by selling merchandise over the Internet, by selling advertising and licensing fees to radio affiliates for programming and through compiling databases on subscribers which it could sell to record companies.
+Ultimately, Tullman said, a big JAMtv revenue stream will come from a "pay-per-view" distribution of live concerts on the Internet.
+"At the end of the day, when you can truly go home at night and click on your PC and watch any concert you want, there will be pay per view revenues in this business," Tullman said.

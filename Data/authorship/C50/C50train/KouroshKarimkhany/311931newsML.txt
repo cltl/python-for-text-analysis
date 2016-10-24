@@ -1,0 +1,9 @@
+Synopsys Inc. said Thursday it agreed to buy Epic Design Technology Inc. for about $428.1 million in stock to gain expertise in a hot niche of the semiconductor design business.
+Synopsys, which writes software to help engineers design computer chips, said it will issue 0.7485 of its shares for each of Epic's 13.7 million shares outstanding. Based on Synopsys's closing stock price of $41.75 on Wednesday, Synopsys would pay about $31.25 for each Epic share.
+Shares of Epic, based in Sunnyvale, Calif., fell 87.5 cents to $31 in late Nasdaq trading. Shares of Synopsys, based in Mountain View, Calif., were unchanged at $41.75, also on Nasdaq.
+Synopsys specialises in software used in designing the overall framework of a microchip. Epic specialises in software for designing individual microscopic circuits, millions of which make up the microchip.
+The acquisition gives Synopsys an edge as the so-called design automation industry scrambles to come up with ways to help engineers design ever smaller chips, analysts said.
+"We believe the Epic acquisition is a good strategic move," said Raj Seth, analyst at Cowen &amp; Co. in Boston. "Synopsys picks up technologies that are increasingly critical to developing" the tiny "deep submicron" circuits.
+Synopsys' customers, which include some of the world's biggest chip makers, have been asking for a suite of design software that would let engineers design a chip's framework as well as its circuits, said Aart de Geus, Synopsys chief executive.
+Epic will become a unit of Synopsys, the companies said. Sang Wang, Epic chairman and CEO, will head the unit.
+Synopsys will take an undetermined charge for the acquisition in the quarter the transaction is done, "ideally March," said Brooke Seawell, Synopsys chief financial officer. Because of little overlapping products, there should be no Epic job cuts, Seawell said.

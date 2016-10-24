@@ -1,0 +1,21 @@
+Most software publishers are expected to report only modest increases in their latest earnings, reflecting a seasonal slowdown and a lack of new products this quarter.
+"For the behemoths of the industry, like Microsoft and Oracle, business is still good," said Marshall Senk, an analyst at Robertson Stephens &amp; Co. in San Francisco.
+"Summer is the slow buying season for most of the industry," but setting aside the seasonal slowing, "business is still pretty okay," he said.
+Analysts expect Microsoft, the world's biggest personal computer software publisher, to report substantially higher earnings for its first fiscal 1997 quarter on the back of strong sales of its networking software and business programmes. Microsoft is scheduled to report results Oct. 21.
+Better-than-expected sales of personal computers in the past few months also will contribute to Microsoft's revenue, analysts said.
+Microsoft, based in Redmond, Wash., makes about a quarter of its revenue from the sale of its Windows family of operating systems -- a type of software that controls the basic functions of a personal computer.
+The company benefits from strong PC sales because PC makers have to pay Microsoft a royalty for every copy of Windows they pack in machines they make.
+Wall Street expects Microsoft to earn 90 cents a share, according to a survey of 24 analysts by First Call, which tracks Wall Street analysts' estimates. In the same quarter a year ago, Microsoft earned 78 cents a share.
+Unlike Microsoft, however, Novell Inc., the biggest publisher of computer networking software, is not expected to perform as well.
+The company is struggling to sell its NetWare flagship software, which manages networks of computers within a company, in the face of competition with Microsoft's Windows NT.
+Novell, based in Provo, Utah, also faces management issues following the resignation of Bob Frankenberg as chief executive, said David Takata, an analyst at Gruntal &amp; Co. in Los Angeles.
+"They clearly still have a lot of work to do" to get the company's management in order, Takata said.
+Novell is expected to earn 18 cents a share in its fiscal fourth quarter, compared with 16 cents a year ago, according to a First Call survey of 17 analysts.
+Meanwhile, vendors of software for large, corporate computer networks and database management tools will continue to post substantial gains on continuing strong demand, analysts said.
+"For a relatively mature market, this niche is still growing at a good clip," said Jim Pickrel, an analyst at Hambrecht &amp; Quist in San Francisco.
+Pickrel said he expects Oracle Corp. and Informix Corp. to report the most impressive results on strong sales of their database software -- programmes that help big companies keep track of huge libraries of corporate information.
+Both are stealing business from Sybase Inc., another database software publisher, which is still struggling to recover from marketing and technical shortcomings last year.
+Sybase is expected to report it broke even in the quarter, not counting charges for a restructuring, Pickrel said. In the year-earlier quarter, Sybase earned a penny a share.
+Oracle, the biggest database software publisher, is expected to earn 27 cents a share for the fiscal second quarter ending Nov. 30, according to a survey of 27 analysts by First Call. A year ago it earned 21 cents.
+Informix is expected to earn 18 cents a share, according to a First Call survey of 25 analysts. A year ago, Informix earned 16 cents.
+Hambrecht &amp; Quist's Pickrel said Informix could pass Sybase this quarter in revenue to become the second biggest database vendor.

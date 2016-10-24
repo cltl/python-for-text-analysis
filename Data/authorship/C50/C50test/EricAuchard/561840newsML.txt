@@ -1,0 +1,13 @@
+Seeking to show its readiness to compete in high-speed networking, Bay Networks Inc on Tuesday unveiled a set of products and strategies aimed at shoring up its reputation as a technology leader and helping it recover from the stumbles of recent years.
+David House, Bay's recently hired chairman and chief executive, outlined the company's new "Adaptive Networking" strategy for making the plumbing of Internet-based networks easier to upgrade to the higher-speed networks now emerging.  
+"Everybody's goal is networks that are invisible to the user," House said during a Las Vegas press conference at Networld+Interop, the semiannual trade show of the Internet equipment industry.
+"We want networks that behave like electricity and water," House said, comparing computer networks to other well-developed infrastructures.
+"Adaptive Networks are the products and technologies that will transition us to the Internet-optimized networks of tomorrow," he said.  
+His appearance came exactly six months after House joined Bay Networks from Intel Corp, where he served as a respected senior executive for more than two decades.
+Highlighting the company's new product announcements was a new single, application-specific networking chip capable of carrying up to 1.5 million packets of Internet data a second --- allowing networks to carry billions of bits of data per second.
+The company said the new Route Switch Processor (RSP) integrates the manageability of routers with the speed of switches -- two traditionally separate product categories.  
+House said the RSP chip, now running in Bay laboratories, would be offered in new routing switch products due out in 1998.
+The RSP chip is designed to solve the growing demand for high-speed Internet transmission, while reducing technical bottlenecks that cause congestion on overloaded data networks.
+House said RSP would serve as the core technology in its main product lines, including local networks used in corporate offices and in products serving telephone and Internet carriers.  
+He said the chip would allow Bay to cut switch product prices tenfold over time, driving the cost of advanced switching down to $500 per connection from $5,000 currently.
+Sounding like the old chip revolution evangelist he is, House described what he said were the semiconductor-driven dynamics of the networking business, which is seeing benefits from both exponential jumps in the power of computer chip technology and commodity-style price cuts.

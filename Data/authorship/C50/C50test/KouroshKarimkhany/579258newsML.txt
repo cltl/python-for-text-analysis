@@ -1,0 +1,12 @@
+Apple Computer Inc. Tuesday said it plans to release an operating system that will work on personal computers based on chips from Intel Corp. as well as on Apple computers.
+At its annual developer conference, the company also said it will release programming tools in the next few months that will allow companies to write software for Apple computers once and automatically convert their products to run on PCs based on Intel chips and Microsoft Corp. Windows software.
+The radical strategy is part of Apple's plan to keep software companies from abandoning Apple products, Apple Chairman Gilbert Amelio told a crowd of 1,900 programmers here.
+"For those of you who seek substantial business on both the Mac and Windows platforms, this new development environment holds tremendous promise," Amelio said. "You can (write your applications once) and with a simple recompilation release them for both platforms."
+Until now, Apple has released operating system software that only runs on Apple-designed hardware.
+Amelio said Apple's next-generation operating system, code-named Rhapsody, will not only run on Apple-designed computers, but also on PCs based on Intel chips and using Microsoft Windows software.
+For the past two years, Apple has been scrambling to come up with improvements to the Macintosh that would set it apart from PCs. Until 1995, Apple had relied on its computers' famed ease-of-use as a selling point, but Microsoft's release of Windows 95 took away much of the impact of Apple's pitch.
+Last year, Apple gave up on a mired effort to revamp the Macintosh Operating System, the fundamental programme that gives the Mac its look. In December, the company bought Next Software Inc. to get its software overhaul going again, and to use its software as the foundation of a next-generation operating system.
+The move concerned lots of programmers, though, because of fears that the new operating system would not run the products they designed for the older Mac operating system. Programmers also were not thrilled to develop products for yet another operating system.
+Apple plans to spend the rest of this week convincing programmers that it is a worthwhile investment to write software for Rhapsody.
+Programmes written for Rhapsody will be able to run on old Macs, a new class of Apple machines using the Rhapsody operating system, and PCs running the Windows operating system, Amelio promised.
+Investors, however, evidently decided to wait a while before rendering judgment, and Apple's stock ended unchanged at $17.5625 on Nasdaq.

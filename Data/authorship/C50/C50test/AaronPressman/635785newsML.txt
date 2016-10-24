@@ -1,0 +1,13 @@
+The heads of 10 leading U.S. high-technology companies descended on Washington Wednesday to lobby for stronger laws protecting their products from piracy.
+Executives including Microsoft Corp Chairman Bill Gates and Intel Corp Chairman Andrew Grove met with senators in the morning, reporters in the afternoon, and Vice President Al Gore and Commerce Secretary William Daley later in the day. They came armed with fresh research indicating that the software industry has been a key factor boosting economic growth.  
+"The PC software industry is a very fast growing, very innovative business," Gates told reporters. "Government statisics don't accurately capture all the things going on."
+According to research done for the Business Software Alliance, the industry totaled $102.8 billion in 1996, directly employing 619,000 people and paying wages of $36.4 billion. Another 1.4 million American workers owed their jobs indirectly to the industry.
+The industry has grown at a rate of 12.5 percent annually since 19890, more than twice as fast as the U.S. economy, the study concluded.
+To spur further gains, the software executives urged political leaders to strengthen international laws protecting intellectual property,
+Piracy cost the industry $11.2 billion in 1996, the report noted. Although a considerable proportion of the piracy occurred in China, the software executives said they favored extending most favored nation status to China.
+Government could also promote software sales by relaxing strict export limits on computer encoding technology, the executives said.
+Encryption software, which scrambles information and renders it unreadable without a password or software "key," was the realm of spies and generals. But the technology has become an increasingly critical security component of electronic commerce and global communications networks.
+While U.S. companies cannot export powerful encryption products, foreign companies are cleaning up, the executives warned. Last month, for example, Sun Microsystems said it would market an encryption program made in Russia with some of its products to evade the export limits.
+"The cat's already out of the bag," Novell Inc Chief Executive Eric Schmidt said. U.S. law should be modified to allow export of any encryption product already available abroad, he said.
+Intel's Grove said fast moving technology companies sometimes get frustrated working with more sedate pace of government. "We have been asked to exercise patience," Grove said. "Patience is not one of our virtues."
+((--202-898-8312))

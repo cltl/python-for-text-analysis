@@ -1,0 +1,16 @@
+3Com Corp Chairman Eric Benhamou said he plans to use the company's proposed merger with U.S. Robotics Corp to expand the reach of 3Com's office-oriented equipment into small business and home markets.
+In a telephone interview Wednesday evening after the announcement of the $7.3-billion-merger (on a fully-diluted basis), Benhamou said a key force behind the deal was the prospect of enlarging the market for its corporate network equipment into retail sales channels.
+As the leading supplier of modems, U.S. Robotics' strong presence in retail outlets can be used to propel sales of 3Com's core network adapter card business, he said.
+3Com is by far the world's dominant supplier of adapters, or network interface cards (NICs), used to link personal computers to networks.
+"Our OfficeConnect product line is perfect for the retail market," Benhamou said, referring to products it introduced in 1996 that repackage its other corporate office equipment -- hubs, switches and routers -- for small business and home users.
+OfficeConnect products link the computers, printers, modems and telephones found in home offices in a low-cost network.  
+Benhamou also sees opportunities to sell U.S. Robotics modem products for desktop and laptop computers to corporate offices using 3Com's 500-strong enterprise sales force.
+"We will just leverage Robotics strength in retail outlets," he said in reference to his plan to shoe horn 3Com equipment into consumer markets that -- until the recent demand explosion for Internet links -- was largely confined to office networks.
+"(The new demand for network connections) even reaches into your shirt pocket with products like Pilot," he said. Pilot, a product 3Com will acquire in the merger, is a shirt-pocket sized personal information organizer that offers ties to the Internet.
+Further growth will come from Robotics efforts to develop higher speed modems like the 56 kilobit ones it introduced on Monday and future cable modem and digital subscriber line modems that transit up to six megabits per second.
+He said the merger would also give 3Com access to a growing base of telco carrier customers who use Robotics hubs equipment to provide Internet dial-up services, saving 3Com from having to invest on its own to enter the Wide Area Network (WAN) market.  
+Robotics focuses heavily on WANs, providing equipment for both ends of an Internet connection: modems for consumers and hub connections for service providers. Fifty percent of its revenue come from modems, a third from hub equipment and about 20 percent from sales of Pilot and miscellaneous products.
+"As far as technology is concerned, we are very focused on LANs," Benhamou said, contrasting his company's traditional focus on local area networks (LAN) found in corporate offices.
+Of 3Com's $2.3 billion in fiscal 1996 revenues, 40 percent came from network adapter cards and 60 percent from sales of hubs, switches and routers systems, largely to corporations.
+"We only have about one to two percent overlap in terms of product revenues," Benhamou said of the two companies.
+-- New York newsdesk, 212-859-1736

@@ -1,0 +1,20 @@
+In the true spirit of the lightning-fast world of the Internet, the browser wars which peaked in late summer have now been replaced by the battle for delivering content efficiently over the Web.
+The coming months will see an intensifying battle between products that deliver information directly to a computer, rather than stumbling around looking for it with often lengthy and cumbersome Web addresses.
+The competition centers on transforming the Internet from a "pull" model, in which people actively search the Web for information or use software agents to do that for them, to a "push" model, in which people can choose once what they want to be sent and it is published to them continuously.
+"Everybody knows who they want to get information from. The real problem is: When is it that they have information that I care about?" said Eli Barkat, chief executive of BackWeb Technologies, a San Jose, Calif.-based start-up.
+"What people want is to build relationships," he said.
+Vivek Ranadive, president of Reuters Holdings Plc's Tibco Inc. unit, likens the initial enthusiasm for surfing the Net to Sunday drives in the early days of the automobile, a pleasant but passing phenomenon.
+Electronic commerce over the Internet, which is expected to gather steam in 1997, requires a more efficient way of navigating the information superhighway, executives say.
+More than a dozen companies, mostly small high-tech start-ups, have been busily seeking to define the space, much as search engines like Yahoo Inc., Infoseek Corp., Excite Inc. and Lycos Inc. have done in helping people search out what they want.
+"As it was for search engines six months or a year ago, this is an area that has been more or less discovered by venture capitalists and others as something that has to be dealt with," said Jack Wilson, managing editor of Technologic Partners' ComputerLetter.
+In addition to the impracticality of aiming to find real-time information in the more than 50 million Web pages that search engines catalog, many companies would like to be able to update customers and suppliers directly.
+"There are some obvious problems with today's browse-and-pull technique for getting at information when you need it," Wilson said. "So there is a proliferation of new companies and new products from old companies aimed at solving this."
+More than a dozen companies are now vying for attention, including Ex Machina, which is providing a wireless news alerting system made by Global Village Communication Inc., and New York City-based Ifusion Com.
+So far, the category has been dominated by one pioneering entry, Cupertino, Calif.-based PointCast Network, which burst onto the scene in the spring with a screen saver display which offers customized and updated news, data and advertising.
+"The biggest application that's got the visibility with this type of technology is PointCast," said Phil White, chief executive of Informix Software Inc.. "PointCast has got everybody now aware of how I can subscribe to things."
+Another hot Silicon Valley start-up in the sector is Marimba Inc., founded by Kim Polese and three colleagues from the Sun Microsystems Inc. team which created the popular new Java programming language.
+Industry executives say competition is vital to expanding the marketplace, but it also creates confusion as companies vie for a share of the action.
+"I think there's a lot of confusion in the market," said Barkat. "You hear a lot of names when people talk about this space, and the reason is the space is huge."
+Technologies that transform the way information is delivered on the Web, such as those which Tibco Inc. will announce Monday, may help expand the market, according to industry analysts and executives.
+"We are essentially a plumbing company, so we do plumbing software, and people like Marimba and BackWeb and PointCast can actually make use of our software," said Ranadive.
+"Now the technology they presently use to do this is a pull technology and so you can emulate a push by going out and asking a lot of questions," he added. "But you're tying up the network, you're tying up the server by doing that."

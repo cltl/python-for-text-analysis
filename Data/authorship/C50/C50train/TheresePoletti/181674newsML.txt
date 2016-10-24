@@ -1,0 +1,15 @@
+International Business Machines Corp. will update its strategy for electronic commerce Tuesday, and will unveil new partners and show examples of projects already in the works.
+Electronic commerce is a widely used buzz word in the computer industry which refers to buying and selling goods and services or conducting transactions over computer networks, including the globe-spanning Internet.
+For IBM, the world's largest computer maker, electronic commerce is a potentially huge opportunity to provide products and services to help its customers do business online.
+An IBM spokesman declined to provide any details, except to say that IBM will provide an update on where it is now and where it is going in electronic commerce.
+Top executives from IBM's Lotus Development Corp. subsidiary, its Internet division and its just-announced Network Computer unit will hold a news conference.
+Analysts said IBM plans to announce several new partners for various applications it has developed, targeted at specific industries, such as an automotive company which is co-developing an auto-loan application on the Internet.
+IBM will also unveil and demonstrate an application targeted at the petroleum industry, a Web site called PetroConnect that will let energy companies share geological information over the Internet to aid in their oil-exploration searches.
+Analysts also expect the computer giant to add 10 new retailers to its World Mall, its shopping site on the Internet targeted at consumers.
+IBM will also officially roll out its Network Computer division and possibly some new models of the Network Station, its first network computer, aimed at a specific industries.
+Earlier Monday, IBM announced that it had formed a unit to focus all its development and marketing efforts in the embryonic market for these scaled-down computer devices.
+Analysts said that, while electronic commerce represents a big opportunity for IBM and the rest of the computer industry, the market is still so young that it is hard to estimate what revenues will be, where they will come from and how long it will take for these ventures to be profitable.
+"I think IBM is very well poised to make money from all of these things, but it will be a year or two before anything happens," said Stan Dolberg, a Forrester Research analyst.
+"The Internet commerce offerings, whether they are services or products, have to be really focused on a specific industry to be complete," Dolberg added.
+Indeed, IBM is developing many industry-specific services, such as its petroleum industry Web service, and the automotive industry application. IBM will also announce a partnership with Charles Schwab Corp., the discount brokerage firm that has already been very active in developing online brokerage and trading services.
+But it is not yet clear whether IBM will make much money from services and transactions, of which it will get a piece.

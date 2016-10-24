@@ -1,0 +1,20 @@
+What would a bank do if it woke up one morning and found that all its customers were dead?
+Hopefully it would realise that it was Jan. 1, 2000, but, more hopefully still, it will have taken action to make sure the turn of the century does not turn out to be the biggest computer disaster ever.
+It takes something like the "millennium bug" to make people even think about how dependent most of us are on the internal workings of the financial system.
+Doomsday scenarios of what the bug might do go as far as to predict the destruction of the financial system. It's not really a bug at all but purely the fact that up to now computers have represented the date year in two digits rather than four.
+Needless to say, bankers and information technology experts deny any possibility of this with the British banking system insisting it will be "millennium-compatible" by the end of 1998 -- leaving a year for any last minute tweaking.
+Though when questioned about specifics, the answers start to take on a worrying vagueness akin to that seen when they are asked about their preparations for European monetary union (EMU).
+Left unresolved, computers might treat the date Jan. 1, 2000 as Jan. 1, 1900 and if asked to calculate the period between 1995 and 2000 would then come up with the answer "minus 95 years" -- not much use to anyone and potentially dangerous.
+Britain's major banks are busily trying to solve the problem and one of the biggest, NatWest, said recently that it will spend as much as 100 million British pounds ($163 million) over the next couple of years to get its systems in line.
+One of the complications in banking and finance is that none of the computer systems work in isolation, they all have to interrelate extensively with systems in other banks and in other companies and with the clearing and payments systems.
+Indeed, the problems have already started, with computers in stores refusing to recognise credit cards with an expiry date after the end of 1999.
+"The main issue that has emerged is that banks are so reliant on each other," said Will Mason of the British Bankers' Association (BBA). "There is work going on to develop standards for people using networks to be compatible."
+In Britain, the BACS (bankers' automated clearing system) receives inputs from all sorts of companies. The system processes salary checks and the payment of bills and dividends, for example.
+Banks have to be sure corporate customers using this system have their own systems in order and this must all be done by the end of 1998 to leave time for last-minute changes.
+Investment banking is, if anything, even more susceptible to date problems as nearly every transaction will carry a value date or involve the difference in price or interest rate between two dates. The potential for problems is huge.
+"The problem is that you're likely to get something that doesn't work properly rather than doesn't work at all," Mason said. "Which is even worse."
+Banks are finding the task of altering their systems a highly detailed piece of work. They have to find out what the system will do in a highly complex series of transactions and then make it do the right thing. They often are using already existing back-up systems to test what might happen on their main system.
+Among other wrinkles that are becoming apparent is that users have been using the date field in a programme to denote things other than just a specific date.
+If for example, loans have no fixed term, this may have been denoted by using "99" in the date box or dead customers may have been denoted by using "00."
+When we get there, the system will kill off all the customers.
+A lot of systems in banking are relatively old. They have lasted a lot longer than was originally expected and are often written in computer languages that are no longer much used.

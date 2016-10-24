@@ -1,0 +1,26 @@
+WavePhore Inc., an Arizona company specializing in wireless data transmission, unveiled plans Monday for a service that would use existing television signals to broadcast programming to personal computers.
+The proposed system, called WaveTop, will allow computer users to bypass bottlenecks in the Internet by enabling them to receive programs broadcast by WavePhore, the company said.
+The Phoenix-based company said it expected to begin selling its WaveTop service in September.
+The WaveTop service will broadcast entertainment and information programming nationwide over TV signals, sidestepping the clogged phone lines and overstrained computer networks that slow Internet connections, the company said.
+"We think we can complement the Internet beautifully," said Sandy Goldman, vice president of WavePhore's consumer unit.
+Analysts consider the system one of a promising new breed of products designed to take advantage of the convergence of personal computers and television technology.
+The category includes products like WebTV, which differs from WavePhore in that it relies on a phone line and special TV set-top box to provide Internet connections to TV sets.
+WaveTop will initially broadcast stereo music, news, educational childrens programs and new software to home PCs, without interrupting tasks being performed by the computer, the company said.
+Once it begins U.S. operations in September, WaveTop will be the first wireless data broadcast medium to deliver audio, video, software and real-time data to home personal computers, Goldman said in an interview Friday.
+"This gets past the bottleneck of the phone line being busy," said Gary Arlen, a veteran online industry analyst who heads Arlen Communications in Bethesda, Md.
+The system will be free to consumers who own a broadcast-ready personal computer equipped with a TV tuner, a device that several top computer manufacturers plan to include in new machines this year. TV tuners add about $99 to $150 to the cost of a PC, but prices are falling.
+WaveTop would be advertiser-supported but also may offer a pay-per-use option.
+Arlen said the system was well suited for transmitting information that did not require instant feedback. "For a lot of Web surfing, all you need is a way of quickly accessing things that are floating through the wires anyway," he said.
+The WaveTop system operates by embedding data into a portion of existing TV signals. WavePhore has announced a pact to use the Public Broadcasting Service's 250 local stations to broadcast via an unused portion of their signals.
+The high-speed service will be able to reach more than 99 percent of U.S. television households simultaneously and could eventually be extended to cover Canada over the Canadian Broadcasting Corp.'s TV network.
+"It's a network infrastructure that's already in place," said Joel Krasner of brokerage firm Southcoast Capital, the one Wall Street analyst who formally follows the company.
+"You don't have to have people using cable modems or fiber optic cables," said Krasner, referring  to other, more costly methods of speeding Internet delivery using phone and cable television technologies.
+While WavePhore officials said the company planned to launch an aggressive promotional campaign aimed at the Christmas 1997 selling season, Krasner expected WaveTop to take root only among so-called early adopters this year.
+"It's a 1998 event," Krasner said of chances WaveTop could become a hit consumer electronics product.
+Goldman said the WaveTop network planned to offer one radio station in 1997 and three by 1998, playing a choice of rock, classical and jazz music.
+KidsTop, aimed at children, will deliver educational programming developed by PBS and others, Goldman said.
+For news, Goldman said the company hoped to negotiate deals with media companies like Dow Jones &amp; Co. Inc. or Reuters Holdings Plc to offer a slimmed-down version of what WavePhore already offers on its professional investor network.
+He said WavePhore has few information partnerships to announce, but was in talks with content providers for each of the seven services WaveTop will offer. Goldman said the company expected to sign these deals ahead of the service's September launch.
+The company noted that a recent study by technology research firm Yankee Group estimated that by the year 2000, nearly 20 million U.S. households will have PCs capable of receiving data embedded in a TV signal.
+WavePhore's strategy has been embraced by computer industry leaders Microsoft Corp., Intel Corp. and Compaq Computer Corp., which are developing enabling technology of their own to support the integration of home computer and TV technologies.
+WavePhore stock rose 12.5 cents to $9 in afternoon trading on Nasdaq.

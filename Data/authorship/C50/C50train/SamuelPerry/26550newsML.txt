@@ -1,0 +1,16 @@
+A Silicon Valley company has developed a new technology designed to turn the World Wide Web from a random, hit-or-miss quest into a highly targeted personal service that it says can change to suit your mood.
+The new service, known as The Angle, is available immediately as a showcase for Los Altos, Calif.-based BroadVision Inc.'s One-to-One technology for personalizing the World Wide Web.
+The technology enables a person to set up an individual profile, or "angle," combining personal interests and preferred style to customise the "look and feel" of the Web service.
+Users can also chose from several "personalities" to try out different ways of viewing information on the Internet, or choose different profiles for different moods -- such as one for the business day and another for use at home.
+"We give the user the remote control," Broadvision said in materials prepared for the formal unveiling Tuesday of The Angle site, at the URL  http://www.theangle.com.
+"We put you in the driver's seat. As you change, so do your information needs," the company said.
+Use of the site is free of charge and requires no registration. Profiling information is stored only for the benefit of users, the company said, to ensure privacy and enable them to change their profile at any time.
+Pehong Chen, the founder, president and chief executive of BroadVision, said the technology would serve not only as a showcase, but would enable large organisations to develop co-branded sites based on the BroadVision product.
+"Seeing is believing," he told Reuters in an interview. "People can choose a personality, somebody they can relate to, or disguise themselves as sombody else ... This makes it fun and easy to understand."
+Chen said the company is targeting a Global 1000 list of large companies for developing both co-branded services and for using the technology internally in private networks known as Intranets to communicate with individual employees.
+It has already begun collaborating with Web partners and formed a new division, the Content Services Group, to provide software products, consulting services and original content for both consumers and consumer-oriented businesses.
+The Angle is the first application developed by the group, which is also releasing a Web-based distributed multi-user Intranet application called WebPoint, which handles calendar, workflow and communications among publishers and editorial staff involved in creating and maintaining Web sites.
+Editors in the group also provide a Web Site rating system which can point users to sites with a "Look Before You Link" feature providing data on how easy a site is to use, its graphics intensity, level of innovation and interactivity and update frequency before even entering the site.
+BroadVision has signed a charter co-branding partnership agreement with Virgin Communications of London. Branded as "The Virgin Angle", the service will include additional UK perspectives and is due to be available in the fourth quarter.
+The new division is also advising Minneapolis-based Netradio Networks on "The Netradio Angle," which is designed to be a music Web site recomendation service.
+BroadVision completed an initial public offering of stock in June and Chen said the company is currently ahead of its business plan.

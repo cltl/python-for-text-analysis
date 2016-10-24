@@ -1,0 +1,10 @@
+The Federal Communications Commission has tentatively decided not impose fees on Internet service providers for use of local telephone lines, an official said Thursday.
+On Tuesday, the commission issued a notice of proposed rulemaking setting out two possible plans for reducing the $23 billion a year that long-distance telephone companies pay to local service providers in access fees.
+"The commission raised the specific question of whether ISPs (Internet service providers) should pay access charges as we currently understand them," Kevin Werbach, counsel for new technology at the commission said. The FCC "tentatively concluded that the answer is no."
+Local phone companies had pressed to have the access fee applied to Internet service companies. The phone companies argued that consumers using the Internet were getting a free ride and tying up local lines with lengthy calls.
+Internet companies countered that such fees would smother the growth of the booming online industry.
+"We think they did exactly the right thing," said Jill Lesser, deputy director of law and public policy at America Online, the largest online service in the world. "It means the FCC is thinking in the right way about this. They're thinking for the growth of the Internet."
+The commission did issue a "notice of inquiry" asking for comments on the issues involved, Werbach said.
+The arguments of both sides raise "legitimate issues, so the commission initiated the notice of inquiry to develop a record on that," he said.
+A notice of inquiry seeks comment but does not give the commission authority to then adopt a rule. The commission would have to first issue a notice of proposed rulemaking before applying access fees to Internet service providers, Werbach said.
+The Internet notice is "more foward looking" than the proposed rules for long distance access fees, Werbach said. "Once we have an idea what replaces the access charge system then we can take a look at that," he said.

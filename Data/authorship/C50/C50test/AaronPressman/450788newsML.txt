@@ -1,0 +1,15 @@
+Congress revives the debate over encryption export policy this week but much has changed since last year's tussles.
+Once the domain of spies and generals, encryption has become a critical component of electronic commerce and global communications on the Internet.
+This year, the Clinton administration has a new policy in place allowing freer export of encryption products, which are programmes that scramble information and render it unreadable without a password or software "key."
+The new Clinton policy, enacted through executive order in November and in effect since January 1, allows export of stronger encryption than previously allowed. But it requires companies to incorporate features within two years allowing the government to crack the codes by getting access to the software keys.
+The government says it needs the ability to crack strong encryption to catch criminals and terrorists.
+While a few companies, most notably International Business Machines, have obtained export licenses under the new policy, most high-tech companies remain frustrated.
+They want to be able to export very strong encryption without including the government access features.
+Privacy advocates also oppose the current Clinton policy, which they say puts too much power in the hands of government.
+Since the government does not require guaranteed access to the keys to one's home, it should not be given such access to the keys to one's data, they argue. "My lock, my key," is the slogan on their buttons this week.
+In congress, the passage of time has crystallised the issue for many members and both sides in the debate have found new allies. Last year, most lawmakers seemed either in favour of relaxed export restrictions or undecided.
+The full Senate Commerce Committee will hear testimony Wednesday on two bills introduced in the Senate to remove almost all export restrictions, and Thursday, the House Judiciary subcommittee on Courts and Intellectual Property will debate a similiar bill under consideration there.
+At the House encryption hearing, Under Secretary of Commerce William Reinsch, deputy director of the National Security Agency William Crowell and a member of the Department of Justice criminal division, will defend the Clinton policy.
+The Senate will also hear from FBI director Louis Freeh and special encryption envoy David Aaron.
+Industry representatives at the hearings will include officials from Netscape Communications Corp., one of the most vocal administration critics, and Microsoft Corp.
+Privacy advocates will testify in the House, including Jerry Berman, executive director of the Centre for Democracy and Technology, and Marc Rotenberg, director of the Electronic Privacy Information Centre.

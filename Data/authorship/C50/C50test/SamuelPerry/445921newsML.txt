@@ -1,0 +1,15 @@
+Hewlett-Packard Co. said it plans to introduce a photographic system for personal computer users capable of snapping, scanning and printing photography-quality images.
+The company's new PhotoSmart line, aimed at the consumer digital photography which some industry experts expect to heat up this year, will not come cheaply, however.
+The company's photo printer, scanner and digital camera can be purchased independently but together cost about $1,400, while new ink cartridges will cost roughly $40 each.
+And while any paper can be used in the printer, for best results HP recommends its own glossy and deluxe glossy photography paper, to be priced in the United States at up to $1.10 a page for the finest quality.
+A spokesman for HP said the products are initially aimed at photography enthusiasts.
+HP cited figures from the Photo Marketing Association which estimated that in 1995 some 710 million rolls of film were processed, or an estimated 2.5 billion pictures.
+Although the quality of consumer market digital cameras themselves is still well below that of conventional photography, HP's scanning device enables PC users to scan, edit and print images made with conventional photography as well.
+The HP PhotoSmart products work with Microsoft Corp.'s Windows 95 operating system and at least a 66- megahertz 486 processor, although Intel Corp.'s Pentium chips are recommended.
+Both the printer and scanner, which will be available beginning in May, require a 2x-speed CD-ROM device, although a 4x-speed CD-ROM is recommended.
+The printer, priced at about $500, requires at least 16 megabytes of random access memory (RAM) and 80 megabytes of hard disk storage, although double as much RAM and 120 megabytes of storage are recommended.
+HP's PhotoSmart scanner, priced at $500 in the U.S. market, requires eight megabytes of RAM, a SCSI card and 25 megabytes of hard disk space, although 16 megabytes of RAM and 50 megabytes of hard disk space are recommended.
+Photography professionals said the difference between the output of the new HP devices and conventional photo printing methods can be detected by experts, but that the two are very similar in quality.
+HP's new inkjet printing system will enable people to print their pictures right away at home, although the results will not be instantaneous.
+An eight-by-ten-inch picture takes an average five minutes to print and will take three to 20 minutes to dry, depending on the paper, print quality and humidity.
+HP has been working with companies to expand PC photography standards. Last week, it unveiled a new standard to promote browsing, distributing and printing high-resolution images over the Internet.

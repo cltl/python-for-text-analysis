@@ -1,0 +1,23 @@
+International Business Machines Corp. and 15 U.S. and Canadian banks announced Monday that they had formed a company to offer a broad range of electronic banking services in North America, the latest in several ventures seeking to jump start banking from home PCs.
+The company, the Integrion Financial Network, will offer interactive banking and electronic commerce services to U.S. and Canadian banks beginning early next year.
+"With this new venture, electronic commerce will take its biggest step to date," IBM Chairman Louis Gerstner told a news conference, in a rare public appearance. "Integrion is the customer pathway to an array of services ... that no bank could provide alone."
+Integrion will develop an electronic bill payment system and provide software to connect to its network for member banks' customers. Consumers will also be able to access the network via the Internet or any commercial online service.
+Electronic commerce, in which consumers buy goods and services via computer, could grow to $600 billion a year within 10 years, Gerstner said. By contrast, electronic commerce now runs at only about $700 million a year, he said.
+"The demand is there," Barnett Banks Inc. Chief Executive Charles Rice told the news conference.
+"There is a very important parallel here," said Gerstner, who was once also the president of American Express. "A group of banks created a product called credit cards... That is exactly what I think will happen here."
+Gerstner said he believed Integrion was providing a system and a platform for a whole new banking service opportunity.
+Gerstner said he hoped that companies like Intuit Inc., which has its own set of deals with banks for electronic banking software, would develop versions of its popular Quicken personal financial software for Integrion.
+In addition to Barnett, banks teaming up with IBM include BankAmerica Corp., the Royal Bank of Canada, Fleet Financial Group Inc. and Banc One Corp.
+Integrion will be owned and operated by the member banks and IBM. It will be open to all banks in North America.
+Gerstner said his company would make money from the venture by selling the services of its Global Network and other services. He said Integrion is a for-profit company but that the companies involved will make money through electronic banking services.
+Gerstner was not specific on what kind of revenues IBM or any of the companies involved were expecting from the venture.
+The companies said they will use the IBM Global Network as the base network for electronic banking, a proprietary network maintained by IBM and used by many corporations as their own network or to conduct commerce with other companies.
+Several bankers attending the news conference said the partnership with IBM would lower the cost of developing technology for electronic banking.
+The companies said the most sensitive banking transactions will run over the IBM network, which they said is more secure than the Internet, but with connections to the Net.
+Gerstner said while the Internet has become a totally new communications medium in the past two years, it is still not yet the "holy grail" companies have hoped for.
+"The payoff is what these institutions do with this," Gerstner said.
+Some analysts, however, said if the alliance took too long to get its software out the door, it could run the risk of being overshadowed by recent developments in Internet security, such as the use of longer encryption codes and digital signatures which verify the author of a transaction.
+"The marketplace has changed a lot in the past two years," said Karen Epper, an analyst at Forrester Research. "There has been a marked change in the perception of the Internet. The security options that are coming into existence now will make online banking more secure than even private dial-up."
+"The Internet seems best suited for sharing information and not for conducting (business) because of the lack of security," Robert Gillespie, chief executive of KeyCorp, one of the bank partners with IBM said. "We think the reason its grown rather slowly in terms of commerce being conducted is because of the lack of a private secure network to do transactions on."
+Epper pointed out that some banks, such as Wells Fargo Co. and BankAmerica Corp. already offer customers the ability to pay bills and access their accounts, via the banks' Web sites.
+Other banks teaming up with IBM are ABN AMRO Bank NV, Comerica Inc., First Bank System Inc., First Chicago NBD Corp., KeyCorp., Mellon Bank Corp., Michigan National Corp., NationsBank Corp., PNC Bank and Washington Mutual Savings Bank.

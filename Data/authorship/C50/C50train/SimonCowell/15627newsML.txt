@@ -1,0 +1,17 @@
+The London Stock Exchange launched its new integrated trading and information computer system, Sequence 6, on Tuesday, the last stage in a three-year programme to take the London stock market into the next century.
+The new system completes the introduction of electronic trading begun at the time of the Big Bang' shake up of the London market in 1986.
+It also paves the way for the shift to electronic trading in Britain's largest shares on the transition from quote-driven trading for FTSE 100 stocks next summer.
+"We are delighted that Sequence 6 has been implemented successfully, on time and under budget. The launch has gone very well today and the users appear to be very happy," said a spokeswoman for the Exchange.
+However some market-makers in London said they experienced problems in posting prices on Tuesday, citing difficulties with the Reuters system.
+A Reuters spokesman said the company's link to Sequence 6 was operating as planned but that there was an unrelated temporary operational problem with feeds from several European exchanges including London which affected prices in the morning.
+The completion of the Sequence programme at a cost of 81 million pounds marks the culmination of an modernisation process by the Exchange and Andersen Consulting which will provide the flexibility to adapt to the future needs of the market place.
+It will help ensure that London retains its competitive edge, and reduce ongoing costs for both the Exchange and its participants, the Exchange said.
+Sequence 6 will provide the basis for new electronic trading in FTSE 100 shares once the structure of a new order-driven regime is agreed and implemented in 1997.
+That will signal the end of the current, quote-driven system where prices are set exclusively by dealers authorised to act as "market-makers" and deals struck over the telephone.
+It will also enable electronic as well as telephone-based trading in the Alternative Investment Market (AIM) and the Seats -- Stock Exchange Alternative Trading Service -- market for less liquid stocks.
+During extensive market testing over five weekends this summer, the new trading platform succesfully coped with up to five times the average levels of daily activity in the London market, the Exchange said.
+The Exchange entered into the outsourcing agreement with Andersen in April 1992 and today's launch marks the final phase of a four-stage delivery process.
+The successful completion of the project, on time and nearly five million pounds ahead of budget, will come as a relief to the Exchange after its ill-fated and costly attempt at building a paperless share settlement system - TAURUS - was abandoned four years ago.
+The collapse of the project resulted in the resignation of then chief executive Peter Rawlins and subsequent involvement of the Bank of England in supervising the development of Crest, a replacement for the Exchange's antiquated Talisman system.
+It may also mark a turnaround in its fortunes after a year which began with the sacking of its chief executive, Michael Lawrence, amid disagreement over how to counter competition from overseas bourses.
+-- London Newsroom +44 171 542 8712

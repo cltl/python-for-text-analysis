@@ -1,0 +1,11 @@
+Microsoft Corp. Monday will unveil a set of software technologies that lets programmers more easily create software for sharing information through corporate and public computer networks.
+Microsoft executives, including Chairman Bill Gates, also will discuss at an event in Los Angeles development plans for the company's Windows family of operating systems, the company said Friday.
+At one of its periodic Professional Developers Conferences, Microsoft executives will encourage programmers to write commercial software based on Microsoft's standards.
+Microsoft's event will be held the same week Oracle Corp., Microsoft's biggest rival in the corporate software business, is holding a conference in San Francisco to pitch its own approach to writing programmes for shuffling information through huge networks.
+Both companies in recent months have been retooling their key applications and networking software to work on the Internet's World Wide Web and internal corporate networks called intranets.
+Writing even simple programmes to let computer users collaborate on documents through networks tradionally has required intimate knowledge of difficult programming techniques.
+The technology Microsoft will unveil on Monday will relieve programmers of the need to know the secret handshakes of its Windows operating systems, said Tanya van Dam, a Microsoft group product manager.
+The move would encourage developers to base more of their commercial products on Microsoft's Windows NT networking operating system, analysts said.
+Oracle has a similar aim.
+On Monday, the company will unveil its own tools for writing intranet software for tapping information stored in Oracle databases, Oracle executives said.
+Corporate programmers have written huge libraries of financial, manufacturing and human resources software using Oracle's products. The new programming tools would let programmers easily convert the libraries to work on the Web, Oracle said.

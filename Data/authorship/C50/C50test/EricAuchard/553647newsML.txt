@@ -1,0 +1,15 @@
+AT&amp;T Corp. said Thursday it withdrew its application with the U.S. government for a license to launch a new generation of communications satellites.
+AT&amp;T's decision to cancel its application to the Federal Communications Commission follows the disposal of several of its existing satellite businesses in recent months, completing its exit from the satellite operations business.
+In a statement, the New York-based company said investment in the new Ka-band satellite technology was a drain on capital resources that did not fit with a renewed focus on its core long-distance business and key growth areas like wireless, online and local services.
+Ka-band refers to radio frequencies that handle two-way voice and data communications. The Ka-band satellites would hover in place in a geostationary orbit instead of circling the Earth.
+The new class of satellites would have allowed AT&amp;T to offer a range of next-generation communications services such as video, data transmission and high-speed Internet services.
+"We are focusing on our core business and some growth areas, and satellites is not core to that," AT&amp;T spokesman Gary Morgenstern said, adding that the company was not withdrawing from the satellite business completely.
+AT&amp;T continues to offer satellite-based services through its minority investment in the Direct TV direct broadcast satellite venture of Hughes Electronics Corp.
+AT&amp;T's Ka-band project was formally known to the industry as the AT&amp;T VoiceSpan Satellite System.
+The company said about 50 employees are engaged in the VoiceSpan project and that it would attempt to reassign them.
+In April, General Electric Co.'s GE Spacenet unit agreed to buy AT&amp;T's Very Small Aperture Terminal satellite operations for an undisclosed amount.
+In March, AT&amp;T sold its Skynet Satellite Services unit to Loral Space &amp; Commmunications Ltd. for $478 milion. AT&amp;T also collected roughly $130 million on an insurance claim for one of its satellites which it lost in space in January.
+The sale of the existing satellite operations means AT&amp;T no longer directly owns any communications satellites.
+In addition, AT&amp;T recently agreed to dispose of its undersea communications cable unit -- another operation it had considered low on its list of priorities -- to Tyco International Ltd. in a deal worth about $850 million.
+A dozen companies, including Hughes, Loral Space, and the international satellite consortium Intelsat have announced plans to compete in the Ka-band satellite market.
+Satellites offering such high-speed communications services are not expected to be launched until the year 2000.

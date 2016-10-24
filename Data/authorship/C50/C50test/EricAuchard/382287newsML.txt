@@ -1,0 +1,22 @@
+Computer, give me $20.
+Such a demand enters the realm of possibility with the introduction Monday of a device that turns a personal computer into an automated-teller machine capable of dispensing card-based electronic cash, marking a new step in PC-based home banking.
+Fischer International Systems Corp. said its $60 device can be inserted into the floppy disk drive of any PC, enabling it to read "smart cards," a new type of plastic credit-card that can perform electronic cash transactions and store bank account balances.
+Already gaining popularity in Europe to pay for store purchases and streetside telephone calls, the "smart card" is beginning to take hold in the United States as a replacement for cash used in ordinary purchases like grocery shopping.
+By enabling PCs to securely dispense money, the device may provide a major stimulus to home banking by empowering consumers to perform financial transactions that now require a visit to a bank branch or an automated teller machine.
+"What's been missing is a low-cost, easy-to-use 'bridge' between smart cards and personal computers," Fischer President Michael Battaglia said.
+Smarty, as the product is known, is a slim piece of hardware that inserts into a personal computer's 3.5-inch floppy disk reader, allowing the machine to link via the Internet to banks or retail outlets.
+Fischer holds key patents for smart card readers inserted into 3.5 inch floppy drives -- making Smarty the most readily adaptable card reader for the 200 million personal computers now in use, company officials said.
+The device, which can be inserted into home or office personal computers or into a laptop computer when travelling, will enable consumers to make wider use of banking cards for purchases, replacing the need to carry loose bills and coins.
+The product could be a boon to PC-based home banking, permitting full-scale transactions instead of the more limited functions now available, like electronic balancing of checkbooks, financial investment tracking or tax return filing.
+Fischer officials said they were working with several major U.S. and European financial services firms to spur use of the devices in a variety of business and consumer applications, including home banking over the Internet.
+In addition, Art Burton, Fischer's vice president of sales and marketing said the company was in talks with top providers of home banking software like Intuit Inc. and Microsoft Corp. to link Smarty to their software.
+"We have had some discussions at various stages with the primary providers of home banking software," Burton said. "We are also working with individual banks."
+Burton said the PC-based Smarty product will be offered later this year to consumers participating in a trial of smart card technology in New York City borough by a group led by MasterCard, Cititbank and Chase Manhattan Bank.
+In addition, Fischer said it has received initial Smarty orders from the Bank of America and Wells Fargo Bank, for pilot testing by bank employees.
+Orders for demonstration models have also come from the U.S.-based credit card consortium Visa, U.K.-based Mondex International and Sweden's Telia Group.
+Smart cards contain an embedded microchip capable of storing more than 4 million bytes of computer data, or dozens of pages of information -- far more than existing magnetic-strip credit cards that hold just 40 characters or so.
+The new financial data format can act as a one-stop shopping card storing electronic cash, a collection of credit cards, and other personal information including several forms of identification to prevent fraud.
+While slow to catch on in the United States, smart cards have grown popular in Europe and Asia.
+Fischer, with annual revenues of about $20 million, is solely owned by Addison Fischer, its chairman and a former professor at the Massachusetts Institute of Technology.
+Addison Fischer is considered one of the world's leading experts on computer security. He was one of the founders and principal owners of RSA Data Security Inc., developers of a popular computer security encryption technique.
+Fischer faces many larger competitors in the smart card reader market, including France's Gemplus, U.S.-based Schlumberger Ltd. and VeriFone Inc., Germany' Siemens AG and Philips Electronics NV of the Netherlands. But these rival machines take the form of bulky computer attachments or standalone-terminals priced between $80 and $300.

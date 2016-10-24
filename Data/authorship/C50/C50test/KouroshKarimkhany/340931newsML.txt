@@ -1,0 +1,18 @@
+Sequent Computer Systems Inc expects its revenue to increase at least 30 percent in 1997 on strong sales of its new NUMA-Q computer, the company's chief executive said on Wednesday.
+"Our investors ought to be able to expect at least a 30-percent growth," said Casey Powell, Sequent chairman and chief executive.  
+Sequent specializes in making computers that pack dozens of inexpensive Intel Corp Pentium microprocessors - the same kind of chips found in personal computers -- into one box. By harnessing the power of a team of Pentiums, a Sequent machine has about the same horsepower as an International Business Machine Corp mainframe computer, the favored data-processing workhorse at big companies.
+Using clever software tricks and faster microprocessors, Sequent's new NUMA-Q line packs even more power in one box at a fraction of the cost of operating a mainframe, Powell said.  
+"If what Sequent is saying is true, they are going to sell an awful lot of these systems," said Scott Butler, an analyst at Jensen Securities, a Portland, Ore., brokerage.
+There is already plenty of attention from customers. Companies such as Boeing Co, Unocal Corp, Ford Motor Co and the National Association of Securities Dealers have bought the machines, Powell said.
+A quarter of Sequent's fourth-quarter revenue of $183.2 million came from NUMA-Q sales, according to company. By the end of the year, almost all of Sequent's revenue will come from NUMA-Q sales, Powell said.  
+In 1996, Sequent had net income of $7.77 million, or $0.23 a share, on revenue of $595.4 million.
+Powell, the 52-year-old co-founder of the company, said he believes the new machines can help Sequent meet the rising demand for alternatives to the mainframe.
+"There's an $178-billion base of installed mainframes out there," he said. "About 12 percent of that market says, 'We are actively looking to get off the mainframe.'"
+Even a sliver of the business from the mainframe defectors "is a damn nice piece of business for me," Powell said.  
+To pursue new business, Sequent increased its sales staff by 50 percent last year -- part of the reason why 1996 net income plunged 78 percent from 1995.
+But Sequent is not the only vendor chasing the business. Last week, Sun Microsystems Inc, the $7-billion vendor of high-performance computers, unveiled Starfire, a machine that also uses dozens of microprocessors to rival a mainframe.
+Some analysts even said there is no big rush to dump mainframes.  
+"This is a brand-new technology," said Jerry Sheridan, an analyst at market researcher Dataquest. To long-time customers of mainframes, "this is going to be a hard sell in the near term."
+Still, at least some investors are confident Sequent can lure customers. Sequent's stock has almost doubled in the past 12 months to about 18 on expectations of strong NUMA-Q sales.
+With much of the cost of NUMA-Q's development and the investment in an expanded sales force out of the way, net income will "absolutely" increase in 1997, Powell said.  
+Butler, who rates Sequent's stock as "outperform," said prospects are good that the shares will keep rising in coming months.

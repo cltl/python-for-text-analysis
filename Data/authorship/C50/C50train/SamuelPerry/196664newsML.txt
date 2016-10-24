@@ -1,0 +1,17 @@
+Intel Corp President and Chief Executive Andy Grove said on Monday that by the year 2011, microprocessors may be capable of holding one billion transistors and delivering 100,000 million instructions per second (MIPS).
+Grove, delivering the opening keynote address at the personal computer industry's Comdex trade show celebrating the 25th anniversary of the first microprocessor, said such advances were possible withing current technological know-how.
+Microprocessors are the semiconductors, invented by Intel engineers in 1971, that serve as the brains of PCs.  
+Grove said that by 2011, the microprocessors the industry could be producting, given current understanding of the laws of physics, could run at 10 gigahertz, or four times the frequency of a microwave oven.
+This is roughly 50 times the frequency of the current top-of-the-line microprocessors.
+Speeds of 100,000 MIPS, a standard measure of computing power, would be 100,000 times the speed of Digital Equipment Corp's VAX 1180s, a line of refrigerator-size midrange computers popular in the 1980s.  
+In a summary text of his speech issued in advance, Grove said the microprocessor of 1996 delivers 400 MIPS, running at a frequency of 200 megahertz (Mhz) with 5.5 million transistors. This, he noted, meets or exceeds a 1989 projection by Intel engineers of 100-MIPS machines at 150 Mhz.
+The microprocessor of the year 2011 might fit on a die the size of a half dollar, or 1.8 inches, three times the current 0.6-inch die size, the Intel executive added.  
+The line width resolution of computer microprocessors, which is critical to the ability to add transistors and power, may -- through projected improvements in photolithographic and process technology -- reach 0.07 micron, compared to 0.35 today.
+But Grove also said the industry must be prepared to meet consumer expectations, including those formed over a half century by the medium of television.
+"We are in competition for these consumers, for their dollars and their leisure time," he said in the summary text. "That competition is the TV."
+He said TVs outnumber PCs worldwide by about three to one.  
+"In this war, he who captures the most eyeballs wins," he said. "In our battle for eyeballs, user experience on the PC must not only meet the expectation levels set by TV viewing, it must exceed them."
+Grove provided demonstrations of the concept of visual computing, one comparing 1992 technology with state-of-the-art technology today, and another showing the high-end Pentium Pro Processor at current performance levels and simulating what will be available in the year 2000.
+In his address, Grove demonstrated how Starbucks Inc uses connected personal computers to enable its chief executive, Howard Shultz, to communicate directly with the company's remote store locations.
+"We need to be relentless in our concern and efforts to grow the number of users and uses of our technology as we are in our efforts to develop and build the technology," he said.
+"Just as we are investing in technology for the long term, we need to target the new users of the future today."

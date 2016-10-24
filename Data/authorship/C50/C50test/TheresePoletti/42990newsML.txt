@@ -1,0 +1,20 @@
+International Business Machines Corp. Tuesday introduced its next generation mainframe computer family, with systems twice as fast as currently available models, in a product launch widely anticipated by its customers.
+"The feedback is phenomenal," said Ross Mauri, vice president of System 390 hardware developnment, in a phone interview. "We have seen quite a bit of demand out there."
+"Customers have been enthusiastic about embracing the new server," Mauri said, adding that it is likely that IBM will be "sold out of what we can produce this year," based on the initial customer reaction.
+Mainframes are giant computers that store the data of the biggest corporations around the world. They are used by banks for transactions, by airlines for reservations systems, and by insurance companies for claims processing.
+While many analysts have predicted the demise of these giant computers as more companies move to PC-based networks, mainframes have staged somewhat of a comeback as huge repositories of data that is accessible via the Internet and internal networks known as intranets.
+The new mainframe servers use the third generation of IBM's lower-cost processor technology, called CMOS. The CMOS (complementary metal oxide semiconductor) technology is a process that uses microprocessor technology that is less costly to build and less expensive for customers to maintain.
+IBM introduced two new lines of System 390 servers, or computers that manage networks.
+One family, called the IBM S/390 Parallel Entreprise Server, has 13 models designed specifically for heavy data storage and for transaction intensive companies.
+The second server line, the IBM S/390 Multiprise 2000, is aimed at medium-sized customers who are currently using IBM S/390 mainframes, but wish to increase their computing power. The Multiprise is also aimed at customers who wish to buy an entire package, with software and storage systems.
+So far, IBM has installed about 14 of the S/390 Parallel Enterprise Servers - Generation 3 in an early customer program. IBM has also installed three of the S/390 Multiprise.
+IBM also said it introduced an upgrade of its mainframe operating system, called OS/390 Release 2, which provides more connectivity for customers to computer networks such as the Internet and UNIX based systems. IBM also introduced other software products for better network computing over the S/390.
+IBM also introduced new mainframe disk storage products for improved data reliabilty.
+IBM declined to give any price details on the new models, saying that it tailors each systems to unique customer needs and that customers are now familiar with the lower prices of CMOS-based mainframes.
+"As you make the transition from bipolar to CMOS, you see a significant price reduction," said Mauri. "Customers already have an understanding of that."
+Bipolar refers to the process technology that IBM used in its older mainframe models. Three years ago, IBM began preparing its customers for a big transition to a new, lower-cost machine, designed around microprocessors.
+Analysts said the new mainframes run at speeds of around 45 million instructions per second (MIPS), twice as fast as the currently available speeds of 22 million instructions per second for the fastest CMOS models, bringing the systems up to the speeds of the older bipolar machines, and at a lower cost.
+Even with the prices of these huge milllion dollar systems falling, mainframes are still IBM's biggest revenue producing hardware. Analysts are hoping for a big uptick in fourth quarter earnings, in part due to mainframes, because the lower-cost models are more profitable to IBM.
+"These are all necessary announcements for IBM," said Gary Helmig, a SoundView Financial Group analyst, adding that the products are important to IBM's future earnings.
+IBM said the new models will be available next month.
+"The mainframe as we once knew it, where MIPS were expensive, we are never going to see that again," said Sam Albert, an industry consultant in Scarsdale, N.Y. "IBM has re-engineered the mainframe, they don't even want to call it a mainframe anymore, they call it a server."

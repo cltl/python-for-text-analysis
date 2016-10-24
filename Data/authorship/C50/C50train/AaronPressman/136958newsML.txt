@@ -1,0 +1,16 @@
+An influential Internet organisation has backed away from a proposal to dramatically expand the number of addresses available on the global computer network.
+The Internet Society, which helps develop and coordinate Internet standards, announced this week that instead of moving ahead with the proposal it would form a nine-member committee to study the issue.
+Unveiled in August, the proposal was an attempt to quell the growing number of disputes over desirable address names.
+"There just seems to be no consensus at all," said Don Heath, president of the society. A variety of objections and questions have been raised about the August proposal, from technical networking issues to concerns about protection for trademarks and intellectual property.
+"We thought we should try to pull it all together and have a good cross-section of people to discuss it and see if we can't reach a consensus," he said.
+The new committee ought to finish its work by early next year and new names could be doled out four to six months later, Heath said. The committee could decide not to go forward with any address expansion, but Heath said that was an unlikely outcome.
+"The facts of life are that people want descriptive names and vanity plates," Heath said.
+Disputes over Internet names are occuring with increasing frequency as more companies seek to publicise and market their products over the Net.
+For example, Viacom Inc.'s MTV cable music channel fought with one of its employees who had registered "mtv.com," eventually regaining control of the name in an out-of-court settlement.
+Every site on the World Wide Web must have a unique address name. Most addresses end with one of a few three letter designations, known as top-level domains, including "com" for private sites, "gov for government sites and "edu" for sites run by schools.
+In August, Internet Assigned Numbers Authority said it would oversee the creation of up to 150 new top level domains, easing the squeeze, especially for names in the private sector category.
+The authority, operating under charter from the society and the Federal Network Council, is the central coordinator of Internet addresses and other standards.
+The society's board of trustees voted in June to accept a preliminary version of the numbers authority proposal, with the proviso that the business aspects of proposal be fleshed out.
+But with the ensuing controversy, the society decided a committee was needed to reexamine the proposal, Heath said. The committee will meet confer mostly by telephone and online, though an open forum is planned for mid-December in California.
+The committee will include two members appointed by the society, two by the numbers authority and two by the Internet Architecure Board.
+The International Telecommunication Union, the World Intellectual Property Organisation and the International Trademark Association will each appoint one member.

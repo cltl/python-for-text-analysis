@@ -1,0 +1,13 @@
+Modem maker U.S. Robotics Corp's stock soared Wednesday on talk that it may be close to unveiling a faster analog modem.
+Skokie, Illinois- based U.S. Robotics told an Oppenheimer &amp; Co investors conference Tuesday that it is looking at developing new technologies including higher speed modems.
+The company has previously said that it did not believe 33.6 kilobits per second was the fastest speed for modems.
+While the company did not say whether it had developed a faster modem, an Oppenheimer analyst said the presentation on the subject was more elaborate than discussions on the topic in the past.
+"This is the first time they've ever discussed this with some slides and everything," Oppenheimer analyst Steven Levy said.  "To the extent there is one, it's probably not too far away."
+Meanwhile, Rockwell International Corp's semiconductor systems unit said late Tuesday it expects to demonstrate 56 kilobit transmission capabilities at a trade show in November.
+That added to sentiment that such a modem, which would speed Internet communication over standard telephone lines, was more than just theory, analysts said.
+Analysts said U.S. Robotics has about an 80 percent share of the modem market for online services and a 38 percent share for desktop modems that connect users with those services.
+If U.S. Robotics can quickly market a faster modem, it could help the company hold or improve that share, as there is no standardization at the 56 kilobit level, analysts said. In other words, Rockwell and U.S. Robotics' modems don't "talk" to each other.
+"Clearly we have an issue of standardization process that will take time and during that time, there's an opportunity for the company to be the only supplier," said Rakesh Sood, analyst at Hambrecht &amp; Quist.
+U.S. Robotics would not comment about whether it was close to releasing a faster modem. The stock was up 4-3/8 to 56-7/8 on Nasdaq Wednesday. Rockwell International stock rose 1/4 to 54-1/8 in NYSE trading.
+Sood noted that modems are a far bigger part of U.S. Robotics' business than Rockwell International's.
+--Reuters Chicago newsdesk, 312-408-8787

@@ -1,0 +1,18 @@
+The Toronto Stock Exchange's move to decimal trading from fractions this year has not boosted trading volume as hoped, a study has shown.
+The conclusion was contained in a July discussion paper by doctoral student Jeff Bacidore at Indiana University's Graduate School of Business and recently obtained by Reuters.
+The TSE is Canada's largest stock exchange and is third-ranked in North America. All of Canada's five equities markets except for Winnipeg adopted trading increments of five cents rather than one-eighth of a dollar on April 15.  
+TSE officials said they made the move in hopes of attracting business away from U.S. exchanges. Many overseas exchanges also use decimal trading increments.
+But Bacidore found trading did not increase in the nine week period after the change compared to the previous nine weeks.  "Statistically speaking, the volume is about the same," he told Reuters in a phone interview.
+However, Susan Crocker, the exchange's senior vice-president of equities and derivative markets, said the study was too short. "What occurs to generate volume on any given day? Like a million things," she said.  
+Because the time periods were so short, "I don't even know how you can draw that conclusion," Crocker said.
+Bacidore said the time frame avoided seasonal fluctuations.
+ScotiaMcLeod senior vice-president Fred Ketchen, a proponent of decimalization and former TSE chairman, agreed with Crocker. "It is too early to make that assessment."
+"The move to nickel spreads has prompted an increase in the number of market orders coming into the market as opposed to limit orders," Ketchen said. "That isn't going to show in the electronic book as far as the liquidity is concerned."  
+Bacidore said his data set was too limited to be broken down into the different types of orders.
+His study also found that decimalization cut earnings for traders, who made higher profits from the previous wider spreads between prices.
+"It's just like any good: if you lower the price, you're going to lose money on each share but volume picks up enough, if you sell more of the product, you could actually compensate for that per unit loss," Bacidore said. "In this case the per unit cost of trading fell, but the volume didn't pick up.  
+Ketchen added that "If you have a one-eighth of a dollar spread, and you can bring that down to a nickel, you've got to be helping somebody."
+Crocker agreed. "Spreads have narrowed and investors have certainly benefitted."
+Bacidore, who said he was interested in decimalization because U.S. markets are considering abandoning their systems to join an international movement, said his next step is to see if Toronto is attracting volume away from U.S. exchanges.
+The exchange is also studying the effect of decimalization but is unlikely to publish its results, Crocker said.
+-- Reuters Toronto Bureau (416) 941-8100 or lydia.zajc@reuters.com

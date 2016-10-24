@@ -1,0 +1,23 @@
+Storage Technology Corp on Tuesday said it had signed a deal with the Swedish patent office for the sale of a disc-based storage system and was in talks with the Chinese patent office about a similar deal.
+The two events follow an earlier system sale to the European Patent Office, based in The Hague.
+"It's too early to talk about the details of the Chinese deal, we are still in discussions. It can still take some time before we have a contract," Campbell McGarvie, vice-president Europe, Africa and Midle East, said in an interview.
+He gave no financial details of the Swedish deal.
+StorageTek, based in Louisville, Colorado, specialises in the storage and retrieval of digital information and increasingly is moving away from digital documents to bit-map images. Bit-map images are digital pictures. Bit-map images open up the possibility of storing medical scans or video images. Potential users of StorageTek's new products are members of the medical profession or broadcasters.
+StorageTek has disc-based products as well as tape-based products. In tape, it makes products for such companies as Siemens and Cie des Machines Bull.
+On August 19, the company signed a deal with AT&amp;T Corp's NCR unit under which NCR will market its Timberwolf tape system, a system for storing information.
+But the NCR deal is less far reaching than a June 10 deal with International Business Machines Corp under which StorageTek will make IBM branded products.
+The U.S. Justice Department is investigating the deal and in particular is looking at the possibility of anticompetitive practices in the direct-access storage devices industry. Pending completion of the probe, the deal cannot be finalised. Earlier this month, both StorageTek and IBM have said the inquiry was routine and expected.
+Financial analysts say that, should the deal go through, it could add hundreds of millions of dollars to StorageTek's revenues.
+"That was a major deal, it was big change for IBM. Never before had IBM allowed another company to build such major components as storage facilities," McGarvie said.
+According to the IDC research buro, StorageTek had an 11 percent share of the disc-based storage market in the first quarter of 1996 while IBM had a 30 percent stake.
+Should the deal go through, the two companies would hold just under half of the market, estimated for 1997 at 3,500 terrabytes (one thousand mega bytes), valued at $3.5 billion. The combined market share could grow to more than 50 percent in the next few years.
+EMC Corp is currently market leader with 43 percent, and Japan's Hitachi Ltd Hitachi Data has a share of over 11 percent.
+"The deal is mutually exclusive. IBM will also fund our research and while we begin with the Iceberg product it will also involve new products," McGarvie said. The Iceberg, a StorageTek product, is a storage system for discs.
+StorageTek's Toulouse facility in France, opened in June 1995, will make IBM-branded products and the deal is expected to speed up the unit's expansion.
+At Toulouse, some 100 people work on manufacturing and research and development. Storagetek is committed to increase this to 470 people within four years and McGarvie said that this would now easily be met, probably sooner than in four years.
+In the medical imaging and video market, StorageTek sees a lot of opportunities but for the moment it has not yet signed big deals. "We are in discussions for some deals which could be concluded next year," French marketing manager Eric Debray said.
+On a horizon of five to 10 years, McGarvie believes the company could reap benefits from the Internet and Intranet online network services, coupling its storage facilities to online retrieval systems.
+StorageTek acquired the company Network Systems about a year ago. This company offers network solutions as well as security products such as Borderguard, which is a "firewall" products.
+A firewall shields sensitive internal computer information from the public internet and aims to prevent hackers from breaking into commercially vital information data bases.
+"It's one of the main worries at the moment. Many companies want to go on the net but they fear that they will open up their internal systems to possible intrusion," McGarvie said.
+-- Paris newsroom +33 1 4221 5452

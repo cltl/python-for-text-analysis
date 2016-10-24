@@ -1,0 +1,24 @@
+U.S. computer makers are expected to report solid fourth quarter earnings in what is normally the strongest quarter of the year, but the stronger dollar will have a negative impact on some big systems makers.
+And despite all the negative reports from computer retailers about lackluster personal computer sales, analysts said most U.S. PC makers -- with the exception of Apple Computer Inc and AST Research Inc -- will show strong sales growth, fueled by hefty corporate PC buying.
+Apple is first to report, with Q1 late Wednesday.  
+Earlier this month, Cupertino, Calif.-based Apple Computer forecast it would report an operating loss for its first quarter, ending December, citing weak U.S. demand for its Performa consumer PC and continued shortages of notebooks.
+"Most of the indications are that business throughout the (PC) sector, other than Apple, was strong," said Eugene Glazer, a Dean Witter analyst. "With all the negative comments you are hearing from retailers, some of that market was going to the direct marketers (like Dell Computer Corp and Gateway 2000 Inc )."  
+Analysts said PC leader Compaq Computer Corp is likely to report strong earnings, especially after semiconductor giant Intel Corp reported a blow-out fourth quarter, surpassing Wall Street's highest estimates.
+Compaq gets about 20 percent or so of its revenues from the retail consumer channel and the rest of its revenues are from sales to corporate customers, which were booming.
+"The consumer business didn't hurt them," said Jim Poyner, an Oppenheimer &amp; Co analyst. "Dell and Compaq are benefitting from the same forces, the transition to the PentiumPro (chip), a hot notebook market and progress in the server business."  
+On the larger systems side, companies like International Business Machines Corp, Digital Equipment Corp, Unisys Corp, are expected to see some negative impact from a stronger dollar overseas, plus sluggish sales in Europe, while business in the U.S. remains strong.
+"Business is quite good in the U.S.," said Jay Stevens, a Dean Witter analyst. "Where it's slower, or where the concerns have been expressed is overseas, mostly in Europe."
+Digital is expected to report a slight profit, as it slowly recovers from sales force problems in Europe and a money-losing PC business. PCs are expected to break-even.  
+"I think it will be a good quarter," said Steve Milunovich, a Morgan Stanley analyst. "The dollar did strengthen at the end of the quarter. You will generally see numbers near consensus."
+Analysts said they expect IBM's earnings to be a bit better than expected, but that its expenses for headcount reductions will be greater than the previous quarters.
+"Europe remains a slower grower, which has led to a number of organizational and planned efficiency changes," said John Jones, a Salomon Brothers analyst. IBM reports after the stock market closes next Tuesday, changing an old tradition.  
+The following estimates for some major computer makers are compiled by First Call, a unit of Thomson Financial Networks.
+    COMPANY		   CONSENSUS	     DATE
+Amdahl Corp		   profit $0.13	  Jan. 29
+Apple Computer Q1	   loss $0.62	    Jan. 15
+Compaq Computer	     profit $1.53	  Jan. 22
+Digital Equipment Q2	profit $0.10	  Jan. 16
+Gateway 2000		  profit $1.01	  Jan. 23
+IBM Corp			profit $3.88	  Jan. 21
+Sun Microsystems Q2	 profit $0.42	  Jan. 16
+Unisys Corp		   profit $0.13	  week Jan. 20

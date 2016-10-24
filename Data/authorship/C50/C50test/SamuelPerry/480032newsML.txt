@@ -1,0 +1,16 @@
+Sun Microsystems Inc. said Monday it will move to build on the momentum behind its Java computer programming language despite overtures by Microsoft Corp. to co-opt Sun's initiative.
+The president of Sun's JavaSoft unit, Alan Baratz, said the company will unveil several new initiatives at the second annual JavaOne software developers' conference in San Francisco later this week.
+At the same time, some developers were buzzing with expectation that Microsoft on Wednesday may spell out its own plans for Java, including some which may not sit well with other Java licensees.
+As the dominant supplier of operating systems for personal computers, Microsoft is among the more critical licensees of Java, which promises to operate across otherwise incompatible computing systems.
+Microsoft Chief Executive Officer Bill Gates is due to address a software developers conference in one hall of San Francisco's Moscone Center the same day JavaSoft unveils its latest initiatives in another part of the same convention center.
+Microsoft would not comment Monday on its plans, but the showdown follows a months-long tug of war between the Redmond, Wash.-based software giant and Sun's JavaSoft unit.
+Earlier this year, Sun teamed up with International Business Machines Corp., Netscape Communications Corp. and Novell Inc. to launch a "100 percent pure Java" branding campaign aimed at ensuring Java retains its ability to work on multiple computer systems.
+The initiative was designed to keep Microsoft -- or any other licensees -- from appropriating the technology, according to its proponents.
+Microsoft, meanwhile, complained Sun had deliberately made a new Java version incompatible with recent releases of Microsoft's Windows.
+Two weeks ago, JavaSoft applied to become a standards-setting body which could submit Java and its various upgrades to become standards under the auspices of the International Organization for Standardization.
+At the time, a Microsoft executive complained Sun was not surrendering the Java branding and compliance process to the standards board, an action JavaSoft retorted would break with industry practice.
+Michael Kwatinetz, the lead analyst in Deutsche Morgan Grenfell's high technology group, said Microsoft's objective is to stay at the forefront of the software development community by continuing to extend its tools into the hot Java arena.
+In an interview ahead of JavaOne, which starts Wednesday after a Tuesday gathering of Java licensees, Baratz said Sun was introducing a combination of new products and specifications aimed at the server computers used by large organizations for handling computer networks.
+He also said that, as a separate intitiative, Sun will announce sharply scaled-down varieties of Java -- PersonalJava and EmbeddedJava -- which will be able to work on a variety of small devices.
+These would bring Java to personal digital assistants such as Apple Computers Inc.'s Newton, copiers and even smart cards, as well as televisions, pagers and cellular phones, changing the definition of what a computer is, according to Javasoft executives.
+"The momentum behind Java continues to grow," said Baratz, adding the JavaOne show is sold out with more than 9,000 developers registered and an estimated 400,000 developers now seriously using Java worldwide.

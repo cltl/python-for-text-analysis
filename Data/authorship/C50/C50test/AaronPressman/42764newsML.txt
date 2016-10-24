@@ -1,0 +1,34 @@
+Commuters stuck in traffic on the Leesburg Pike in Northern Virginia are just a few hundred yards away from an even bigger jam, one that stretches around the world.
+This is a traffic jam of bits and bytes, digital data travelling through one of the main arteries of the global Internet.
+With thousands of new users signing on every day, the Internet's data routes are brimming with traffic and some predict the imminent demise of the net due to overcrowding.
+"Demand for the Internet is outstripping supply," said Mark Luker, programme director of the National Science Foundation's network infrastructure project.
+But work is under way to provide more capacity through technical solutions and ways are being explored to ration the Internet by price, through fees based on the speed and quantity of data.
+The facility in Northern Virginia is a computer interchange, called Mae East, where 46 major and minor Internet service providers come together to exchange data travelling across the Internet.
+BUSIEST PUBLIC EXCHANGE POINT ON THE INTERNET, FIRM SAYS
+MFS Communications Inc, which runs Mae East and its California counterpart Mae West, describes it as "the busiest public exchange point on the Internet." Peak loads run as high as 53 million bytes per second.
+Until April 1995, the National Science Foundation (NSF) managed and financed the common highway underpinning most of the Internet, called a network backbone.
+Before the network was phased out in favour of privately managed networks, traffic increased steadily from 1.3 trillion bytes a month in March 1991 to a high of 17.8 trillion bytes in late 1994, the equivalent of transfering the entire contents of the Library of Congress every four months.
+The private system sends data across a host of different company networks and crowded interchange points. As the load continues to increase, MFS and the Internet providers can add more fibre optic lines and switching equipment, but that is expensive and still may fail to keep up with rising usage.
+Some providers are setting up smaller, one-to-one interchanges to relieve the burden on Mae East. MCI Communications, which has seen a 5,000 percent increase in Internet traffic since the beginning of 1995, set up 22 circuits for one-to-one exchanges.
+For now, the best solution is to keep adding hardware, said Luker. "But in the long run, you can solve problems by adding knowledge to the system instead of brute force," he said.
+The NSF recently announced 13 grants for the development of high speed networking technologies and software programmes.
+IDEAS TO REDUCE CONGESTION
+One project hopes to reduce congestion by developing a system, called caching, to hold copies of popular sites at duplicate locations around the world.
+If an Internet user in Japan tries to download a web page in New York, the data must travel all the way around the world, even if another user in Japan has just downloaded the same page. With a cache, the second user could grab the page from a closer computer that the data had already gone through.
+"A cache automatically duplicates the pages that are used most often," Luker explained. The NSF had sponsored a study at the National Laboratory for Advanced Networking Research of a cache that "is showing great improvements in traffic."
+A procedure called multicasting could also reduce repetitive data transfers, said Robert Hagens, MCI's director of Internet engineering. Multicasting sends a stream of data such as sound or video across the net that can be accessed by many users.
+"If you look at the radio stations beginning to appear on the Internet, they commonly require each listener to open a connection to the station so you've got a lot of duplication," Hagens said. "With multicast, you put that data into a stream of packets that only get duplicated when they have to."
+New ways of charging for Internet usage may alter the traffic patterns, as well. At the moment, most users pay a flat rate for Internet service regardless of how much capacity they use. Sending e-mail is considerably less taxing than sending live videos, but users pay the same for both.
+"The Internet is a mature technology but an immature economy," said Hal Varian, dean of the University of California's School of Information Management and Systems. The current pricing model does not provide incentives to Internet providers to offer high quality service, he said.
+People who need high priority channels for sending live video might have to pay more, Varian said, but basic tasks like sending e-mail will remain essentially free.
+Varian also predicted Internet service providers will begin paying each other based on the amount of traffic they exchange, much as phone carriers make settlement payments to foreign telecommunications companies for completing international calls.
+Much of the slowdown experienced by individuals trying to surf the World Wide Web is caused by limits at each end of a connection rather than by delays moving across the network.
+Web pages reside on computer servers that can be overwhelmed when too many requests arrive at the same time. And many individuals access the Internet through relatively slow modem links.
+Such delays could be eased by a proposal from Sun Microsystems to create a new Internet standard for the way computers access each others' files.
+Called Web Network File System, the protocol reduces the burden on the computer holding the web pages, speeding the transfer of files and allowing three times as many Internet surfers to gain access at one time, according to Sanjay Sinha, head of Sun's Solaris Server project.
+"In real life, most web servers are heavily loaded," Sinha said. Sun's web file system "doesn't require that load."
+User delays are real, but by some measures the Internet's performance has actually improved over the last few years.
+Matrix Information and Directory Services of Austin, Texas, compiles a weather report which it publishes on the Internet.
+The report, updated every four hours, shows how long it takes a small message to travel from Matrix's headquarters to 4,500 major computers around the world and back.
+Traffic clogging the Internet slows the round trips. The reports show huge fluctuations in Internet traffic, with "rush hour" occuring weekdays as business users log on.
+But the average delay declined by 30 percent between January 1994 and January 1996, according a report by Matrix.

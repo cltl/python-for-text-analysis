@@ -1,0 +1,23 @@
+Intel Corp. will extend its reach into the networking equipment market Monday by launching two aggressively priced products aimed at speeding the use of increasingly powerful computers.
+Intel's Hillsboro, Ore.-based Internet and Communications Group (ICG) said it is introducing a networking hub to allow customers to move gradually from 10 megabits per second (Mbps) to 100 Mbps speeds.
+The Intel Express 10/100 Stackable Hub will be priced at $99 a port in some configurations -- a price it said was very competitive with traditional 100 Mbps hubs at $150 to $175 a port and the slower 10 Mbps hubs at $70 a port.
+It can be stacked up to eight units high, allowing for denser packing of networking equipment than rival's hubs.
+Intel is also launching the industry's first single chip Fast Ethernet product -- dubbed the Intel 82558 -- to support networking at speeds of 10 or 100 Mbps.
+"We want to make network connectivity a standard part of every PC shipped," said ICG vice president Mark Christensen, adding that the chip reduces the cost of building Fast Ethernet networking into PCs by about 50 percent.
+The chip can be shipped directly on a personal computer's motherboard. Of the roughly 40 million new Ethernet-ready PCs shipped each year, less than 10 percent are done with motherboard implementations and Christensen said this could approach 30 to 40 percent of PCs.
+The new chip will also improve manageability features, such as remote management of the PCs over a network to simplify maintenance and upgrades. Limited samples of the 82558 are now available for manufacturers, Intel said.
+The move is Intel's second bold thrust this year in the fast-paced market dominated by Cisco Systems, 3Com Corp., and Bay Networks Inc..
+In February Intel dropped its prices nearly 40 percent on Fast Ethernet network adapters - devices which can be installed in a computer to enable them to communicate in a network at higher speeds -- a strike most directly at 3Com.
+"3Com responded very quickly," Dataquest analyst John Armstrong said of Intel's February price drop, "When they modified their adapter pricing they really rocked 3Com."
+"I don't think this announcement is at the same level," in terms of its direct impact on the current players, Armstrong said of Monday's introductions.
+Nevertheless, Armstrong said Intel's aggressive price points could be a significant factor in accomplishing Intel's objective of boosting use of the technology.
+"The fact they have 10/100 isn't innovative - the price point is. It will reduce the indecision level," he added. "Because Intel is coming up a bit later, they have to do things that make people stand up and notice."
+3Com is the leader in 100-megabit hubs, based on 1996 data, with its share on some products in the category up to the high 30 percent range. Bay Networks and Hewlett- Packard Co. are also strong in the market.
+In the adapter market, analysts noted that 3Com has also provided advanced capabilities like the sort of network management features Intel is now making it possible to place directly on the PC motherboard.
+"3Com is trying to outflank Cisco by coming at them from the desktop and in a way Intel is doing the same thing," Armstrong. 3Com has been facing greater pressure from both Intel and from Cisco, however.
+Just last week, 3Com said in its quarterly report that it could see slower revenue increases than the rest of the networking industry because of falling prices and weaker overall demand for networking gear.
+The stock of 3Com has fallen sharply from the low $70 range early this year to below $30 last week. It closed down $2.75 on Friday at $29.25 on the Nasdaq market.
+"Intel is certainly a contender now," in networking, said Armstrong, noting that in the networking hub market, for example, they were not in the top 10 industry players in 1996 but they could burst up the charts this year.
+"They have indicated they certainly are not stopping with these most recent product announcements," he said.
+Intel said it was able to support the aggressive price levels due to its expertise in silicon design and fabrication and its volume manufacturing capabilities.
+The company, the world's largest semiconductor maker, said its drive into networking, like many of its other recent industry initiatives, is aimed at selling more high powered personal computers that use its microprocessors.

@@ -1,0 +1,14 @@
+Advanced Micro Devices Inc., in a bid to take on computer chip giant Intel Corp.,  on Wednesday began shipping its K6 microprocessor.
+AMD, based in Sunnyvale, Calif., said its K6 microprocessor works faster than Intel's top-of-the-line Pentium Pro chip, is 25 percent cheaper than comparable Intel offerings and is easier to design a PC around.
+For the first time in its corporate history, AMD is a strong alternative for the latest technology to Intel, the world's biggest semiconductor company, said Jerry Sanders, AMD's chairman.
+"It's the good guys vs. the bad guys," Sanders said in a presentation to investors and reporters. "It's the Return of the Jedi. We're the Jedi."
+AMD makes microprocessors, the chips that handle the main calculations of a personal computer.
+Until now, AMD's chips have been about three years behind in technology from what Intel has offered. The K6, using technology gained from the 1995 acquisition of chip designer Nexgen Inc., crunches numbers just as fast or slightly faster than Intel's Pentium, analysts said.
+With the K6, AMD hopes to land several big computer companies as customers.
+"There is a growing perception that the Intel monoply is getting broken up," said Krishna Shankar, semiconductor analyst at Donaldson, Lufkin &amp; Jenrette. "If I were a PC maker I would want two healthy competitors."
+No PC manufacturer, however, has yet committed to using the K6 in its machines. At the AMD presentation, Sanders did not name any K6 customers, as some analysts had expected.
+Sanders said PC makers will begin to announce K6-based machines in the next 60 days.
+"The single most important task for us right now is to convince the biggest PC players in the top tiers," he said.
+AMD's stock fell 12.5 cents to $39.50 and was the most active on the New York Stock Exchange. Intel fell $2.31 to $137 on Nasdaq.
+Even though AMD did not name any customers, most analysts expect the company to ship at least 2 million K6 chips by the end of the year.
+Based largely on the demand for the K6, the worldwide market for non-Intel microprocessors will triple in 1997 to $2.4 billion from $722 million in 1996, market researcher Dataquest said.

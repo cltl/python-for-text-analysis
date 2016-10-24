@@ -1,0 +1,24 @@
+Software giant Microsoft Corp. Thursday unveiled the highly anticipated version of its next-generation software for office computers, called Office 97.
+Office 97 -- a package of software that includes popular programmes such as Microsoft Word for word processing, the Excel spreadsheet programme, Access database software and the PowerPoint presentation programme -- has many new features, including document collaboration and the ability to jump seamlessly from a document or spreadsheet to the Internet.
+"Office is a centrepiece of Microsoft's Internet strategy," Microsoft Chairman Bill Gates said at a New York news conference.
+The software giant, which has 55 million users of Microsoft Office applications, said it had already received advance orders from nearly 10,000 retail outlets for Office 97. The software became available in stores Thursday.
+The company said 3 million copies had been sold through corporate licensing agreements.
+Industry analysts noted, however, that many large business users of Microsoft's Office software have not upgraded to the Windows 95 or Windows NT operating systems required by Office 97.
+Microsoft, based in Redmond, Wash., said more than 80 percent of the improvements in Office were a result of customer feedback.
+"Our investments in understanding the needs of customers and our continued ability to deliver exciting enhancements are the cornerstone of Office's ongoing success," Gates said.
+Gates launched the software at a media event at New York's Lincoln Centre.
+Microsoft dominates the office suite category of software, with a 90 percent market share, according to International Data Corp., a market research firm based in Framingham, Mass.
+But it faces increasingly aggressive competition from Canada's Corel Corp. and International Business Machines Corp.'s Lotus unit and its SmartSuite software.
+Corel, which uses WordPerfect word-processing software as the core of its office software, made a significant dent in Microsoft's retail market share in the second half of last year, according to industry analysts.
+"While SmartSuite and Corel are eating away at things like price and Internet features, Microsoft's message to corporations is, 'Guys, it's the ease of use and the cost of ownership,'" said Eric Brown, a Forrester Research analyst.
+Microsoft said with some of its new features in Office 97, such as the Office Assistant, users can easily get answers from a built-in software "guru" without burdening their information systems managers. Tools such as Network Installation Wizard, Office Resource Kit and others make it easier for information system managers to install and manage the software.
+"I'd not be surprised if we reduced the cost of ownership by one-third to one-half," said Dennis Tevlin, Microsoft's director of product marketing, desktop applications.
+Since Sun Microsystems Inc., International Business Machines Corp., and others have introduced lower-cost network computers, one feature they have touted is the low cost of ownership of these new devices vs. the higher cost of maintaining PCs and their hefty software.
+Office is a huge cash generator for Microsoft. Its desktop applications group, which is dominated by Office, is expected to bring in about $5 billion of the company's fiscal 1997 revenues, which are estimated at slightly over $10 billion, according to Wall Street analysts.
+The standard edition of Office 97 for upgrades from earlier versions of the software has an estimated retail price of $209. It will sell for $249 for upgrading from non-Microsoft suites and $499 for new users.
+One new component in Office 97 is called Microsoft Outlook, a desktop information manager. Outlook helps users manage information, track documents and communicate.
+By integrating e-mail, scheduling, contact management, task management and a module for tracking documents and events, Outlook acts as a central "hub" for Office 97.
+Gates said one of his favourite features of Outlook is its e-mail filtering capability, which enables him to immediately read and answer important e-mail amid the flood of e-mail messages he receives daily from around the world.
+Other features include Internet technologies that make it easy for users to create "hyperlinks" linking their documents to a World Wide Web site, for example. Users can also search Office and Web-style documents on a corporate network and they can navigate documents using the familiar tools of a Web browser.
+"We like to call this activating the Web," Tevlin said. "1996 was the year of the lots of Internet infrastructure products. Office 97 is the first in this new wave of Web applications."
+Microsoft's stock gained $1.375 to $86 on Nasdaq.

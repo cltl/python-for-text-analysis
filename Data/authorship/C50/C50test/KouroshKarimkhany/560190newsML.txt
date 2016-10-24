@@ -1,0 +1,22 @@
+Intel Corp. will release its speedy new Pentium II microprocessor this week, but a glitch in the computer chip that turned up Monday could mar the launch.
+The world's biggest chip maker plans to roll out the new microprocessor -- the heart of the personal computer -- Wednesday, and about a dozen personal computer makers will announce they plan to use it, said Richard Dracott, Intel marketing manager.
+Intel officials said they were looking into reports the chips may contain a so-called floating point glitch that could cause computational errors. A similar problem bedeviled the original Pentium chip in 1994.
+A spokesman for the Santa Clara, Calif.-based chip supplier said the problem appears to crop up when a computer performs an obscure calculation. The company said engineers were running tests on the chips to determine the extent of the problem but at this time Intel has no plans to recall them.
+The problem appeared to affect only the Pentium II and Intel's top-of-the-line Pentium Pro chips. It was not immediately clear how many chips may be affected by the problem.
+News of the problem, which was posted on a Web site called "Intel Secrets" (http://www.x86.org) and reported by CMP Media's EE Times Online (http://techweb.cmp.com/eet/823), cropped up just as Intel was preparing to launch the Pentium II on Wednesday.
+Analysts said it was not clear if the flaw is as as serious as one which cost the semiconductor giant $475 million in 1994.
+"It does not strike me right now as as big a problem as a couple years ago," Dataquest analyst Nathan Brookwood said, adding the problem would crop up in poorly written computer programs that store decimal numbers in a certain way.
+The Pentium II is based on the Pentium Pro, but includes software and circuitry -- dubbed MMX technology -- that makes it more adept at handling graphics. In most cases, it works 30 percent to 40 percent faster than today's mainstream Intel products, analysts said.
+Most of the new Pentium II machines will be desktop PCs aimed at engineers and professionals who use a lot of computing horsepower for graphics, analysts said.
+Although the Pentium II is a souped-up version of the Pentium Pro, it is the biggest product introduction for Intel in years, said Mark Kirstein, research director at semiconductor market researcher In-Stat in Scottsdale, Ariz.
+"The Pentium Pro was really a niche product" for high-end desktops and servers, the computers that control networks, Kirstein said. "The Pentium II is aimed at the mainstream."
+A streamlined design and cheaper production will make it easier for Intel to churn out the new chip, Kirstein said.
+Within a year, most new PCs -- even the ones geared for home use -- will be based on the Pentium II, analysts said.
+Intel also is trying to pitch the chip to new kinds of customers. The company has told video game makers, for example, that the chip can handle the intense graphics requirements of coin-operated arcade games.
+"We will be delivering significant performance improvement over the fastest Pentium Pro," Dracott said.
+Intel said part of the performance improvement comes from a new so-called cartridge design. The Pentium II will be sold to PC manufacturers in a plastic housing that includes specialized memory chips. Because the microprocessor and memory chips are packed closely together on a seperate circuit board, they can pump data to the rest of the PC much faster, Intel said.
+There is one more benefit: It frustrates Intel rivals Advanced Micro Devices Inc. and Cyrix Corp., which for the first time are a credible threat to Intel.
+AMD and Cyrix make chips that work like the Pentium and sell them to PC makers for much less. But their chips are designed to fit into the old slots for microprocessors.
+AMD spent the past two years working on the K6 chip, which works as fast as the Pentium Pro and is 25 percent cheaper, but does not fit into the new cartridge slot.
+Since most of the PC makers are expected to use Intel's cartridge design, AMD now has to spend time and money to make the K6 compatible.
+Intel stock rose $4.875 to $162.50 Monday while Cyrix rose $1 to $22.50, both on Nasdaq. Advanced Micro Devices rose 50 cents to $44.50 in consolidated trading on the New York Stock Exchange.

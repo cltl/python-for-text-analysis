@@ -1,0 +1,18 @@
+Netscape Communications Corp's first quarter results were better than Wall Street's most gloomy projections despite investor worries about sweeping product upgrades next month, analysts said.
+Not only did the company manage revenues of $120.2 million in the quarter to March 31, essentially matching more upbeat estimates, but the Internet software pioneer topped analysts' $0.08 a share mean estimate by a penny.
+Analysts said company executives appeared confident they will be able to introduce a broad upgrade of its new software within the current second quarter, allaying some concerns the date could slide.
+Netscape CEO Jim Barksdale told analysts and media by teleconference that the company will hold its third developers' conference in San Jose on June 11-13 and analysts said it will likely ship final versions of its Communicator and SuiteSpot upgrades before then.
+"Relative to what was being presumed for the quarter this should be a sigh of relief for a lot of folks out there," said Goldman Sachs analyst Michael Parekh. "There was no bogeyman under the bed, as some folks had feared."
+The company told analysts and reporters after the earnings report that sales of its "client" browser products as a portion of total revenue declined to 38 percent from 51 percent in the final 1996 quarter.
+Server software accounted for 37 percent of total revenue, up from 33 percent in the December quarter, while services soared to $25 percent of revenue from 16 percent.
+Compared to a year ago, when analysts noted the company had essentially four products, Barksdale said a total of 15 products had been introduced, upgraded or entered beta testing since January 1.
+"We continue to think the market opportunity is significant, and we feel terrific about our product line, particularly our new releases which are in final beta cycles today and which will be released commercially this quarter," Barksdale said.
+Some analysts expressed surprise at the growth in services revenue, which included greater emphasis on content reachable from its Web site and a fresh focus on growing Netscape's service offerings on their own.
+"In my mind it's absolutely a positive, given that they are competing with a software company that is also on its way to becoming a content company," said Parekh, referring to Microsoft Corp's media initiatives.
+The company was also at the tail end of its Navigator cycle, ahead of the introduction of Communicator, with one analyst saying retail browser revenues fell to two percent from seven percent in the December quarter.
+But Netscape retains its share of doubters.
+Zona Research said in a report after the results that a dip in overall margins might be a one-time event, but it was nonetheless "a warning that cannot be taken lightly."
+"Although we believe jackrabbit growth rates are not infinitely sustainable, there is an ominous statistic in today's announcement," it said of the margin levels.
+On Tuesday, brokers Volpe Brown Whelan &amp; Co. said that though Netscape might report "a perfectly respectable" first quarter result on Wednesday, it was entering a period of significantly greater stakes and higher risk.
+Two analysts at the firm, Charles Finnie and David Locke, initiated coverage of Netscape with its lowest investment rate, an underperform, setting a 12-month price target of $21 based on comparable valuations.
+Netscape faces more substantial risks in the next 18 months than earlier in its short history, the analysts said in a research report, in addition to having drawn "the unwelcome, and undivided, attention of Microsoft." ((sam.perry@reuters.com, Palo Alto Bureau 415 846 5400))

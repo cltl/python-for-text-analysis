@@ -1,0 +1,19 @@
+Compaq Computer Corp., the world's largest personal computer maker, will launch its first computer workstations this week with low-cost entrants that already have at least one workstation maker scrambling.
+"They have a fighting chance to really threaten some of the traditional vendors," said Keren Seymour, an analyst with International Data Corp., a market research firm.
+On Tuesday Compaq will unveil three systems in the "personal workstation" area, the faster-growing segment of the $15.1 billion market for workstations -- high-powered computers used by engineers and designers to perform complex calculations requiring enormous power.
+Traditional workstations run on the UNIX operating system and the market has been dominated by Sun Microsystems Inc., Digital Equipment Corp., International Business Machines Corp. and Hewlett-Packard Co.
+But in the past two years, Microsoft Corp's Windows NT operating system has been making major inroads and a host of companies now develop lower-cost workstations running NT.
+According to IDC, the personal workstation market -- workstations selling at prices from $4,500 to $10,000 -- is growing at a faster pace than traditional, UNIX-based arena, where systems cost from $17,000 up to $100,000.
+While Windows NT cannot yet handle some of the memory-intensive, highly technical applications, Seymour said, NT-based workstations are widely used for financial modeling, animation, and computer-aided design.
+Engineers can also run their desktop applications, such as spreadsheets, word processing, and electronic mail, on the same system, instead of having two separate computer systems.
+"It's growing at an average rate of 44 percent a year," Seymour said of the personal workstation area, compared with traditional workstation growth of 7.5 percent, on a compounded annual growth rate, through the year 2000.
+Already, Houston-based Compaq's expected entry in the market has at least one major vendor nervous.
+Last week, IBM held a hastily-arranged conference call for analysts to discuss the formation of a new business unit that will develop Intel-based workstations running NT.
+"It was an answer to Compaq's initiative," said Sam Albert, an industry consultant in Scarsdale, N.Y. Otherwise, he asked, "Why would IBM give a heads up for a product that isn't ready until March?"
+IBM's current line of workstations, the RS/6000 family, are designed around IBM's PowerPC chip and run on the UNIX operating system. In its third-quarter earnings report, however, IBM said its workstation business was flat, another indicator of the increasingly popularity of the lower-cost NT-based machines.
+Compaq is expected to introduce three models in the $5,000 to $10,000 range, IDC's Seymour said. A Compaq spokeswoman declined to comment on the products to be unveiled Tuesday.
+PC Week, an industry trade magazine, reported last week that Compaq will price its entry-level workstation at $5,000, targeted to molecular modeling and computer-aided design.
+Two other models, for the animation creation business, are priced from $8,000 to $10,000, PC Week said.
+As part of its recent product revamp, Silicon Graphics Inc., long a leader in the animiation workstation area, also recently introduced a less-expensive model called the O2, which runs on UNIX, in response to the growth in the NT-based machines.
+But analysts said SGI and Sun Micro will not likely embrace the Microsoft operating system NT anytime soon, even though it is poised to become the faster-growing workstation segment.
+"Sun and SGI would rather die than do NT," said Seymour. "That's the unfortunate thing ... At some point, the NT market share is going to be bigger than theirs."

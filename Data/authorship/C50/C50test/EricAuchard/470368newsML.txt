@@ -1,0 +1,9 @@
+Cisco Systems Inc. is set to announce the acquisition of Telesend Inc., a developer of low-cost, high-speed Internet access technology, sources familiar with the deal said Tuesday.
+Cisco agreed to acquire Telesend, a privately-held Cupertino, Calif.-based firm, in exchange for an unspecified amount of stock in Cisco, the sources said.
+Additional financial terms were not available.
+Telesend is the developer of a new telecommunications technology known as ISDN DSL, or IDSL for short. The full name is Integrated Services Digital Network Digital Subscriber Line.
+A Cisco spokesman had no comment on the acquisition other than to say, "Most of our acquisitions are of small, privately-held firms."
+The spokesman, Adam Stein, said Cisco has made 14 mainly technology-oriented acquisitions in the last three-and-a-half years.
+Officials of Telesend were not available to comment, but an automated voicemail system answering calls at Telesend's offices in Cupertino transferred callers directly to a Cisco switchboard operator. Cisco is headquartered in nearby San Jose.
+Telesend's IDSL is a local-loop modem technology that allows phone companies to offer Internet access connections from central office switches to local customers at speeds of up to 128,000 bits per second, or about four times the speed of standard phone lines.
+Kieran Taylor, an analyst at market research firm TeleChoice Inc., said buying Telesend is a strategic move by Cisco to counter IDSL products announced a month and a half ago by rival equipment maker Ascend Communications Inc.

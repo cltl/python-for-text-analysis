@@ -1,0 +1,23 @@
+Soaring Internet usage is bringing the United States phone system perilously close to gridlock by tying up millions of local phone lines every evening, say industry experts and analysts.
+"It is like gridlock on a highway: If you are close to capacity, traffic still moves slowly, but just add a few more vehicles and you get gridlock," said Amir Atai, director of network and traffic performance at BellCore.
+With Internet use rising at 42 percent a year, according to industry studies, phone capacity simply cannot keep pace.
+"This type of (Internet) usage on our network is growing at 10 percent a month and we are watching it closely," said NYNEX Corp. spokeswoman Susan Butta.
+For phone networks, gridlock means fewer calls going through on the first try, more busy signals and even blocked calls, where perplexed callers hear nothing at all after dialing.
+The bottleneck is essentially confined to local networks, and does not affect long distance carriers, experts say.
+Industry studies suggest that if U.S. Internet penetration reaches 15 percent, it would force a $22 billion network investment by the regional Bell phone companies to support it. California currently has the highest penetration at eight percent.
+"We think action is required within two years," when the 15 percent figure is expected to be reached, said Atai.
+Short-cut solutions exist, such as using filters to sort Internet calls from others based on their destination number.
+If that idea catches on, it could open a huge market for firms like Lucent Technologies Inc. and Northern Telecom Ltd., which make the filters.
+But regional Bells, indignant that Internet service providers do not have to pay access charges to reach Bell customers as long distance companies do, are reluctant to pay to sort out the problem.
+"Bell switch ports are being tied up and they're not even being compensated for it," said David Goodtree, an industry analyst with consultancy Forrester Research.
+The problem has swept like a tide from California, where Pacific Telesis Group (PacTel) already has major problems, to major cities and even some suburban areas.
+"We found the problem is very severe in California and east coast metropolitan areas. It is beginning to appear in some other areas," Atai told Reuters.
+The congestion could be a boon to cable TV operators in the fight for internet market share, analysts say.
+Cable modems running on upgraded coaxial cable -- designed for the high data rate of video pictures -- are expected to avoid congestion problems and should be available in volume late next year, analysts say.
+The problem is fundamental to the nature of phone systems.
+"The local network was designed for short calls which you make and then hang up, but Internet calls often occupy a line for hours," said Goodtree. Those lines may not even be carrying much data, but are lost to the system in that time.
+PacTel studied some of its telephone switches in detail and found that an average Internet surf was 20.8 minutes long, compared with 3.8 minutes for an average phone call. Ten percent of Internet calls were six hours or longer.
+To make matters worse, the peak hour for phone systems has now switched to 10 p.m. because of evening Internet use, throwing out the logistics of networks designed around pre- and post-lunch weekday calling peaks.
+PacTel said a study of one Silicon Valley telephone switch showed 16 percent of call attempts failed during peak evening hours because of Internet traffic, and 2.5 percent of lines used by Internet service companies absorbed 20 to 36 percent of the switch's capacity.
+Ultimately, analysts say Internet traffic will migrate to packet data networks, the most efficient way of routing it.
+Packet networks act like traffic policemen, routing data on the next free highway away from jams, even if it means splitting up a convoy  -- the words of a phone conversation for example -- travelling to the same destination.

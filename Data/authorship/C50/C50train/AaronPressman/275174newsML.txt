@@ -1,0 +1,16 @@
+The Federal Communications Commission proposed Tuesday to trim the $23 billion a year that long-distance telephone companies pay to local service providers in access fees.
+But the commission ducked the contentious issue of whether such charges should be imposed on Internet service providers, asking for comment on the issue without offering any proposals.
+In a notice of proposed rule-making, the commission said it could cut the access fees in either of two ways: it could impose a schedule of long-distance access charge reductions or wait to allow market forces to drive fees lower.
+The access charges, which make up a substantial portion of local phone company revenues, were adopted after the break-up of AT&amp;T Corp. in 1984 that led to the creation of the regional "Baby Bell" local service companies.
+New telecommunications rules signed into law in February are supposted to foster more competition for local and long-distance service and drive prices lower.
+Long-distance companies, which say the access fees are excessive, favour deep, government-mandated cuts.
+"We recommend the FCC to move as quickly as possible to squeeze the $10 billion in excess access fees out of the local exchange industry and put it back in the pockets of consumers," AT&amp;T said in a statement.
+Local phone companies concede that the fees exceed their actual costs for carrying long-distance calls but would prefer a gradual reduction based on competition and market forces.
+The FCC "must not allow the long-distance companies to continue to benefit at the expense of consumers," said Roy Neel, president of the U.S. Telephone Association, which represents local service providers.
+While local providers have already cut access fees by $9 billion, "the long-distance oligopoly has raised rates in lockstep more than six times," he said.
+Under the FCC's market-based approach, new entrants in the local market would compete with the Baby Bells to connect long-distance calls. The FCC would gradually relax and ultimately remove price caps and access fee schedules while relying on competition to drive the fees down.
+The alternate approach would specify the nature and timing of changes in existing rate levels. Ultimately, the FCC said it could adopt parts of both approaches.
+Local phone companies also connect Internet users to Internet service providers over local phone lines, but they receive no access charges for those calls.
+Recently, several Baby Bells complained that Internet users were getting a free ride, tying up local lines with often lengthy calls.
+The FCC did not take a position on whether Internet service providers should be required to pay access fees. In a less formal "notice of inquiry," the agency asked for comment on possible reform "relating to interstate information services and the Internet."
+Comments are due by Jan. 27 on the long-distance access fee proposals and by Feb. 21 on the Internet issue.

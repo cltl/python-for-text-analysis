@@ -1,0 +1,19 @@
+International Business Machines Corp. will unveil Tuesday its third generation of its low-cost mainframes, which are almost twice as fast as current models and much-anticipated by Wall Street and IBM customers.
+The computer giant, defending its still dominant position in the mainframe market, is also expected to unveil very aggressive pricing of the new systems and analysts expect mainframe prices to continue to decline even further.
+"They are coming out with a very aggressive offering," said Carl Greiner, a vice president at the Meta Group.
+Three years ago, IBM unveiled this lower-cost CMOS (complementary metal oxide semiconductor) technology as the future and gradually its big corporate users have been moving to the new systems, which are less expensive to make. But the CMOS systems were not as powerful as IBM's older bipolar line.
+"The big users need something bigger," Greiner said. "We are now getting into the power where most people can use this machine. It will provide for 90 percent of users' needs."
+Mainframes still generate the biggest bulk of IBM's product revenues, even though a few years ago they were declared the dinosaurs of computers by many analysts.
+But in the past two to three years, the mainframe has indeed enjoyed a big resurgence, with growing unit volumes, although prices are still in great decline.
+Helping fuel the continued interest in the mainframe as the keeper of corporate data are both the lower prices and more software being developed to enable broader access to the giant warehouses of data, including software gateways from the Internet. With IBM's help, mainframes are also being positioned as the biggest servers, or computers that manage a network, in a corporate "intranet."
+So users have kept buying mainframes with lower prices amid a price war among the main vendors.
+Hitachi Ltd. and its new Skyline mainframes have been gaining share at IBM's expense, because Skyline combines the older mainframe technology and the newer low-cost CMOS technology in one system, giving users more processing power.
+According to the Meta Group in Stamford, Conn., in 1996, IBM will have about 73 percent of the world mainframe market, down from 81 percent in 1995. Hitachi is expected to jump to 20 percent this year, up from 7 percent last year, while Amdahl's share falls to 7 percent from 12 percent.
+"Skyline is more powerful than what IBM ships today," said Steve Milunovich, a Morgan Stanley analyst.
+"About half the installed mainframe base hasn't bought CMOS because it wasn't powerful enough."
+So customers have been widely anticipating this latest upgrade of IBM's System 390, as well as Wall Street, which is hoping for a strong fourth quarter, fueled in part by strong mainframe volumes.
+Even though the prices continue to fall, analysts said that the CMOS products are more profitable to IBM and its rivals, because they are less costly to make.
+"It allows them to address more of the customer base with a more profitable product," Milunovich said. "It's well anticipated by customers.
+As part of IBM's announcement, it will also unveil an upgrade of its mainframe operating system, called OS/390, Release 2.0, which will include higher security for software applications using the Internet's World Wide Web.
+IBM also plans to introduce Internet gateways to its DB2 database software, the dominant database software for IBM and compatible mainframes, analysts said.
+IBM also is expected to unveiled a mainframe version of its high capacity storage system, the Ramac storage device. IBM is hosting conference calls Tuesday for the announcements.

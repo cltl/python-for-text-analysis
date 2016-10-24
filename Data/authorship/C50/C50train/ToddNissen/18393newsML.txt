@@ -1,0 +1,18 @@
+Calling it a crucial change for how it develops new cars and trucks, Ford Motor Co. Wednesday launched a new computer-aided design project based on a computer programme from Structural Dynamics Research Corp..
+Ford said the new project, called C3P, will cut prototype costs by up to 50 percent; improve investment efficiency by 20 percent to 30 percent; and eliminate half of costly late development changes.
+"The new C3P initiative represents the most fundamental change of the engineering computer infrastructure in Ford's history," Paul Blumberg, director of product development systems at Ford's Product Development Centre, said in a statement.
+Officials did not specify any dollar amount savings. But executives said they fall under previously disclosed product development cost savings. Three new vehicle programmes started this year will use C3P.
+Once the programme is fully implemented in 2000, Ford said it will merge computer-aided design, manufacturing and engineering functions into a seamless, unified system encompassing all stages of vehicle and component development.
+Ford's decision to team up with Structural Dynamics Research (SDRC) raised eyebrows at competitors. The Milford, Ohio-based firm is a small player in the market of supplying computer aided design and manufacturing systems (CAD/CAM) to the auto industry, according to both competitors and analysts.
+"You just don't hear about SDRC," said Ron Bienkowski, an executive engineer at Chrysler Corp.
+Bienkowski also chided Ford for launching a new design programme seven years after Chrysler did.
+"We made the decision to go to a single system like C3P back in 1989," he said.
+Chrysler, as well as several other Japanese and European automakers, use the more popular CATIA programme from Paris-based Dassault Systemes and IBM Corp..
+Charles Foundyller, president of market research firm Daratech Inc. in Cambridge, Mass., said the SDRC system is an easy-to-use, powerful system that should serve Ford well.
+"All in all, I don't think Ford made a bad decision," he said.
+Ford made the C3P announcement as part of a half-day presentation to reporters touting the No. 2 U.S. automaker's computer capabilities. Among other news items announced Wednesday, Ford:
+-- plans to eliminate 90 percent of its physical prototypes by 2000 in favour of electronic versions. Physical prototypes now constitute about 40 percent to 50 percent today;
+-- will be able to conduct a computer-simulated frontal crash for $10 in 2000, compared to the $200 it currently costs;
+-- will introduce a production car in Europe in 1997 that was designed almost completely using computer technology.
+Ford executives were hard-pressed to assign dollar amounts to all of the new computer design and prototype initiatives.
+But Claude Lobo, director of advanced design at Ford, said the new systems dramatically improve quality and free designers and engineers to take more risks.

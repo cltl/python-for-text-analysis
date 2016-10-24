@@ -1,0 +1,16 @@
+A group of U.S. and European firms on Tuesday revealed they had developed a system for money transactions over the Internet.
+The team, which includes AT &amp; T Corp Unisource, Apple Computer Inc, Nokia Oy and Mondex UK, will run the project on a pilot basis.
+"We have developed protocols for shopping and banking that allow users to pay for electronic services via the Internet," Julian Wilson, Unisource's director of service development told a briefing.
+Wilson said he believed the system, involving the transfer of electronic cash from one device to another, was "a world first".
+The developers of the system said it was the world's first trial of "an innovative concept for fast and safe money transactions over the Internet" and would use the GSM network for Internet access.
+The system aims to allow Internet users to buy services and access information using so-called "smart cards" such as that developed by Mondex the electronic cash-card company.
+Wilson said banks were top of the list of possible users for the system, pointing out the economies of internet banking compared to traditional retail banking which has to pay the cost of maintaining a branch network.
+"The economic justification for banks is significant," he said, adding that the system would give users a direct connection to their bank and cash could then be issued onto the card.
+The initial pilot is being carried out with National Westminster Bank Plc, he said.
+As well as banking, another key use for this system was to pay for information, anonymously, on the Internet, without having to reveal credit card details.
+Wilson said the project was effectively putting cash registers and ATMs (Automated Teller Machines) onto the Internet.
+Users will be able to use handheld network computers, such as Apple's MessagePad 2000 with built-in GSM and Internet access, to make use of the system.
+Craig Sears-Black, head of Apple's information appliances division, said "The project is going to be a trial which tells us what the future holds for this type of transaction over the Internet".
+He said the protocols developed were the first to make very low cost transactions, such as retrieving restaurant reviews or individual newspaper articles, viable.
+In Britain, the trial is teaming up with London listings magazine Time Out, which will sell on-line information on restaurants and entertainment.
+It is also going to be connected to a map service provided by Multimedia Mapping which will give users precision maps directly relating to the Time Out information.

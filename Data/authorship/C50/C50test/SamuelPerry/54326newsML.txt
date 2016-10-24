@@ -1,0 +1,20 @@
+Hewlett-Packard Co. Monday will raise the stakes in the fiercely-competitive and fast growing market for computer servers by launching new models that are more than double the speed of their predecessors.
+The new HP 9000 line of servers, the machines at the heart of computer networks including the Internet, are based on H-P's latest PA-RISC 8000 microprocessor. The company claims that they easily outperform those of its rivals.
+The widely-watch launch will put pressure on archrivals Sun Microsystems as well as competitors like International Business Machines Corp., Silicon Graphics Inc., and Digital Equipment Corp.
+The introduction, which follows a sluggish transition to speedy PA-8000-based workstations in June, will give a boost to Hewlett-Packard at a time of ferocious growth in the market.
+"It's growing in the 50-plus range a year," Carol Mills, worldwide general manager for HP's multibillion dollar Unix server business, said in an interview.
+"The Internet is hot," she said, but added that new applications such as data warehousing -- enabling access to vast data storage facilities -- and using servers as an alternatives to mainframes are also key market opportunities.
+Mills, who said the current shift to Internet-based technology presents "not just a window of opportunity but the sliding glass door," estimates that the new markets alone will generate many billions of computer hardware revenue dollars.
+HP's three new server lines complete its transition to 64-bit microprocessors for Unix machines, and the company is due to deliver a 64-bit HP-UX Unix operating system next year.
+At the core of its new offering are four models its mid-range K-Class family, available immediately and ranging in starting price from $52,200 to $77,200.
+H-P said the HP 9000 K-Class models -- described as the "sweet spot" in its lineup -- are designed for symmetric multiprocessing and can accomodate one to four PA-8000 chips.
+The company said the highest performing K460 model had 85 percent better performance that Sun's Ultra Enterprise 3000, while outperforming Digital's 4100 5/400 by 65 percent and had twice the performance of IBM's RS/6000 J40.
+H-P also said a new high-end HP 9000 server, the T-Class Model T600 with symetrical multiprocessing as a mainframe alternative for such tasks as on-line transaction processing, will be available in the second calendar quarter of 1997.
+HP said it will also begin shipping two new models in its entry-level HP-9000 D-class in October. The D270, starting at $22,260 and the D370, priced at $25,250, are designed for worgroups and departments and for sale by resellers.
+As a sign of the fierce pace of product advances in the market, analysts noted the new models more than double the performance of machines updated as recently as February 1996 for the K-Class and January of this yer for the C-Class.
+Jean Bozman, an analyst at International Data Corp. said the updated HP 9000 models is "a strong offering" which would be a boost for existing customers and make it "highly competitive" with fast-charging Sun in the duel for number one.
+IDC's 1995 statistics show Hewlett-Packard had the lead in worldwide revenues from small- and medium-size servers at $3.4 billion, with Sun selling more than $1.8 billion worth.
+Across all Unix systems, according to IDC, H-P had server and workstation revenues totalling $6.1 billion, compared with $5.6 billion for Sun Microsystems, which due to lower system cost had the overall lead on a unit shipment basis.
+The approaching H-P launch prompted a preemptive strike from officials at Sun Microsystems, which closed its fiscal year-ending June quarter with record-level backlogs due to soaring orders for the Ultra machines it introduced in April.
+"This is just a chip upgrade for a system they've had a long time," Anil Gadre, vice president of corporate marketing at Sun Microsystems, said of H-P's launch, dismissing the high performance ratings of what he termed "a late life kicker."
+"We could not be in a better position to compete with them and position ourselves to take share away from them," he said.

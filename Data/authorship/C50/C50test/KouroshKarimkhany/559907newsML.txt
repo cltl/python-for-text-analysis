@@ -1,0 +1,15 @@
+Intel Corp. on Wednesday will unveil its Pentium II microprocessor, a speedy computer chip that will help the world's biggest chip maker break into new markets and stave off rivals.
+The new chip is based on the Intel's top-of-the-line Pentium Pro, but includes software and circuitry -- dubbed MMX technology -- that makes it more adept at handling graphics. In most cases, it works 30 percent to 40 percent faster than today's mainstream Intel products, analysts said.
+About a dozen personal computer makers will announce Wednesday they plan to use the chip in high-end machines, said Richard Dracott, Intel marketing manager.
+Most of the new Pentium II machines will be desktop PCs aimed at engineers and professionals who use a lot of computing horsepower for graphics, analysts said.
+Although the Pentium II is a souped-up version of the Pentium Pro, it is the biggest product introduction for Intel in years, said Mark Kirstein, research director at semiconductor market researcher In-Stat in Scottsdale, Ariz.
+"The Pentium Pro was really a niche product" for high-end desktops and servers, the computers that control networks, Kirstein said. "The Pentium II is aimed at the mainstream."
+A streamlined design and cheaper production will make it easier for Intel to churn out the new chip, Kirstein said.
+Within a year, most new PCs -- even the ones geared for home use -- will be based on the Pentium II, analysts said.
+Intel, based in Santa Clara, Calif., also is trying to pitch the chip to new kinds of customers. The company has told video game makers, for example, that the chip can handle the intense graphics requirements of coin-operated arcade games.
+"We will be delivering significant performance improvement over the fastest Pentium Pro," Dracott said.
+Intel said part of the performance improvement comes from a new so-called cartridge design. The Pentium II will be sold to PC manufacturers in a plastic housing that includes specialised memory chips. Because the microprocessor and memory chips are packed closely together on a seperate circuit board, they can pump data to the rest of the PC much faster, Intel said.
+There is one more benefit: It frustrates Intel rivals Advanced Micro Devices Inc. and Cyrix Corp., which for the first time are a credible threat to Intel.
+AMD and Cyrix make chips that work like the Pentium and sell them to PC makers for much less. But their chips are designed to fit into the old slots for microprocessors.
+AMD spent the past two years working on the K6 chip, which works as fast as the Pentium Pro and is 25 percent cheaper, but does not fit into the new cartridge slot.
+Since most of the PC makers are expected to use Intel's cartridge design, AMD now has to spend time and money to make the K6 compatible.

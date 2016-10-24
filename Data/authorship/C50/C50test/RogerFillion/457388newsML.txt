@@ -1,0 +1,18 @@
+The newest breed of cellular telephones is less secure than previously thought, a researcher said Wednesday.
+Researchers have uncovered a flaw used in the technology designed to ensure a caller's privacy over advanced digital cellular phones. The results are expected to be announced Thursday.
+The problem allows a sophisticated eavesdropper to figure out the number a caller dials on a cellular handset -- be it the phone number itself; a personal identification number, or PIN number, used to access a bank account or activate a calling card; or a credit card number.
+"The digital cellular safeguards are still stronger than the analogue safeguards. But they are not as strong as previously thought," David Wagner, a graduate student at the University of California at Berkley, said in an interview.
+The system was meant to guard the privacy of the dialed digits. But the encryption technology used to scramble information and render it unreadable is weak enough that the digits are accessible to eavesdroppers with a digital scanner, according to the researchers.
+The researchers -- at Berkley and Counterpane Systems, a Minneapolis counsulting firm -- said their findings are a setback to the U.S. cellular phone industry.
+These are not the first problems uncovered with the new digital phones. Researchers already have uncovered flaws in the safeguards meant to ensure that what a caller says over the phone is not heard by others.
+Some experts argue that the flaws reflect shortcomings in the "closed-door" process used to develop privacy measures.
+They point to the U.S. government's efforts to control cryptography, out of national security concerns. These critics single out the National Security Agency, saying that the U.S. agency in charge of monitoring foreign powers is holding back efforts to develop cellular security technology.
+That flaws that have been uncovered "are symptomatic of broad underlying problems in the design process," said Wagner.
+The findings come as the debate over cellular phone privacy has picked up in Washington.
+Lawmakers and law-enforcement officials have called for tougher laws to bar eavesdropping on cellular calls, following the uproar over a recently intercepted call by House Speaker Newt Gingrich.
+What's more, lawmakers and the Clinton administration are sparring over encryption export policy. The administration has a new policy in place allowing freer export of encryption products.
+The policy, enacted through executive order in November and in effect since Jan. 1, allows export of stronger encryption than previously allowed. But it requires companies to incorporate features within two years allowing the government to crack the codes by getting access to the software "keys."
+The government says it needs the ability to crack strong encryption to catch criminals and terrorists.
+However, some lawmakers -- with the backing of high-tech companies -- want to remove nearly all export curbs.
+A senior Commerce Department official said Wednesday the Clinton administration plans to introduce a bill soon that would clearly affirm that encryption users in this country can use any type or strength of encryption technology.
+But such a bill is unlikely to calm critics.

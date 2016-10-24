@@ -1,0 +1,25 @@
+U.S. computer hardware makers are expected to report mixed results for the third quarter starting this week, as some companies are still in the throes of product transitions, but a few will have solid earnings.
+Among the large system makers, International Business Machines Corp is expected to have good results, but Digital Equipment Corp is expected to report a loss.
+"Product transitions and U.S. strength, those are some issues for the third quarter," said Gary Helmig, a SoundView Financial Group analyst.  
+Currency will play less of a role than it has in the past two quarters, when it has had a negative impact on earnings, especially at multi-national giants like IBM.
+"The negative impact from currency exchange rates is much reduced from June-quarter results," said John Jones, a Salomon Brothers analyst, referring to large computer systems makers.
+Europe is still an issue for some companies, such as Digital, and this quarter will include the sluggish summer month of August, when many Europeans are on vacation.
+"They (Digital) have significant exposure to Europe," said Steve Milunovich, a Morgan Stanley analyst.  
+Milunovich said that Digital has more exposure in Europe, which has been "a bit under water," than IBM. Digital recently revamped its sales force in Europe and made changes in its distribution channel there, to help sluggish European sales.
+Product transitions are still ongoing at some companies, such as Unisys Corp and Silicon Graphics Inc.
+IBM has now completed a refresh of most of its hardware products, including its lower-cost mainframe line, the CMOS vesions of its System 390 mainframes and analysts are awaiting results of the first quarter to include any impact from the much-anticipated systems.  
+"We expect IBM to highlight the success of its CMOS mainframes," Jones of Salomon said.
+In the personal computer arena, analysts expect Compaq Computer Corp to again be the leader of the sector, but they do not expect a record quarter for the world's largest PC maker. Its strongest sales are in fourth quarter.
+"I think the company had a good quarter and they probably gained market share," said Bill Milton of Brown Brothers Harriman, adding that it was a "so-so quarter" for the rest of the PC industry. Compaq has the highest profit margins in the industry and Milton said its margins should be up slightly.  
+Among the weaker players in PCs, Apple Computer Inc is expected to report a loss, but analysts said they are more focused on the company's comments going forward. The troubled PC maker has previously forecast that it would return to profitability in its second fiscal quarter, ending March.
+"Their first order of priority is to eliminate the losses," Milton said. "Can they reach break-even by December or March? Once we get to that point, we will look to see if they can begin to grow their revenues."
+Milton is forecasting Apple's revenues will fall about 17 percent, versus the year ago period.  
+The following is a list of consensus earnings estimates for some major U.S. computer makers, as compiled by First Call.
+COMPANY	    CONSENSUS	  DATE	  YEAR-AGO
+Amdahl	     loss $0.17	 Oct. 29     profit $0.17
+Apple Computer   loss $0.30	 Oct. 16     profit $0.48
+Compaq Computer  profit $1.07     Oct. 16     profit $0.89
+Digital	    loss $0.14	 Oct. 22     profit $0.26
+IBM Corp	   profit $2.43     Oct. 21     profit $2.30
+Sun Micro	  profit $0.61     Oct. 15     profit $0.43
+Tandem	     profit $0.30     Oct. 24     profit $0.17

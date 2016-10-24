@@ -1,0 +1,19 @@
+Digital Equipment Corp.'s top executives host computer industry analysts Tuesday, hoping to impart a view of a brighter future and re-ignite interest in the company's downtrodden stock on Wall Street.
+Analysts expect the Maynard, Mass.-based computer maker, which just last month reported a big fourth-quarter loss and restructuring charge, to focus on its long-term direction and goal of reaching operating margins of 6-7 percent of revenues.
+"They are going to talk about their vision of the future," said Gary Helmig, a SoundView Financial Group analyst.
+He said Digital will likely focus on its growth areas, such as servers designed on its fast Alpha chip that run Microsoft Corp.'s Windows NT software, prospects for its computer services business, growth in semiconductors and its plans to spin off part of its Alta Vista Internet unit.
+But after Digital's most recent loss, Wall Street will likely also be looking for any forecast for the first quarter, in which some analysts project a loss.
+In the fourth quarter ended June 30, Digital reported a loss of $433 million, or $2.87 a share, after taking a $492 million restructuring charge for job cuts and plant closings.
+Morgan Stanley analyst Steve Milunovich recently wrote in a report that the first fiscal quarter is off to a slow start.
+"Management indicated that first quarter is off to a slow start, likely due to short-term disruption from sales force changes," Milunovich said. "A loss appears increasingly likely."
+According to First Call, which monitors Wall Street earnings estimates, the consensus estimate for DEC's first quarter is a loss of 3 cents a share.
+Many analysts expect the tone of the meeting to be positive, as Digital executives highlight the company's strengths and growth opportunities. But they are also hoping for some hints at Digital's fix-it plans for its PC business.
+"The story for the Alpha server business, the networking business, the storage business and the semiconductor division is quite encouraging," John Jones of Salomon Brothers said in a report to clients. "But PCs are a big overhang currently."
+In the fourth quarter, Digital's PC business lost more money than it had previously expected, estimated around $90 million, and analysts said speculation is "rampant" that Digital is looking for a manufacturing partner to help shave costs in PCs.
+But Digital is not expected to make any announcements on the unit, other to confirm that it is seeking a manufacturing partner.
+"They will talk about how they are going to change the sourcing of their PCs," Helmig said. "They will talk about the fact that they are doing it, but they won't be able to announce what they are doing. They haven't dotted the I's and crossed the T's."
+Analysts said one of Digital's biggest opportunities for improving gross margins is in services, which had margins of 32 percent of revenues in 1996. Services is also a growth engine for International Business Machines Corp..
+They will also be eager for details on Digital's plans to spin off 20 percent of its Alta Vista Internet software unit.
+Alta Vista is Digital's popular and powerful search engine for finding entries on the Internet's vast World Wide Web.
+Digital plans to retain 80 percent of the unit, which will also develop other kinds of Internet software, aiming to capitalize on the Alta Vista brand name.
+Analysts said the motive behind spinning off part of Alta Vista is likely that its shares may do better if they trade separately from Digital, which has seen its stock drop from a high of 76-1/2 in February to 38-5/8 on Friday.

@@ -1,0 +1,14 @@
+Novell Inc. said Tuesday it will license one of its key technologies to other software companies in a move to expand its sources of revenue.
+Novell, which publishes computer networking programs, wants to establish the technology, Novell Directory Services, as a software foundation for letting people easily find others on the Internet and for sharing information.
+The move is part of Orem, Utah-based Novell's strategy to adapt its corporate networking software to control the flow of information through global networks, company executives said.
+"The goal is to get into electronic commerce," said Michael Simpson, director of marketing of Novell's Internet infrastructure division. "We believe a common infrastructure is necessary and we will provide it."
+Simpson compared the variety of computer networks and software standards to the early days of the telephone industry, when a customer of one telephone company could not call someone who was a customer of another company.
+Novell Directory Services, also known as NDS, would help users in huge corporate or public computer networks reach others without knowing arcane electronic addresses.
+Adapted for the Internet, the technology also would let users communicate with others regardless of computer or software standards, Novell said.
+Novell plans to license the technology to networking software companies, Internet service providers and online services. Novell and other software companies would make money by writing computer programs that take advantage of the universal directory, the company said.
+Tom Arthur, a Novell vice president, declined to say how much Novell expects to make from the move, but said it would see a significant boost by the middle of 1997.
+He also declined to say which companies would license NDS, but said work is being done to adapt it to run on computers using networking software from Sun Microsystems Inc., Microsoft Corp. and Hewlett-Packard Co.
+For the past two year, Novell has been trying to recover from a failed strategy of taking on Microsoft Corp., its biggest rival, in the word processor and spreadsheet business.
+Novell dumped its application business by selling its WordPerfect Corp. unit earlier this year. But the company has had a tough time rebuilding its business around NetWare, its flagship networking product.
+Microsoft has been chipping away at NetWare's market share with its rival offering, Windows NT.
+Novell's stock edged down 12.5 cents to $10.50 on Nasdaq.

@@ -1,0 +1,18 @@
+After months of denying that a $500 Internet appliance would pose a threat to its industry dominance, Microsoft Corp. plans to announce a new push for inexpensive, easy-to-use personal computers.
+Microsoft is working with Intel Corp. and major compouter manufacturers such as Hewlett-Packard Co. and Compaq Computer Corp. on the intiative and will announce details at a conference Monday, said a spokesman for the software giant, confirming a published report.
+The announcement will come one day before the widely anticipated unveiling of an $800 device from Microsoft rival Sun Microsystems Inc.
+The Sun product is among the first of an expected flurry of appliance-like devices dubbed network computers being positioned as Internet-friendly alternatives to PCs based on the "Wintel" standard of Microsoft Windows and Intel processors.
+While Microsoft Chairman Bill Gates and other executives have downplayed the threat from network computers, they have been scrambling to come up with ways to make personal computers easier to use for home consumers and cheaper to maintain for businesses.
+"They and Intel have certainly heard the network computer mantra and have discovered a new religion," said Rob Enderle, an industry analyst with Giga Information Group.
+"The threat is very real," he said. "Particularly for the (corporate) community, the concern surrounding the cost of managing multiple Wintel systems has been driving them to consider other alternatives."
+At the same time personal computer penetration into the home appears to be hitting a plateau far short of other mass-market electronic devices.
+In a report early this year that set off alarm bells throughout the industry, Dataquest forecast sharply slowing growth. The research group predicted PCs would be in 38 percent of U.S. homes by 1999, compared with 29 percent last year.
+But since Oracle Corp. Chairman Larry Ellison and other executives began publicizing the network computer a little over a year ago, Microsoft officials routinely have minimized its importance.
+"We dont think it's likely that Internet appliances, network computers or whatever you call them are going to displace the PC anytime soon," Gates told a Harvard University audience in May.
+At the same time Microsoft has been stepping up efforts to make the PC easier to use, acknowledging the machines are dauntingly complex for many consumers.
+In April Gates unveiled a set of technologies for what Microsoft called the "Simply Interactive PC," which he said would make the personal computer "as easy and convenient to use as other home appliances."
+Monday's announcement apparently will go further to bring consumers lower prices, which are being made possible by falling prices of memory and other components.
+"They're validating the proposition we've been taking to the market for the last year," said Jon Kannegaard, vice president of software products for Sun's JavaSoft unit.
+Jesse Berst, executive editor of Windows Watcher, an industry newsletter, agreed that Microsoft was late to acknowledge the importance of network computers.
+"They're awful late to respond to what has been a very, very strong message from customers," he said.
+"If they had been doing what they should have been doing, which is really driving down prices aggressively, they wouldn't have been in the position where someone has the opportunity to come and take their franchise away."

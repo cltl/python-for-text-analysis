@@ -1,0 +1,25 @@
+The Justice Department is investigating possible bid rigging during airwaves auctions held by the federal government for wireless phone licenses.
+Justice Department documents obtained Wednesday by Reuters showed the department's antitrust division also is looking into whether bidders schemed illegally to divvy up the licenses being sold.
+The Federal Communications Commission has raised more than $20 billion since 1995 by selling licenses to companies offering a new generation of cellular phone service known as "personal communications services," or PCS.
+A Justice Department spokeswoman confirmed the investigation. She said the antitrust division was "looking into the possibility of anticompetitive conduct by bidders in connection with the FCC's auctioning of spectrum for PCS."
+She declined to comment on whether the investigation covers all three of the big PCS auctions that have been held. But sources familiar with the matter said the department is seeking information from companies about all of the sales.
+The department documents focus on the PCS auction that ended in mid-January and raised $2.5 billion. It involved dozens of bidders.
+At that auction, the FCC sold 1,479 PCS licenses nationwide in three different blocks, making it the most licenses sold at once. A third of the licenses were reserved for small-company bidders.
+Top bidders were units of Sprint Corp., AT&amp;T Corp. and BellSouth Corp.
+A spokesman for Atlanta-based BellSouth said the company had not been informed by the government of any investigation.
+A spokesman for New York-based AT&amp;T said the No. 1 long-distance carrier had received a request for information from the Justice Department and intended to coperate fully.
+A spokeswoman at Westwood, Kan.-based Sprint had no immediate comment.
+Attorneys familiar with the investigation said the department has sent out "numerous" letters requesting information and documents from auction participants.
+The "civil investigative demand" seeks information about companies' bids, their bidding strategies and communications about the auction with other telecommunications firms.
+In a sign that the investigation is looking into the possibility of bid "signaling" among participants, the department requested documents showing the last three digits of company bids.
+One attorney familiar with the investigation said it was evident during the bidding that companies used the last three digits of their dollar bidding figure to signal their intentions to other auction participants.
+"It's clear a certain amount of this was taking place," said the attorney, who spoke on condition of not being identified.
+Attorneys expect antitrust investigators will focus on whether companies used such practices to stay out of each other's markets during bidding, or to influence prices.
+In particular, investigators are expected to probe whether some of the bidding practices merely represented bluffing, or were indeed antitrust violations, said attorneys.
+Companies hired academics and game theorists to help advise during the PCS sales.
+FCC officials declined to comment on the investigation.
+But sources said the agency had been alerted about the practice of "signaling."
+Attorneys said a company involved in the January PCS auction, High Plains Wireless LP, had asked the FCC to take away Mercury PCS II LLC's licenses. High Plains accused Mercury of improper signalling involving licenses in Texas.
+Mercury has denied the charge.
+The Justice Department investigation comes at a rocky time for the FCC's airwaves sales. An auction that ended last week raised a disappointing $13.6 million, with licenses for some wireless communications markets fetching just $1 apiece.
+The total was way below the $1.8 billion that Congress was banking on to help eliminate the federal deficit.

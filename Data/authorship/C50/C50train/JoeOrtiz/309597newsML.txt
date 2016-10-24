@@ -1,0 +1,16 @@
+BZW, the investment banking arm of Barclays Plc, said on Wednesday it plans to use state-of-the-art defence technology to help it with a perennial problem -- managing risk in the financial markets.
+The bank has formed the Financial Laboratory Club to develop new risk management solutions, using the scientific and computing potential of the Defence Evaluation and Research Agency of the British Ministry of Defence -- the biggest research and development organisation in Western Europe.
+Also involved in the project, which has funding of 1.8 million pounds ($3.0 million) for the first two years, are Silicon Graphics, insurance company Royal Sun Alliance, the London Stock Exchange, the City University and Business School and risk management consultancy Z/Yen.
+The British government is providing a grant of 750,000 pounds for the project and BZW is putting in 500,000 over two years.
+With margins getting ever finer in the highly competitive investment banking world, BZW hopes defence technology can help it keep ahead.
+"We have to manage our risk well," said Martin Dooney, global head of money markets at BZW. "We want to start setting the standard and make strides to be ahead of the pack."
+Dooney and DERA scientists believe there is enough common ground between the worlds of the trading room and the battlefield to make the exercise worthwhile.
+"The risks are obviously different," he said. "For the crew of a main battle tank it could be the missile defences of the opposing force and for the bond trader it could be the movement of short-term interest rates."
+But Dooney said there are many similarities, not least the fact that that both are high-stress environments which both require the sophisticated modelling and simulation techniques which have, until now, been largely the preserve of the defence industries.
+One reason for this is that research into this field needs massive computing power which DERA can provide via its four Cray Computer Corp super-computers which are millions of times more powerful than the average desktop PC.
+BZW believes the project can help people at every level in the company to better understand the firm's risk position by replacing a mass of numbers by visualisation techniques.
+The project will also look into using modelling techniques used to develop military consoles to look at the design of future trading stations and try to develop different ways of evaluating dealer performance.
+This will, in particular, provide early warning of problems based on trading pattern evidence.
+"The financial services industry wants something that it can use in the heat of battle," said Michael Mainelli, development director at DERA.
+"If financial markets are destabilised they could be as, or even more, damaging than a conventional war."
+$1=.5976 Pound)

@@ -1,0 +1,17 @@
+Microsoft Corp. Tuesday fired the latest salvo in its battle with rival Netscape Communications Corp. as it unveiled the latest version of its Internet Explorer browser.
+Version 4.0 of the Microsoft browser was posted on the Internet (http://www.microsoft.com/ie), but the company cautioned that the "platform preview release" was only for developers and technical evaluators.
+Meanwhile Netscape this week released a third "platform preview" version of its competing Communicator suite of Internet products, which includes its popular Navigator browser.
+Microsoft's browser will be finalized by sometime in "midsummer," a company executive said, while the Netscape package will be available commercially this quarter.
+"Having a browser beta that is such an early beta out in the public hands is something that would never have happened two years ago," said Annette Hamilton of ZDNet AnchorDesk, referring to the Microsoft preview release.
+"The reason it is happening is there is so much intense competition,"she said. "They don't want to lose momentum."
+Until last year Navigator dominated the emerging Internet market with an overwhelming market share of about 90 percent, but with the release of version 3.0 of Internet Explorer, Microsoft has come back to capture up to one third of the market.
+Microsoft gives away its browser for free, and many customers pay only small licensing fees for current Navigator versions. But the market battle is crucial in Microsoft's effort to maintain its dominance of the personal computer industry by controlling the operating system.
+In fact the new version of Internet Explorer can be integrated into the Windows 95 desktop and so users can "browse" for information either on the individual computer or out on the Internet.
+The browser ultimately will be integrated into an update of the Windows 95 operating system, expected sometime next year.
+Microsoft also said the new browser can be programmed to automatically check for updates to frequent Web sites and to allow for "Webcasting" by content providers that will be able to offer subscriptions.
+"We've combined push capabilities, (computer) desktop integration and the latest in browsing and communication technologies to deliver the best of the PC and the best of the Web," said Brad Chase, vice president of Microsoft's applications and Internet client group.
+The initial version of Internet Explorer 4.0 will be available only for Microsoft's Windows 95 platofrm, although the company also is working on versions for Windows 3.1, Macintosh and Unix, officials said.
+Meanwhile Netscape's Communicator, which will cost $59 for individual licenses, will work on all platforms, said Daniel Klaussen, a group product manager for the company.
+"Not much is given away in the world," he said, referring to Microsoft's browser. "For its business model to work Microsoft really needs users to upgrade to their latest operating system, and of course that is not free."
+Internet Explorer 4.0 also includes Outlook Express, which gives users advanced e-mail and other capabilities; Microsoft NetMeeting, software that allows video conferencing; and Microsoft NetShow, software that enables Web publishers to offer live "Webcasts" as well as video and multimedia on demand by computer users.
+Microsoft stock rose $2.375 to $98.25 in Nasdaq trading Tuesday, while Netscape dipped 37.5 cents to $27.625.

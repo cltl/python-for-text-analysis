@@ -1,0 +1,24 @@
+An outspoken computer security expert, citing his just-completed study, says up to two-thirds of certain Web sites, including reputable institutions like banks and the media, are vulnerable to hacker attacks.
+Dan Farmer -- who stirred controversy in 1995 as co-author of software dubbed SATAN that enables people with basic skills to infiltrate computer systems -- surveyed more than 2,200 Web sites.
+The survey released last week covered a relatively small portion of the sprawling Web but focused on sites where security is more of a concern.
+Farmer probed 660 bank sites around the globe, 312 North American online newspaper sites, 274 credit union sites, 47 U.S. federal government sites and 451 Internet sex clubs.
+In a summary, Farmer said that, out of his sample of about 1,700 Web sites he selected, "over 60 percent could be broken into or destroyed." As a control, he probed a random sample of 469 sites.
+Farmer said he used relatively crude, non-intrusive methods and did not actually break into the sites. He also said he would not publish the names of the sites he surveyed.
+"I barely electronically breathed on these (computer) hosts," he said in his report, adding that, considering more intrusive tests, some 70 percent to 80 percent of sites may have security flaws.
+Other computer security experts found Farmer's results credible and authoritative, David Kennedy, director of research, education and consulting at the National Computer Security Association, said in a telephone interview Monday.
+Experts and computer industry executives said the study shed more light on a problem well known within the industry but insufficiently understood by the public at large.
+The threat of hacker attacks was highlighted earlier this year when intruders broke into the Justice Department and Central Intelligence Agency Web sites and altered them, prompting the CIA to close its site temporarily.
+Farmer stressed that Web sites are being used primarily for marketing and advertising purposes and that, although some bank sites may allow visitors to look up balances, the sites do not provide access to internal financial systems.
+Deborah Triant, president of CheckPoint Software Technologies Ltd.'s U.S. operating unit in Redwood City, Calif., said banks routinely keep Web sites on separate computer systems.
+"Our experience is the banks are so paranoid that they won't even allow the access that they should be able to allow and would be quite safe if you had a modern firewall" protecting their networks from intruders, said Triant, whose company is the market leader in firewall technology.
+"So, if their Web site is vulnerable, that doesn't mean that anything else at the bank is vulnerable, or that their customers' accounts or the transactions their customers are doing are vulnerable," she said.
+Nevertheless, with the advent of electronic commerce over the Internet expected to gain momentum in 1997, lax security remains a critical issue, experts said.
+Farmer separated security flaws into two categories -- a red category where he said a site was "essentially wide open to any potential attacker" and a yellow category deemed less serious but with potential for disastrous consequences.
+Of the 660 bank sites, 68 percent were deemed vulnerable and nearly 36 percent were in the red category.
+Some 51 percent of credit unions were vulnerable, 62 percent of the federal sites, nearly 70 percent of newpapers and 66 percent of sex clubs. Sites in the red category ranged from 20 percent for credit unions to 38 percent for federal sites and 39 percent for online newspapers.
+Of the random sample of 469 Web sites used as the control, a far smaller percentage -- 33 percent -- were found to be vulnerable, and 17 percent of the group was in the red category.
+Farmer said part of the problem is that Web sites are trying to do too much at once, increasing their complexity and making security far more difficult to achieve.
+But, even with security concerns, credit card transactions over the Net are much safer than those carried out in shopping malls, said the security association's Kennedy.
+Farmer also said he plans to incorporate some newer testing tools into a new version of SATAN, which stands for Security Administrator Tool for Analysing Networks, early next year.
+The programme enables people who manage corporate networks to locate weaknesses and fix them. But it has been controversial because it can also easily be used by malevolent intruders trying to cause damage.
+Triant said there have been no reported security breaches at any of the more than 15,000 institutions with CheckPoint network security installed and said such precautions should provide adequate protection.

@@ -1,0 +1,18 @@
+A bill to dramatically relax U.S. export controls on computer encoding technology will be considered by a House Judiciary subcommittee on Wednesday, congressional staff members said Monday.
+Heading for a vote, the bill garnered an endorsement from a politically diverse coalition of Internet privacy advocates.
+In a related development Netscape Communications Corp. said the Commerce Department gave the Internet software company permission to export some products containing stronger encoding, or encryption, features.
+Current U.S. laws strictly limit export of products with encryption, software that scrambles information and renders it unreadable unless one has a password or software "key."
+Netscape, which had been allowed to export encryption software with keys 40 bits long, said it will now be able to sell abroad products with 56-bit keys. The longer the key, the harder it is to crack an encoded message, and the 56-bit key makes it 65,000 times tougher to decode.
+The Security and Freedom through Encryption Act, sponsored by Virginia Republican Representative Robert Goodlatte, would allow U.S. companies to export strong encryption programmes if such products were being offered by foreign competitors.
+The Clinton administration opposes the legislation, which it argues would allow international criminals and terrorists to get easy access to encryption that could thwart law enforcement agencies' efforts.
+Under the adminstration's current policy, strong encryption can be exported only if it allows the government to crack the codes by recovering the software keys.
+Netscape has promised to abide by that policy, said its chief scientist, Taher Elgamal. Within two years, its products will allow the government to decode encrypted data by gaining access to the keys.
+If the bill is approved by the Courts and Intellectual Property subcommittee, the full Judiciary Committee will consider it, said David Lehman, legislative counsel for Goodlatte.
+The legislation will sail through the subcommittee and be voted on by the full committee in a few weeks, according to Shabbir Safdar, executive director of the Voters Telecommunications Watch, one of the groups endorsing the measure Monday.
+"It looks very promising with 78 co-sponsors," Safdar said. "This is the best hope in the House for real encryption reform this decade."
+Others who endorsed the bill included the Centre for Democracy and Technology, the Electronic Frontier Foundation and Americans for Tax Reform.
+A similiar bill is pending in the Senate, where the Commerce Committee is expected to vote on its version in the next few weeks.
+Not all civil libertarians favour the legislation as currently drafted. Another group, led by the American Civil Liberties Union, wrote Goodlatte this week asking him to delete a provision of the bill that would create new criminal penalties for using computer encryption "in the furtherance of the commission of a criminal offence."
+The group generally backed Goodlatte's efforts but said in its letter the new criminal penalties "could have a series of unintended consequences that would easily undermine the other desirable features of the bill."
+From the Internet community, signers included the Internet Society and two private companies, Cybercash Inc. and Digex Inc.
+Instead of criminalizing use of encryption, the group said prosecutors should rely on existing federal and state laws prohibiting obstruction of justice and concealment of evidence.

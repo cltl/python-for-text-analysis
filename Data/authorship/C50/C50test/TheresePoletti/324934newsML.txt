@@ -1,0 +1,21 @@
+Wall Street's renewed love affair with International Business Machines Corp cooled abruptly after its disappointing fourth quarter, and IBM must show more growth next quarter to recapture investors' hearts.
+IBM's stock, which was rather moribund for most of 1996, got a big boost from a Merrill Lynch analyst in mid-November, fueling a surge of renewed interest in IBM. Many on Wall Sreet endorsed his view that IBM was becoming a growth engine again.
+But Tuesday, IBM's fourth quarter earnings quashed any hopes of double-digit revenue growth and its shares tumbled.  
+On Wednesday, IBM was off 10-3/8 in heavy midafternoon New York Stock Exchange trading to 159, as many momentum players exited the stock.  Before Wednesday's drop, IBM's shares had surged 23 percent since mid-November, when Daniel Mandresh of Merrill Lynch raised his IBM price target to $195.
+During 1996, IBM's shares traded at a 200-moving day average that ranged from $96 to $116.  Its shares later consolidated around $135 before breaking out.
+"There has been some froth in the stock, with many people thinking they are finally back on a growth trend," said Daniel Ries, a Nomura Research analyst.  
+"This quarter took the wind out of their sails," Ries said, adding that the next round of impatient investors will judge IBM by its first quarter's performance.  "But others will say one quarter does not a trend make," he said.
+While IBM reported fourth quarter earnings of $3.93 a share -- better than the First Call consensus number of $3.88 a share -- analysts said IBM's results were boosted by an unexpectedly lower tax rate that added between $0.20 and $0.30 a share.  IBM also had lower restructuring costs of $200 million versus the $300-$400 million Wall Street had forecast.
+Analysts had also included a negative currency impact.  
+"Rather than easily achieve Street estimates, IBM appeared to be huffing and puffing," said Steve Milunovich, a Morgan Stanley analyst, in a note to clients.
+Some negatives from the fourth quarter will continue into the first quarter and other quarters of 1997.  Currency is expected to be one, as is the drop in prices of dynamic random access memory chips (DRAMs), which IBM sells in great quantities through its IBM Microelectronics business.
+But the most disappointing results came from its hardware business, which was especially under pressure from a decline in mainframe computers and flat RS/6000 workstations.  
+"It was disappointing in a number of dimensions, partly hardware growth and the gross margin being low," said Stephen Smith, who reiterated what he says is a controversial rating on IBM, an "unattractive" rating.
+Smith said his concerns stem from the current strength in mainframe revenues and whether it will continue.  He expects less profits to come from mainframes in 1997 than in 1996.
+IBM's total hardware revenues were $11.7 billion, up two percent. Gross hardware profit margins dropped to 36.6 percent of revenues, from 39.6 percent a year ago. IBM attributed part of its margin drop to higher volumes of lower-margin products.  
+Lower margin products include personal computers, which had another great quarter and closed in on Compaq Computer Corp's margins, which are the highest in the industry. Compaq's margins were around 24 percent this quarter.
+Analysts hoped that the higher margin mainframe computers would contribute more to the quarter, even though many had predicted it would be a tough comparison with a year ago.
+IBM told analysts that the number of MIPS (millions of instructions per second) shipped, its measure of mainframe computing capacity, grew 35 percent in the fourth quarter, down from an 80 percent jump in fourth quarter 1995.  
+John Jones of Salomon Brothers said that mainframe sales fell 12 percent in the quarter, with 10 percent of those revenues still coming from IBM's older less profitable bi-polar line, which IBM is close to discontinuing.
+"Hardware is the thing that was off the mark," said Gary Helmig, a SoundView Financial analyst, who reiterated a buy rating on IBM, citing "some good news underneath" the earnings, such as its strong services growth and better than expected software performance.
+"The thing that gets it going again is refocusing on what is IBM, a hardware business or a services business?" he said.

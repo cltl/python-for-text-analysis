@@ -1,0 +1,14 @@
+WebTV Networks Inc. on Wednesday unveiled a new technology it said enables full-screen, television quality video to be delivered from the Internet through conventional telephone lines.
+Steve Perlman, co-founder and chief executive of WebTV, said in an interview the new technology will be deployed in upcoming versions of its Internet service, which lets people access the global computer network using their television sets.
+The privately held company numbers among its equity investors Microsoft Corp., Citicorp, VeriFone Inc., Times Mirror Co. Inc. and Lauder Partners.
+Perlman said the advance, which was being demonstrated publicly for the first time at the Consumer Electronics Show in Las Vegas, speeds download times significantly and greatly increases the quality of video compared with existing systems.
+WebTV said the new technology, which it has dubbed VideoFlash, has impressed officials from companies that might use it to show television and movie previews, news clips and advertising and animation through the WebTV Internet service.
+Publisher National Geographic, known for producing quality videos and photographs, said the technology was the first to provide acceptable quality video over an Internet link.
+"VideoFlash is the first Internet video technology that will allow National Geographic to deliver a visual experience on the Internet comparable to the imagery, drama and depth we offer with our television programming," said Larry Lux, vice president of National Geographic Interactive.
+VideoFlash can achieve three to 10 times the video compression rates of existing compression technologies, such as MPEG, which itself can compress video data by a factor of around 100, Perlman said.
+Even with the fastest modem connections now available, previous technology could take up to half an hour to download a 30-second video clip which could be played on a small window on a computer with generally grainy, shaky quality.
+VideoFlash provides much faster downloading and higher-quality display with little perceptible distortion, according to WebTV.
+Perlman said the software would be licensed at no charge to content providers to make videos available to WebTV subscribers. He said he expected major suppliers of video content over the Internet to adapt VideoFlash this year.
+The technology is software-based and relies on the WebTV reference design, which takes advantage of WebTV server capabilities as well as its proprietary TV set-top box, and will not be available on other systems, at least initially.
+But Perlman said he would expect at least one on-line Internet service provider may license the capabilities by the end of 1997.
+WebTV terminal units, introduced in September, are currently manufactured and distributed by Philips Electronics NV and Sony Corp.

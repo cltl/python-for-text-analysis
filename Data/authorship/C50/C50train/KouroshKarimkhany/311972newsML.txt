@@ -1,0 +1,10 @@
+Intuit Inc., Microsoft Corp. and Checkfree Corp. said Thursday they jointly developed a software standard to make it easier to bank online.
+The companies said their Open Financial Exchange -- a set of technical specifications -- will make it easier for depositors' personal computers to communicate with bank computers. That makes it easier to pay bills, transfer money between accounts and get balances via the Internet.
+About 50 banks are expected to announce by fall that they will adopt the standard, said Intuit Executive Vice President Bill Harris. By then, each of the three companies also will unveil new lines of online banking products based on the standard.
+Intuit and Redmond, Wash.-based Microsoft, fierce competitors since a merger agreement between them fell apart almost two years ago, said that by working together they will accelerate the adoption of online banking.
+"In all of the meetings each of us have had, every one of the financial institutions asked us to bring this together," said Lewis Levin, head of Microsoft's desktop finance unit.
+The alliance gets rid of the "mishmash" of standards Intuit, Microsoft and Checkfree were trying to push on banks, said Karen Epper, online banking analyst at market researcher Forrester Research.
+Menlo Park, Calif.-based Intuit and Microsoft are the two largest vendors of personal financial software and checkbook programmes. Checkfree lets customers send checks and pay bills through their personal computers.
+The companies said they will work with credit card issuer Visa to link Open Financial Exchange to Visa's bill payment network.
+Other companies supporting Open Financial Exchange including banking software firm Edify Corp.
+Stock in Microsoft, which also launched its Office 97 business software package Thursday, rose $1.125 to $85.75 in afternoon trading on the Nasdaq market. Checkfree climbed 62.5 cents to $15.375, while Intuit was unchanged at $34.625, also on Nasdaq.

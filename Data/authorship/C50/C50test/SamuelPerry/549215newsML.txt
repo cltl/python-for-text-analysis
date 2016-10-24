@@ -1,0 +1,20 @@
+Internet start-up companies continue to plunge into a fiercely competitive, still-embryonic market -- but major investors expect an equally fast shake-out in the next few months.
+Internet security, Internet-based telephone service and Web publishing were among the vibrant but increasingly crowded sectors for new products and services from more than 60 companies demonstrating their wares at an industry conference in San Diego.
+"There are a lot of things here that are products, not companies," said Thomas Winter, general partner at Onset Ventures in Austin, Texas, after viewing demonstrations at the three-day Upside/David Coursey Internet Showcase.
+What separates the Internet market from previous start-up investment booms like personal computers and biotechnology, venture capitalists say, is the potential market opportunity is expected to be far broader.
+John Doerr, the Kleiner Perkins Caufield &amp; Byers venture capital guru often hailed as someone who starts whole industries rather than just companies, calculates the Internet venture market is taking off at three times the velocity of the PC industry 15 years ago.
+Yet the speed also means sectors of the Internet industry have gone through consolidation phases far more rapidly than more mature industries.
+Just a year ago, four Internet search and navigation companies were hitting the public market. But, shortly after that, merger activity began swiftly for other, non-public navigation services.
+Some industry executives and venture investors are already seeing a similar phenomenon in other areas. With the cool state of the market for initial public offerings, many companies are expected to seek corporate investment or buyouts.
+Many have shifted their business plans to the corporate market in an effort to win corporate information technology dollars. Partly, this is also due to a view that public Internet access will not speed up any time soon.
+"There's no panacea in the bandwidth area," said Intel Corp. executive Victor Varney, using the industry term for the speed of an Internet connection. Varney noted that an independent survey projects that by the year 2000 fewer than 20 percent of individuals will have speedier connections than a common phone line.
+One example of overcrowding in an Internet business sector is the category of "push computing" where more than two dozen companies are competing, including Net software heavyweights Microsoft Corp. and Netscape Communications Corp.
+Many industry executives expect Microsoft and Netscape will turn push technology -- the automatic delivery of customized information over the Internet to computer users -- into a commodity market, leaving room for only a few providers.
+Venture capitalists see this as an example of a broader shake-out in the Internet business.
+"I think we're still deeply into the settling-out period," Onset Venture's Winter said.
+"Is push going to be a business? It may turn out to be a technology like AI (artificial intelligence)," rather than a full-blown business, he said.
+The pace of the initial public offering (IPO) market for Internet start-ups was at its most frantic last spring when some companies gained $1 billion initial market valuations despite little promise of sustainable profits.
+At the time, investment bankers joked you could write "Internet" on a dollar bill and they could take it public for $10, but no longer.
+"Within six months 'Internet' is going to be a nasty word to use in an IPO. I predict no company going public will want to be an Internet company by then," said one industry executive.
+Nevertheless, major companies like microprocessor maker Intel are seeking to drive adoption of Internet technologies forward and to encourage continued entrepreneurial investment, partly to ensure the continued growth of their own businesses.
+"We don't think there has been enough thinking through of new content capabilities of the Internet," said Varney, who predicts one day there will be "a much more aggressive integration of the Internet than we see today."

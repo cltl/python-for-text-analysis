@@ -1,0 +1,10 @@
+Some of Microsoft Corp.'s biggest corporate foes -- including International Business Machines Corp. and Netscape Communications Corp -- said they were collaborating on network computing standards that will enable their products to work together seamlessly.
+The companies, which also include Oracle Corp and Sun Microsystems Inc, said on Tuesday the standards resulting from the collaboration would allow software developers to build diverse software to connect computers via corporate networks, business-to-business networks and the Internet.
+They said their collaboration was open to broad industry participation.
+"This initiative starts with four companies, but our goal is for an industry groundswell to develop," said Steve Mills, general manager of IBM Software Solutions.
+Microsoft, the world's No. 1 software company, has been criticised by others in the industry and computer users for trying to extend its domination in various areas by developing software based on closed, proprietary standards.
+This is a particularly sensitive issue for the Internet, which for many years has operated according to so-called open standards.
+IBM, Oracle, Sun and Netscape said the results of their collaboration would be submitted to an industry standards group later this year. Microsoft is part of the industry standards group as well.
+Each company pledged to make their next major products adhere to the standards this year.
+The goal of the collaboration is to have a unified approach to an Internet development architecture -- called CORBA, or common object request broker architecture -- so that software from these companies can use objects developed by others.
+For example, Netscape's Communicator software will be able to access objects, or pieces of reusable code, stored in a big IBM or Oracle database.

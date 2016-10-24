@@ -1,0 +1,13 @@
+A break-in at the U.S. Justice Department's World Wide Web site last week highlighted the Internet's continued vulnerability to hackers.
+Unidentified hackers gained access to the department's web page on August 16 and replaced it with a hate-filled diatribe labelled the "Department of Injustice" that included a swastika and a picture of Adolf Hitler.
+Justice officials quickly pulled the plug on the vandalised page, but the security flaws that allowed hackers to gain entry likely exist in thousands of other corporate and government web sites, security experts said.
+"The vast majority of sites are vulnerable," said Richard Power, senior analyst at the Computer Security Institute. "The Justice Department shouldn't be singled out."
+Justice Department officials said the compromised web site was not connected to any computers containing sensitive files. The web site (http://www.usdoj.gov) included copies of press releases, speeches and other publicly available information.
+The security breach "is just like graffiti on the outside of the building," spokesman Bert Brandenburg said.
+Other organisations have been targeted in the past. Last year, the Nation of Islam's Million Man March web site was vandalised. And hackers make 250,000 attempts annually to break into U.S. military computers, according to a General Accounting Office report.
+Windows Magazine recently found security flaws at web sites of a dozen major corporations. "The web is spectacularly insecure," editor Mike Elgan said. Relying on security holes that had been documented by software manufacturers months earlier, the magazine's specialists were able to gain various degrees of unauthorised access at the different sites.
+Elgan said hackers who are exploiting some of the same flaws are motivated by anger over the growth and commercialization of the Internet. "A common theme is that hackers are fed up with non-hackers on the Internet," he said.
+The battle is not completely hopeless. "You can secure a web site," Richard Power said. "There's all kinds of measures you can take. Most corporations and institutions don't take them simply because nothing bad has happened to them yet."
+Some sites are using multiple layers of security, well beyond simple password protection, to keep hackers out.
+One site mentioned by Windows Magazine was Fidelity Investments. Fidelity's site advertises its mutual funds and disseminates information about personal finance but does not contain confidential customer information.
+Fidelity officials immediately closed the loophole identified by the magazine, a spokeswoman said. But multiple security measures previously in place would have prevented a security breach despite the hole, the spokeswoman added.

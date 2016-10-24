@@ -1,0 +1,20 @@
+Sun Microsystems Inc on Wednesday unveiled its first mainframe-class server, marking its entry into a $50 billion market for data-center computer hardware, storage, software and services.
+Ed Zander, president of the company's Sun Microsystems Computer Co, said he expected the machines to sell for an average price of more than $1 million.  
+Speaking to a a gathering of analysts, customers and reporters at San Francisco's Museum of Modern Art, Zander cautioned that the new Ultra Enterprise 10000 servers, which can compete with mainframe computers on many measurements of computing performance, would have a longer sales cycle than Sun's more traditional Unix product lines.
+Still, he said Sun expected to sell more of its speedy Ultra Enterprise 5000 and 6000 midrange servers as a result of its new high-end machine, which is available immediately to launch customers. It will begin shipping in volume in March.  
+"It really puts Sun into some new markets where they have not been able to play before," said C.B. Lee, senior analyst at Sutro &amp; Co.
+Lee said the new server would be most useful for running complex database applications and for extending new computing capabilities, rather than replacing older software and hardware that have come to be known as legacy systems.  
+Montgomery Securities analyst Kurt King said by extending Sun's capabilities at the high end, the new machines may help overall investor sentiment by allaying somewhat the fears of competition at the lower end of Sun's product line from PCs based on Intel chips and Microsoft Windows.
+"It expands Sun's business," he said, adding it would inevitably help boost margins and help move the mix toward servers and away from the Unix workstation market. Sun dominates that market but Intel and Windows NT are challenging its lead.
+The base Starfire configuration -- 16 processors and two gigabytes of memory -- will be priced around $870,000.  
+Sun officials declined to comment specifically on margin and revenue or earnings expectations, although John Shoemaker, who heads Sun's enterprise server and storage group, repeated that Sun aimed to become the leading midrange server supplier.
+It is currently third behind International Business Machines Corp and Hewlett-Packard Co, analysts said. Shoemaker said Sun estimated its rate of growth to be two to three times that of its archrivals, however.
+"We think we have a realistic objective in about three years to be number one," he said. "We are significantly gaining share on our competitors."  
+Sun said its 10000 series, codenamed 'Starfire', offers up to four times the performance of IBM's CMOS (complementary metal oxide semiconductor) mainframe and HP T-series servers.
+Zander said the company's sales force would market the machines aggressively. "This is a hunk of Iron," he said after the machine was brought onto stage using a turntable. "Bring back the old days -- gross margin, revenue," he said.
+Because it runs Sun's Solaris version of Unix, the 10000 series also can run 12,000 Solaris-based applications.
+Shares of Sun fell 68 cents to $32.75 in Nasdaq trade.  
+Sun also announced storage products, including its RSM Array 2000, which supports up to 20 terabytes for the 10000. It will begin shipping in February for Solaris servers.
+The RSM Array 2000 is priced at $0.49 per megabyte, sharply lower than the $1.75 per megabyte and $1.08 per megabyte it said new EMC machines cost.
+Sun said it would offer Veritas Software Corp's Veritas File System disk and information management system with its storage products, and it demonstrated it on the RSM Array 2000. Mountain View-based Veritas jumped $6.75 to $51.
+-- Sam.Perry@Reuters.com, Palo Alto Bureau +1 415 846 5400

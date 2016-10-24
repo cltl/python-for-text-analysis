@@ -1,0 +1,15 @@
+Sun Microsystems Inc said it will announce on Wednesday an initiative with several industry leaders to standardize its popular Java programming language, which is widely used to develop Internet software.
+Sun said International Business Machines Corp, Apple Computer Inc, Netscape Communications Corp, Oracle Corp and others support its initiative, which will guarantee a program is "pure Java."
+The move comes amid recent industry talk that the Java language could become fragmented with multiple versions.  
+Recently, there have been a spate of reports in the computer industry trade press about fears that Java -- which enables software developers to write an application in the Java language and it will run on any computer system -- will become fragmented like the UNIX operating system.
+There are now at least twenty different versions of UNIX, which was developed by AT&amp;T Corp as a high-performance operating system for networked computers, and these multiple versions prevented its widespread industry adoption.
+"There has been a great deal of concern about Java splintering," said Jon Kannegaard, vice president of software.  
+The brouhaha started at Comdex, the industry's biggest trade show, when Microsoft Corp announced plans to develop several programming interfaces and tools for the Java language. The resulting programs developed with their software programming tools would run only on its Windows software.
+"There really will be a tug and we are making sure that you don't give anything up by going with the 100 percent pure solution," Kannegaard said.
+Wednesday, Sun will unveil what the "100 Percent Pure Java" initiative, which will provide education for the industry, developer assistance and program certification.  
+In the first quarter of 1997, Sun will introduce testing, certification and branding for applications that pass its criteria. Sun, IBM, and Netscape will launch a worldwide educational tour aimed at training software developers to write and test Pure Java applications.
+Sun said that it hopes its initiative will help contribute to the momentum that has been building all year around Java, a language it originally developed for interactive television.
+"If we think of 1996 as 'the year of Java, the platform,' then we should think of 1997 as 'the year of Java deployment,'" Kannegaard said.  
+Sun said that a recent survey by Morgan Stanley indicated that 75 percent of the corporations interviewed were developing, or had plans to develop applications using Java.
+Java - which is widely used to develop World Wide Web sites and content on the Internet - lets developers write a program once that will run on any system compatible with Java. Developers can also easily add animation and other features.
+Over 200,000 software developers are now writing applications in Java. Sun said it will spend millions of dollars on its 100 Percent Pure Java program. Sun's JavaSoft unit is leading the initiative to standardize Java.

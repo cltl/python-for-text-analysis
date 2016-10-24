@@ -1,0 +1,19 @@
+A subsidiary of construction and engineering giant Bechtel Corp. said Monday it will unveil a new Internet gateway Tuesday as it seeks to break what it says is an oligopoly consisting of the phone companies that manage most of the world's Net hubs.
+Genuity Inc. said the gateway, known as a network access point, and a new service dubbed Hopscotch would relieve the traffic jams now bedeviling the Internet, resulting in faster, more reliable Internet service for consumers and corporations.
+The network access point, which will be based in Phoenix, and Hopscotch, will be formally announced at the Internet World trade show in New York, San Francisco-based Genuity said.
+There are now about eight major network access points, which funnel and route most of the world's Internet traffic. Network access points also allow smaller Internet access providers to gain access to the Net and have recently suffered heavy congestion.
+Six major network access points are in the United States: San Jose, Calif.; Washington; Chicago; Los Angeles; Palo Alto, Calif.; and the New York area.
+Until mid-1995, the National Science Foundation funded four of the biggest U.S. access points. But, with the NSF no longer funding the Internet, these gateways are operated by "Baby Bell" regional phone companies or long-distance phone companies.
+"That's why we believe tomorrow will be a new day for the Internet," Rodney Joffe, chief technology officer of Genuity, said in an interview.
+Joffe said that both the Baby Bells and the long-distance providers make money by charging the big Internet service providers $2,500 to $5,000 monthly for acess to the Net.
+However, he said the phone companies were not making the investments needed to support the growth of the Internet.
+Genuity said it will make its new network access point a not-for-profit operation in the hopes that it will gain many customers for its network hosting services. Genuity said it was not charging Internet service providers rent or connection fees at its Phoenix center.
+Genuity said it hoped to build more facilities like the one in Phoenix.
+"We will invest whatever it takes," Joffe said. "We are not making any friends among the telcos (phone companies), but we are making friends among corporations and government users."
+A spokesman for MCI Communications Corp., one of the three main providers of the core Internet backbone, said MCI always welcomes more companies adding to the Internet. MCI does not manage a network access point.
+Pacific Telesis Group, which manages a network access point, recently said its local telephone service was suffering due to massive Internet usage in California, which was experiencing heavy congestion at its network access point.
+PacTel officials were not immediately available to comment on Genuity's statement.
+"The story that Joffe tells is quite exciting and quite responsive to the problems on the Internet," said Bob Metcalfe, founder of computer network power 3Com Corp. and most recently an outspoken columnist on the subject of Internet congestion. "The things they are proposing to do for the Internet are badly needed."
+Genuity hopes to sell its network services, including its Hopscotch service -- a Web site hosting service with advanced features -- to businesses. It is aimed at companies selling over the Internet, news services and major corporate Internet sites. Already, Genuity said it has 35 customers, including C/Net Inc., the Internet-based news service that focuses on technology.
+Genuity said its Hopscotch service was available immediately, starting at $5,000 per month, for customers who want to design and start up large-scale Web sites.
+Bechtel, the engineering and construction giant also based in San Francisco, purchased a majority interest in Genuity in November for undisclosed terms.

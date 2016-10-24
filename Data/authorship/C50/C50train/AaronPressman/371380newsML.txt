@@ -1,0 +1,16 @@
+Internet access providers and others who met with Net-savvy lawmakers said they fear Congress will wreak havoc on cyberspace but are also heartened by the growing number of legislators who understand the global computer network.
+Company representatives met Tuesday night at the Capitol with members of the Congressional Internet Caucus, about 85 legislators with a common interest in the Net, to express their hopes and fears about efforts to make laws governing cyberspace.
+"I think it's inevitable that there will be bills introduced that attempt to legislate the content of everything on the Internet," Tom Evslin, vice president of AT&amp;T Corp.'s WorldNet Internet service, said after the meeting.
+Evslin said it would be as difficult to keep Congress from making wrong moves as it would be to get the legislature to act to head off problems.
+Bill Schrader, president of Internet provider PSINet Inc., was more blunt. "Be very careful or you will destroy this industry," he warned.
+The members of Congress who attended the meeting pledged to try to protect the Internet.
+"We have a lot of pretty tough work ahead of us," Rep. Rick White, R-Pa., and a co-chairman of the caucus conceded. "We have many, many issues coming down the pike from encryption to privacy, to copyright and taxation."
+Encyrption is the use of software to encode and decode information.
+Sen. Conrad Burns, also a co-chairman, warned that, despite the caucus, legislation will always trail developments in the private sector.
+"The government making policy is never ahead of the curve," the Montana Republican said. "If we do the right thing now, I guarantee you that by the time it's passed and the president signs it, we'll be behind the curve."
+Last year was a mixed bag for the Internet in Congress.
+Legislators passed the Communications Decency Act, opposed by online companies and civil libertarians as an infringement on free speech rights, but also defeated measures that would have imposed liability on Internet providers for copyright infringement.
+Sun Microsystems Inc.'s chief scientist, John Gage, fretted that, with only 85 pro-Internet legislators out of 435 in the House and 100 in the Senate, most in Congress remained ignorant of the Net. "We've got a long way to go," he said.
+Companies interested in the Internet offered some conflicting goals for Congress. Jack Valenti, president of the Motion Picture Association of America, urged the legislators to impose new laws protecting Hollywood products.
+"Congress cannot avoid that all intellectual property has to be protected -- this can't be Dodge City without a sheriff," Valenti said. But he also praised the Internet as "the most valuable and spacious information greenhouse that's ever been built."
+PSINet's Schrader countered that existing laws already protected movies, books and other works. "Everything is not new," he said. "It's the same-old, same-old."

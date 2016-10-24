@@ -1,0 +1,14 @@
+Microsoft Corp is expected to report a sharp slowdown in earnings growth Monday due largely to a sales surge last year when the software giant launched its Windows 95 operating system.
+On average, industry analysts expect the company to post earnings of $0.90 a share for its fiscal first quarter, up 15 percent from last year's $0.78, according to First Call.  
+"It's a tough comparison because in the September quarter last year was the initial release of Windows 95 and all the sell-in associated with that, so it was a great quarter," said Chris Galvin of Hambrecht and Quist.
+But he and other analysts said Microsoft's business was continuing to expand steadily, benefiting from rising sales of personal computers and the increasing penetration of Windows 95 and the more lucrative Windows NT system.  
+Microsoft's already-high profit margins also are rising as the company sells a growing proportion of its software by preloading it onto new computers or selling licenses to large customers rather than shrink-wrapped boxes at retail stores.
+Microsoft's business is expected to gain momentum through the fiscal year as the recently updated Windows NT wins more acceptance and the company rolls out a major new version of its Office application suite beginning in December.
+For the fiscal year ending June 30, 1997, analysts on average see earnings of $4.07 a share, up 19 percent from last year's $3.43, First Call said.  
+"I think NT will really start ramping in the December quarter and in the first part of '97," said analyst Scott McAdams of Ragen MacKenzie. "It's going to be a very powerful driver of earnings," he said.
+One cloud on Microsoft's horizon is the imminent arrival of a wave of "thin client" products such as the Network Computer championed by Oracle Corp Chairman Larry Ellison.  
+Late this month Sun Microsystems Inc is expected to launch a line of products code-named "Mr. Coffee" based on the increasingly popular Java language, which is being positioned as an alternative to the "Wintel" combination of Microsoft operating systems on Intel Corp processors.
+While corporate users are not rushing to desert their personal computer networks, the increasing publicity about alternatives could hurt Microsoft's stock price, which is at near-record levels and up more than 50 percent since its 1995 closing price of $87.75.  
+"It's been a bit of a back burner issue, ... but it will move to the front burner," said Rick Sherlund of Goldman Sachs.
+Microsoft's earnings picture also is becoming blurred by revenue that the company defers to account for delayed costs such as service updates and technical support for its operating systems and business applications.
+Microsoft had "unearned revenue" of $545 million on its balance sheet as of June 30, a figure that could rise to $1 billion by the end of the current fiscal year, McAdams said.

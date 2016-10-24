@@ -1,0 +1,21 @@
+Computer network equipment maker 3Com Corp. Thursday reported a 17 percent rise in third-quarter profits, an unusually small rate for the company.
+3Com executives told investors, however, they expect business to pick up again in the fourth quarter and said that, contrary to fears among Wall Street investors, the industry does not face an extracted slowdown.
+"We do not expect that the demand weakness we saw in December will recur," said Eric Benhamou, 3Com chief executive. "The fundamentals of the industry remain very strong and the potential remains for the industry to sustain growth rates in the 30 to 50-percent range in the coming years."
+3Com, the second-biggest maker of networking equipment after Cisco Systems Inc., said net income rose to $87.6 million, or 47 cents a share, from $74.6 million, or 42 cents, in the same quarter a year ago.
+The company announced last month it was acquiring consumer computer modem giant U.S. Robotics Corp. in a stock deal valued at $7.3 billion.
+Wall Street, after having been warned a month ago by executives that the company faced a difficult quarter, expected 3Com to earn 46 cents a share, according to a recent survey by First Call.
+Revenue for the quarter ended Feb. 28 rose 30 percent to $786.8 million from $606 million a year ago.
+3Com makes electronic devices that send information through computer networks. In December, the company had unusually weak sales because of falling product prices and aggressive moves by competitors Cisco and Intel Corp.
+The warning set off a month-long slide of networking stocks and spurred concerns that the industry segment had seen its best days. Since the warning, 3Com's shares have lost more than half their value in seven weeks.
+3Com shares on Thursday closed up $1.44 at $33.63.
+"It looks like the worst is behind them, although it could take at least a quarter or two for them to get things back in line," said Noel Lindsey, analyst at investment bank Deutsche Morgan Grenfell Inc. in San Francisco.
+Benhamou's positive remarks also likely will boost 3Com's stock Friday, Lindsey said.
+About 45 percent of 3Com's revenue comes from the sale of networking adapter cards, the graham-wafer-sized devices that plug into PCs to connect them to networks. 3Com said adapter card revenue rose 39 percent in the third quarter to $346.3 million.
+3Com also sells switches and hubs, the devices that shuffle information through networks. Sales of these system products rose 24 percent to $432.6 million.
+Benhamou said the company is bringing expenses in line with revenue. He also said strong sales throughout Asia is offsetting weakness in Japan. Similarly, strong British sales are mitigating weak sales in Germany, he said.
+"During the quarter, we saw strong demand for our high-end" network equipment, 3Com Chairman Eric Benhamou said in a statement, "and the number of multimillion-dollar orders we received from large accounts has never been greater."
+"At the same time, our industry is in the midst of many important transitions," Benhamou added, citing the adoption of higher-speed technologies, new methods for directing network traffic and pricing and distribution increasingly based on volume sales.
+He said that as a result of these changes, 3Com's results in the latest quarter reflected increased price competition and a pause in industry demand as corporate networking customers and network service providers assess how to maximize their investments in computer networks.
+But he added the changes were "positive for 3Com and the industry in the long run."
+The acquisition of U.S. Robotics, the leading worldwide maker of modems for the consumer market, will create a company with annual revenues topping $5 billion.
+Under terms of the agreement, each share of Skokie, Ill.-based U.S. Robotics will be exchanged for 1.75 shares of 3Com stock.

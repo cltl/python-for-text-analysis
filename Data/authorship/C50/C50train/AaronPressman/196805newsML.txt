@@ -1,0 +1,14 @@
+Hewlett-Packard Co. unveiled a new plan Monday to boost sales of computer encoding technology, considered a key component of global communications and the development of commerce over the Internet.
+The plan is intended to foster the growth of online commerce worldwide while still abiding by strict U.S. export laws limiting the sale of encryption products abroad.
+Sales of goods and services over the Internet are booming but still lag well behind traditional sales by telephone or in person. Some businesses say that consumers are nervous about sending credit card numbers or other sensitive information over the Internet, where it could be intercepted by criminals.
+Encryption scrambles information, such as a credit card number, while in transit so that it can be read only by the intended recipient using a password or a software "key."
+"The bad news is that, unless you encrypt your information, it's very easy for electronic eavesdroppers to have a look at what you're transmitting," said Brad Silverberg, senior vice president at Microsoft Corp., a Hewlett-Packard partner in the new encryption framework.
+The Hewlett-Packard plan is "the first government-approved encryption framework removing a significant barrier to making the Internet secure for business transactions and electronic communications," company Chief Executive Officer Lewis Platt told a news conference in Washington.
+Intel Corp., another partner in the effort, said it plans to incorporate encryption into its market-leading computer hardware products.
+Federal export laws prohibit the sale of strong encryption technology outside the United States. Last week, President Clinton signed an executive order liberalising but not eliminating the export rules.
+Companies will be allowed to sell products with strong, built-in encryption features but only if the products also contain a feature that allows the government to break the codes when acting under a court order or similiar authority.
+The administration said law enforcement authorities need the ability to decode messages by having access to the software keys, a system called key recovery or key escrow, in order to keep tabs on criminals and terrorists.
+Under the Hewlett-Packard framework, powerful encryption features in a new computer or software could be automatically disabled if the product is sold abroad and does not permit government decoding.
+That may not be enough to satisfy those opposed to the administration's policy, including some businesses and civil libertarians.
+"It's not a solution for us," said Shari Steele, staff attorney at the Electronic Frontier Foundation, a civil liberties group that focuses on cyberspace issues. She said people should have the right to use encryption free of government-mandated escrow.
+"The government is just strong-arming some companies by saying if you want to use strong encryption at all, you have to have key escrow," Steele said.

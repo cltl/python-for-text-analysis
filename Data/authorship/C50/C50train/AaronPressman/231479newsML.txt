@@ -1,0 +1,18 @@
+A leading software industry group is backing away from its early support of the Clinton Administration's new policy to ease export rules on computer encoding technology.
+In a letter to vice president Al Gore, the Business Software Alliance, which includes Microsoft Corp and International Business Machine Corp's Lotus Development, warned that rules implementing the new encryption export policy appeared to be flawed.  
+"It appears that significant backtracking has occurred since the October 1 announcement," the alliance wrote.
+"Therefore, we seriously doubt that the regulations will work, meet consumer demands or be accepted by the private sector unless the administration radically changes its approach immediately," the alliance added.
+A spokeswoman for Gore said Greg Simon, the vice president's chief domestic policy adviser, and other administration officials working on the rules have met with the software group to discuss the criticism.  
+"There is still an internal decision making process going on," spokeswoman Heidi Kukis said. Final rules are expected by January 1, she said.
+The administration is attempting to craft a compromise on export sales of products containing encryption, computer programs that use mathematical formulas to scramble information and render it unreadable without a password or software "key."
+Under current laws dating from the Cold War, products for export can only include very weak coding features.  
+But with the growth of the Internet and online commerce, encryption is spreading as a means to ensure secure communication between businesses and to safeguard consumers' credit card numbers.
+U.S. software companies argue they are losing substantial overseas sales to foreign companies not bound by the export laws.
+U.S. law enforcement and intelligence officials counter that the spread of sophisticated encryption will make their jobs far more difficult.  
+Under the compromise policy announced in October and enacted in an executive order last month, companies would be able to export strong encryption but only if the products also contained a feature known as "key recovery" that would permit the government to decode scrambled data.
+The software alliance said in October that the new policy was a "step in the right direction." In its letter this week, however, the alliance said it was not happy with the rules being drafted to implement the policy. "Everything we have seen and heard to date reveals that the government is headed in the absolute wrong direction," it said.  
+Part of the debate revolves around the definition of key recovery. The alliance said key recovery should consist of products which allow the government to decode stored communications, such as an E-mail message saved on a computer hard drive. But products should not be required to allow government decoding of real-time communications.
+"There is little if any commercial demand for key recovery function in real-time communications," the alliance wrote. "Our members have seen nothing to suggest that any product developed to date can work on a mass market scale or that there is significant commercial demand for such products."
+A number of companies, including Microsoft and IBM, have announced products designed to meet the new export policy. But not all of them easily allow real-time key recovery.
+Although Microsoft is trying to create products to meet the export policy, "we still feel government should liberalize the policy more," John Browne, head of the company's Internet commerce group, said.
+-- 202 898-8312

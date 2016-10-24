@@ -1,0 +1,14 @@
+Many personal computer makers this week will roll out flashy multimedia PCs designed around a new chip by Intel Corp. -- a development that is expected to give the consumer sector of the industry a much-needed boost.
+Intel will officially launch its much-anticipated P55C microprocessor using its so-called MMX (multimedia extension) technology Wednesday and a slew of companies will unveil new consumer PCs, notebooks and desktops using the new chip, which will offer much faster performance.
+The company said the new chip will offer more than just faster speeds on the new PCs, but a spokesman declined to give any further details.
+"Instead of just raw performance ... you get a richer experience," said an Intel spokesman in Santa Clara, Calif.
+International Business Machines Corp., Compaq Computer Corp., Dell Computer Corp., Gateway 2000 Inc., Toshiba America Corp., Sony Corp. and many other firms are expected to unveil new high-end PCs simultaneously with Intel's announcment.
+Most machines are expected to be priced over $3,000.
+Intel said that an MMX-based PC would be more like a television, with sharper images, three-dimensional graphics, faster audio and television-like video. Other benefits include faster video teleconferencing and Internet access.
+"As more and more people use PCs, the expectations are higher and higher, from what they see in movies and television," the Intel spokesman said.
+"This moves the PC platform a little further along to media-rich applications. Our goal is to surpass the TV in terms of audio and video."
+For example, he said, a user playing a video game on an MMX-based PC will feel as if he or she is in a video arcade.
+"It's a tremendous kickoff to 1997," said Rod Schrock, a vice president of Compaq's Presario division.
+"We are so excited about the new MMX processor that we redesigned the entire line of Presarios from the ground up. Customers are going to get a pretty dazzling experience."
+Schrock declined to give any product specifics, but he said that Compaq will launch its new Presario consumer PCs with MMX in the same timeframe as Intel's announcement.
+"It should provide an added boost to the demand for the new generation of PCs," Schrock added. "There was no major industry event in 1996, this year you have a new processor."

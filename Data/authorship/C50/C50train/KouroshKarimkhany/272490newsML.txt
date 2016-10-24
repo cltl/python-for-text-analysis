@@ -1,0 +1,25 @@
+Apple Computer Inc.'s rehiring of company co-founder Steve Jobs and purchase of NeXT Software Inc. will give it a much-needed operating system, but analysts warned Monday the deal might not be enough to boost the computer maker's market share or bottom line.
+"(The move) has a lot of PR value, but it looks to me that the company still has a strategic mess on its hand with $400 million less," said John Rossi, an analyst at the Robertson Stephens &amp; Co. brokerage in San Francisco.
+Apple said Friday it would pay $400 million to buy NeXT and rehire NeXT founder Jobs, Apple's mercurial co-founder, as part of a plan to revamp the Macintosh computer.
+Apple bought NeXT because it needs an operating system -- the program that controls a computer's basic functions -- after its own attempt failed.
+While NeXT's existing technology helps Apple make up for lost time and provides a decent foundation for a new operating system, the technology is not dazzling enough to set the Macintosh apart from computers running Microsoft Corp.'s Windows software, analysts said.
+"Trying to prop up the brand name with a psychological hire is not going to solve Apple's problems," said one Wall Street analyst who asked not to be identified.
+Analysts note that NeXT has failed to make any dent in the consumer computer market on its own. The company sold only 50,000 computers in four years as a hardware manufacturer before it focused entirely on software.
+Some analysts also are disappointed that Apple chose NeXT over Be Inc., a closely held software company founded by another former Apple executive, Jean-Louis Gassee.
+"I saw Be's technology. I was wowed by it," Rossi said. Be had many features that would have appealed to Macintosh customers, who do a lot of graphics design, video and image editing and desktop publishing. NeXT, Rossi said, "is aged" in comparison.
+Still, Apple needed to come up with a technological blueprint to persuade outside software companies not to abandon the Macintosh.
+By making no secret they were shopping around for technology, Apple's management had essentially told their customers the current Macintosh system was a dead end, analysts said.
+If Apple had taken much longer to present its plan, Macintosh software developers would have begun to look for other ways to make a living.
+"The technology direction implicit in the acquisition is a good one," said Ike Nassi, a former Apple executive and computer scientist who headed the software development effort.
+Some investors agreed. Apple shares rose 12.5 cents to $23.625 in afternoon Nasdaq trading. The shares jumped $1.25 to $23.50 Friday as word spread of Apple's decision to buy NeXT, based in Redwood City, Calif.
+Analysts said they may have to wait months to get a clearer picture from Apple about what the combination of NeXT and Apple software will look like.
+"Merging operating systems is not a simple task," said Peter Andrew, an analyst at brokerage AG Edwards.
+And it is still unclear where Apple will get the software expertise to include key features in the new operating system.
+For example, neither Apple nor NeXT's software is efficient at handling several tasks simultaneously, such as recalculating a spreadsheet while faxing a document and updating stock quotes on the screen.
+"There are many issues about how the NeXT operating system can revitalize the Mac," said Richard Zwetchkenbaum, an analyst at market researcher International Data Corp.
+Apple executives are expected to give more technological details about their plan Jan. 7 at the MacWorld trade show in San Francisco.
+Daniel Kunstler, an analyst with investment bank JP Morgan's San Francisco office, said Jobs, even if he helps Apple comes up with a brilliant operating system quickly, cannot save Apple alone.
+"My investment thesis on Apple hinges on a lot of mileposts," including reporting a decent Christmas quarter this year and revamping its entire product line in 1997, Kunstler said. Finding an operating system was just one milepost, he said.
+"The PC industry is one of the most dynamic and competitive in the world, and this announcement underscores that fact," said Microsoft spokesman Mark Murray. "We look forward to watching their efforts and competing in the marketplace."
+He pointed out that Microsoft has been the biggest developer of applications for the Macintosh platform over the past 15 years.
+"Until Apple provides more details on their future plans, it's going to be hard for anyone to say how they will partner with or support this new venture," he said. But he added that Microsoft would take a "hard look" at any new system, depending on customer demand.

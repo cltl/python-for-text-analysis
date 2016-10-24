@@ -1,0 +1,10 @@
+Sun Microsystems Inc. and its partners will Wednesday launch initiatives aimed at making its Java computing platform more speedy on devices ranging from smart cards to supercomputers.
+Just two years after the unveiling of Java, a language for programming computers which began as a tiny project within Sun that was nearly scuttled, it has created an awkward alliance between fierce rivals.
+Wednesday's proceedings, to be witnessed by thousands of computer developers in San Francisco, will not be without controversy.
+Down the hall from where Sun Chairman and CEO Scott McNeally and other Java luminaries will be giving keynote addresses, Microsoft Chairman and CEO Bill Gates is due to showcase Microsoft's own implementations of Java.
+"Certainly the center of the nuclear attack is going to be right here at ground zero in San Francisco," Gartner Group analyst David Smith said of the duelling keynotes.  
+The pre-conference hype in the industry over the JavaOne conference reached such grand proportions that San Francisco Mayor Willie Brown issued a proclamation designating this week as "Java Week" in the city.
+Analysts see Java -- which promises to enable programmers to write one piece of software that can run across all computer systems -- as a technology that will eventually creep into pretty much every company's systems.
+Sun hopes that by de-emphasizing individual platforms, especially Microsoft's Windows operating systems which are themselves nearly ubiquitous on business and home PCs, it can level the playing field and extend sales of systems like its Solaris Unix platform, analysts said.
+International Business Machines Corp. and virtually every other major computer systems maker, including PC industry giants Microsoft and Intel Corp., have clambered aboard the Java bandwagon.
+But Gates, who is not used to playing second fiddle, and other industry players over time are expected to vie with Sun for leadership of the growing number of developers entranced with Java, now estimated at 400,000.

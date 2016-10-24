@@ -1,0 +1,20 @@
+Teledesic Inc., the communications startup mostly owned by Seattle billionaires Bill Gates and Craig McCaw, Tuesday picked Boeing Co. to build and deploy its planned $9 billion satellite network.
+Boeing also will invest up to $100 million in Teledesic, giving it a 10 percent stake in the privately-held company, which plans to launch 288 low-orbiting satellites by 2002 to form an "Internet in the sky."
+Teledesic Chief Executive Officer David Twyver said the Kirkland, Wash.-based company talked to virtually all the world's major aerospace companies before settling on Seattle neighbour Boeing as prime contractor for the ambitious project.
+"But let me say that no one company can do everything that has to be done here," Twyver said in an interview.
+"We expect that most of the major aerospace and telecommunications companies if they're interested in being part of this will find room in it," he said.
+The contract is a major victory for Boeing, which is counting on commercial ventures to provide growth for its rapidly expanding defence and space business
+Boeing's partly-owned Sea Launch Co. is building a mobile, ocean-based satellite launch platform, and the aerospace giant is expanding its space business aggressively through the recently completed acquisition of Rockwell International Corp. units and the planned purchase of McDonnell Douglas Corp.
+"Our relationship with Teledesic is the perfect catalyst for bringing together all of our historical investments in the space business with our recent and planned investments in Sea Launch, Rockwell and McDonnell Douglas," Boeing Chief Executive Phil Condit said.
+Teledesic, initially formed by McCaw, a pioneer in the cellular telephone industry, and Gates, co-founder and chairman of Microsoft Corp., has scaled back its initial plans for a network of 840 small satellites more than 400 miles in the air, Twyver said.
+Instead, the company now plans to provide the same international coverage with a network of slightly larger satellites orbiting about twice as high above the earth -- still far lower than current communications satellites launched into geosynchronous orbit 22,500 miles up.
+Teledesic executives say their network will provide communication comparable to land-based fiber optics, including transmission of voice, data and video, between any two points on Earth equipped with the small dishes needed to link to the low-orbiting satellites.
+Other satellite projects in the works, such as Motorola Inc.'s 66-satellite Iridium project, aim to provide voice and data links to mobile users, more like today's cellular telephones.
+"We expect our customers to be companies rather than individuals, initially at least," Twyver said. "Almost every company now is putting mission-critical internal applications on Internet-style backbones, and they'll need to get access to every one of their sites."
+Teledesic plans to market the service directly in the United States and is in talks with major telecommunications companies overseas for resale rights.
+Twyver said Teledesic is "very well funded" now but will be looking for other industrial risk-sharing partners to build out the network.
+Boeing likely will build the satellites at a cost of several million dollars each on a mass-production line in its current facilities.
+Up to 16 satellites then will be packed onto each rocket for launch over an 18-month period beginning in 2001. Various launch vehicles are expected to be used.
+Twyver said the production schedule allows for an 8 percent satellite failure rate, which he said was cheaper than insuring every satellite.
+The final configuration will include 12 "beaded necklaces" of 24 satellites each orbiting the Earth in different planes, with the option of adding more satellites later.
+With the Boeing investment, Gates and McCaw each will own about one-third of Teledesic. AT&amp;T Co.'s AT&amp;T Wireless, which bought McCaw's cellular business, owns about 10 percent of Teledesic, with venture capital investors owning the rest.

@@ -1,0 +1,18 @@
+@Home Network CEO Tom Jermoluk said the $48 million raised by the high-speed Internet service group allows it to be selective in the timing of an eventual initial public offering (IPO).
+"We're not out seeking other forms of capital," Jermoluk said after the company announced the private placement in preferred stock, accounting for about 4.5 percent of the company and valuing it at a whopping $1.07 billion, nearly 20 times its initial value in 1995.
+"We are a company that has been designed from the beginning to be one that does eventually go to the public market," he added, declining to discuss any specific schedule for when it might go public.
+"The nice thing about now having raised this cash is we're flexible," he told Reuters in an interview after the funding announcement. "Whenever the market and the company conditions are right together, then we'll be able to go."
+Despite the hefty valuation for @Home - more than double the $425 million Microsoft Corp agreed to pay for fledgling startup WebTV in its mostly stock deal last week -- @Home is heavily dependent on its partners to build out their cable networks to accommodate @Home.
+While WebTV has sought to gear its network to deliver Internet content at slow speeds over ordinary phone lines to a television set-top box of its design, @Home is aiming to provide speedy, high-bandwidth service from the start.
+Technically, it can offer service at speeds more than 30 times faster than the currently-deployed dialup modems, but its seven cable operator partners will have to spend heavily upgrade their systems to accommodate @Home.
+"Certainly hundreds of millions of dollars (are) required to upgrade all of their systems," he said.
+For example, taking @Home partners' current rights to supply cable to some 45 million homes in North America, Jermoluk said $50 dollars a home would be a conservative investment requirement. This would be roughly $2.25 billion if every home were actually to be hooked up.
+"That's a lot of dough over the next five or six years of doing upgrades," said Jermoluk, who estimated it would take that long "to get a majority of those homes."
+@Home has already begun residential deployment in more than half a dozen citites, with each of its three primary investment partners.
+@Home's partners are not required to roll out an Internet service, but if they do, they have agreed it will be the @Home service. As a hedge, @Home has started a trial of Asynchronous Digital Subscriber Line (ADSL) for use eventually by customers outside its partner's regions.
+"In the areas where we don't have cable we ourselves will go in with an ADSL type of approach," he said, adding he will deploy ADSL selectively this year although he felt it is two years behind cable and modem prices are high.
+@Home, which is available for $35-$40 a month in a handful of areas, is also leading an @Work business for telecommuters and other business users priced around $150 a month for a direct link to an office machine.
+Jermoluk said the commercial business will potentially become half of its revenue.
+"It's a very attractive market," he said.
+@Home Network is also looking to expand outside North America, Jermoluk said.
+"We've been in talks with a number of different countries," he added. "I think the obvious targets are the big ones, like Japan, UK, Germany - the heavy population centers." (sam.perry@reuters.com, Palo Alto Bureau 415 846 5400)

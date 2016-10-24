@@ -1,0 +1,15 @@
+Microsoft Corp., Intel Corp., and Compaq Computer Corp.  Monday proposed standards for a new generation of televisions that would be compatible with an emerging class of personal computers for the home.
+In a telephone briefing with reporters, Microsoft Senior Vice President Craig Mundie said the proposed television protocol -- unveiled at a broadcasters' conference in Las Vegas -- also would be recommended as a standard for multimedia PCs to be detailed at a major industry meeting in San Francisco this week.
+Mundie said the companies, dubbed the "Big Three" of the personal computer industry, are proposing adoption of three out of 18 advanced technical standards set forth by a television industry coalition.
+Mundie and executives from Intel and Compaq said their proposal would allow a "significant improvement" in picture quality as well as transmission of related information and data to personal computers, television and hybrid devices.
+"This model of television in particular is going to provide the viewer with a completely different experience," said Robert Stearns, senior vice president of Compaq.
+He suggested that advanced television, also known as high-definition television, would allow viewers greater opportunity to interact with programming by choosing camera angles, chatting with characters, responding to advertising and even affecting the outcome of shows.
+He said that beyond the issues of "plumbing" or technical standards, the broadcast industry could develop new revenue streams from advanced television.
+He and the other executives said equipping personal computers to decode and display the new forms of television signals would add very little to the cost of the devices, perhaps less than $150.
+At the same time, the emergence of advanced television is creating a new class of big-screen personal computers which combine features of the computer and television.
+The consumer electronics industry is gearing up for production of advanced television sets with sophisticated computer circuitry.
+Last week, the Federal Communications Commission, culminating a 10-year effort, called for a rollout of the technology that will have digital television on the air in the nation's 10 biggest markets within 18 months.
+But rather than set specific technical standards for advanced television, the agency essentially is allowing the industry and marketplace to decide, Mundie said.
+Placing a major bet on the coming convergence of computers and television, Redmond, Wash.-based Microsoft over the weekend agreed in a $425 million deal to buy WebTV Networks Inc., which provides a way for consumers to access the Internet on their TV screens.
+Raising the ante further, Mundie said Microsft planned to include technology needed for its preferred television standards in forthcoming versions of its Windows 95 and Windows NT operating systems.
+That would mean competing television standards would be incompatible with Windows-based computers.

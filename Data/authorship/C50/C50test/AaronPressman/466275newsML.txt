@@ -1,0 +1,13 @@
+Federal bank regulators have begun prodding U.S. financial institutions to prepare for possible computer problems in the year 2000.
+Many computers and software programs record only the last two digits of a year and could mistakenly treat the year 2000 as the year 1900. For banks, confused computers could erroneously trigger a wave of bounced checks, missed loan payments and miscalculated interest rates.
+In letters to Senate Banking Committee Chairman Alfonse D'Amato, regulators said they were aware of the dangers.  
+The various agencies, including the Federal Deposit Insurance Corp and the Office of the Comptroller of the Currency, said they had formed an interagency working group to address the issue, often referred to as the "Millennium Bug."
+"The costs of making systems year 2000 compliant will be substantial and may affect some banks' earnings," Comptroller Eugene Ludwig, whose office oversees almost 3,000 national banks, wrote in a letter dated March 21. "Most experts believe that even the most prepared organizations will encounter some problems."  
+"The year 2000 rollover could pose substantial risks to the financial services industry," Nicholas Retsinas, director of the Office of Thrift Supervision, warned.
+Analysts have said corporations and governments might have to spend $300 to $600 billion worldwide to correct the problem by rewriting software and reprogramming hardware.
+Even if banks correct all of their own computers, they could be brought down by computer errors from their major customers or third-party vendors, the regulators added.  
+Bank examiners will question banks about year 2000 preparations this year, hopefully alerting them in time for solutions to be implemented and tested well before the end of 1999.
+Some programs may fail much sooner as they try to process current transactions such as mortgage loans that extend beyond the year 2000.
+"This is not a project that can be delayed or the deadline extended," Federal Deposit Insurance Corp Director Nicholas Ketcha wrote in a recent memo to the agency's regional directors. "Because of the nature of some date related calculations, many software programs currently running which are not year 2000 compliant may fail at some point prior to December 31, 1999."
+The letters were in response to a query on the topic issued by Senator D'Amato earlier this month. The Banking Committee is reviewing the responses and had no immediate comment, a spokesman said.
+((--202-898-8312))

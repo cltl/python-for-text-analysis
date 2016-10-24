@@ -1,0 +1,15 @@
+An international task force charged with resolving the simmering controversey over desirable Internet address names released a draft plan Friday to expand the total number of addresses substantially.
+International Ad Hoc Committee on domain names, formed by the Internet Society in October, said seven new "top level domains" should be added to the Internet.
+Most Internet addresses end with one of a few three letter designations, including "com" for private sites, "gov" for government sites and "edu" for sites run by schools.  
+Addresses for most designations, or top level domains, are given out by Network Solutions Inc of Herndon, Va., which charges $100 for each registration.
+The committee also recommended that an unlimited number of firms be able to register the new addresses, although the committee said it hoped initially to authorize 20 to 30 new registration services.
+At first, Network Solutions would continue to have a monopoly on the domain names it already controls but the committee said its "ultimate goal" is to have all names handled by all qualifed firms.  
+"The IAHC members were faced with a formidable challenge," Donald Heath, president the Internet Society and chair of the committee, said. "We accomplished our goal, in no small part, because we were able to bring people together from around the world, via the Internet."
+The full text of the recommendations was posted on the Internet at http://www.iahc.org, Heath said. The proposal will be open for public comment until Jan. 17, 1997 and a final report is expected by Feb. 3, 1997.
+New names and competing registration services should help quell disputes over popular or trademarked names.  
+Disputes are arising more frequently, usually when the holder of a trademark discovers that someone else is using their trademark as the name of an Internet site.
+For example, Viacom Inc's MTV music channel fought with one of its employees, who had registered "mtv.com," eventually regaining control of the name in an out-of-court settlement.
+Once new top-level domain names are available, 10 people could register similiar names.  The new top level domains will contain three to five letters but have not yet been selected.  
+The committee included members from the Internet Society, the Internet Assigned Number Authority, which oversees certain Internet standards, and the Internet Architecture Board, which helps draft and promulgate new standards.
+The committee also included representatives from the International Telecommunications Union, the World Intellectual Property Organization and the International Trademark Association.
+((--202-898-8312))

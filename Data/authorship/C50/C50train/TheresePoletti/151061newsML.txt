@@ -1,0 +1,26 @@
+The battle between Bill Gates and Larry Ellison over the ballyhooed network computer is getting rougher.
+For the past year, Oracle Corp. Chairman Larry Ellison has been evangelizing his vision of a low-cost, diskless PC to access corporate networks and the Internet, a PC without a hefty operating system like Windows.
+Ellison's vision has captivated many in the industry, who are weary of the domination by the Wintel combination of Microsoft Corp.'s Windows operating systems and Intel Corp. processors in PCs.
+Sun Microsystems Inc. has jumped on the network computer bandwagon with Oracle and on Tuesday it will introduce its much-anticipated JavaStation.
+But Monday, in a blatant move to steal Sun's thunder, Microsoft Chairman Bill Gates struck back.
+Microsoft gathered together a Who's Who list of the PC industry and announced its own low-cost solution to the growing interest in the network computer.
+"Obviously, Microsoft is feeling the heat from all the hype that Oracle and Sun are getting," said Eileen O'Brien, an analyst at International Data Corp., in Framingham, Mass. Microsoft's initiative left many industry analysts underwhelmed. The software behemoth unveiled a "new" PC design, a standard PC design with an Intel processor, memory, a hard disk drive, and of course, the Windows operating systems, with features to automate software upgrades.
+But Microsoft zoomed in on the key point of the pro-network computer argument that is striking a nerve with many corporate information technology managers: the high cost of owning large numbers of PCs.
+Some industry analysts estimate that a PC, which can range from $1,500 to $3,000 to purchase, can cost anywhere from $6,000 to $12,000 and more annually to maintain.
+Redmond, Wash.-based Microsoft unveiled "Zero Administration" features in its roadmap for its NetPC, which will be built into future versions of its Windows 95 and Windows NT operating systems.
+"That's the biggest advantage of the NC, is the lower cost of ownership" said Tom Rhinelander, an analyst with Forrester Research, in Cambridge, Mass. "They are trying to get to that and say, 'we can create something that is just as low-cost.'"
+The concept behind the network computer, which "rents" software such as a word processing package, or a spreadsheet, from a main computer, or server, is that it does not need continuous upgrades for the operating system or applications.
+"PCs have two huge liabilities, high cost and high complexity," Marc Andreessen, the co-founder and senior vice president of Netscape Communications Corp., told reporters on a conference call.
+As Microsoft was holding a press conference in the backyard of its Silicon Valley foes on Monday, Mountain View, Calif.-based Netscape and Oracle, headquartered in Redwood Shores, Calif., unveiled their own alliance.
+Oracle agreed to use the Netscape Navigator as the main browser on the Intel version of its network computer, which is expected to ship early next year, and Netscape will offer Oracle database software in its server packages for corporate intranets, or internal networks modeled on the Internet.
+"The rise of the NC ... it's a profound shift in the industry," Andreessen said.
+While Netscape has much to gain with the adoption of devices that access the Internet and corporate networks -- its browser holds about an 80 percent share of the Internet market -- analysts said the current Navigator is a bit too bulky and has limited functionality on a network computer.
+Netscape has a subsidiary, called Navio, which is developing a "thinner" version of Navigator that will be more tailored to NC-like devices, mostly aimed at the home market.
+For now, the hype is surrounding the corporate market, where analysts expect the network computer to have an impact.
+"I am skeptical about the NC as a consumer device," said Josh Bernoff, another Forrester analyst. "In corporations, there is a lot more hope for it."
+Even International Business Machines Corp. has jumped into the fray. The world's largest computer maker was the first company to begin shipping its version of a network computer, which it calls the Network Station, to a limited number of customers, last month.
+"To us, it's not about network computers replacing PCs, it is the right technology for the right problem," said Phil Hester, vice president, network computing, at IBM. "We have been through three phases of computing, from the mainframe to the minicomputer to the PC and none of them have replaced the ones that came before them."
+Indeed, most market researchers do not believe that the NC will replace the PC, but it will make a dent in the market.
+International Data predicts that by the year 2000, there will be about 5.5 million to 6 million NCs shipped, or "non-PC type devices" vs. 80 million PCs.
+But when asked which companies will dominate the burgeoning NC sector, analysts hedge.
+"Who knows who is going to be around that long," said International Data's O'Brien.

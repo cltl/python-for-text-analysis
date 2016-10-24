@@ -1,0 +1,18 @@
+The largest online services providers reacted cautiously to a plan announced Tuesday that would vastly expand the number of possible address names on the Internet.
+Internet Society, which helps develop standards on the global computer network, said it had approved a plan to add seven new top-level domains, the last three letters at the end of every electronic mail or Web site address.
+While some major Internet companies endorsed the plan, online service providers gave it a cool reception.  
+"We are still studying the proposal," said William Burrington, director of law and public policy at America Online Inc. While praising the plan's concept, Burrington said he thought "it still needs some more work."
+America Online, the largest online service in the world with more than eight million members, hopes to craft a better plan "that is more saleable," he added.
+The largest pure Internet service provider, AT&amp;T Corp's Worldnet service, was equally unenthusiastic. "We are still looking at these domain names," spokesman Mike Miller said.  
+"We are studying them, trying to better understand what it means for our business," Miller added.
+Under the plan, new domain names such as "firm," "arts," and "web" will be added to the existing top-level domains such as "com," "net" and "org" starting in the third quarter of 1997, the society said.
+But online service providers will seek to delay implementation of the plan, officials said. "It's not ready for prime time," one official said. "We have been approached by other providers, and we're going to try and come up with something."
+The plan establishes an arbitration and mediation procedure for resolving disputes over names, such as when a trademarked name is used in an Internet address.
+Several net organizations, along with computer-maker Digital Equipment Corp, telecommunications company MCI Communications Corp and UUNET Technologies Inc., a unit of WorldCom Inc, immediately endorsed the plan, first unveiled in February.
+Any delay would likely please Herndon, Va.-based Network Solutions Inc. The company is the sole registration agent for the most popular current domains, including "com" and "net."  
+Under the plan, the domain names registered by Network Solution will be registered jointly by all registration agents once the company's contract with the National Science Foundation expires.
+Network Solutions, which has spoent millions of dollars on its set-up, pledged that would never happen. "We have no intent of opening up our registry to others upon expiration," spokesman Christoper Clough said.
+The Internet Society plan is also opposed by a group that has tried to create on its own informal system of new top-level domains. Less than one percent of the computers that route traffic on the Internet recognize names registered with the informal group, which recently began calling itself the Enhanced Domain Name Service.
+Karl Denninger, the group's founder and president of a small Internet provider in Illinois called MCSNet, pledged to boycott any companies that go along with the Internet Society's plan.
+"I'm not going to pay anybody who doesn't pay attention to my interests," Denninger said. "You can vote with your wallet."
+((--202-898-8312))

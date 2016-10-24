@@ -1,0 +1,25 @@
+The U.S. government is scrambling to update thousands of computer systems and software programmes that might otherwise see January 1, 2000 as "00" and think they are operating in 1900.
+"We are confident that all of the major systems will be fixed," said Sally Katzen, who is coordinating much of the repair effort from her post as administrator of the Office of Information and Regulatory Affairs in the Office of Management and Budget.
+"That is what we are setting out to do and that is what we will do," she pledged in an interview.
+Legislators in Congress have also taken an interest in the subject and prodded agencies into action. Most are well aware of the problem, congressional staff say, although a few slackers including the air traffic control system are raising concerns.
+"Congress is sounding the alarm and will keep sounding it until this problem is solved," Representative Steve Horn told Reuters.
+Horn, chairman of the Government Reform Committee's Management, Information and Technology sub-committee, has taken testimony from a variety of government and private-sector experts on the year 2000 problem.
+"I have learned that the real challenge it poses is to management," Horn said. "Software experts are capable of fixing the problem but can management understand what is at stake, make it a priority, organise a plan and allocate resources so the technical experts can do their job?"
+GOVERNMENT AGENCIES READY TO ADJUST FOR MILLENNIUM
+The sub-committee surveyed government agencies about year 2000 awareness last year and responses to an updated survey have just come in. The latest survey found that all agencies are aware of the problem and most are ready to put in place the needed fixes, a congressional staffer said.
+Some of the agencies that people are most concerned about, the Defence Department and the Social Security Administration, appear to be in good shape and have extensive plans to fix the problem well before December 31, 1999.
+At the Defence Department, "we are treating it much as we would a computer virus," Assistant Secretary of Defence Emmett Paige told Horn's sub-committee.
+Although weapons systems are not set to launch automatically by computers, problems could crop up when the weapons interact with command and control systems that are operated by computers, congressional staffers explained.
+During the Gulf War, a command and control system that was scheduled to run for 12 hours began shutting down weapon systems it was in contact with after running a few hours past its deadline.
+"That would obviously be a disaster, but they're working on it," said one staffer.
+Social security is also a primary focus of concern, but for more political reasons. Millions of voters depend on their social security cheques for meeting basic living expenses. If the cheques were delayed or cancelled, Congress would probably be inundated with thousands of complaints.
+"They started the earliest but they have a lot to do and still aren't finished," a staffer said. "My sense is that they will be fine."
+CONCERN OVER AVIATION
+One agency of concern, according to congressional staffers, is the Federal Aviation Administration, which operates the country's air traffic control system and inspects commercial airplanes.
+"The Department of Transportation is very worrisome," one staffer said. "The FAA is still in the assessment phase. That's the one that's a real concern."
+The agency cannot give an estimate of how many lines of code it has that must be changed, or how much that might cost, until it completes an assessment expected by the end of May, according to Mary Powers-King, who heads the FAA's information technology effort.
+"It's somewhat painful because no new funding has been appropriated and we're having to reprogramme to absorb the activity," Powers-King said. "That is a big part of the reason why we started late. We've got that figured out now and we've got to just bite the bullet."
+Overall, recent estimates indicate the federal government will need to spend $2.4 to $2.5 billion to identify and correct year 2000 computer problems, Katzen said. The estimate has risen slightly from about $2.3 billion a few months ago.
+"I wouldn't be surprised to see them come another ($100 to $300 million) as we continue through the process of assessment," Katzen said. "But I think that we've got it in just about the right ballpark."
+In a February 7, 1997 report to Congress, the budget office projected that the military needed the largest portion of the money for updates. The Air Force would require $371 million, the Army $218 million, the Navy $90 million and other defence-related areas $291 million.
+Other big spenders in the report were the Treasury Department, needing $319 million, and the Veterans Administration, needing $144 million.

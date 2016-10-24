@@ -1,0 +1,20 @@
+Sun Microsystems Inc. Tuesday introduced its first network computer, the JavaStation, in a direct challenge to Microsoft and Intel, the dominant players in the industry.
+Saying the company was ushering in a new era of computing, Sun Chief Executive Officer Scott McNealy unveiled a sleek, charcoal-grey device, about nine inches by 12 inches, with no disk drives or slots or floppy disks, to allow access to networks of computers and the Internet, at a cost of $742.
+Sun, Oracle Corp., and International Business Machines Corp. are challenging the computer industry's dominant "Wintel" architecture from Microsoft Corp. and Intel Corp. with the new low-cost, low-maintenance network computers, or "NCs."
+"Today you'll see why the network is the computer and has been since 1984," McNealy said, reiterating Sun's mantra.
+The JavaStation is targeted at businesses. Sun said the machines might eventually be offered into the consumer market by cable TV and telecommunications firms as Internet access devices, but it declined to say when that might happen.
+With Java, software applications can be written in one language and distributed across networks and diverse computers and computing environments, from mainframes to minicomputers to personal computers and now to the new NCs.
+"Java computing is going to be as powerful as the mainframe in the '60s, the minicomputer in the '70s and the PC environment of the '80s," said Ed Zander, president of Sun Micro's Computer Co.
+Sun introduced three versions of the JavaStation. The lowest cost, $742 version does not include a monitor or a keyboard. The systems are aimed at corporate users of Sun workstations and host computers, but can also access Microsoft PC applications from a host computer running Windows NT.
+At a news conference in New York, Sun executives said they did not expect the new machines to take the place of personal computers, but they also professed amazement at the news conference Microsoft held Monday.
+Microsoft, with several major players in the PC industry, unveiled its own "NetPC" strategy aimed at driving down the cost of PC ownership, with new features in Windows for network management, calling it "Zero Administration."
+"I have never seen such totally reactive vapour," Zander told reporters. "We must really have touched a nerve."
+McNealy said it was simply a move by the "old-line legacy Wintel" trying to hold onto its position in the world. Wintel refers to the combination of Microsoft operating systems and Intel chips.
+"People call it a PC on a diet, I call it a PC in a corset, with the strings pulled too tight and a bright red face," McNealy said, referring to the Microsoft initiative.
+But even with all the hype surrounding the industry's latest infatuation, Sun executives and analysts were not expecting big sales of the NC, nor will the JavaStation become a big percentage of Sun's hardware sales.
+"This thing is a small percentage of the total product environment, it will help sell more servers," Zander told Reuters.
+"Maybe a couple of years from now it will begin competing with low-end PCs," said Evan Quinn at International Data Corp., noting Sun's network computing strategy is tied to future expansion of its Java technology.
+Sun said the entry level model, containing eight megabytes of memory, will ship beginning in December. A fully configured system, which includes memory, keyboard, a mouse and 14-inch monitor, will cost $995.
+The company also said it will offer a JavaStation with 16 megabytes of memory, a mouse, keyboard and a 17-inch monitor for $1,565. The JavaStation also has a small operating system, the Java OS, taking up less than three megabytes of memory.
+While the devices are lower cost than the typical PC, which can range in cost from $1,500 to $3,000, Sun executives said their customers will save money as the costs of PC ownership for businesses escalate and are now estimated at anywhere from $6,000 to $12,000 a year, per PC.
+Sun said a JavaStation costs about $2,500 a year to maintain, or about $7,500 for three years, potentially saving corporations millions of dollars.

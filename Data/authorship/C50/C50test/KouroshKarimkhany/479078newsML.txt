@@ -1,0 +1,13 @@
+Informix Corp. shares plunged to a three-year low Tuesday after the database software company said it expected to report a "substantial" first-quarter loss on far weaker-than-expected sales.
+Informix said it expected to report revenue of $130 million to $145 million, about 30 percent less than the $204 million reported in the same quarter a year ago and far less than Wall Street expected.
+Shares of Informix, based in Menlo Park, Calif., fell $5.125 to $10 in mid-afternoon trading of 22 million shares, making the stock the second-most active on the Nasdaq. Earlier, the shares traded as low as $8.75.
+The company blamed weak sales on an "over-emphasis" of marketing on a new, jazzy version of its flagship database software product, at the expense of neglecting its proven line of existing products.
+"We were literally enamoured with our technology lead and we took our eyes off the core business," said Phil White, Informix chief executive, in a conference call with investors.
+Informix writes computer programmes, called databases, that let big companies store and retrieve huge amounts of vital information, such as customer names and inventory lists.
+In December, Informix introduced Universal Server, a database that can not only store text and numbers like a traditional database, but also video, sound, photographs, maps and other non-traditional types of data.
+Informix executives last year bet that there would be huge demand for a database that could store media, as companies rushed to set up elaborate sites on the World Wide Web. They also expected existing customers to upgrade quickly to the new database.
+Things will take much longer than Informix planned, analysts said.
+"Universal Server is cool technology, but people don't go out to buy technology," said David Rothschild, managing director of brokerage Piper Jaffrey in Minneapolis. They buy proven products to help them manage vital records, he said.
+"It's a classic product transition," said Charles Phillips, software analyst at investment bank Morgan Stanley &amp; Co. in New York. "They're trying to sell a new product before it's ready to be sold and they're not concentrating on the old product."
+Also, Informix seems to be losing ground to Oracle Corp., the biggest vendor of database software.
+Oracle, too, is pitching a new generation of database software. Some customers may be waiting to check out Oracle's updated database product -- dubbed Oracle8 and scheduled to be released in June -- before buying from Informix, analysts said.

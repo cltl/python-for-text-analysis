@@ -1,0 +1,19 @@
+Urgent calls for a global regulatory framework to help combat the risk of crime in the borderless world of the Internet computer network were stepped up on Wednesday by a high-level think tank.
+The Centre for the Study of Financial Innovation (CSFI) said that without effective regulation, the Internet could generate a wave of financial scandals, undermine national regulation of financial markets and leave consumers without effective protection.
+But in what it called the most comprehensive study make on the potential impact of the Internet on the financial services industry, the Finance Ministry and Bank of England-backed CSFI said the Internet also offered vast opportunities to financial services.
+The computer network offered an "intensely low-cost distribution medium" -- up to 10 times lower than others -- CSFI director Andrew Hilton told Reuters television.
+The CSFI also warned against paranoia, noting that objective information about crime in cyberspace was still scarce.
+The extensive use of cryptography -- encoding data, establishing its authenticity and preventing its undetected modification and unauthorised use -- also meant business in cyberspace was more secure than giving a credit card number to a store over the telephone.
+The CSFI also suggested a "kitemark" to identify regulated firms on the Internet, a greater use of "firewalls" or "sheep dips" -- anti virus programmes for automatically blocking intruders and for seeking out those who have gained access to unauthorised data -- and tighter security procedures imposed on staff.
+"The biggest vulnerability of all is negligence," the report said.  But without the proper infrastructure, financial services over the Internet could fizzle out.
+Hilton conceded that banks, brokers and even exchanges could go out of business as new players emerged with no "legacy" costs sunk in bricks and mortar.
+But he added: "It could happen. But I think it would be wrong to say it will happen because many of these institutions will also be the beneficiaries of the Internet.
+"They are quick, they can adapt and effectively dominate this new medium. But they do have legacy systems and these are costs they are carrying that a new entrant might not have," he said.
+But with the prospect of a global market, the concepts of local regulation might also quickly become outmoded -- as might the notion of a service being provided from one place.
+"The movement towards a global marketplace would logically point to a movement to global regulation," said Andrew Large, the chairman of Britain's top financial watchdog the Securities and Investment Board, in a foreword to the report.
+"Whether, or how quickly, this might happen is not clear," he added.
+Regulators could attempt the difficult task of  maintaining local jurisdictional control by imposing requirements focing firms to limit access to Web sites.
+They could also recognise standards of regulation which allow authorised financial services firms to offer services in any other jurisdiction, Large suggested.
+The report, the product of eight working groups of over 120 people from 70 institutions, said that traditional financial service providers, particularly banks, could play a major role in promoting consumer confidence in the Internet.
+Insitutions are the service providers and are in a position to supply the payments infrastructure for electronic commerce and underpin its credibility.
+"For financial service companies, the Internet poses a threat, but also a major new business opportunity," the CSFI said.

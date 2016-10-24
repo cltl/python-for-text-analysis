@@ -1,0 +1,14 @@
+Motorola Inc. filed a federal lawsuit Thursday against U.S. Robotics, alleging infringement of a number of Motorola's patents for high-speed modem technology.
+The patents at issue cover technologies essential to the international standard for current modem technology and may also apply to parts of the new, higher speed, 56-kilobit modem technology, Motorola said.
+The lawsuit comes just as U.S. Robotics is preparing to ship modems that allow users to download information from the Internet at a rate of 56 kilobits per second over ordinary, analogue telephone lines. U.S. Robotics said it plans to ship those modems in the next few days.
+Bill Heimbach, manager of corporate development for Schaumburg, Ill.-based Motorola's Information Systems Group, said Motorola would not seek to delay those modems reaching the market.
+He said the lawsuit, filed in U.S. District Court in Boston, came after two years of unsuccessful negotiations with Skokie, Ill.-based U.S. Robotics over licensing Motorola's technology.
+"We did it in an attempt to force a very early closure to the issues we have," Heimbach said, adding that the timing of the lawsuit was not influenced by U.S. Robotics' plans to ship the modem.
+The technology is part of standard international technology for modems.
+Heimbach said International Telecommunications Union rules say the technology must be made available to others on a fair, reasonable, non-discriminatory basis, which allows Motorola to require license fees for its part of the standard technology.
+Earlier Thursday, Motorola said it settled similar litigation with Rockwell International Corp. Motorola also said it formed an alliance with Rockwell Semiconductor Systems to develop a 56-kilobit modem using Rockwell's technology.
+Motorola said it expects to introduce the modems in early March.
+A spokeswoman for U.S. Robotics said the company had yet to see the lawsuit and could not comment.
+Heimbach said Motorola hopes to settle quickly with U.S. Robotics, and one industry analyst said he also expected the case would be settled.
+"All this is just a diversion, because U.S. Robotics says it will have its (modems) in as many retailers' stores as they can by the weekend," said John Grangaard, at GS2 Securities.
+U.S. Robotics shares closed up $2 at $60.875 on Nasdaq, Motorola slipped 75 cents to $63, and Rockwell was down 50 cents at $67.75, both on the New York Stock Exchange. ROK.N MOT.N USRX.O

@@ -1,0 +1,18 @@
+NEC Corp's NEC Computer Systems unit will on Monday launch a set of personal computers aimed at what it sees as a huge North American market of businesses with fewer than half a dozen employees.
+The computers, which will include the first customized for this market to include Intel Corp Pentium Pro processors and a special software bundle from Microsoft Corp, are aimed at the needs of small businesses.  
+They include APC uninterruptible power supplies,  Iomega Corp Zip drives for storing onto 100 megabyte floppy disks, NEC Multispin 8X CD-ROM drives, telephone headsets with built-in microphones and stereo speakers.
+The four "Ready Office" models range in price from $2,199 to $2,999 and include processors ranging from the 133- or 166- megahertz Pentium to Intel's 180-megahertz Pentium Pro.
+The target market, which NEC calls the "Tiny Office/Home Office" (TOHO) segment, is a subset of the Small Office/Home Office market targeted by many computer makers and includes a vast array of professionals and service businesses.  
+According to IDC/LINK data, NEC said, this group accounts for around 56 percent of the businesses with fewer than 100 employees in the United States, referred to in the computer industry as the SOHO, or Small Office/Home Office, market.
+Furthermore, NEC said in a white paper, the group will purchase 2.23 million computer units in 1996, or some 40 percent of all units sold into the SOHO market.
+Accountants, florists, doctors, graphic designers, real estate agents, writers, restaurants and travel agents are among the businesses NEC aims to address.  
+NEC's research found these one to five person businesses generally lack the corporate infrastructure found in larger operations, so often one personal computer-level machine must carry the weight of all the organization's activities.
+"TOHO business owners require computing solutions that will not only auotomate business processes, but assist them in managing the business as well," Timothy Chin, NEC Computer Systems senior product manager, wrote in a market report.  
+"TOHO business owners need computing solutions that will help them to better wear each of their several hats, including those of president, chief financial officer, marketing professinal, MIS technician, business or legal advisory, even secretary," he said.
+"In TOHO companies, the computer is the busineess -- without it core activities would come to a screeching halt."  
+Steffanee White, a product manager at NEC Computer Systems here, said in an interview that NEC had taken a "bottom-up" approach to designing its products for the TOHO market, stripping out unnecessary features like high-end audio and graphics or computer games and children's educational titles.
+Through a partnership with Microsoft, NEC said it will be the first to include on its machine the combination of Windows 95 with a business software suite incorporating Word, Excel and Publisher 97 and special Excel and Word templates.  
+The computers are also fitted with Peachtree First Accounting, Microsoft Schedule+, Money, Bookshelf and Automap Streets, in addition to voicemail, fax, e-mail and Novell Inc network certification, the company said.
+For the reseller channel, the company will ship four roughly equivalent PowerMate Office models ranging in price from $2,100 to $3,200, with the high-end PowerMate Office Pro 2620 running the Windows NT Workstation 4.0 operating system.
+NEC said the products will be available by mid-October.
+System prices do not include monitors, it said.

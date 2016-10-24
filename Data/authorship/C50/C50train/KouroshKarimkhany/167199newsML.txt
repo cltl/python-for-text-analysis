@@ -1,0 +1,10 @@
+A motto of Bill Gates, chairman of Microsoft Corp., has been: "A computer on every desk running Microsoft software."
+With that goal almost accomplished, Microsoft executives have set their sights on other flat surfaces, such as the kitchen counter, the living room's entertainment console and the back of airline seats.
+At a Los Angeles conference for professional programmers, Microsoft executives outlined the company's plans to take its Windows family of operating systems into more types of computers, such as subway token vending machines, handheld portables and arcade video games.
+The company also said it plans to spend much of its research and development budget to automate management tasks of personal computers and to simplify the machines' operations.
+In recent weeks, Microsoft's competitors Sun Microsystems Inc. and Oracle Corp. have outlined their plans to build new types of computers, called network computers, that are simpler and cheaper to use than personal computers.
+At Monday's Professional Developers Conference, Microsoft executives said future versions of its Windows -- which control about 80 percent of the world's desktop computers -- will do the same things.
+"We are focusing now on the investments people have put in their computing technology and on increasing their returns," said Paul Maritz, Microsoft group vice president.
+Maritz demonstrated software products that can recognize spoken commands. He also demonstrated programs that automatically take care of network chores without human help.
+Features like these will help companies get more out of their investment in Microsoft products already in place, Maritz said.
+He also demonstrated how programmers can use Windows in non-traditional types of computers. He showed a bullet-proof vending machine for New York subways that uses Windows software to dispense fares on smart cards.

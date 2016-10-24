@@ -1,0 +1,19 @@
+Microsoft Corp Wednesday launched electronic commerce software and a wide array of partners aimed at enabling consumers and businesses to buy and sell products over the World Wide Web.
+At the core of the announcement is Microsoft's Merchant Server, software which will enable businesses to set up electronic storefronts on the Internet, and a plan to build a new channel of service providers to help businesses do this.
+Analysts said the strategy was similar to that successfully used by Novell Inc to sell networking software.
+"We believe there will be explosive growth (in use of the Web for shopping)," Microsoft Chairman and Chief Executive Bill Gates said at a news conference unveiling the company's electronic commerce strategy.
+Microsoft also revealed 40 companies that are in the process of building Merchant Server sites and Henry Vigil, general manager of electronic commerce services at Microsoft, said he expects 300 sites using the software by year-end.
+The product competes with an array of prior offerings, including those of Netscape Communications Corp and Internet startup Open Market, as well as Oracle Corp and International Business Machines Corp.
+As part of the deal, Microsoft and VeriFone Inc brought together financial institutions and payment processors to provide a secure Internet retailing and payment system.
+The financial institutions involved include BankAmerica Corp, Wells Fargo &amp; Co, Citicorp's Citibank Card Acceptance Europe, First USA Paymenteck Inc, NOVUS Services and Royal Bank of Canada.
+Much of the technology was made available to partners for testing in August and was developed by eShop, which Microsoft acquired in June, company officials said.
+In addition to the infrastructure partners, Vigil said a key priority was "trying to get this new channel built where we see a range of hosting service providers who are really going to be the ones who lease the T1 lines and run the servers on behalf of merchants who are not technologists."
+One such company, Boca Raton, Fl.-based Internet Communication Network, Corp., has been in business less than a year and already has some 50 customer Web sites in operation, including one using the Merchant Server, according to David Finkelstein, president of ICA.
+James Dee, a specialist New York City photographer, said he had chosen to go through a networking service and support firm using the Merchant Server product to start up a new gallery to sell original contemporary artwork on the Web.
+The site was set up in less than a month, he said, and Sarala Dee said the cost of getting the cyberspace gallery under way would amount to some $30,000 to $40,000.
+But analysts said the market still may take a long time to develop into the multi-billion dollar market some Internet enthusiasts project.
+"As Gates said clearly this is a beginning market," said Kathey Hale, an analyst at Dataquest.
+Gates cited Microsoft and industry estimates that the number of consumers on the World Wide Web would more than triple between now and the year 2000, to 48 million.
+The number of businesses on the Web is projected to grow four-fold by the year 2000 to two million from 500,000 currently, Gates said.
+David Cuursey, who publishes the Coursey.com newsletter on the Internet, said estimates the minimum price for a decent store using the software is $100,000.
+"The point of it is that for a lot of people setting up a virtual store it will be also as expensive to create and maintain as a real store," he said. "You're not going to use this technology to take advantage of it for less than $100,000."

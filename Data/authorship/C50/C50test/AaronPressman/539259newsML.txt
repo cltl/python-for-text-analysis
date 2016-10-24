@@ -1,0 +1,19 @@
+U.S. Commerce Department is forming a committee to advise the department on its controversial computer encryption export policy, Commerce officials said on Friday.
+The committee, which will be called the President's Export Council Subcommittee on Encryption, will be composed of about 25 members, drawn from state and local law enforcement agencies and the private sector, according to Sue Eckert, Assistant Secretary of Commerce for Export Administration.  
+But the committee is not intended as a forum to debate the merits of the current export policy, Eckert told Reuters.
+"This is not a debating forum towards policy in general," Eckert said in a telephone interview. "It is the advisory group to provide input to implementation of our policy."
+Current law restricts the export of encryption technology, computer programs that scramble information and render it unreadable without a password or software "key."  
+But many software companies, including Microsoft Corp and Netscape Communications Corp, oppose the export rules, which they say hamper sales abroad. And civil libertarians contend the export rules permit excessive governmental intrusions even within the United States.
+Under the current policy, in effect since the beginning of 1997, the Clinton administration permits companies to export powerful encryption programs but only if the products allow the government to crack the codes by gaining access to the software keys.  
+Companies can export medium-strength encryption if they promise to incorporate so-called key recovery features within two years.
+The committee is "to advise on the range of issues of implementation of key recovery...not just the technical issues, but also law enforcement and access," Eckert said.
+The administration was criticized by privacy advocates last month for drafting legislation that might allow easy government access to software keys without a court order.  
+While emphasizing that the committee was intended for law enforcement and corporate officials, Eckert said no groups would be excluded.
+"We haven't excluded anybody," she said. "That's why we published a notice in the Federal Register and advised everyone and anyone who's interested to submit their comments and suggestions."  
+The members of the committee will be selected by the Secretary of Commerce "to assure a balanced representation among the exporting community and those government agencies with a mandate to implement policy regarding encryption," the notice indicated.
+Eckert declined to predict when the committee would be appointed, but added "hopefully within a period of a couple of months it will be up and established."  
+The administration will not wait for the committee to rejigger its export policy on several fronts, Eckert said. A modest revision of current export rules will be issued "in a relatively short period," Eckert said, and a legislative proposal "in the next several weeks."
+The advisory committee would have input on future revisions, Eckert said.
+Opponents of the current policy said on Friday they continued to favor a legislative solution. Several bills are pending in Congress that would dramatically relax the export limits.
+"This subcommittee is not a bad thing, but it does not change the nature of the debate," Business Software Alliance spokeswoman Kim Willard said. "We still favor legislation."
+((202-898-8312))

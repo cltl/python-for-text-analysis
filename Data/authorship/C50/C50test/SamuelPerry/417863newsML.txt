@@ -1,0 +1,17 @@
+Microsoft Corp Chief Technology Officer Nathan Myhrvold said Tuesday that contributions to new products from its basic research arm prompted its decision to triple the size of the group.
+"Research has made very material contributions, so much so that we have decided to triple it," Myhrvold said of the company's plans, announced previously, to triple the size of its research staff from 180 currently.
+Myhrvold told Reuters in an interview that every major Microsoft product line now includes features that began in its five-year-old research labs, including the grammar checker and help system in its new Office 97 products.
+Microsoft has budgeted a whopping $2 billion for its research and development spending in its current fiscal year to June 30, 1997, although by far the lion's share of that goes towards product development and marketing.
+Microsoft Research receives between one and two percent of the overall budget, or between $20 million and $40 million now, and Myhrvold said the company wants to increase this by a factor of three to about five percent.
+Myhrvold and Rick Rashid, vice president of Advanced Technology and Research at Microsoft, said Microsoft's commitment to basic research in proportion to its industry could soon surpass longer-standing laboratories, like Bell Labs, which is now part of Lucent Technologies.
+A major benefit of the research laboratories is the amount of research the company can weave into its intellectual property portfolio.
+One example of research under way at Microsoft is speech recognition and synthesis.
+Gordon Bell, an eminent computer scientist who works in Microsoft's San Francisco-based research group, noted in a talk to the Association for Computing Machinery here the technology has taken decades to develop.
+Myhrvold said effective speech applications are now still three to five years away, but added this can now be estimated based on evolutionary improvements on current research, rather than speculation over new breakthroughs.
+The Microsoft technologist says he was concerned the overwhelming enthusiasm over the Internet could subside if expectations become too high, although he added most of the dramatic Internet innovations still lie in the future.
+"There's going to be a wave that makes the current use of the World Wide Web pale in comparison," he added.
+Myhrvold added that software companies will continue to innovate and drive sales of hardware by producing software needing more powerful PCs.
+One day, the process of technical innovation will also create machines to rival human intelligence, he added.
+"It's pretty likely that we'll invent computers that are as smart as we are," he said.
+"When you tell people that a machine might be smarter than they are, they get tremendously insecure and threatened," he noted. "But my car is faster than I am and I don't feel threatened or jealous of my car."
+	 ((sam.perry@reuters.com, Palo Alto Bureau 415 846 5400))

@@ -1,0 +1,15 @@
+The chairman of an influential National Research Council report on computer encoding technology said Thursday the report's year-old findings are still valid.
+Kenneth Dam, a law professor at the University of Chicago, told Reuters that an approach favored by the Clinton administration to allow government access to coded information is still not ready for widespread use despite advances in computer encryption.  
+Encryption, increasingly important for online commerce and global communications on the Internet, scrambles information and renders it unreadable without a password or software "key."
+The Clinton administration bars the export of strong encryption unless the products incorporate a feature known as key recovery which allows the government to decode messages by gaining access to the software keys.
+Such access is needed to catch criminals or terrorists who might be using encrypted communications, the administration argues.  
+But poorly designed key recovery systems might create new vulnerabilities by letting hackers get access to the keys as well, critics contend.
+Echoing the findings of last May's NRC report, Dam said key recovery is not sufficiently reliable yet.
+"It may be that one would have more confidence today than we did a year ago and still more next year," Dam told Reuters after speaking to a conference here sponsored by the Brookings and Cato Institutes. "It's not yet quite ready."  
+"The idea, which I stand by, is that one shouldn't require the implementation of key escrow even as part of some general infrastructure project until we're absolutely certain that we have not created a monster problem for ourselves," he said.
+The report also recommended that strict export controls on encryption, opposed by U.S. software makers, be progressively relaxed.
+Under a Clinton plan that took effect at the beginning of the year, companies may now export strong encryption products but only if they include key recovery. Companies promising to include key recovery within two years may export medium strength encryption.
+That continues to draw the ire of software makers and privacy advocates opposed to government snooping.
+Properly balancing the conflicting interests in the encryption debate is a difficult task, Dam conceded.
+"Law enforcement and national security concerns do conflict with individual privacy and the legitimate needs of business and with the international future of our software industry," he said in a speech to the conference.
+((--202-898-8312))

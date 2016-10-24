@@ -1,0 +1,16 @@
+Microsoft Corp.'s 4-month-old Expedia Internet travel service sold more than $1 million in travel tickets this week, its best ever, executives said Friday.
+Josh Herst, lead product manager for Expedia, said business has been building but enjoyed a flurry of sales this week when American Airlines launched a fare war after President Clinton blocked a strike by its pilots.
+"We had a nice spike," he said. "If they wanted to have more of those, we wouldn't complain."
+Herst said Microsoft is investing heavily in the travel arena, seen as a potentially lucrative form of electronic commerce.
+Forrester Research analyst Bill Bass said travel generated $126 million in retail sales over the Internet in 1996, second only to computer software and hardware, which generated $140 million.
+By 2000, the travel industry will generate $1.6 billion in annual sales over the Internet, Forrester estimates.
+"Airline tickets are a great thing to be able to buy online," Bass said. "You don't have to hold it -- it's not like clothes, where it helps to be able to see it and touch it."
+Bass also said travel sites on the Internet are able to include related information such as maps and hotel listings that would be impossible to provide over the telephone.
+Microsoft is far from the only company seeking a piece of the Internet travel market, but analysts give Expedia high marks so far and say Microsoft is likely to remain one of the major players.
+Other online travel agencies include Travelocity, operated by American Airlines' parent company AMR Corp., Preview Travel and Internet Travel Network.
+Airlines themselves also operate sites, which have proven to be an excellent way to sell seats that would otherwise go empty, Bass said. American Airlines has sold $10 million in tickets in the past year through a weekly electronic mail bulletin offering discount seats for weekend travel on lightly booked flights, he said.
+Herst said Microsoft has about 100 people working on Expedia, including journalists building a database of information about destinations. The service plans to add several "big-name columnists" soon, said Erik Blachford, Expedia product manager.
+Microsoft is believed to keep slightly less than the usual 10 percent travel agent's commission, and it has a relationship with Worldspan Travel Partners in Atlanta to print and mail tickets and provide 24-hour telephone support for travelers.
+Microsoft also expects to generate substantial advertising revenue, Herst said.
+While Expedia is designed for individuals and small businesses, Microsoft also is working with American Express Co. on a related project to develop a corporate travel application.
+Expedia can be found at http://expedia.msn.com/.

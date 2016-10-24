@@ -1,0 +1,20 @@
+In the next half century, computers will be ubiquitous in the home, waking us up to cheerful songbirds, making the morning coffee, filling the bathtub and driving us to work, according to leading computer scientists.
+In fact, advances in computer imaging and communications known as "telepresence" may eliminate the need to drive anywhere to hold business meetings and conferences, several scientists told the Association for Computing Machinery's 50th anniversary exposition and convention here.
+The theme of the three-day convention in the heart of Silicon Valley was to predict the progress of computing in the year 2047, 50 years from now.
+"People will expect that when you wake up in the morning, you should be able to talk to your house," said Vinton Cerf, the scientist often described as the "father of the Internet."
+Pervasive use of computer chips and smart electronic sensors will link everything from the refrigerator, which can be automatically locked to help a dieter's self discipline, to intelligent toilets, already available in Japan, that can analyse human waste to produce routine health reports, he said.
+Three leading scientists - former Digital Equipment Corp. researcher Gordon Bell, Hewlett-Packard Co. research head Joel Birnbaum, and Microsoft Corp. Chief Technology Officer Nathan Myhrvold -- predicted computers will rival human intelligence in the next half-century.
+A person could spend the first 40 years of life doing everything possible, then spend the rest of life reliving the sensations, Birnbaum speculated. Or one could chose to adapt the taste buds of a connoisseur.
+Just days after reports emerged from Scotland of the successful cloning of a sheep, an eclectic group of some of the world's most advanced thinkers in science, technology and the arts said biology may also hold keys to the future of the most advanced computing devices.
+For example, Birnbaum described how synthetic DNA strands could theoretically be used one day to create biological computing devices in which the DNA contained in one test-tube could compute one billion billion operations at once.
+Birnbaum said it was difficult to know if this could be achieved in the next 50 years, but it was theoretically feasible. He said quantum computing, in which calculations are made using subatomic particles, and optical computing also were promising areas.
+Myhrvold said software development also could move towards software that could re-generate itself for new purposes.
+But the experts also warned that eminent technologists in the past have also made very mistaken assumptions.
+Bell noted that International Business Machines Corp.'s Thomas Watson, Sr., had predicted when the first general purpose computers were being designed in the mid-1940s that the world would need no more than five computers in total.
+Digital's founder, Ken Olsen, projected in 1977 there would never be a reason for using computers in the home.
+Now roughly one-third of U.S. households have personal computers and computing devices are used in devices from dish washers to automobiles.
+On the other hand, many people thought voice recognition would advance far more quickly than it has.
+Massachusetts Institute of Technology professor Pattie Maes described how software agents can already be used at the MIT Media Lab to determine whether there's enough milk in the fridge or alert you if the value of your stock portfolio has plummeted.
+Maes described software agents under development like Kasbah, which will be available from MIT soon and buys or sells items such as personal computers electronically.
+"The first 50 years was largely about hardware. My guess is the next 50 years is going to be about software," said John Sainson, general manager of International Business Machines Corp.'s applications solutions unit.
+((sam.perry@reuters.com, Palo Alto Bureau 415 846 5400))

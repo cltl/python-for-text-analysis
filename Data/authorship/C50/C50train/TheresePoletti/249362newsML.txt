@@ -1,0 +1,15 @@
+International Business Machines Corp. Chairman Louis Gerstner on Wednesday warned the computer industry of a backlash against the Internet as confusion and feuding reigns among corporate rivals.
+"A lot of what has gone on is just plain confusing," Gerstner said in a keynote speech at the Internet World trade show in New York. "I wouldn't be surprised to see an Internet backlash soon."
+He said industry wars over Internet browser software, programming languages, hardware and continuing hype may contribute to corporate and consumer disillusionment about the Internet.
+"As an industry, we are not shy about telling people how beautiful our babies are, long before they are born," Gerstner said, adding that customers have to sort out the hype and "food fights" by sparring companies.
+Gerstner said many were wondering where money is to be made on the Internet amid what he characterised as hype that seems to be leaving out customers and their needs.
+"People ask 'Is there real money to be made on the Internet?' and I say, 'Yes there is,'" Gerstner said, adding that money will be made by companies that can solve customers' problems and make it easy to do things like banking on the Internet.
+Gerstner said IBM's approach to the Internet was to work closely with customers and develop the products they need, such as its work with the discount brokerage Charles Schwab, which now offers stock trading over the Internet.
+"Schwab expects to capture as many customers with the Internet over the next year as they have over the past 13 years," Gerstner said.
+One of the industry "food fights" that Gerstner singled out was Microsoft Corp.s effort to develop software based on Sun Microsystems Inc.'s Java language to design programmes that only run on Microsoft's Windows operating system.
+The Java language has been much heralded in the computer industry because of its "write-once, run-anywhere" capability, which lets programmes written in Java run on any computer system. Because of this feature, Java has become a popular programming language for the Internet and networked computers.
+"Let's not blow this," Gerstner said. "Let's not do to Java what the industry did to Unix," the high-performance operating system which splintered off into more than 20 versions.
+At Internet World on Wednesday, Sun Microsystems unveiled an alliance with IBM and other major companies, which are all backing a move to standardise and certify one version of the Java language.
+"Gerstner is taking his guidance from customers and not from industry conflicts," said Sam Albert, an industry consultant based in Scarsdale, N.Y. "He did a lot to de-hype the industry."
+Gerstner also reiterated his plea that the industry make things easier for users. He showed a video of IBM's voice recognition technology, which enables computer users to give simple commands to surf the World Wide Web.
+He said IBM's voice recognition software for the Internet is now available in beta, or experimental form, and that users could download it for free, starting Wednesday, from IBM's Web site, http://www.ibm.com.

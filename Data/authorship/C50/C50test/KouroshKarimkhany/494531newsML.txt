@@ -1,0 +1,19 @@
+Advanced Micro Devices Inc. reported an unexpected first-quarter profit Monday, reflecting surprisingly strong computer chip sales.
+The Sunnyvale, Calif.-based company earned $12.95 million or 9 cents a share for the quarter ended March 30, compared with a profit of $25.3 million, or 18 cents, in the same quarter a year ago.
+Wall Street analysts had expected AMD, a maker of specialized memory chips and microprocessors, to report a loss of 3 cents a share, according to First Call, which tracks earnings estimates.
+AMD said first-quarter revenue rose 1.4 percent to $552 million from $544.2 million a year ago. Revenue for the most recent quarter was about $10 million higher than Wall Street expected.
+"The important message of the first quarter is that the company is profitable and that they are starting an incredible product cycle," said analyst Mark Edelstone, at brokerage Prudential Securities Inc.
+The results were announced after the market closed Monday. AMD shares had risen $1.875 to $41.25 on the New York Stock Exchange. The shares rose an additional $1.75 to $43 in after-hours trading.
+AMD Chairman Jerry Sanders said all of the company's businesses improved over the fourth quarter, when AMD posted a loss of $21.2 million, or 15 cents a share.
+"Recovering strength in all sectors of our business produced the sales growth necessary for AMD to return to modest profitability even before volume shipments of AMD-K6 MMX processors," Sanders said, referring to AMD's newest chip.
+"Revenue growth was led by flash memories, Microsoft Windows compatible microprocessors, and programmable logic devices from our Vantis division."
+Last week, AMD introduced the K6 chip, a microprocessor for standard personal computers that can handle basic calculations slightly faster than Intel's top-of-the-line Pentium Pro chip.
+Based on expected demand for an alternative to Intel's pricey offerings and improving operations, AMD stock has doubled since the beginning of the year.
+Sanders said the company shipped only 10,000 K6 chips during the quarter. He said, however, that AMD plans to increase production substantially in the new few months.
+"We are ramping production in order to ship hundreds of thousands of AMD-K6 MMX processors during the current quarter, and millions of units in the second half of 1997," Sanders said in a statement.
+In order to boost acceptance for its new chip, AMD is embarking on an aggressive marketing campaign, starting with TV commercials this week on the popular NBC sitcom "Seinfeld".
+Intel, the world's biggest maker of computer chips, has spent millions in the past three years on the "Intel Inside" campaign, even though Intel's chips are the brains of about 90 percent of the world's PCs.
+Before the K6, AMD's microprocessors had been at least three years behind Intel in computing horsepower. It did not have to counter Intel's marketing juggernaut because its customers mainly were second-tier PC makers that bought its chips for low-priced machines.
+Two years ago, the company gambled its financial future to make sure that the K6 was just as fast, or faster, than comparable Intel chips.
+The gamble paid off, at least technically. The K6 beats the Pentium Pro in most everyday applications, according to trade magazines. Not only that, AMD plans to sell it for at least 25 percent less than the Pentium.
+Armed with the K6, AMD now plans to chase Intel's best customers -- makers of high-end professional and consumer PCs.

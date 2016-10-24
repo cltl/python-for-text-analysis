@@ -1,0 +1,25 @@
+Making use of technologies originally developed for supercomputers, Sun Microsystems Inc. will this week unveil its first high-end computer servers that can compete with mainframe performance.
+"It's not just a hot box," said Ed Zander, president of the Sun Microsystems Computer Co. "We look at this as combining the best of the mainframe world and the traditional Unix-server world."
+The machines also are capable of more than four times the processing performance of an International Business Machines Corp.  mainframe, according to data supplied by Sun.
+The new Ultra Enterprise 10000 servers, which were code named Starfire, will be formally unveiled on Wednesday morning at a San Francisco news briefing and analysts expect them to further boost Sun's already roaring sales growth.
+The servers will be Sun's first machines priced in the $500,000 to $2 million range, offering stronger margin potential and extending the company's computer line to the heavy-duty machines used in corporate data centers.
+The Mountain View, Calif. company last week reported its second fiscal quarter revenues jumped 19 percent to a record $2.08 billion, and net income soared 41 percent to $178.3 million, helped by sales of server products.
+Goldman Sachs analyst Laura Conigliaro estimates that Sun's sales of servers -- machines which serve at the center of computer networks which are capable of intensive calculations -- grew in excess of 45 percent in the fourth quarter of last year.
+Sun also boosted its market share leadership in the fiercely competitive but weakening Unix workstation market in 1996, winning a 41 percent stake of the $15 billion market, a position larger than its next three rivals combined, according to a preliminary International Data Corp. survey.
+The base Starfire configuration -- with 16 processors and two gigabytes of memory -- will be priced starting at $873,890 and the machines will begin shipping in limited quantity this week, with volume shipments due around two months from now.
+Analysts and industry consultants said the computers will for the first time enable Sun to compete at the top end of the market with machines capable of handling the largest mission- critical tasks like online transaction processing.
+"I think this is going to open up some new market segments for them," said a consultant at N.H.-based Technology Business Research. "Sun's sales force has been unusually successful in selling in competitive environments."
+Sun was able to take advantage of supercomputer-like performance features developed by Cray Business Systems. Rival Silicon Graphics Inc., which bought Cray Research last year, sold the former Cray division to Sun last May.
+The Cray team had already developed a machine based on Sun's Sparc/Solaris system that can run 64 processors.
+Sun is augmenting its new offering with powerful storage systems it says offers strong price-performance advantages.
+Among the features which distinguish the new computer systems are the ability to provide 10 times the amount of bandwidth of other Unix systems and 50 percent more than top- of-the-line mainframe computer models.
+The system can run at two to four times the power of an IBM mainframe as measured by million instructions per second, a standard measurement of computer speed, Sun said.
+"This is deep into mainframe territory," said Andrew Allison, publisher of Inside the New Computer Industry.
+Zander said Starfire may not be a straight-out replacement for mainframe computers, but that customers may chose to shift major Unix applications to the Starfire technology, which can also be partitioned in the same way mainframes can.
+IDC analyst Jay Bretzmann projects the market for high-end Unix machines alone is around $2 billion now, and growing very rapidly in a total marketspace valued at around $50 billion.
+Sun said the Ultra Enterprise 10000 has set a record in an industry performance benchmark test known as the Transaction Performance Council Benchmark D.
+Analysts expect the machines to challenge rivals like Digital Equipment Corp., whose Alpha machines had topped the performance curves, and Hewlett-Packard Co., which was a pioneer in the high-end server market, and IBM.
+A number of organizations are in line for orders for the machine, including insurance giant Aetna Inc., the German maratime traffic agency BSH, health information services provider HCIA and the Kelly Services staffing agency.
+Rich Castor, technology officer at Aetna, said he chose the new Sun computers in competition with rival offerings because it brings mainframe-class capabilities to servers while using server-based applications packages.
+"In this case, it allows us to marry mainframe class computing environments with some of the best of breed client- server applications programs," such as those of Oracle Corp. and Peoplesoft, he said. "We're very impressed."
+(sam.perry@reuters.com)

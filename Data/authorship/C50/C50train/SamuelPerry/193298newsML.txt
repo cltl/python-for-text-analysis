@@ -1,0 +1,22 @@
+Hewlett-Packard Co. said Friday that it will unveil technology Monday that will provide a breakthrough in the long-deadlocked debate over use of software encoding for secure data traffic.
+If the encryption technology has won the backing of industry and the U.S. and other governments -- which Hewlett-Packard officials say is the case -- the development could eliminate a key obstacle to the growth of electronic commerce via the Internet.
+Hewlett-Packard Chairman Lewis Platt will provide details on the technology, which includes technology patented by the Palo Alto computer giant as well as other technologies, a company spokesman said.
+Technology from RSA Data Corp. the de facto standard-setter for Internet security, will be involved Hewlett-Packard officials said.
+Hewlett-Packard stock closed up $1.375 at $50.875 on the New York Stock Exchange.
+Senior Microsoft Corp. and Intel Corp. executives were also scheduled to attend Monday's news briefing at the National Press Club in Washington, Hewlett-Packard officials said.
+The technology will make it possible to export products containing so-called "strong encryption," which cannot be exported under national security laws dating back to the Cold War.
+Under national security law, the U.S. government has allowed the export of software and other computer products containing only weaker data encryption technologies.
+Encryption has been classified as a munition because of its potential for use by terrorists, spies or other criminals to conceal messages.
+Encryption programmes use mathematical formulas to scramble information, such as electronic mail messages or credit card numbers, to render them unreadable to computer users without a password or "software key" that can unlock the coded material.
+For years the domestic computer industry has complained that such restrictions have hampered its competitiveness in world markets, and that its customers did not necessarily want the government to be able to decode internal data.
+The industry says the laws have prevented it from offering some of the most recent Internet technologies, even within the United States, because it is impossible to prevent computer users outside U.S. borders from gaining access to technologies publicly available on the Internet.
+Companies and their customers want to use encryption to protect confidential communications and electronic commerce.
+Silicon Valley executives recently noted that consumer devices, such as WebTV Network's Web browsing television device that hit store shelves this autumn, use the same levels of strong encryption as used in military systems.
+WebTV said it is using keys comprised of 128 bits, or characters, of data to encode and decode its communications to its set-top boxes to provide consumers with the best level of security available over the Internet.
+The government recently proposed that the roadblock be eliminated by providing a key recovery system, in which authorities could recover keys to crack messages if they received a court warrant to do so.
+Industry has rebuffed this as difficult to manage.
+The solution being offered by Hewlett-Packard would be flexible, allowing customers to use the levels of encryption required by different governments, the company said.
+"This is going to allow very strong encryption," said a spokeswoman.
+Hewlett-Packard said its technology would provide a means of "solving the data security and integrity issues that have impaired and frightened users and companies from exploiting the full power of the Internet."
+Data Security Inc., the computer security pioneer acquired this year by Security Dynamics Technologies Inc. is also expected to be involved in Monday's announcement.
+RSA Data has become a de facto standard-setter for security over the Internet by licensing rights and technology to use its encryption systems. Hewlett-Packard declined to identify other companies or technology that may be involved.

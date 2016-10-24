@@ -1,0 +1,23 @@
+An obscure part of the new telecommunications law could restrict how phone companies use confidential customer data to peddle everything from calling plans and caller I.D. to Internet access and credit cards.
+The law pits consumer advocates who fear an onslaught of telemarketers and a loss of personal privacy against local, long-distance and cellular carriers wanting to offer their customers one-stop shopping in the new communications age.
+The data, which include billing records and calling patterns, are taking on added importance as local and long-distance companies, cable-TV operators and others brace to get into each other's business under the new telecom law.
+"Everybody wants to use these data -- subject to the law -- for their marketing efforts, given that it's a much more competitive environment now," said attorney Alfred Mamlet of Steptoe &amp; Johnson. "There are new technologies and new markets for the companies."
+The Federal Communications Commission is drafting rules to spell out the limits set by Congress on the use of "customer proprietary network information." CPNI details when calls are made, the destination, the frequency and length, the number and type of phone lines ordered, and the price of the bill.
+Few curbs existed before the new telecom law. The new FCC rules -- which stem from a provision in the law pushed by Representative Edward Markey, D-Mass., -- are expected in early 1997.
+The agency must decide what form of customer approval a carrier must receive before using the data for marketing.
+The rules will determine, for example, what if any okay is needed for a carrier to use a customer's long-distance calling pattern to pitch a cellular service if a customer is seen to make plenty of calls from the road.
+Many phone companies want the FCC to avoid stringent rules requiring detailed customer approval. Industry executives argue that consumers would benefit from flexibile rules that let companies target a customer's communications needs.
+"It would give us the opportunity to tailor their package of services to what they need and what they want," said James Spurlock, AT&amp;T Corp.'s director of federal government affairs.
+But consumer and privacy groups fear the data could fall into the wrong hands without tough curbs and clear approval.
+They also fear an explosion in telemarketing: Companies could use CPNI to market a vast array of products and services unrelated to the phone service a customer actually receives.
+"When consumers sign up for telehone service, they don't expect the information to be used to market non-phone services such as credit cards or investment information," said John Windhausen, general counsel for the Competition Policy Institute (CPI), a consumer advocacy group.
+Companies already use the information. Long-distance carriers pitch cheaper plans based on a customer's calling habits. The marketing is expected to heat up.
+Under contention at the FCC is whether a company can use the data derived from its long-distance business to pitch local or cellular service, without prior customer assent.
+The telecom law lets carriers use CPNI without prior approval when supplying the service a customer ordered.
+The FCC has proposed to classify phone service under three categories: local, long distance and cellular. CPNI from one could not be used to market another without a customer's okay.
+A number of phone companies, including several regional Baby Bell companies, have asked the FCC for just one broad category that would give them greater marketing flexibility.
+Texas phone regulators, by contrast, propose categories based on "the exact services (the customer) has ordered."
+The FCC also has proposed requiring phone companies to notify customers of their right to restrict access to CPNI.
+Under contention is whether the notification should be oral or written, such as a notice stuffed into a bill or posted in the "white pages" phone directory.
+Consumer advocates, privacy groups and state regulators want advance written approval for use of the information.
+Some companies -- AT&amp;T, several of the Bells and GTE Corp. -- suggest that no response to a detailed notification about a customer's CPNI rights should amount to a customer's blessing.

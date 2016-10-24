@@ -1,0 +1,14 @@
+AT&amp;T Corp is hoping to use its new local calling service for businesses to take valuable customers away from regional Bell competitors, appealing to those that want a single bill for a package of services.
+Jeff Weitzen, executive vice president for AT&amp;T business markets, said that while the company would initially provide local service by reselling the networks of local phone companies, many customers would soon be found valuable enough to get their own AT&amp;T digital line.  
+"In essence what we announced today was only our launching pad," Weitzen told Reuters in an interview on Monday.
+AT&amp;T announced two services designed to make further inroads in the business calling markets where it already reaps $20 billion of annual revenue.
+AT&amp;T Business Local Service, aimed at those who spend less than $2,500 per month, offers local calling on a single bill with any other AT&amp;T service. It is being launched in California on February 3, with other states to follow.  
+The second, AT&amp;T Digital Link, offers outbound local calling in 35 states over existing digital lines. AT&amp;T will install its own lines to customers spending more than $2,500 a month, making it easier to offer high-speed data, Internet and other services.
+By the end of February, Digital Link, which has been tested with 2,500 customers, will be available in 45 states.
+Weitzen hopes to bring customers aboard with the first offer, use a package to calculate what they spend, then pull them across to the more profitable second offering.  
+"A large number of customers don't have digital facilities, but when you bundle up the various offerings, they take will cross that ($2,500) line rather quickly," he said.
+By the end of this year, Business Local Service will be offered across large parts of the country using the circuits of regional Bells under resale agreements, most of which are still under negotiation.
+For the moment AT&amp;T only has a resale deal with Pacific Telesis Group for California and is close to finalizing one with Ameritech Corp.  
+AT&amp;T's California coverage plans are hindered by the lack of an agreement with GTE Corp, which has several calling regions in California.
+Also by the end of this year, a third version of Digital Link software will allow users to cut out regional Bells completely from both inbound and outbound calling, with even 911 emergency calls and local directory-assistance calls being handled via AT&amp;T.
+As part of that upgrade, AT&amp;T will need to pass regulatory hurdles in the states concerned.

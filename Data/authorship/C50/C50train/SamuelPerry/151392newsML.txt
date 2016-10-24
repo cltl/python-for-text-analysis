@@ -1,0 +1,17 @@
+Sun Microsystems Inc. on Tuesday will unveil the long-awaiting stripped-down network computer it claims will cost companies up to 80 percent less to own and operate than a personal computer connected to a network.
+Sun's Java Computing initiative, including the JavaStation network computer that Sun plans to sell for as little as $750, is the company's challenge to the PC market dominance of Microsoft Corp. and Intel Corp.
+The formal unveiling at a New York City news conference is the culmination of months of preparation, and the fruition of a strategy that investors consider sufficiently risky to have prompted a sell-off in the company's stock earlier this month.
+Microsoft and Intel announced plans Monday to develop a competing product.
+Scott McNealy, chairman and chief executive of Sun, recently told analysts he believed Sun's recent strong financial results were related to its focus on network computing.
+Sun Microsystems' approach to the Network Computer -- in contrast to those of allies Oracle Corp. and International Business Machines Corp. -- is to target major corporate customers for fixed-function applications.
+Early applications will include such tasks as airline and hotel reservations, kiosks, health care systems and stock trading, and Sun expects to highlight a dozen corporate allies, including British Telecommunications Plc, CSX Corp., Federal Express Corp., and FTD Inc.
+Sun also is expected to announce support of top systems integrators, including Andersen Consulting and EDS, and nearly 450 independent software developers.
+The basic JavaStation itself, which had been code-named "Mr. Coffee," will have the dimensions of an 8.5 by 11 inch piece of paper, weigh four pounds and have no slots, no hard disk, no CD-ROM and no floppy disk drive.
+"A fully-configured system, with keyboard mouse and good resolution display will be under $1,000 dollars," said Ed Zander, president of Sun Microsystems Computer Co. He said an under-desk machine and a desktop model will be sold.
+Sun estimates the machines may cost as little as $2,500 per year to own and administer, or $7,500 over three years, compared with independent estimates of PC costs of up to $11,900, or $35,700 over three years.
+The JavaStation family will begins shipping in late December to developers and large customers, with volume shipments beginning in 1997.
+Sun is also shipping the Netra j server line, with prices ranging from a U.S. list of $7,695 to more than $200,000. Servers are computers that link personal computers in a network.
+Sun's JavaSoft unit, which is charged with expanding use of the company's Java technology, also will demonstrate HotJava Views, a method of viewing electronic mail, World Wide Web pages and scheduling software.
+Executives declined to say how much HotJava Views will cost, but added it will be priced similar to other software packages on the market, with volume discounts for large sales.
+Separately in Washington, D.C. on Tuesday, the company's SunSoft unit is due to provide details of its next-generation Java Workshop system.
+These include Project Studio, which enables users to create interactive content without writing code, Project Speedway, which speeds up Java applications, and Project ICE-T, which helps connect Java machines to other computer architectures.

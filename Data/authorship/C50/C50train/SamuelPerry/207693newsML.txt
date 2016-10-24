@@ -1,0 +1,17 @@
+Netscape Communications Corp. President Jim Barksdale Wednesday unveiled new software that will allow users to receive personalized information anywhere on a computer network.
+The new software, code-named Constellation, will also allow users to merge and customize information on computer desktops and networks, posing a fresh challenge to archrival Microsoft Corp..
+In a keynote speech at the annual Comdex computer trade show in Las Vegas, Barksdale described Constellation -- due for release in mid-1997 -- as part of an Internet "third wave" of information that can be displayed according to individual preferences.
+"While the first waves of the Internet focused on users being able to easily find information, the mark of this third wave is that information finds the user," he said. "Our new products will have the intelligence to help you focus on the information you care about."
+Constellation, which will be part of Netscape's next-generation Netscape Communicator corporate software, will allow users to log on or off computers throughout a network -- or even across the Internet -- and see a computer desktop with the user's personal setup.
+This "roaming" capability, like using mobile telephones in cities outside one's home base, can free people to work in different locations using the same basic tools and calling up application software such as spreadsheets and word processors.
+That provides a different approach than the one used currently by Microsoft, which requires computer makers using its Windows operating systems, for example, to show the Windows logo first.
+Although Microsoft has moved aggressively over the last 11 months into the Internet market, and produces a rival browser called Internet Explorer, Netscape has so far retained the leading role in the browser market.
+Microsoft, however, holds 90 percent of the market for the operating systems that run computers.
+Barksdale said that with 48 million copies of Netscape's browser software sold, it is the most popular application ever, and he said recent data shows Netscape with 78 percent of all browsers.
+Contrary to speculation since Netscape's red-hot stock offering in August 1995 that it would one day compete with Microsoft in operating systems, company executives said Netscape was deliberately focusing on the ability to work across some 17 different operating systems instead.
+"Constellation is not an operating systems, but is a new user interface," Netscape Senior Vice President Mike Homer told reporters.
+Although Netscape executives acknowledged there was some difficulty in making its software run on some environments, such as Windows 3.1, the company was succeeding and committed to continuing to support a variety of operating systems.
+Analysts have said this is a major distinction from Microsoft, which earlier used the Comdex show to unveil a new operating system for hand-held computers, Windows CE, and its new Office 97 software package.
+Although Microsoft demonstrated powerful features and Web capabilities for its new Office package, analysts said companies would only get the full benefit of it if they chose to deploy it throughout departments or the company.
+The problem of distributing information to individuals in the fast-growing Internet, with its tens of millions of sites, has increasingly captured the attention of Silicon Valley's sharpest engineers.
+Two start-up companies widely regarded in this area -- Marimba Inc. and PointCast Inc.'s PointCast Network -- will have their products integrated into Constellation, Netscape said.
