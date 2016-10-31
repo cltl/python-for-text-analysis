@@ -36,7 +36,8 @@ understand what you would like the computer to do. The official Python-interpret
 called *CPython*. 
 
 Jupyter is a program that allows you to run Python code through a browser-based interface.
-It works using a special file format called 'Jupyter notebooks' (previously known as 'iPython notebooks',
+Behind the scenes, it calls CPython to run your code, and then it returns the result.
+Jupyter works using a special file format called 'Jupyter notebooks' (previously known as 'iPython notebooks',
 which is why the file extension is still `.ipynb`). We really like this programming
 environment, because it is very powerful, and you can use it to write reports about
 your research. Because these notebooks are executable, you can give them to someone 
