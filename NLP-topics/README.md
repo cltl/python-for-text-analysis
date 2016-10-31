@@ -21,5 +21,4 @@ This folder contains all the NLP-related subject matter for this course.
 
 ### Presenting your results
 
-* [Visualization](./visualization.md) (TODO)
-* [Making a web demo](./python-and-the-browser.md) (TODO)
+* [Making a web demo](./python-and-the-browser.md)
