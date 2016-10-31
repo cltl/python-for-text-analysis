@@ -62,11 +62,7 @@ This file serves as the syllabus and a general reference for this course.
 
 ## Assignments and Grading
 
-There will be weekly assignments, a midterm exam, and a final assignment.
-
-* **Assignments**: starting from week 45, you will be asked to hand in an assignment before Tuesday 15:00pm. Submission is done through Blackboard. There are three possible grades for an assignment: **not OK (5)**, **OK (7)**, and **good (9)**. Submission after the deadline results in one point deduction of your grade. In addition, we do not guarantee feedback if your submission is after the deadline. You have to hand in all assignments in order to be able to get a passing grade for the course.
-* **Exam**: on the 15th of December, there will be an exam on paper, of which the goal is to test your understanding of Python and its standard library. It mainly serves as a check to see if you're ready for the final assignment or not.
-* **Final assignments**: the final part of the course consists of a final assignment, for which you will work on your own code project. As part of the final assignment, we ask you to present your work. You will not receive a grade for this presentation, but it is compulsory. You can use the feedback on your presentation to improve your project.
+There will be weekly assignments, a midterm exam, and a final assignment. They are weighted as follows.
 
 | Part    | weight % | | Part    | weight % |
 |---------|---------|---|---------|---------|
@@ -76,6 +72,53 @@ There will be weekly assignments, a midterm exam, and a final assignment.
 |Assignment 4|	 9  | | **Total**         |	100 |
 |Assignment 5|	 9  | | | |
 |**Total Assignments** |	35 | | | |
+
+### Weekly assignments
+Every week you are asked to hand in an assignment before Tuesday 15:00pm. 
+Submission is done through Blackboard. 
+There are three possible grades for an assignment: **not OK (5)**, **OK (7)**, and **good (9)**. 
+Submission after the deadline results in one point deduction of your grade. 
+In addition, we do not guarantee feedback if your submission is after the deadline. 
+You have to hand in all assignments in order to be able to get a passing grade for the course. We use these assignments to keep
+track of your progress in the course, and to address misunderstandings when they arise.
+As practice is essential to learn how to program, and since these assignments also serve
+as a feedback mechanism in the course (keeping track of your progress), the assignments
+are **mandatory.**
+
+### Midterm exam
+The midterm exam on the 15th of December tests your knowledge of the syntax of Python, and your knowledge
+of the standard library. It also tests whether you are able to write simple functions
+in Python. This knowledge is fundamental to the rest of the course. As such, you cannot
+pass the course without a passing grade on the midterm. But don't worry: if you are able
+to finish the assignments, you will be fine on the exam.
+
+### The final assignment
+The final part of the course consists of a final assignment, for which you will work on your own code project. 
+As part of the final assignment, we ask you to present your work. 
+You will not receive a grade for this presentation, but it is compulsory. 
+You can use the feedback on your presentation to improve your project.
+
+The exact details of the final assignment are to be determined. If you come up with
+an interesting task of your own, we are happy to turn that into an assignment as well.
+
+You can expect a project in which you are asked to:
+
+1. process a number of files;
+2. extract relevant information from those files;
+3. present that information to the user;
+4. store the information in a useful format
+
+We will consider the following questions (along with the core principles) to evaluate your final assignment:
+
+* Does the code work?
+* Does the code fulfill the requirements?
+* Is the code well-documented?
+* Is the code clear and understandable?
+* Is the code modular?
+* Is the code easily extensible?
+* How scalable is the solution?
+* Is the code written in accordance with [the community standards](http://pep8.org/)? (That is: PEP8)
+* Are there tests to ensure that the code works?
 
 ## Planning
 The schedule for the entire course follows the same structure, illustrated below.
@@ -123,43 +166,6 @@ will receive feedback and get the new assignment.
 |  5   | lecture  | not known yet          |                       | working on final assignment  | 
 |  5   | deadline | not known yet          |                       | Presentation final assignment  |
 |  5   | deadline | 5-2-2017 23:59         |                       | Final assignment  |
-
-## Weekly assignments
-Every week you are asked to hand in an assignment. We use these assignments to keep
-track of your progress in the course, and to address misunderstandings when they arise.
-As practice is essential to learn how to program, and since these assignments also serve
-as a feedback mechanism in the course (keeping track of your progress), the assignments
-are **mandatory.**
-
-## Midterm exam
-The midterm exam tests your knowledge of the syntax of Python, and your knowledge
-of the standard library. It also tests whether you are able to write simple functions
-in Python. This knowledge is fundamental to the rest of the course. As such, you cannot
-pass the course without a passing grade on the midterm. But don't worry: if you are able
-to finish the assignments, you will be fine on the exam.
-
-## The final assignment
-The exact details of the final assignment are to be determined. If you come up with
-an interesting task of your own, we are happy to turn that into an assignment as well.
-
-You can expect a project in which you are asked to:
-
-1. process a number of files;
-2. extract relevant information from those files;
-3. present that information to the user;
-4. store the information in a useful format
-
-We will consider the following questions (along with the core principles) to evaluate your final assignment:
-
-* Does the code work?
-* Does the code fulfill the requirements?
-* Is the code well-documented?
-* Is the code clear and understandable?
-* Is the code modular?
-* Is the code easily extensible?
-* How scalable is the solution?
-* Is the code written in accordance with [the community standards](http://pep8.org/)? (That is: PEP8)
-* Are there tests to ensure that the code works?
 
 ## Attendance policy
 You are expected to attempt to attend all lectures. You are allowed to miss two lectures at most. After more than two absences, you are no longer able to obtain credits for the course.  
