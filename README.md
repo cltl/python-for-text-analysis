@@ -132,6 +132,8 @@ along with additional theory. We'll also work on the assignments in class. Assig
 are handed in on Tuesday, so we can check everything in time for Thursday where you
 will receive feedback and get the new assignment.
 
+In order to download a notebook about a Topic or an Assignment, please right click on the link in the schedule below and save the file in your course materials. 
+
 | week | what     | when                   | preparation           | description |
 |------|----------|------------------------|-----------------------|-------------|
 |  44  | lecture  | 31-10-2016 11:00-12:45 | None                  | Introduction + start of topic 1 |
