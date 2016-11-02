@@ -54,7 +54,7 @@ Our materials are structured as follows:
 * Other topics, related to natural language processing and 'everyday work' are covered
   in the `NLP-topics` folder. So if you're just here to learn Python, you can skip these
   notebooks. You may still find them useful, however!
-  
+
 * The `Data` folder contains all data used in this course, and scripts used to obtain
   this data. (So you can see what techniques we used.)
 
@@ -74,11 +74,11 @@ There will be weekly assignments, a midterm exam, and a final assignment. They a
 |**Total Assignments** |	35 | | | |
 
 ### Weekly assignments
-Every week you are asked to hand in an assignment before Tuesday 15:00pm. 
-Submission is done through Blackboard. 
-There are three possible grades for an assignment: **not OK (5)**, **OK (7)**, and **good (9)**. 
-Submission after the deadline results in one point deduction of your grade. 
-In addition, we do not guarantee feedback if your submission is after the deadline. 
+Every week you are asked to hand in an assignment before Tuesday 15:00pm.
+Submission is done through Blackboard.
+There are three possible grades for an assignment: **not OK (5)**, **OK (7)**, and **good (9)**.
+Submission after the deadline results in one point deduction of your grade.
+In addition, we do not guarantee feedback if your submission is after the deadline.
 You have to hand in all assignments in order to be able to get a passing grade for the course. We use these assignments to keep
 track of your progress in the course, and to address misunderstandings when they arise.
 As practice is essential to learn how to program, and since these assignments also serve
@@ -93,9 +93,9 @@ pass the course without a passing grade on the midterm. But don't worry: if you 
 to finish the assignments, you will be fine on the exam.
 
 ### The final assignment
-The final part of the course consists of a final assignment, for which you will work on your own code project. 
-As part of the final assignment, we ask you to present your work. 
-You will not receive a grade for this presentation, but it is compulsory. 
+The final part of the course consists of a final assignment, for which you will work on your own code project.
+As part of the final assignment, we ask you to present your work.
+You will not receive a grade for this presentation, but it is compulsory.
 You can use the feedback on your presentation to improve your project.
 
 The exact details of the final assignment are to be determined. If you come up with
@@ -135,21 +135,21 @@ will receive feedback and get the new assignment.
 | week | what     | when                   | preparation           | description |
 |------|----------|------------------------|-----------------------|-------------|
 |  44  | lecture  | 31-10-2016 11:00-12:45 | None                  | Introduction + start of topic 1 |
-|  44  | lecture  | 3-11-2016 11:00-12:45  | Topic 1               | discussion topic 1 + start of topic 2 + introduction assignment 1 |
-|  45  | lecture  | 7-11-2016 11:00-12:45  | Topic 2               | discussion topic 2 + working on assignment 1 |
-|  45  | deadline | 8-11-2016 15:00        |                       | assignment 1 |
+|  44  | lecture  | 3-11-2016 11:00-12:45  | [Topic 1](https://raw.githubusercontent.com/evanmiltenburg/python-for-text-analysis/master/Notebooks/Topic%201%20-%20Getting%20started.ipynb)               | discussion topic 1 + start of topic 2 + introduction assignment 1 |
+|  45  | lecture  | 7-11-2016 11:00-12:45  | [Topic 2](https://raw.githubusercontent.com/evanmiltenburg/python-for-text-analysis/master/Notebooks/Topic%202%20-%20Understanding%20string%20and%20list%20methods%20%2B%20boolean%20expressions%20%2B%20if%20statements.ipynb)              | discussion topic 2 + working on assignment 1 |
+|  45  | deadline | 8-11-2016 15:00        | [Assignment 1](https://raw.githubusercontent.com/evanmiltenburg/python-for-text-analysis/master/Notebooks/ASSIGNMENT-1.ipynb)          | |
 |  45  | lecture  | 10-11-2016 11:00-12:45 |                       | feedback assignment 1 + start of topic 3 + introduction assignment 2 |
 |  46  | lecture  | 14-11-2016 11:00-12:45 | Topic 3               | discussion topic 3 + working on assignment 2 |
-|  46  | deadline | 15-11-2016 15:00       |                       | assignment 2 |
+|  46  | deadline | 15-11-2016 15:00       | Assignment 2          | |
 |  46  | lecture  | 17-11-2016 11:00-12:45 |                       | feedback assignment 2 + start of topic 4 + introduction assignment 3 |
 |  47  | lecture  | 21-11-2016 11:00-12:45 | Topic 4               | discussion topic 4 + working on assignment 3 |
-|  47  | deadline | 22-11-2016 15:00       |                       | assignment 3 |
+|  47  | deadline | 22-11-2016 15:00       | Assignment 3          |  |
 |  47  | lecture  | 24-11-2016 11:00-12:45 |                       | feedback assignment 3 + start of topic 5 + introduction assignment 4 |
 |  48  | lecture  | 28-11-2016 11:00-12:45 | Topic 5               | discussion topic 5 + working on assignment 4 |
-|  48  | deadline | 29-11-2016 15:00       |                       | assignment 4 |
+|  48  | deadline | 29-11-2016 15:00       | Assignment 4          |  |
 |  48  | lecture  | 1-12-2016 11:00-12:45  |                       | feedback assignment 4 + start of topic 6 + introduction assignment 5 |
 |  49  | lecture  | 5-12-2016 11:00-12:45  | Topic 6               | discussion topic 6 + working on assignment 5 |
-|  49  | deadline | 6-12-2016 15:00        |                       | assignment 5 |
+|  49  | deadline | 6-12-2016 15:00        | Assignment 5          | |
 |  49  | lecture  | 8-12-2016 11:00-12:45  |                       | feedback assignment 5 + introduction practice exam |
 |  50  | lecture  | 12-12-2016 11:00-12:45 | practice exam         | discussion practice exam + QA session exam |
 |  50  | deadline | 15-12-2016 11:00-12:45 |                       | Exam |
@@ -163,7 +163,7 @@ will receive feedback and get the new assignment.
 |  3   | lecture  | not known yet          |                       | noncompulsory (due to LOT school) QA session final assignment |
 |  4   | lecture  | not known yet          |                       | working on final assignment |
 |  4   | lecture  | not known yet          |                       | working on final assignment  |
-|  5   | lecture  | not known yet          |                       | working on final assignment  | 
+|  5   | lecture  | not known yet          |                       | working on final assignment  |
 |  5   | deadline | not known yet          |                       | Presentation final assignment  |
 |  5   | deadline | 5-2-2017 23:59         |                       | Final assignment  |
 
