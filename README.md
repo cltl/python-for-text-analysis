@@ -141,8 +141,8 @@ In order to download a notebook about a Topic or an Assignment, please right cli
 |  45  | lecture  | 7-11-2016 11:00-12:45  | [Topic 2](https://raw.githubusercontent.com/evanmiltenburg/python-for-text-analysis/master/Notebooks/Topic%202%20-%20Understanding%20string%20and%20list%20methods%20%2B%20boolean%20expressions%20%2B%20if%20statements.ipynb)              | discussion topic 2 + working on assignment 1 |
 |  45  | deadline | 8-11-2016 15:00        | [Assignment 1](https://raw.githubusercontent.com/evanmiltenburg/python-for-text-analysis/master/Notebooks/ASSIGNMENT-1.ipynb)          | |
 |  45  | lecture  | 10-11-2016 11:00-12:45 |                       | feedback assignment 1 + start of topic 3 + introduction assignment 2 |
-|  46  | lecture  | 14-11-2016 11:00-12:45 | Topic 3               | discussion topic 3 + working on assignment 2 |
-|  46  | deadline | 15-11-2016 15:00       | Assignment 2          | |
+|  46  | lecture  | 14-11-2016 11:00-12:45 | [Topic 3](https://raw.githubusercontent.com/evanmiltenburg/python-for-text-analysis/master/Notebooks/Topic%203%20-%20Diving%20into%20files%20and%20data%20formats.ipynb)               | discussion topic 3 + working on assignment 2 |
+|  46  | deadline | 15-11-2016 15:00       | [Assignment 2](https://raw.githubusercontent.com/evanmiltenburg/python-for-text-analysis/master/Notebooks/ASSIGNMENT-2.ipynb)          | |
 |  46  | lecture  | 17-11-2016 11:00-12:45 |                       | feedback assignment 2 + start of topic 4 + introduction assignment 3 |
 |  47  | lecture  | 21-11-2016 11:00-12:45 | Topic 4               | discussion topic 4 + working on assignment 3 |
 |  47  | deadline | 22-11-2016 15:00       | Assignment 3          |  |
