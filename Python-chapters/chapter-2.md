@@ -136,7 +136,8 @@ So when do you use `while`? Our rule-of-thumb is this:
 For example:
 
 * If you're collecting data from webpage that doesnt always load: keep trying until it loads.
-* If you're mining web pages for information, and you want to collect a certain amount of that information: keep looking until you have enough.* If you're working with a Queue or a to-do list: keep working until there is nothing more to do. (You can even add stuff to the list during the loop.)
+* If you're mining web pages for information, and you want to collect a certain amount of that information: keep looking until you have enough.
+* If you're working with a Queue or a to-do list: keep working until there is nothing more to do. (You can even add stuff to the list during the loop.)
 
 ## If, elif, else
 
@@ -244,8 +245,10 @@ Here is how you define a function:
 * the function definition;
 * ending with a **return statement**.
 
+Here's a re-definition of the `min()` function that's already provided with Python:
+
 ```python
-def min(list_of_numbers):
+def min_clone(list_of_numbers):
     """
     Function to determine which number is the smallest.
     The input is a list of number, and the output is a specific number.
