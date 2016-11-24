@@ -144,8 +144,8 @@ In order to download a notebook about a Topic or an Assignment, please right cli
 |  46  | lecture  | 14-11-2016 11:00-12:45 | [Topic 3](https://raw.githubusercontent.com/evanmiltenburg/python-for-text-analysis/master/Notebooks/Topic%203%20-%20Diving%20into%20files%20and%20data%20formats.ipynb) <br> [Data](https://github.com/evanmiltenburg/python-for-text-analysis/blob/master/Data.zip)               | discussion topic 3 + working on assignment 2 |
 |  46  | deadline | 15-11-2016 15:00       | [Assignment 2](https://raw.githubusercontent.com/evanmiltenburg/python-for-text-analysis/master/Notebooks/ASSIGNMENT-2.ipynb)          | |
 |  46  | lecture  | 17-11-2016 11:00-12:45 |                       | feedback assignment 2 + start of topic 4 + introduction assignment 3 |
-|  47  | lecture  | 21-11-2016 11:00-12:45 | Topic 4               | discussion topic 4 + working on assignment 3 |
-|  47  | deadline | 22-11-2016 15:00       | Assignment 3          |  |
+|  47  | lecture  | 21-11-2016 11:00-12:45 | [Topic 4](https://raw.githubusercontent.com/evanmiltenburg/python-for-text-analysis/master/Notebooks/Topic%204%20-%20Getting%20and%20processing%20data.ipynb)               | discussion topic 4 + working on assignment 3 |
+|  47  | deadline | 22-11-2016 15:00       | [Assignment 3](https://raw.githubusercontent.com/evanmiltenburg/python-for-text-analysis/master/Notebooks/ASSIGNMENT-3.ipynb)          |  |
 |  47  | lecture  | 24-11-2016 11:00-12:45 |                       | feedback assignment 3 + start of topic 5 + introduction assignment 4 |
 |  48  | lecture  | 28-11-2016 11:00-12:45 | Topic 5               | discussion topic 5 + working on assignment 4 |
 |  48  | deadline | 29-11-2016 15:00       | Assignment 4          |  |
