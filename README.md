@@ -146,7 +146,7 @@ In order to download a notebook about a Topic or an Assignment, please right cli
 |  47  | lecture  | 21-11-2016 11:00-12:45 |                       | working on assignment 2 |
 |  47  | deadline | 22-11-2016 15:00       | [Assignment 2](https://raw.githubusercontent.com/evanmiltenburg/python-for-text-analysis/master/Notebooks/ASSIGNMENT-2.ipynb)          |  |
 |  47  | lecture  | 24-11-2016 11:00-12:45 |                       | feedback assignment 2 + start of topic 4 + introduction assignment 3 |
-|  48  | lecture  | 28-11-2016 11:00-12:45 | [Topic 4](https://raw.githubusercontent.com/evanmiltenburg/python-for-text-analysis/master/Notebooks/Topic%204%20-%20Getting%20and%20processing%20data.ipynb)               | discussion topic 5 + working on assignment 4 |
+|  48  | lecture  | 28-11-2016 11:00-12:45 |                | working on assignment 3 |
 |  48  | deadline | 30-11-2016 17:00       | [Assignment 3](https://raw.githubusercontent.com/evanmiltenburg/python-for-text-analysis/master/Notebooks/ASSIGNMENT-3.ipynb)          |  |
 |  48  | lecture  | 1-12-2016 11:00-12:45  |                       | feedback assignment 3 + start of topic 5 + introduction assignment 4 |
 |  49  | lecture  | 5-12-2016 11:00-12:45  | [Topic 5](https://github.com/evanmiltenburg/python-for-text-analysis/raw/master/Notebooks/Topic%205%20-%20XML%20and%20conversion.ipynb)               | discussion topic 5 + working on assignment 4 |
