@@ -66,12 +66,11 @@ There will be weekly assignments, a midterm exam, and a final assignment. They a
 
 | Part    | weight % | | Part    | weight % |
 |---------|---------|---|---------|---------|
-|Assignment 1|	 4  | | Total Assignments |	35 |
+|Assignment 1|	 4  | | Total Assignments |	17 |
 |Assignment 2|	 4  | | Exam	            |	20 |
-|Assignment 3|	 9  | | Final assignment  |	45 |
-|Assignment 4|	 9  | | **Total**         |	100 |
-|Assignment 5|	 9  | | | |
-|**Total Assignments** |	35 | | | |
+|Assignment 3|	 9  | | Final assignment  |	63 |
+| |	   | | **Total**         |	100 |
+|**Total Assignments** |	17 | | | |
 
 ### Weekly assignments
 Every week you are asked to hand in an assignment before Tuesday 15:00pm.
