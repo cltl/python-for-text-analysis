@@ -147,10 +147,10 @@ In order to download a notebook about a Topic or an Assignment, please right cli
 |  47  | lecture  | 24-11-2016 11:00-12:45 |                       | feedback assignment 2 + start of topic 4 + introduction assignment 3 |
 |  48  | lecture  | 28-11-2016 11:00-12:45 |                | working on assignment 3 |
 |  48  | deadline | 30-11-2016 17:00       | [Assignment 3](https://raw.githubusercontent.com/evanmiltenburg/python-for-text-analysis/master/Notebooks/ASSIGNMENT-3.ipynb)          |  |
-|  48  | lecture  | 1-12-2016 11:00-12:45  |                       | feedback assignment 3 + start of topic 5 + introduction assignment 4 |
-|  49  | lecture  | 5-12-2016 11:00-12:45  | [Topic 5](https://github.com/evanmiltenburg/python-for-text-analysis/raw/master/Notebooks/Topic%205%20-%20XML%20and%20conversion.ipynb)               | discussion topic 5 + working on assignment 4 |
-|  49  | deadline | 6-12-2016 15:00        | [Assignment 4](https://github.com/evanmiltenburg/python-for-text-analysis/raw/master/Notebooks/ASSIGNMENT-4.ipynb) <br> ([data](https://github.com/evanmiltenburg/python-for-text-analysis/raw/master/Notebooks/data.zip), [images](https://github.com/evanmiltenburg/python-for-text-analysis/raw/master/Notebooks/images.zip))         | |
-|  49  | lecture  | 8-12-2016 11:00-12:45  |                       | feedback assignment 4 + introduction practice exam |
+|  48  | lecture  | 1-12-2016 11:00-12:45  |                       | recap |
+|  49  | lecture  | 5-12-2016 11:00-12:45  |               | feedback assignment 3 |
+~~|  49  | deadline | 6-12-2016 15:00        | [Assignment 4](https://github.com/evanmiltenburg/python-for-text-analysis/raw/master/Notebooks/ASSIGNMENT-4.ipynb) <br> ([data](https://github.com/evanmiltenburg/python-for-text-analysis/raw/master/Notebooks/data.zip), [images](https://github.com/evanmiltenburg/python-for-text-analysis/raw/master/Notebooks/images.zip))         | |~~
+|  49  | lecture  | 8-12-2016 11:00-12:45  |                       | Recap topics 1,2,3,4 + introduction practice exam |
 |  50  | lecture  | 12-12-2016 11:00-12:45 | practice exam         | discussion practice exam + QA session exam |
 |  50  | deadline | 15-12-2016 11:00-12:45 |                       | Exam |
 |  51  | lecture  | 19-12-2016 11:00-12:45 |                       | introduction final assignment |
