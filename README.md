@@ -151,7 +151,7 @@ In order to download a notebook about a Topic or an Assignment, please right cli
 |  49  | lecture  | 5-12-2016 11:00-12:45  |               | feedback assignment 3 |
 |  ~~49~~  | ~~deadline~~ | ~~6-12-2016 15:00~~        | ~~[Assignment 4](https://github.com/evanmiltenburg/python-for-text-analysis/raw/master/Notebooks/ASSIGNMENT-4.ipynb) <br> ([data](https://github.com/evanmiltenburg/python-for-text-analysis/raw/master/Notebooks/data.zip), [images](https://github.com/evanmiltenburg/python-for-text-analysis/raw/master/Notebooks/images.zip))~~         | |
 |  49  | lecture  | 8-12-2016 11:00-12:45  |                       | Recap topics 1,2,3,4 + introduction practice exam |
-|  50  | lecture  | 12-12-2016 11:00-12:45 | practice exam         | discussion practice exam + QA session exam |
+|  50  | lecture  | 12-12-2016 11:00-12:45 | [practice exam](https://raw.githubusercontent.com/evanmiltenburg/python-for-text-analysis/master/Midterm/Dummy%20Exam%202016-2017.ipynb)         | discussion practice exam + QA session exam |
 |  50  | deadline | 15-12-2016 11:00-12:45 |                       | Exam |
 |  51  | lecture  | 19-12-2016 11:00-12:45 |                       | introduction final assignment |
 |  51  | lecture  | 22-12-2016 11:00-12:45 |                       | Exam feedback + working on final assignment |
