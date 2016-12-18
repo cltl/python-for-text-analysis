@@ -4,8 +4,8 @@ The goal of this project is to compute statistics on the basis of a corpus, in o
 
 [A recent paper from our group (Ilievski et al. 2016)](http://www.aclweb.org/anthology/C/C16/C16-1112.pdf) proposes several advanced measures to be able to compare corpora in terms of the entities and events that a corpus refers to. This assignment focuses on more basic statistics.
 
-## Data (do not redistribute this data)
-In the folder **data**, there are 10.000 json files, each containing one article of the [SignalMedia corpus](http://research.signalmedia.co/newsir16/signal-dataset.html).
+## Data
+In the folder **data**, there are 10.000 json files, each containing one article of the [SignalMedia corpus](http://research.signalmedia.co/newsir16/signal-dataset.html). **Please do not redistribute this data, this is for educational purposes only.**
 
 Let's look at an example. Here's a small bit of Python to read in one article, and print its contents.
 
