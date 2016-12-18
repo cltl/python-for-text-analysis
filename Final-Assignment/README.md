@@ -4,7 +4,7 @@ For the final assignment, you are asked to:
 
 1. process a number of files;
 2. extract relevant statistics from those files;
-3. present that information to the user (create at least three visualizations);
+3. present that information to the user (**create at least three visualizations**);
 4. store the information in a useful format
 
 There are two options: either you choose to carry out one of our proposals, or you propose an alternative project. We encourage you to discuss your ideas with us as soon as possible. Please do look at the proposals to get a sense of the scale expected of your project.
