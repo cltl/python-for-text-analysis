@@ -9,6 +9,10 @@ For the final assignment, you are asked to:
 
 There are two options: either you choose to carry out one of our proposals, or you propose an alternative project. We encourage you to discuss your ideas with us as soon as possible. Please do look at the proposals to get a sense of the scale expected of your project.
 
+* [Proposal Forensics](https://github.com/evanmiltenburg/python-for-text-analysis/blob/master/Final-Assignment/Forensics.md)
+* [Proposal Linguistic Engineering - Patterns](https://github.com/evanmiltenburg/python-for-text-analysis/blob/master/Final-Assignment/LE-patterns.md)
+* [Proposal Linguistic Engineering - Statistics](https://github.com/evanmiltenburg/python-for-text-analysis/blob/master/Final-Assignment/LE-statistics.md)
+
 ## Important dates
 
 * **23-12-2016 13:00 pm**: decision about which direction you will choose. For those who will propose their own project, the project has to be approved by us before this deadline.
