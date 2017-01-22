@@ -55,19 +55,7 @@ Note that these questions also serve to guide you through your project. Keep the
 
 ## Grading
 
-We will consider the following questions (along with the core principles) to evaluate your final assignment:
-
-* Does the code work?
-* Does the code fulfill the requirements?
-* Is the code well-documented?
-* Is the code clear and understandable?
-* Is the code modular?
-* Is the code easily extensible?
-* How scalable is the solution?
-* Is the code written in accordance with [the community standards](http://pep8.org/)? (That is: PEP8)
-* Are there tests to ensure that the code works?
-
-We will weigh our judgment criteria as follows:
+To score the final assignment, we will use [this grading form](https://github.com/evanmiltenburg/python-for-text-analysis/blob/master/Final-Assignment/GradingForm.pdf). We will weigh our judgment criteria as follows:
 
 |     |Weight|
 |-----|------|
