@@ -9,4 +9,4 @@ At the moment there are two sample exams (and one dummy exam). As the course dev
 * [Exam 2015-2016](./Exam_2015-2016.pdf)
 * [Exam 2016-2017](./Exam_2016-2017.pdf) / [Dummy Exam 2016-2017](./Dummy_Exam_2016-2017.ipynb)
 
-Note that this concerns an exam **on paper**. In previous years, some of the students felt a bit uncomfortable with this form. We want to emphasize that as long as you keep up with the course material and weekly assignments, this exam should not be too hard.
+Note that this concerns an exam **on paper**. This may seem somewhat unnatural and scary, since you normally don't use pen and paper for programming. However, we want to emphasize that we are not asking you to write complete programs; the exam will only test basic knowledge, most of which will be acquired automatically as long as you keep up with the course material and weekly assignments.
