@@ -7,7 +7,6 @@ This folder contains sample exams from previous years. Note that these **may not
 At the moment there are two sample exams (and one dummy exam). As the course develops over the year, this collection will grow.
 
 * [Exam 2015-2016](./Exam_2015-2016.pdf)
-* [Exam 2016-2017](./Exam_2016-2017.pdf)
-* [Dummy Exam 2016-2017](./Dummy_Exam_2016-2017.ipynb)
+* [Exam 2016-2017](./Exam_2016-2017.pdf) / [Dummy Exam 2016-2017](./Dummy_Exam_2016-2017.ipynb)
 
 Note that this concerns an exam **on paper**. In previous years, some of the students felt a bit uncomfortable with this form. We want to emphasize that as long as you keep up with the course material and weekly assignments, this exam should not be too hard.
