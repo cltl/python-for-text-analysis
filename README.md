@@ -1,5 +1,5 @@
 # Python for text analysis
-*As taught at the Vrije Universiteit Amsterdam in the Research MA Linguistics, track [Linguistic Engineering](http://www.cltl.nl/teaching/research-master-linguistic-engineering/).*
+*As taught at the Vrije Universiteit Amsterdam in the [Humanities Research Master: Linguistics](http://masters.vu.nl/en/programmes/linguistics-research/index.aspx) (track [Human Language Technology](http://www.cltl.nl/teaching/human-language-technology/)) and the [Minor Digital Humanities and Social Analytics (BA)](https://www.vu.nl/nl/studiegids/2017-2018/minor/c-d/digital-humanities/index.aspx).*
 
 This is a practical course in Python, geared towards those who want to get some hands-on experience working with language data.
 No knowledge of programming is required or presupposed.
@@ -47,58 +47,64 @@ In our experience it does help to solve the exercises together with a classmate.
 
 Our materials are structured as follows:
 
-* Notebooks can be found in the `Notebooks` folder. This is our primary teaching material. You will work through an interactive notebook every week.
+* In the `Chapters` folder you can find our primary teaching material. Every week, you will work through a subset of these interactive notebooks.
 
-* Chapters on Python can be found in the `Python-chapters` folder. You can use these chapters for future reference.
+* The `Assignments` folder contains the assignments that you will be asked to submit during the course.
 
-* Other topics, related to natural language processing and 'everyday work' are covered
-  in the `NLP-topics` folder. So if you're just here to learn Python, you can skip these
-  notebooks. You may still find them useful, however!
+* The `Exam` folder contains sample exams from previous years.
 
-* The `Data` folder contains all data used in this course, and scripts used to obtain
+* The `Final_Assignment` folder contains the instructions and data needed for the final assignment (only for the MA students).
+
+* The `Extra_Material` folder contains some extra reading about the Python theory which you may use for future reference. It also contains some information specifically related to natural language processing, and examples on how to organize your code and how to create a Flask website. 
+
+* The `Data` folder contains all data used in this course and more, as well as the scripts used to obtain
   this data. (So you can see what techniques we used.)
 
 This file serves as the syllabus and a general reference for this course.
 
 ## Assignments and Grading
 
-There will be weekly assignments, a midterm exam, and a final assignment. They are weighted as follows.
+For the ReMa students taking the 9 ECTS Python for Text Analysis course (L_AAMPLIN017), there will be bi-weekly assignments, an exam, and a final assignment. They are weighted as follows.
 
 | Part    | weight % | | Part    | weight % |
 |---------|---------|---|---------|---------|
-|Assignment 1|	 4  | | Total Assignments |	17 |
-|Assignment 2|	 4  | | Exam	            |	20 |
-|Assignment 3|	 9  | | Final assignment  |	63 |
+|Assignment 1|	 5  | | Total Assignments |	35 |
+|Assignment 2|	 10  | | Exam	            |	20 |
+|Assignment 3|	 10  | | Final assignment  |	45 |
+|Assignment 4|	 10  | |   |	 |
 | |	   | | **Total**         |	100 |
-|**Total Assignments** |	17 | | | |
+|**Total Assignments** |	35 | | | |
+
+
+For the BA students taking the 6 ECTS Programming for Humanities and Social Sciences course (L_AABAALG069), there will be bi-weekly assignments and an exam. These students will **not** do a final assignment. The assignments and exam are weighted as follows.
+
+| Part    | weight % | | Part    | weight % |
+|---------|---------|---|---------|---------|
+|Assignment 1|	 9  | | Total Assignments |	60 |
+|Assignment 2|	 17  | | Exam	            |	40 |
+|Assignment 3|	 17  | |   |	 |
+|Assignment 4|	 17  | |   |	 |
+| |	   | | **Total**         |	100 |
+|**Total Assignments** |	60 | | | |
+
 
 ### Weekly assignments
-Every week you are asked to hand in an assignment before Tuesday 15:00pm.
+You are asked to hand in 4 assignments in total. The deadlines are either on Friday before 23:59 or on Tuesday at 17:00.
 Submission is done through Blackboard.
-There are three possible grades for an assignment: **not OK (5)**, **OK (7)**, and **good (9)**.
-Submission after the deadline results in one point deduction of your grade.
-In addition, we do not guarantee feedback if your submission is after the deadline.
-You have to hand in all assignments in order to be able to get a passing grade for the course. We use these assignments to keep
-track of your progress in the course, and to address misunderstandings when they arise.
+Submission 1 day after the deadline results in two points deduction of your grade. After that, the resulting grade is a 1.
+You have to hand in all assignments in order to be able to get a passing grade for the course. We use these assignments to keep track of your progress in the course, and to address misunderstandings when they arise.
 As practice is essential to learn how to program, and since these assignments also serve
 as a feedback mechanism in the course (keeping track of your progress), the assignments
 are **mandatory.**
 
 ### Midterm exam
-The midterm exam on the 15th of December tests your knowledge of the syntax of Python, and your knowledge
-of the standard library. It also tests whether you are able to write simple functions
-in Python. This knowledge is fundamental to the rest of the course. As such, you cannot
-pass the course without a passing grade on the midterm. But don't worry: if you are able
+The exam on the 18th of December tests your knowledge of the syntax of Python, and your knowledge
+of the standard library. For the BA students, it is the final test to show what you have learnt. For the MA students, it serves as a check to assure that your knowledge of the language is sufficient to tackle the final assignment. You cannot
+pass the course without a passing grade on the exam. But don't worry: if you are able
 to finish the assignments, you will be fine on the exam.
 
 ### The final assignment
-The final part of the course consists of a final assignment, for which you will work on your own code project.
-As part of the final assignment, we ask you to present your work.
-You will not receive a grade for this presentation, but it is compulsory.
-You can use the feedback on your presentation to improve your project.
-
-The exact details of the final assignment are to be determined. If you come up with
-an interesting task of your own, we are happy to turn that into an assignment as well.
+The final part of the MA course consists of a final assignment, for which you will work on your own code project. The exact details of the final assignment will be announced later.
 
 You can expect a project in which you are asked to:
 
@@ -125,47 +131,33 @@ Our philosophy is that programming should be taught in a hands-on manner, so we 
 to reduce 'powerpoint time' to a minimum. Most theory is mainly taught through the
 notebooks, but we'll also address the major topics in class.
 
-After the introductory session, assignments will be given on Thursday. You can
-work on these assignments in class and at home. We'll have a Q&A session on Monday,
-along with additional theory. We'll also work on the assignments in class. Assignments
-are handed in on Tuesday, so we can check everything in time for Thursday where you
-will receive feedback and get the new assignment.
+Each Block will consist of three lectures. In the first lecture, we introduce some of the new topics. 
+After this lecture, you are expected to work through the Chapters belonging to this block and start on the assignment. 
+In the second lecture, we will further highlight some of the theory and you will have time to work on the assignment.
+You will finish the assignment between the second and third lecture, and hand it in on either Friday or Thursday.
+Finally, the third lecture is a feedback session where we will discuss some of the main problems that were encountered in the assignments. We will repeat this cycle 4 times (for each assignment).
 
-In order to download a notebook about a Topic or an Assignment, please right click on the link in the schedule below and save the file in your course materials.
+In order to download a Chapter or Assignment notebook, please right click on the link in the schedule below and save the file in your course materials.
 
-| week | what     | when                   | preparation           | description |
+| week | what     | when                   | description           | downloads |
 |------|----------|------------------------|-----------------------|-------------|
-|  44  | lecture  | 31-10-2016 11:00-12:45 | None                  | Introduction + start of topic 1 |
-|  44  | lecture  | 3-11-2016 11:00-12:45  | [Topic 1](https://raw.githubusercontent.com/evanmiltenburg/python-for-text-analysis/master/Notebooks/Topic%201%20-%20Getting%20started.ipynb)               | discussion topic 1 + start of topic 2 + introduction assignment 1 |
-|  45  | lecture  | 7-11-2016 11:00-12:45  | [Topic 2](https://raw.githubusercontent.com/evanmiltenburg/python-for-text-analysis/master/Notebooks/Topic%202%20-%20Understanding%20string%20and%20list%20methods%20%2B%20boolean%20expressions%20%2B%20if%20statements.ipynb)              | discussion topic 2 + working on assignment 1 |
-|  45  | deadline | 8-11-2016 15:00        | [Assignment 1](https://raw.githubusercontent.com/evanmiltenburg/python-for-text-analysis/master/Notebooks/ASSIGNMENT-1.ipynb)          | |
-|  45  | lecture  | 10-11-2016 11:00-12:45 |                       | feedback assignment 1 + start of topic 3 + introduction assignment 2 |
-|  46  | lecture  | 14-11-2016 11:00-12:45 | [Topic 3](https://raw.githubusercontent.com/evanmiltenburg/python-for-text-analysis/master/Notebooks/Topic%203%20-%20Diving%20into%20files%20and%20data%20formats.ipynb) <br> [Data](https://github.com/evanmiltenburg/python-for-text-analysis/blob/master/Data.zip)               | discussion topic 3 + working on assignment 2 |
-|  46  | lecture  | 17-11-2016 11:00-12:45 |                       | working on assignment 2 |
-|  47  | lecture  | 21-11-2016 11:00-12:45 |                       | working on assignment 2 |
-|  47  | deadline | 22-11-2016 15:00       | [Assignment 2](https://raw.githubusercontent.com/evanmiltenburg/python-for-text-analysis/master/Notebooks/ASSIGNMENT-2.ipynb)          |  |
-|  47  | lecture  | 24-11-2016 11:00-12:45 |                       | feedback assignment 2 + start of topic 4 + introduction assignment 3 |
-|  48  | lecture  | 28-11-2016 11:00-12:45 |                | working on assignment 3 |
-|  48  | deadline | 30-11-2016 17:00       | [Assignment 3](https://raw.githubusercontent.com/evanmiltenburg/python-for-text-analysis/master/Notebooks/ASSIGNMENT-3.ipynb)          |  |
-|  48  | lecture  | 1-12-2016 11:00-12:45  |                       | recap |
-|  49  | lecture  | 5-12-2016 11:00-12:45  |               | feedback assignment 3 |
-|  ~~49~~  | ~~deadline~~ | ~~6-12-2016 15:00~~        | ~~[Assignment 4](https://github.com/evanmiltenburg/python-for-text-analysis/raw/master/Notebooks/ASSIGNMENT-4.ipynb) <br> ([data](https://github.com/evanmiltenburg/python-for-text-analysis/raw/master/Notebooks/data.zip), [images](https://github.com/evanmiltenburg/python-for-text-analysis/raw/master/Notebooks/images.zip))~~         | |
-|  49  | lecture  | 8-12-2016 11:00-12:45  |                       | Recap topics 1,2,3,4 + introduction practice exam |
-|  50  | lecture  | 12-12-2016 11:00-12:45 | [practice exam](https://raw.githubusercontent.com/evanmiltenburg/python-for-text-analysis/master/Midterm/Dummy%20Exam%202016-2017.ipynb)         | discussion practice exam + QA session exam |
-|  50  | deadline | 15-12-2016 11:00-12:45 |                       | Exam |
-|  51  | lecture  | 19-12-2016 11:00-12:45 |                       | introduction final assignment |
-|  51  | lecture  | 22-12-2016 11:00-12:45 |                       | Exam feedback + working on final assignment |
-|  52  |          |                        |                       | Christmas break |
-|  1   |          |                        |                       | Christmas break |
-|  2   | lecture  | not known yet          |                       | noncompulsory (due to LOT school) QA session final assignment |
-|  2   | lecture  | not known yet          |                       | noncompulsory (due to LOT school) QA session final assignment |
-|  3   | lecture  | not known yet          |                       | noncompulsory (due to LOT school) QA session final assignment |
-|  3   | lecture  | not known yet          |                       | noncompulsory (due to LOT school) QA session final assignment |
-|  4   | lecture  | not known yet          |                       | working on final assignment |
-|  4   | lecture  | not known yet          |                       | working on final assignment  |
-|  5   | lecture  | not known yet          |                       | working on final assignment  |
-|  5   | deadline | not known yet          |                       | Presentation final assignment  |
-|  5   | deadline | 5-2-2017 23:59         |                       | Final assignment  |
+|  44  | lecture  | Monday 30-10-2017  | BLOCK 1: Introduction | [Chapter 1](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Chapters/Chapter%201%20-%20Getting%20Started%20with%20Variables%20and%20Data%20Types.ipynb)         <br> [Chapter 2](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Chapters/Chapter%202%20-%20Strings.ipynb) <br> [Chapter 3](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Chapters/Chapter%203%20-%20Boolean%20Expressions%20and%20Conditions.ipynb) <br> [Assignment 1]()|
+|  44  | lecture  | Thursday 2-11-2016   | BLOCK 1: Discussion and work time |  |
+|  45  | lecture  | Monday 6-11-2016   |  BLOCK 1: Feedback |  |
+|  45  | lecture  | Thursday 9-11-2016   |  BLOCK 2: Introduction |  |
+|  46  | lecture  | Monday 13-11-2016   |  BLOCK 2: Discussion and work time |  |
+|  46  | lecture  | Thursday 16-11-2016   |  BLOCK 2: Feedback |  |
+|  47  | lecture  | Monday 20-11-2016   |  BLOCK 3: Introduction |  |
+|  47  | lecture  | Thursday 23-11-2016   | BLOCK 3: Discussion and work time |  |
+|  48  | lecture  | Monday 27-11-2016   |  BLOCK 3: Feedback |  |
+|  48  | lecture  | Thursday 30-11-2016   |  BLOCK 4: Introduction |  |
+|  49  | lecture  | Monday 4-12-2016   |  BLOCK 4: Discussion and work time |  |
+|  49  | lecture  | Thursday 7-12-2016   | BLOCK 4: Feedback |  |
+|  50  | lecture  | Monday 11-12-2016   | Practice EXAM  |  |
+|  50  | lecture  | Thursday 14-12-2016   |  Practice EXAM |  |
+|  51  | EXAM  | Monday 18-12-2016   |  EXAM |  |
+|  52  | lecture  | Thursday 21-12-2016   |  Introduction FINAL ASSIGNMENT |  |
+
 
 ## Attendance policy
 You are expected to attempt to attend all lectures. You are allowed to miss two lectures at most. After more than two absences, you are no longer able to obtain credits for the course.  
