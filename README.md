@@ -90,7 +90,7 @@ For the BA students taking the 6 ECTS Programming for Humanities and Social Scie
 
 ### Weekly assignments
 You are asked to hand in 4 assignments in total. The deadlines are either on Friday before 23:59 or on Tuesday at 17:00.
-Submission is done through Blackboard.
+Submission is done through Google Drive (see submission forms below in the schedule).
 Submission 1 day after the deadline results in two points deduction of your grade. After that, the resulting grade is a 1.
 We have to be strict about this, because we will discuss the assignments in class and we need time to look at your submissions. 
 
@@ -136,7 +136,7 @@ Finally, the third lecture is a feedback session where we will discuss some of t
 
 In order to download a Chapter or Assignment notebook, please right click on the link in the schedule below and save the file in your course materials.
 
-| week | what     | when                   | description           | downloads |
+| week | what     | when                   | description           | downloads/uploads |
 |------|----------|------------------------|-----------------------|-------------|
 |  44  | lecture  | Monday 30-10-2017 <br> 15:30 - 17:15 | BLOCK 1: Introduction | [Chapter 1](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Chapters/Chapter%201%20-%20Getting%20Started%20with%20Variables%20and%20Data%20Types.ipynb)         <br> [Chapter 2](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Chapters/Chapter%202%20-%20Strings.ipynb) <br> [Chapter 3](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Chapters/Chapter%203%20-%20Boolean%20Expressions%20and%20Conditions.ipynb) <br> [Assignment 1]()|
 |  44  | lecture  | Thursday 2-11-2017 <br> 13:30 - 15:15  | BLOCK 1: Discussion and work time |  |
