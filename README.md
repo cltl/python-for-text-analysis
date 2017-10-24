@@ -140,19 +140,19 @@ In order to download a Chapter or Assignment notebook, please right click on the
 |------|----------|------------------------|-----------------------|-------------|
 |  44  | lecture  | Monday 30-10-2017 <br> 15:30 - 17:15 | BLOCK 1: Introduction | [Chapter 1](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Chapters/Chapter%201%20-%20Getting%20Started%20with%20Variables%20and%20Data%20Types.ipynb)         <br> [Chapter 2](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Chapters/Chapter%202%20-%20Strings.ipynb) <br> [Chapter 3](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Chapters/Chapter%203%20-%20Boolean%20Expressions%20and%20Conditions.ipynb) <br> [Assignment 1]()|
 |  44  | lecture  | Thursday 2-11-2017 <br> 13:30 - 15:15  | BLOCK 1: Discussion and work time |  |
-|  44  | DEADLINE  | Friday 3-11-2017 <br> before 23:59  | ASSIGNMENT 1 | [submission form](https://goo.gl/forms/0DfPcX9cLbSzLdet1) |
+|  44  | DEADLINE  | Friday 3-11-2017 <br> before 23:59  | SUBMIT ASSIGNMENT 1 | [submission form](https://goo.gl/forms/0DfPcX9cLbSzLdet1) |
 |  45  | lecture  | Monday 6-11-2017  <br> 15:30 - 17:15 |  BLOCK 1: Feedback |  |
 |  45  | lecture  | Thursday 9-11-2017  <br> 13:30 - 15:15 |  BLOCK 2: Introduction |  |
 |  46  | lecture  | Monday 13-11-2017  <br> 15:30 - 17:15 |  BLOCK 2: Discussion and work time |  |
-|  44  | DEADLINE  | Tuesday 14-11-2017 <br> before 17:00  | ASSIGNMENT 2 | [submission form](https://goo.gl/forms/4OidikfRfz229WNW2) |
+|  44  | DEADLINE  | Tuesday 14-11-2017 <br> before 17:00  | SUBMIT ASSIGNMENT 2 | [submission form](https://goo.gl/forms/4OidikfRfz229WNW2) |
 |  46  | lecture  | Thursday 16-11-2017  <br> 13:30 - 15:15 |  BLOCK 2: Feedback |  |
 |  47  | lecture  | Monday 20-11-2017 <br> 15:30 - 17:15  |  BLOCK 3: Introduction |  |
 |  47  | lecture  | Thursday 23-11-2017 <br> 13:30 - 15:15  | BLOCK 3: Discussion and work time |  |
-|  44  | DEADLINE  | Friday 24-11-2017   | ASSIGNMENT 3 <br> before 23:59 | [submission form](https://goo.gl/forms/6iTiRiZk4z8W68UE3) |
+|  44  | DEADLINE  | Friday 24-11-2017 <br> before 23:59  | SUBMIT ASSIGNMENT 3 | [submission form](https://goo.gl/forms/6iTiRiZk4z8W68UE3) |
 |  48  | lecture  | Monday 27-11-2017 <br> 15:30 - 17:15  |  BLOCK 3: Feedback |  |
 |  48  | lecture  | Thursday 30-11-2017 <br> 13:30 - 15:15  |  BLOCK 4: Introduction |  |
 |  49  | lecture  | Monday 4-12-2017 <br> 15:30 - 17:15  |  BLOCK 4: Discussion and work time |  |
-|  44  | DEADLINE  | Tuesday 5-12-2017   | ASSIGNMENT 4 <br> before 17:00 | [submission form](https://goo.gl/forms/Zjf24oobU5Ab5yAD3) |
+|  44  | DEADLINE  | Tuesday 5-12-2017 <br> before 17:00  | SUBMIT ASSIGNMENT 4  | [submission form](https://goo.gl/forms/Zjf24oobU5Ab5yAD3) |
 |  49  | lecture  | Thursday 7-12-2017  <br> 13:30 - 15:15 | BLOCK 4: Feedback |  |
 |  50  | lecture  | Monday 11-12-2017 <br> 15:30 - 17:15  | Practice EXAM  |  |
 |  50  | lecture  | Thursday 14-12-2017  <br> 13:30 - 15:15 |  Practice EXAM |  |
