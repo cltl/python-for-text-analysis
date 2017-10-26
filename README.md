@@ -8,15 +8,16 @@ We will work with Python 3. If you haven't worked with Python before, we recomme
 (If you have worked with Python 3 before, be sure to check if Jupyter Notebook
 is installed on your machine. We will work extensively with notebooks.)
 
+*This course is based on the material used in [previous years](https://github.com/cltl/python-for-text-analysis/releases) and in [this course](https://github.com/kadarakos/python-course).*
+
 ## Goals
 
-After this course you will know the basics of the Python programming language, and you will be familiar with several external libraries that are commonly used to analyze text. Our goal is for you to become an independent programmer, who is able to find solutions to new problems. You will..
+This course is meant to introduce you to the basics of the Python programming language. There is a lot to discover about Python and programming in general, and you will probably learn something new every day if you continue programming after this course. Our goal for you is to become an independent programmer, who is able to find solutions to new problems. You will..
 
-*	Learn how to analyze text data using Python.
-*	Learn how to deal with different file types (plain text, doc, CSV, JSON, HTML, XML).
-*	Learn how to get the data you want (through APIs or using a script).
-*	Learn how to deal with large amounts of (text) data.
-*	Learn how to visualize and share your code and results.
+* Learn how to work with the standard library of Python
+*	Learn how to deal with different file types (e.g. plain text, CSV/TSV, JSON, XML)
+*	Learn how to use some external libraries (e.g. to analyse texts)
+*	Learn how to document and share your code and results
 
 We will focus on readability and understandability, so that you will be able to share your code and results with others, and re-use your code in the future. This is a practical course, in which you will get a lot of hands-on experience. Due to the nature of this course, active participation is required.
 
@@ -144,20 +145,20 @@ In order to download a Chapter or Assignment notebook, please right click on the
 |  45  | lecture  | Monday 6-11-2017  <br> 15:30 - 17:15 |  BLOCK 1: Feedback |  |
 |  45  | lecture  | Thursday 9-11-2017  <br> 13:30 - 15:15 |  BLOCK 2: Introduction |  |
 |  46  | lecture  | Monday 13-11-2017  <br> 15:30 - 17:15 |  BLOCK 2: Discussion and work time |  |
-|  44  | DEADLINE  | Tuesday 14-11-2017 <br> before 17:00  | SUBMIT ASSIGNMENT 2 | [submission form](https://goo.gl/forms/4OidikfRfz229WNW2) |
+|  46  | DEADLINE  | Tuesday 14-11-2017 <br> before 17:00  | SUBMIT ASSIGNMENT 2 | [submission form](https://goo.gl/forms/4OidikfRfz229WNW2) |
 |  46  | lecture  | Thursday 16-11-2017  <br> 13:30 - 15:15 |  BLOCK 2: Feedback |  |
 |  47  | lecture  | Monday 20-11-2017 <br> 15:30 - 17:15  |  BLOCK 3: Introduction |  |
 |  47  | lecture  | Thursday 23-11-2017 <br> 13:30 - 15:15  | BLOCK 3: Discussion and work time |  |
-|  44  | DEADLINE  | Friday 24-11-2017 <br> before 23:59  | SUBMIT ASSIGNMENT 3 | [submission form](https://goo.gl/forms/6iTiRiZk4z8W68UE3) |
+|  47  | DEADLINE  | Friday 24-11-2017 <br> before 23:59  | SUBMIT ASSIGNMENT 3 | [submission form](https://goo.gl/forms/6iTiRiZk4z8W68UE3) |
 |  48  | lecture  | Monday 27-11-2017 <br> 15:30 - 17:15  |  BLOCK 3: Feedback |  |
 |  48  | lecture  | Thursday 30-11-2017 <br> 13:30 - 15:15  |  BLOCK 4: Introduction |  |
 |  49  | lecture  | Monday 4-12-2017 <br> 15:30 - 17:15  |  BLOCK 4: Discussion and work time |  |
-|  44  | DEADLINE  | Tuesday 5-12-2017 <br> before 17:00  | SUBMIT ASSIGNMENT 4  | [submission form](https://goo.gl/forms/Zjf24oobU5Ab5yAD3) |
+|  49  | DEADLINE  | Tuesday 5-12-2017 <br> before 17:00  | SUBMIT ASSIGNMENT 4  | [submission form](https://goo.gl/forms/Zjf24oobU5Ab5yAD3) |
 |  49  | lecture  | Thursday 7-12-2017  <br> 13:30 - 15:15 | BLOCK 4: Feedback |  |
 |  50  | lecture  | Monday 11-12-2017 <br> 15:30 - 17:15  | Practice EXAM  |  |
 |  50  | lecture  | Thursday 14-12-2017  <br> 13:30 - 15:15 |  Practice EXAM |  |
 |  51  | EXAM  | Monday 18-12-2017 <br> 08:45 - 11:30  |  EXAM |  |
-|  52  | lecture  | Thursday 21-12-2017  <br> 13:30 - 15:15 |  Introduction FINAL ASSIGNMENT |  |
+|  51  | lecture  | Thursday 21-12-2017  <br> 13:30 - 15:15 |  Introduction FINAL ASSIGNMENT |  |
 
 
 ## Attendance policy
