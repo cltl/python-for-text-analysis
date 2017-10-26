@@ -139,7 +139,7 @@ In order to download a Chapter or Assignment notebook, please right click on the
 
 | week | what     | when                   | description           | downloads/uploads |
 |------|----------|------------------------|-----------------------|-------------|
-|  44  | lecture  | Monday 30-10-2017 <br> 15:30 - 17:15 | BLOCK 1: Introduction | [Chapter 1](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Chapters/Chapter%201%20-%20Getting%20Started%20with%20Variables%20and%20Data%20Types.ipynb)         <br> [Chapter 2](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Chapters/Chapter%202%20-%20Strings.ipynb) <br> [Chapter 3](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Chapters/Chapter%203%20-%20Boolean%20Expressions%20and%20Conditions.ipynb) <br> [Assignment 1]()|
+|  44  | lecture  | Monday 30-10-2017 <br> 15:30 - 17:15 | BLOCK 1: Introduction | [Chapters](https://github.com/cltl/python-for-text-analysis/raw/master/Chapters/Block_I.zip) <br> [Assignment 1]()|
 |  44  | lecture  | Thursday 2-11-2017 <br> 13:30 - 15:15  | BLOCK 1: Discussion and work time |  |
 |  44  | DEADLINE  | Friday 3-11-2017 <br> before 23:59  | SUBMIT ASSIGNMENT 1 | [submission form](https://goo.gl/forms/0DfPcX9cLbSzLdet1) |
 |  45  | lecture  | Monday 6-11-2017  <br> 15:30 - 17:15 |  BLOCK 1: Feedback |  |
