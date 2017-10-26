@@ -90,7 +90,7 @@ For the BA students taking the 6 ECTS Programming for Humanities and Social Scie
 
 
 ### Weekly assignments
-You are asked to hand in 4 assignments in total. The deadlines are either on Friday before 23:59 or on Tuesday at 17:00.
+You are asked to hand in 4 assignments in total. The deadlines are either on Friday before 23:59 or on Tuesday at 20:00.
 Submission is done through Google Drive (see submission forms below in the schedule).
 Submission 1 day after the deadline results in two points deduction of your grade. After that, the resulting grade is a 1.
 We have to be strict about this, because we will discuss the assignments in class and we need time to look at your submissions. 
@@ -145,7 +145,7 @@ In order to download a Chapter or Assignment notebook, please right click on the
 |  45  | lecture  | Monday 6-11-2017  <br> 15:30 - 17:15 |  BLOCK 1: Feedback |  |
 |  45  | lecture  | Thursday 9-11-2017  <br> 13:30 - 15:15 |  BLOCK 2: Introduction |  |
 |  46  | lecture  | Monday 13-11-2017  <br> 15:30 - 17:15 |  BLOCK 2: Discussion and work time |  |
-|  46  | DEADLINE  | Tuesday 14-11-2017 <br> before 17:00  | SUBMIT ASSIGNMENT 2 | [submission form](https://goo.gl/forms/4OidikfRfz229WNW2) |
+|  46  | DEADLINE  | Tuesday 14-11-2017 <br> before 20:00  | SUBMIT ASSIGNMENT 2 | [submission form](https://goo.gl/forms/4OidikfRfz229WNW2) |
 |  46  | lecture  | Thursday 16-11-2017  <br> 13:30 - 15:15 |  BLOCK 2: Feedback |  |
 |  47  | lecture  | Monday 20-11-2017 <br> 15:30 - 17:15  |  BLOCK 3: Introduction |  |
 |  47  | lecture  | Thursday 23-11-2017 <br> 13:30 - 15:15  | BLOCK 3: Discussion and work time |  |
@@ -153,7 +153,7 @@ In order to download a Chapter or Assignment notebook, please right click on the
 |  48  | lecture  | Monday 27-11-2017 <br> 15:30 - 17:15  |  BLOCK 3: Feedback |  |
 |  48  | lecture  | Thursday 30-11-2017 <br> 13:30 - 15:15  |  BLOCK 4: Introduction |  |
 |  49  | lecture  | Monday 4-12-2017 <br> 15:30 - 17:15  |  BLOCK 4: Discussion and work time |  |
-|  49  | DEADLINE  | Tuesday 5-12-2017 <br> before 17:00  | SUBMIT ASSIGNMENT 4  | [submission form](https://goo.gl/forms/Zjf24oobU5Ab5yAD3) |
+|  49  | DEADLINE  | Tuesday 5-12-2017 <br> before 20:00  | SUBMIT ASSIGNMENT 4  | [submission form](https://goo.gl/forms/Zjf24oobU5Ab5yAD3) |
 |  49  | lecture  | Thursday 7-12-2017  <br> 13:30 - 15:15 | BLOCK 4: Feedback |  |
 |  50  | lecture  | Monday 11-12-2017 <br> 15:30 - 17:15  | Practice EXAM  |  |
 |  50  | lecture  | Thursday 14-12-2017  <br> 13:30 - 15:15 |  Practice EXAM |  |
