@@ -135,7 +135,7 @@ In the second lecture, we will further highlight some of the theory and you will
 You will finish the assignment between the second and third lecture, and hand it in on either Friday or Thursday.
 Finally, the third lecture is a feedback session where we will discuss some of the main problems that were encountered in the assignments. We will repeat this cycle 4 times (for each assignment).
 
-For downloading the material, please right click on the links in the schedule below and save the file in your course materials. Save the `Chapter X` notebooks in your `Chapters` folder, the `Assignment X` notebooks in your `Assignments` folder. If additional `data` is provided, save it in the `Data` folder.
+New material will be added to this Github repository during the course. For downloading the material, please right click on the links in the schedule below and save the file in your course materials. Save the `Chapter X` notebooks in your `Chapters` folder, the `Assignment X` notebooks in your `Assignments` folder. If additional `data` is provided, save it in the `Data` folder.
 
 | week | what     | when                   | description           | downloads/uploads |
 |------|----------|------------------------|-----------------------|-------------|
