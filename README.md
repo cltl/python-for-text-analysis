@@ -48,7 +48,9 @@ In our experience it does help to solve the exercises together with a classmate.
 
 Our materials are structured as follows:
 
-* In the `Chapters` folder you can find our primary teaching material. Every week, you will work through a subset of these interactive notebooks.
+* The `Chapters` folder contains our primary teaching material. Every week, you will work through a subset of these interactive notebooks.
+
+* The `Class_Notes` folder contains the examples and additional remarks that we discussed during class.
 
 * The `Assignments` folder contains the assignments that you will be asked to submit during the course.
 
@@ -140,7 +142,7 @@ New material will be added to this Github repository during the course. For down
 | week | what     | when                   | description           | downloads/uploads |
 |------|----------|------------------------|-----------------------|-------------|
 |  44  | lecture  | Monday 30-10-2017 <br> 15:30 - 17:15 | BLOCK 1: Introduction | [Chapter 1](https://github.com/cltl/python-for-text-analysis/raw/master/Chapters/Chapter%201%20-%20Getting%20Started%20with%20Variables%20and%20Values.ipynb) <br>  [Chapter 2](https://github.com/cltl/python-for-text-analysis/raw/master/Chapters/Chapter%202%20-%20Basic%20Data%20Types%20(Integers%20and%20Floats).ipynb) <br> [Chapter 3](https://github.com/cltl/python-for-text-analysis/raw/master/Chapters/Chapter%203%20-%20Strings.ipynb) <br> [Chapter 4](https://github.com/cltl/python-for-text-analysis/blob/master/Chapters/Chapter%204%20-%20Boolean%20Expressions%20and%20Conditions.ipynb) <br> [Assignment 1](https://github.com/cltl/python-for-text-analysis/raw/master/Assignments/ASSIGNMENT-1.ipynb)|
-|  44  | lecture  | Thursday 2-11-2017 <br> 13:30 - 15:15  | BLOCK 1: Discussion and work time |  |
+|  44  | lecture  | Thursday 2-11-2017 <br> 13:30 - 15:15  | BLOCK 1: Discussion and work time | [Class Notes](https://github.com/cltl/python-for-text-analysis/raw/master/Class_Notes/Class%20Notes%202-11-2017%20(Block%20I).ipynb) |
 |  44  | DEADLINE  | Friday 3-11-2017 <br> before 23:59  | SUBMIT ASSIGNMENT 1 | [submission form](https://goo.gl/forms/0DfPcX9cLbSzLdet1) |
 |  45  | lecture  | Monday 6-11-2017  <br> 15:30 - 17:15 |  BLOCK 1: Feedback |  |
 |  45  | lecture  | Thursday 9-11-2017  <br> 13:30 - 15:15 |  BLOCK 2: Introduction |  |
