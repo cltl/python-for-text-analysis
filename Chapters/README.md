@@ -18,4 +18,5 @@ This folder contains all the notebooks that we will use as our course material. 
   - [Chapter 8 - Comparison of lists and sets.ipynb](https://github.com/cltl/python-for-text-analysis/blob/master/Chapters/Chapter%208%20-%20Comparison%20of%20lists%20and%20sets.ipynb)
   - [Chapter 9 - Looping over containers.ipynb](https://github.com/cltl/python-for-text-analysis/blob/master/Chapters/Chapter%209%20-%20Looping%20over%20containers.ipynb)
   - [Chapter 10 - Dictionaries.ipynb](https://github.com/cltl/python-for-text-analysis/blob/master/Chapters/Chapter%2010%20-%20Dictionaries.ipynb)
+  - [ASSIGNMENT-2.ipynb](https://github.com/cltl/python-for-text-analysis/blob/master/Assignments/ASSIGNMENT-2.ipynb)
 
