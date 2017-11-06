@@ -10,7 +10,7 @@ This folder contains all the notebooks that we will use as our course material. 
   - [Chapter 4 - Boolean Expressions and Conditions](https://github.com/cltl/python-for-text-analysis/blob/master/Chapters/Chapter%204%20-%20Boolean%20Expressions%20and%20Conditions.ipynb) 
   - [ASSIGNMENT 1](https://github.com/cltl/python-for-text-analysis/blob/master/Assignments/ASSIGNMENT-1.ipynb)
 
-- **`Block II`:**: In this block, we will introduce the most important containers in the Python language: **lists**, **sets**, **tuples**, and **dictionaries**. You will learn key concepts that they all share, which are positional argument, keyword argument, and mutability. In addition you will learn how to understand and use the methods for each container and how to use built-in functions to analyze/inspect the containers. Finally, you will learn how to loop through all the containers.
+- **`Block II`:**: In this block, we will introduce the most important containers in the Python language: **lists**, **sets**, **tuples**, and **dictionaries**. You will learn key concepts that they all share, which are positional arguments, keyword arguments, and mutability. In addition you will learn how to understand and use the methods for each container and how to use built-in functions to analyze/inspect the containers. Finally, you will learn how to loop through all the containers.
 
 - [Chapter 5 - Containers' core concepts.ipynb](https://github.com/cltl/python-for-text-analysis/blob/master/Chapters/Chapter%205%20-%20Containers'%20core%20concepts.ipynb)
 - [Chapter 6 - Lists.ipynb](https://github.com/cltl/python-for-text-analysis/blob/master/Chapters/Chapter%206%20-%20Lists.ipynb)
