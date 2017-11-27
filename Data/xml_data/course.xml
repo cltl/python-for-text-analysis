@@ -1,0 +1,19 @@
+<Course>
+    <person role="coordinator">Van der Vliet</person>
+    <person role="instructor">Van Miltenburg</person>
+    <person role="instructor">Van Son</person>
+    <person role="instructor">Marten Postma</person>
+    <person role="student">Baloche</person>
+    <person role="student">De Boer</person>
+    <animal role="student">Rubber duck</animal>
+    <person role="student">Van Doorn</person>
+    <person role="student">De Jager</person>
+    <person role="student">King</person>
+    <person role="student">Kingham</person>
+    <person role="student">Mózes</person>
+    <person role="student">Rübsaam</person>
+    <person role="student">Torsi</person>
+    <person role="student">Witteman</person>
+    <person role="student">Wouterse</person>
+    <person/>
+</Course>
