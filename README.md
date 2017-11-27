@@ -155,7 +155,7 @@ New material will be added to this Github repository during the course. For down
 |  48  | lecture  | Monday 27-11-2017 <br> 15:30 - 17:15  |  BLOCK 3: Feedback |  |
 |  48  | lecture  | Thursday 30-11-2017 <br> 13:30 - 15:15  |  BLOCK 4: Introduction |  |
 |  49  | lecture  | Monday 4-12-2017 <br> 15:30 - 17:15  |  BLOCK 4: Discussion and work time |  |
-|  49  | DEADLINE  | Tuesday 5-12-2017 <br> before 20:00  | SUBMIT ASSIGNMENT 4  | [submission form](https://goo.gl/forms/Zjf24oobU5Ab5yAD3) |
+|  49  | DEADLINE  | Tuesday 5-12-2017 <br> before 20:00  | SUBMIT ASSIGNMENT 4  | [submission form](https://goo.gl/forms/BuUUMrHERXT4Y4Uv1) |
 |  49  | lecture  | Thursday 7-12-2017  <br> 13:30 - 15:15 | BLOCK 4: Feedback |  |
 |  50  | lecture  | Monday 11-12-2017 <br> 15:30 - 17:15  | Practice EXAM  |  |
 |  50  | lecture  | Thursday 14-12-2017  <br> 13:30 - 15:15 |  Practice EXAM |  |
