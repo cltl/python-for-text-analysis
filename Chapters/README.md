@@ -29,3 +29,11 @@ This folder contains all the notebooks that we will use as our course material. 
     - [Chapter 14 - Data formats](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Chapters/Chapter%2014%20-%20Data%20formats.ipynb)
     - [Chapter 15 - Off to analyzing text](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Chapters/Chapter%2015%20-%20Off%20to%20analyzing%20text.ipynb)
     - [ASSIGNMENT 3](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Assignments/ASSIGNMENT-3.ipynb)
+    
+    
+- **`Block IV`:** In this block you will be introduced to a new data format: XML. In addition, you will learn how to run and structure your code using python files.
+
+  - [Chapter 16 - XML](https://github.com/cltl/python-for-text-analysis/blob/master/Chapters/Chapter%2016%20-%20XML.ipynb)
+  - [Chapter 17 - Working with Python files](https://github.com/cltl/python-for-text-analysis/blob/master/Chapters/Chapter%2017%20-%20Working%20with%20Python%20files.ipynb)
+  - [ASSIGNMENT 4a](https://github.com/cltl/python-for-text-analysis/blob/master/Assignments/ASSIGNMENT-4a.ipynb)
+  - [ASSIGNMENT 4b](https://github.com/cltl/python-for-text-analysis/blob/master/Assignments/ASSIGNMENT-4b.ipynb)
