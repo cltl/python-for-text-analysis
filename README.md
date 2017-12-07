@@ -157,7 +157,7 @@ New material will be added to this Github repository during the course. For down
 |  49  | lecture  | Monday 4-12-2017 <br> 15:30 - 17:15  |  BLOCK 4: Discussion and work time | [Class notes](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Class_Notes/Class%20Notes%204-12-2017%20(Block%20IV).ipynb) |
 |  49  | DEADLINE  | Tuesday 5-12-2017 <br> before 20:00  | SUBMIT ASSIGNMENT 4  | [submission form](https://goo.gl/forms/BuUUMrHERXT4Y4Uv1) |
 |  49  | lecture  | Thursday 7-12-2017  <br> 13:30 - 15:15 | BLOCK 4: Feedback |  |
-|  50  | lecture  | Monday 11-12-2017 <br> 15:30 - 17:15  | Practice EXAM  |  |
+|  50  | lecture  | Monday 11-12-2017 <br> 15:30 - 17:15  | Practice EXAM  | [Dummy exam](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Exam/Dummy_Exam_201718.ipynb) |
 |  50  | lecture  | Thursday 14-12-2017  <br> 13:30 - 15:15 |  Practice EXAM |  |
 |  51  | EXAM  | Monday 18-12-2017 <br> 08:45 - 11:30  |  EXAM |  |
 |  51  | lecture  | Thursday 21-12-2017  <br> 13:30 - 15:15 |  Introduction FINAL ASSIGNMENT |  |
