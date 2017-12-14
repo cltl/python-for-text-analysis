@@ -160,7 +160,7 @@ New material will be added to this Github repository during the course. For down
 |  50  | lecture  | Monday 11-12-2017 <br> 15:30 - 17:15  | Practice EXAM  | [Dummy exam](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Exam/Dummy_Exam_201718.ipynb) |
 |  50  | lecture  | Thursday 14-12-2017  <br> 13:30 - 15:15 |  Practice EXAM |  |
 |  51  | EXAM  | Monday 18-12-2017 <br> 08:45 - 11:30  |  EXAM |  |
-|  51  | lecture  | Thursday 21-12-2017  <br> 13:30 - 15:15 |  Introduction FINAL ASSIGNMENT |  |
+|  51  | lecture  | Thursday 21-12-2017  <br> 13:30 - 15:15 |  Introduction FINAL ASSIGNMENT | [Final Assignment](https://github.com/cltl/python-for-text-analysis/raw/master/Final_Assignment/Final_Assignment_2017-2018.pdf) |
 
 
 ## Attendance policy
