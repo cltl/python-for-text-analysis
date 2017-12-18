@@ -161,6 +161,7 @@ New material will be added to this Github repository during the course. For down
 |  50  | lecture  | Thursday 14-12-2017  <br> 13:30 - 15:15 |  Practice EXAM + Introduction Final Assignment|  |
 |  51  | EXAM  | Monday 18-12-2017 <br> 08:45 - 11:30  |  EXAM |  |
 |  51  | lecture  | Thursday 21-12-2017  <br> 13:30 - 15:15 |  Start with FINAL ASSIGNMENT | [Final Assignment](https://github.com/cltl/python-for-text-analysis/raw/master/Final_Assignment/Final_Assignment_2017-2018.pdf) |
+|  51  | DEADLINE  | Friday 22-12-2017  <br> before 13:00 | Decision on Team + Task + Dataset  | Please inform us by e-mail |
 |  2  | lecture  | Thursday 11-01-2018  <br> 13:20 - 14:10 |  Lecture on spaCy |  |
 |  2  | consultation  | Monday, Wednesday, Thursday |  Individual feedback | [Sign up](https://docs.google.com/spreadsheets/d/1E6-GpxbQdI6wUwcuH2F5p5_g1JaKkQn2JhLPg2-D1uc/edit#gid=0) |
 |  3  | lecture  | Monday 15-01-2018  <br> 15:30 - 17:15 |  Lecture on Visualization and Code organization |  |
