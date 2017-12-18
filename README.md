@@ -157,11 +157,19 @@ New material will be added to this Github repository during the course. For down
 |  49  | lecture  | Monday 4-12-2017 <br> 15:30 - 17:15  |  BLOCK 4: Discussion and work time | [Class notes](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Class_Notes/Class%20Notes%204-12-2017%20(Block%20IV).ipynb) |
 |  49  | DEADLINE  | Tuesday 5-12-2017 <br> before 20:00  | SUBMIT ASSIGNMENT 4  | [submission form](https://goo.gl/forms/BuUUMrHERXT4Y4Uv1) |
 |  49  | lecture  | Thursday 7-12-2017  <br> 13:30 - 15:15 | BLOCK 4: Feedback |  |
-|  50  | lecture  | Monday 11-12-2017 <br> 15:30 - 17:15  | Practice EXAM  | [Dummy exam](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Exam/Dummy_Exam_201718.ipynb) |
-|  50  | lecture  | Thursday 14-12-2017  <br> 13:30 - 15:15 |  Practice EXAM |  |
+|  50  | lecture  | Monday 11-12-2017 <br> 15:30 - 17:15  | CANCELLED  | [Dummy exam](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Exam/Dummy_Exam_201718.ipynb) |
+|  50  | lecture  | Thursday 14-12-2017  <br> 13:30 - 15:15 |  Practice EXAM + Introduction Final Assignment|  |
 |  51  | EXAM  | Monday 18-12-2017 <br> 08:45 - 11:30  |  EXAM |  |
-|  51  | lecture  | Thursday 21-12-2017  <br> 13:30 - 15:15 |  Introduction FINAL ASSIGNMENT | [Final Assignment](https://github.com/cltl/python-for-text-analysis/raw/master/Final_Assignment/Final_Assignment_2017-2018.pdf) |
-
+|  51  | lecture  | Thursday 21-12-2017  <br> 13:30 - 15:15 |  Start with FINAL ASSIGNMENT | [Final Assignment](https://github.com/cltl/python-for-text-analysis/raw/master/Final_Assignment/Final_Assignment_2017-2018.pdf) |
+|  2  | lecture  | Thursday 11-01-2018  <br> 13:20 - 14:10 |  Lecture on spaCy |  |
+|  2  | consultation  | Monday, Wednesday, Thursday |  Individual feedback | [Sign up](https://docs.google.com/spreadsheets/d/1E6-GpxbQdI6wUwcuH2F5p5_g1JaKkQn2JhLPg2-D1uc/edit#gid=0) |
+|  3  | lecture  | Monday 15-01-2018  <br> 15:30 - 17:15 |  Lecture on Visualization and Code organization |  |
+|  3  | consultation  | Monday, Wednesday, Thursday |  Individual feedback | [Sign up](https://docs.google.com/spreadsheets/d/1E6-GpxbQdI6wUwcuH2F5p5_g1JaKkQn2JhLPg2-D1uc/edit#gid=0) |
+|  4  | lecture  | Monday 22-01-2018  <br> 15:30 - 17:15 |  Lecture (TBD) |  |
+|  4  | consultation  | Monday, Wednesday, Thursday |  Individual feedback | [Sign up](https://docs.google.com/spreadsheets/d/1E6-GpxbQdI6wUwcuH2F5p5_g1JaKkQn2JhLPg2-D1uc/edit#gid=0) |
+|  5  | PRESENTATIONS  | Monday 29-01-2018  <br> 15:30 - 17:15 |  Presentations Final Assignment |  |
+|  5  | consultation  | Monday, Wednesday, Thursday |  Individual feedback | [Sign up](https://docs.google.com/spreadsheets/d/1E6-GpxbQdI6wUwcuH2F5p5_g1JaKkQn2JhLPg2-D1uc/edit#gid=0) |
+|  5  | DEADLINE  | Monday 04-02-2018  <br> before 23:59 |  SUBMIT FINAL ASSIGNMENT |  |
 
 ## Attendance policy
 You are expected to attempt to attend all lectures. You are allowed to miss two lectures at most. After more than two absences, you are no longer able to obtain credits for the course.  
