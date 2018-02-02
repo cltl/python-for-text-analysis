@@ -169,7 +169,7 @@ New material will be added to this Github repository during the course. For down
 |  4  | consultation  | Monday, Wednesday, Thursday |  Individual feedback | [Sign up](https://docs.google.com/spreadsheets/d/1E6-GpxbQdI6wUwcuH2F5p5_g1JaKkQn2JhLPg2-D1uc/edit#gid=0) |
 |  5  | PRESENTATIONS  | Monday 29-01-2018  <br> 15:30 - 17:15 |  Presentations Final Assignment |  |
 |  5  | consultation  | Monday, Wednesday, Thursday |  Individual feedback | [Sign up](https://docs.google.com/spreadsheets/d/1E6-GpxbQdI6wUwcuH2F5p5_g1JaKkQn2JhLPg2-D1uc/edit#gid=0) |
-|  5  | DEADLINE  | Monday 04-02-2018  <br> before 23:59 |  SUBMIT FINAL ASSIGNMENT |  |
+|  5  | DEADLINE  | Sunday 04-02-2018  <br> before 23:59 |  SUBMIT FINAL ASSIGNMENT |  |
 
 ## Attendance policy
 You are expected to attempt to attend all lectures. You are allowed to miss two lectures at most. After more than two absences, you are no longer able to obtain credits for the course.  
