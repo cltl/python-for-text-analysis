@@ -98,14 +98,10 @@ Submission 1 day after the deadline results in two points deduction of your grad
 We have to be strict about this, because we will discuss the assignments in class and we need time to look at your submissions. 
 
 ### Midterm exam
-The exam on the 18th of December tests your knowledge of the syntax of Python, and your knowledge
-of the standard library. For the BA students, it is the final test to show what you have learnt. For the MA students, it serves as a check to assure that your knowledge of the language is sufficient to tackle the final assignment. You cannot
-pass the course without a passing grade on the exam. But don't worry: if you are able
-to finish the assignments, you will be fine on the exam.
+The exam on the 18th of December tests your knowledge of the syntax of Python, and your knowledge of the standard library. For the BA students, it is the final test to show what you have learnt. For the MA students, it serves as a check to assure that your knowledge of the language is sufficient to tackle the final assignment. You cannot pass the course without a passing grade on the exam. But don't worry: if you are able to finish the assignments, you will be fine on the exam.
 
 ### The final assignment
-The final part of the MA course consists of a final assignment, for which you will work on your own code project. The exact details of the final assignment will be announced later.
-
+The final part of the MA course consists of a final assignment, for which you will work on your own code project. 
 You can expect a project in which you are asked to:
 
 1. process a number of files;
@@ -127,9 +123,6 @@ We will consider the following questions (along with the core principles) to eva
 
 ## Planning
 The schedule for the entire course follows the same structure, illustrated below.
-Our philosophy is that programming should be taught in a hands-on manner, so we tried
-to reduce 'powerpoint time' to a minimum. Most theory is mainly taught through the
-notebooks, but we'll also address the major topics in class.
 
 Each Block will consist of three lectures. In the first lecture, we introduce some of the new topics. 
 After this lecture, you are expected to work through the Chapters belonging to this block and start on the assignment. 
@@ -137,39 +130,38 @@ In the second lecture, we will further highlight some of the theory and you will
 You will finish the assignment between the second and third lecture, and hand it in on either Friday or Thursday.
 Finally, the third lecture is a feedback session where we will discuss some of the main problems that were encountered in the assignments. We will repeat this cycle 4 times (for each assignment).
 
-New material will be added to this Github repository during the course. For downloading the material, please right click on the links in the schedule below and save the file in your course materials. Save the `Chapter X` notebooks in your `Chapters` folder, the `Assignment X` notebooks in your `Assignments` folder. If additional `data` is provided, save it in the `Data` folder.
 
 | week | what     | when                   | description           | downloads/uploads |
 |------|----------|------------------------|-----------------------|-------------|
-|  44  | lecture  | Monday 30-10-2017 <br> 15:30 - 17:15 | BLOCK 1: Introduction | [Chapter 1](https://github.com/cltl/python-for-text-analysis/raw/master/Chapters/Chapter%201%20-%20Getting%20Started%20with%20Variables%20and%20Values.ipynb) <br>  [Chapter 2](https://github.com/cltl/python-for-text-analysis/raw/master/Chapters/Chapter%202%20-%20Basic%20Data%20Types%20(Integers%20and%20Floats).ipynb) <br> [Chapter 3](https://github.com/cltl/python-for-text-analysis/raw/master/Chapters/Chapter%203%20-%20Strings.ipynb) <br> [Chapter 4](https://github.com/cltl/python-for-text-analysis/blob/master/Chapters/Chapter%204%20-%20Boolean%20Expressions%20and%20Conditions.ipynb) <br> [Assignment 1](https://github.com/cltl/python-for-text-analysis/raw/master/Assignments/ASSIGNMENT-1.ipynb)|
-|  44  | lecture  | Thursday 2-11-2017 <br> 13:30 - 15:15  | BLOCK 1: Discussion and work time | [Class Notes](https://github.com/cltl/python-for-text-analysis/raw/master/Class_Notes/Class%20Notes%202-11-2017%20(Block%20I).ipynb) |
-|  44  | DEADLINE  | Friday 3-11-2017 <br> before 23:59  | SUBMIT ASSIGNMENT 1 | [submission form](https://goo.gl/forms/0DfPcX9cLbSzLdet1) |
-|  45  | lecture  | Monday 6-11-2017  <br> 15:30 - 17:15 |  BLOCK 1: Feedback |  |
-|  45  | lecture  | Thursday 9-11-2017  <br> 13:30 - 15:15 |  BLOCK 2: Introduction | [Chapter 5](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Chapters/Chapter%205%20-%20Containers'%20core%20concepts.ipynb) <br> [Chapter 6](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Chapters/Chapter%206%20-%20Lists.ipynb) <br> [Chapter 7](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Chapters/Chapter%207%20-%20Sets.ipynb) <br> [Chapter 8](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Chapters/Chapter%208%20-%20Comparison%20of%20lists%20and%20sets.ipynb) <br>  [Chapter 9](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Chapters/Chapter%209%20-%20Looping%20over%20containers.ipynb) <br> [Chapter 10](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Chapters/Chapter%2010%20-%20Dictionaries.ipynb) <br> [Assignment 2](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Assignments/ASSIGNMENT-2.ipynb) <br> [Class Notes](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Class_Notes/Class%20Notes%209-11-2017%20(Block%20II).ipynb) |
-|  46  | lecture  | Monday 13-11-2017  <br> 15:30 - 17:15 |  BLOCK 2: Discussion and work time | [Class notes](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Class_Notes/Class%20Notes%2013-11-2017%20(Block%20II).ipynb) |
-|  46  | DEADLINE  | Tuesday 14-11-2017 <br> before 20:00  | SUBMIT ASSIGNMENT 2 | [submission form](https://goo.gl/forms/4OidikfRfz229WNW2) |
-|  46  | lecture  | Thursday 16-11-2017  <br> 13:30 - 15:15 |  BLOCK 2: Feedback |  |
-|  47  | lecture  | Monday 20-11-2017 <br> 15:30 - 17:15  |  BLOCK 3: Introduction | [Preparation](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Class_Notes/Preparation%20for%20Chapters%2013%2C%2014%2C%20and%2015.ipynb) <br> [Chapter 11](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Chapters/Chapter%2011%20-%20Functions%20and%20scope.ipynb) <br> [Chapter 12](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Chapters/Chapter%2012%20-%20Importing%20external%20modules.ipynb) <br> [Chapter 13](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Chapters/Chapter%2013%20-%20Dealing%20with%20files.ipynb) <br> [Chapter 14](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Chapters/Chapter%2014%20-%20Data%20formats.ipynb) <br> [Chapter 15](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Chapters/Chapter%2015%20-%20Off%20to%20analyzing%20text.ipynb) <br> [Assignment](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Assignments/ASSIGNMENT-3.ipynb) |
-|  47  | lecture  | Thursday 23-11-2017 <br> 13:30 - 15:15  | BLOCK 3: Discussion and work time | [Class notes](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Class_Notes/Class%20Notes%2023-11-2017.ipynb) |
-|  47  | DEADLINE  | Friday 24-11-2017 <br> before 23:59  | SUBMIT ASSIGNMENT 3 | [submission form](https://goo.gl/forms/6iTiRiZk4z8W68UE3) |
-|  48  | lecture  | Monday 27-11-2017 <br> 15:30 - 17:15  |  BLOCK 3: Feedback |  |
-|  48  | lecture  | Thursday 30-11-2017 <br> 13:30 - 15:15  |  BLOCK 4: Introduction | [Chapter 16](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Chapters/Chapter%2016%20-%20XML.ipynb) <br> [Chapter 17](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Chapters/Chapter%2017%20-%20Working%20with%20Python%20files.ipynb) <br> [hello_world.py](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Chapters/hello_world.py) <br> [the_program.py](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Chapters/the_program.py) <br> [the_program_v2.py](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Chapters/the_program_v2.py) <br> [utils.py](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Chapters/utils.py) <br> [course.xml (store in Data/xml_data/)](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Data/xml_data/course.xml) <br> [naf.xml (store in Data/xml_data/)](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Data/xml_data/naf.xml) <br> [Assignment-4a](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Assignments/ASSIGNMENT-4a.ipynb) <br> [Assignment-4b](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Assignments/ASSIGNMENT-4b.ipynb) <br> [Class notes](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Class_Notes/Class%20Notes%2030-11-2017%20(Block%20IV).ipynb) |
-|  49  | lecture  | Monday 4-12-2017 <br> 15:30 - 17:15  |  BLOCK 4: Discussion and work time | [Class notes](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Class_Notes/Class%20Notes%204-12-2017%20(Block%20IV).ipynb) |
-|  49  | DEADLINE  | Tuesday 5-12-2017 <br> before 20:00  | SUBMIT ASSIGNMENT 4  | [submission form](https://goo.gl/forms/BuUUMrHERXT4Y4Uv1) |
-|  49  | lecture  | Thursday 7-12-2017  <br> 13:30 - 15:15 | BLOCK 4: Feedback |  |
-|  50  | lecture  | Monday 11-12-2017 <br> 15:30 - 17:15  | CANCELLED  | [Dummy exam](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Exam/Dummy_Exam_201718.ipynb) |
-|  50  | lecture  | Thursday 14-12-2017  <br> 13:30 - 15:15 |  Practice EXAM + Introduction Final Assignment|  |
-|  51  | EXAM  | Monday 18-12-2017 <br> 08:45 - 11:30  |  EXAM |  |
-|  51  | lecture  | Thursday 21-12-2017  <br> 13:30 - 15:15 |  Start with FINAL ASSIGNMENT | [Final Assignment](https://github.com/cltl/python-for-text-analysis/raw/master/Final_Assignment/Final_Assignment_2017-2018.pdf) |
-|  51  | DEADLINE  | Friday 22-12-2017  <br> before 13:00 | Decision on Team + Task + Dataset  | Please inform us by e-mail |
-|  2  | lecture  | Thursday 11-01-2018  <br> 13:20 - 14:10 |  Lecture on spaCy | [Chapter 18](https://github.com/cltl/python-for-text-analysis/raw/master/Chapters/Chapter%2018%20-%20More%20about%20Natural%20Language%20Processing%20Tools%20(spaCy).ipynb) |
-|  2  | consultation  | Monday, Wednesday, Thursday |  Individual feedback | [Sign up](https://docs.google.com/spreadsheets/d/1E6-GpxbQdI6wUwcuH2F5p5_g1JaKkQn2JhLPg2-D1uc/edit#gid=0) |
-|  3  | lecture  | Monday 15-01-2018  <br> 15:30 - 17:15 |  Lecture on Visualization and Code organization |[Chapter 19](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Chapters/Chapter%2019%20-%20Visualization%20and%20Statistics.ipynb) <br> [Chapter 20](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Chapters/Chapter%2020%20-%20Tables%20and%20Networks.ipynb) <br> [Tips on Code Documentation/Organization](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Class_Notes/Tips%20on%20Code%20structure%20and%20Organization.ipynb) <br> [chart chooser image](https://github.com/cltl/python-for-text-analysis/raw/master/Chapters/images/chart_chooser.jpg)  <br> [Class Notes](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Class_Notes/15-1-2018%20Class%20Notes.ipynb)|
-|  3  | consultation  | Monday, Wednesday, Thursday |  Individual feedback | [Sign up](https://docs.google.com/spreadsheets/d/1E6-GpxbQdI6wUwcuH2F5p5_g1JaKkQn2JhLPg2-D1uc/edit#gid=0) |
-|  4  | consultation  | Monday, Wednesday, Thursday |  Individual feedback | [Sign up](https://docs.google.com/spreadsheets/d/1E6-GpxbQdI6wUwcuH2F5p5_g1JaKkQn2JhLPg2-D1uc/edit#gid=0) |
-|  5  | PRESENTATIONS  | Monday 29-01-2018  <br> 15:30 - 17:15 |  Presentations Final Assignment |  |
-|  5  | consultation  | Monday, Wednesday, Thursday |  Individual feedback | [Sign up](https://docs.google.com/spreadsheets/d/1E6-GpxbQdI6wUwcuH2F5p5_g1JaKkQn2JhLPg2-D1uc/edit#gid=0) |
-|  5  | DEADLINE  | Sunday 04-02-2018  <br> before 23:59 |  SUBMIT FINAL ASSIGNMENT |  |
+|  44  | lecture  | Monday 29-10-2018 <br> 15:30 - 17:15 | BLOCK 1: Introduction | |
+|  44  | lecture  | Thursday 01-11-2018 <br> 13:30 - 15:15  | BLOCK 1: Discussion and work time |  |
+|  44  | DEADLINE  | Friday 02-11-2018 <br> before 23:59  | SUBMIT ASSIGNMENT 1 | [submission form](https://goo.gl/forms/ps7GsXtOwnTBHcmy2) |
+|  45  | lecture  | Monday 05-11-2018  <br> 15:30 - 17:15 |  BLOCK 1: Feedback |  |
+|  45  | lecture  | Thursday 08-11-2018  <br> 13:30 - 15:15 |  BLOCK 2: Introduction |  |
+|  46  | lecture  | Monday 12-11-2018  <br> 15:30 - 17:15 |  BLOCK 2: Discussion and work time |  |
+|  46  | DEADLINE  | Tuesday 13-11-2018 <br> before 20:00  | SUBMIT ASSIGNMENT 2 | [submission form](https://goo.gl/forms/o7I5jgKMBZrTynsF3) |
+|  46  | lecture  | Thursday 15-11-2018  <br> 13:30 - 15:15 |  BLOCK 2: Feedback |  |
+|  47  | lecture  | Monday 19-11-2018 <br> 15:30 - 17:15  |  BLOCK 3: Introduction |  |
+|  47  | lecture  | Thursday 22-11-2018 <br> 13:30 - 15:15  | BLOCK 3: Discussion and work time |  |
+|  47  | DEADLINE  | Friday 23-11-2018 <br> before 23:59  | SUBMIT ASSIGNMENT 3 | [submission form](https://goo.gl/forms/nub97pauI3glh18G3) |
+|  48  | lecture  | Monday 26-11-2018 <br> 15:30 - 17:15  |  BLOCK 3: Feedback |  |
+|  48  | lecture  | Thursday 29-11-2018 <br> 13:30 - 15:15  |  BLOCK 4: Introduction |  |
+|  49  | lecture  | Monday 03-12-2018 <br> 15:30 - 17:15  |  BLOCK 4: Discussion and work time |  |
+|  49  | DEADLINE  | Tuesday 04-12-2018 <br> before 20:00  | SUBMIT ASSIGNMENT 4  | [submission form](https://goo.gl/forms/Guqm1p448xMgXo0E3) |
+|  49  | lecture  | Thursday 06-12-2018  <br> 13:30 - 15:15 | BLOCK 4: Feedback |  |
+|  50  | lecture  | Monday 10-12-2018 <br> 15:30 - 17:15  | Mock EXAM  + Introduction Final Assignment |  |
+|  50  | lecture  | Thursday 13-12-2018  <br> 13:30 - 15:15 |  Q&A session |  |
+|  51  | EXAM  | Monday 17-12-2017 <br> 08:45 - 11:30  |  EXAM |  |
+|  51  | lecture  | Thursday 20-12-2018  <br> 13:30 - 15:15 |  Start with FINAL ASSIGNMENT |  |
+|  51  | DEADLINE  | Friday 21-12-2018  <br> before 13:00 | Decision on Team + Task + Dataset  | Please inform us by e-mail |
+|  2  | lecture  | Monday 07-01-2019  <br> 13:20 - 14:10 |  Lecture on spaCy |  |
+|  2  | consultation  | Monday, Wednesday, Thursday |  Individual feedback |  |
+|  3  | lecture  | Monday 14-01-2018  <br> 15:30 - 17:15 |  Lecture on Visualization and Code organization | |
+|  3  | consultation  | Monday, Wednesday, Thursday |  Individual feedback |  |
+|  4  | consultation  | Monday, Wednesday, Thursday |  Individual feedback |  |
+|  5  | PRESENTATIONS  | Monday 28-01-2019  <br> 15:30 - 17:15 |  Presentations Final Assignment |  |
+|  5  | consultation  | Monday, Wednesday, Thursday |  Individual feedback |  |
+|  5  | DEADLINE  | Sunday 03-02-2019  <br> before 23:59 |  SUBMIT FINAL ASSIGNMENT |  |
 
 ## Attendance policy
 You are expected to attempt to attend all lectures. You are allowed to miss two lectures at most. After more than two absences, you are no longer able to obtain credits for the course.  
