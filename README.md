@@ -50,8 +50,6 @@ Our materials are structured as follows:
 
 * The `Chapters` folder contains our primary teaching material. Every week, you will work through a subset of these interactive notebooks.
 
-* The `Class_Notes` folder contains the examples and additional remarks that we discussed during class.
-
 * The `Assignments` folder contains the assignments that you will be asked to submit during the course.
 
 * The `Exam` folder contains sample exams from previous years.
@@ -98,7 +96,7 @@ Submission 1 day after the deadline results in two points deduction of your grad
 We have to be strict about this, because we will discuss the assignments in class and we need time to look at your submissions. 
 
 ### Midterm exam
-The exam on the 18th of December tests your knowledge of the syntax of Python, and your knowledge of the standard library. For the BA students, it is the final test to show what you have learnt. For the MA students, it serves as a check to assure that your knowledge of the language is sufficient to tackle the final assignment. You cannot pass the course without a passing grade on the exam. But don't worry: if you are able to finish the assignments, you will be fine on the exam.
+The exam tests your knowledge of the syntax of Python, and your knowledge of the standard library. For the BA students, it is the final test to show what you have learnt. For the MA students, it serves as a check to assure that your knowledge of the language is sufficient to tackle the final assignment. You cannot pass the course without a passing grade on the exam. But don't worry: if you are able to finish the assignments, you will be fine on the exam.
 
 ### The final assignment
 The final part of the MA course consists of a final assignment, for which you will work on your own code project. 
