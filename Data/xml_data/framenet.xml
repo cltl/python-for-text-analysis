@@ -1,0 +1,93 @@
+<frame name="Waking_up" id="295">
+    <definition>A Sleeper transitions from a state of consciousness where they are largely unaware of their environment to a wakeful state. EXAMPLE: William awoke from a dream.</definition>
+    <FE coreType="Peripheral" name="Place" id="2527">
+        <definition>This FE identifies the Place where the event occurs.</definition>
+        <semType name="Locative_relation" id="182"/>
+    </FE>
+    <FE coreType="Core" name="Sleeper" id="2528">
+        <definition>This FE identifies the sleeping entity.</definition>
+    </FE>
+    <FE coreType="Peripheral" name="Time" id="2529">
+        <definition>This FE identifies the Time when the event occurs.</definition>
+        <semType name="Time" id="141"/>
+    </FE>
+    <FE coreType="Core" name="Sleep_state" id="3471">
+        <definition>This describes the state out of which the Sleeper awakens.</definition>
+    </FE>
+    <FE coreType="Peripheral" name="Manner" id="3472">
+        <definition>The Manner in which the Sleeper awakens.</definition>
+        <semType name="Manner" id="173"/>
+    </FE>
+    <FE coreType="Extra-Thematic" name="Depictive" id="3473">
+        <definition>The state of the Sleeper upon waking up.</definition>
+    </FE>
+    <FE coreType="Extra-Thematic" name="New_situation" id="3474">
+        <definition>The New_situation is the situation the Sleeper finds him or herself in upon awaking.</definition>
+    </FE>
+    <FE coreType="Extra-Thematic" name="Circumstances" id="10457">
+        <definition>Circumstances describe the state of the world (at a particular time and place) which is specifically independent of the event itself and any of its participants.</definition>
+    </FE>
+    <FE coreType="Extra-Thematic" name="Particular_iteration" id="10458">
+        <definition>This FE indicates an instance of the Waking_up event within an iterated series of similar events or states.</definition>
+    </FE>
+    <FE coreType="Extra-Thematic" name="Explanation" id="10459">
+        <definition>The reason for which the Sleeper awakes from the Sleep_state.</definition>
+    </FE>
+    <FE coreType="Extra-Thematic" name="Frequency" id="11980">
+        <definition>This frame element is defined as the number of times an event occurs per some unit of time.</definition>
+    </FE>
+    <frameRelation type="Inherits from">
+        <relatedFrame id="187">Event</relatedFrame>
+    </frameRelation>
+    <frameRelation type="Is Inherited by"/>
+    <frameRelation type="Perspective on"/>
+    <frameRelation type="Is Perspectivized in"/>
+    <frameRelation type="Uses"/>
+    <frameRelation type="Is Used by"/>
+    <frameRelation type="Subframe of">
+        <relatedFrame id="294">Sleep_wake_cycle</relatedFrame>
+    </frameRelation>
+    <frameRelation type="Has Subframe(s)"/>
+    <frameRelation type="Precedes">
+        <relatedFrame id="1681">Being_awake</relatedFrame>
+    </frameRelation>
+    <frameRelation type="Is Preceded by">
+        <relatedFrame id="264">Sleep</relatedFrame>
+    </frameRelation>
+    <frameRelation type="Is Inchoative of"/>
+    <frameRelation type="Is Causative of"/>
+    <frameRelation type="See also"/>
+    <lexUnit POS="V" name="come to.v" id="5375" lemmaid="45583">
+        <definition>FN: wake up</definition>
+        <lexeme order="1" headword="true" breakBefore="false" POS="V" name="come"/>
+        <lexeme order="2" headword="false" breakBefore="false" POS="ADV" name="to"/>
+    </lexUnit>
+    <lexUnit POS="V" name="awake.v" id="6926" lemmaid="2506">
+        <definition>COD: stop sleeping. </definition>
+        <lexeme order="1" headword="false" breakBefore="false" POS="V" name="awake"/>
+    </lexUnit>
+    <lexUnit POS="V" name="wake.v" id="6927" lemmaid="43355">
+        <definition>COD: emerge from a state of sleep</definition>
+        <lexeme order="1" headword="false" breakBefore="false" POS="V" name="wake"/>
+    </lexUnit>
+    <lexUnit POS="V" name="wake up.v" id="6928" lemmaid="45568">
+        <definition>COD: emerge from a state of sleep</definition>
+        <lexeme order="1" headword="true" breakBefore="false" POS="V" name="wake"/>
+        <lexeme order="2" headword="false" breakBefore="true" POS="ADV" name="up"/>
+    </lexUnit>
+    <lexUnit POS="V" name="get up.v" id="9130" lemmaid="45569">
+        <definition>FN: to wake up</definition>
+        <lexeme order="1" headword="true" breakBefore="false" POS="V" name="get"/>
+        <lexeme order="2" headword="false" breakBefore="true" POS="ADV" name="up"/>
+    </lexUnit>
+    <lexUnit POS="V" name="revive.v" id="12099" lemmaid="33121">
+        <definition>FN: to return to consciousness</definition>
+        <lexeme order="1" headword="false" breakBefore="false" POS="V" name="revive"/>
+    </lexUnit>
+    <lexUnit POS="V" name="come back around.v" id="15503" lemmaid="51026">
+        <definition>FN: return to consciousness with difficulty.</definition>
+        <lexeme order="1" headword="true" breakBefore="false" POS="V" name="come"/>
+        <lexeme order="2" headword="false" breakBefore="true" POS="ADV" name="back"/>
+        <lexeme order="3" headword="false" breakBefore="false" POS="ADV" name="around"/>
+    </lexUnit>
+</frame>
