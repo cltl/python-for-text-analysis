@@ -1,0 +1,33 @@
+{
+    "Jane": {
+        "age": 27,
+        "children": null,
+        "favorite_animal": "zebra",
+        "first name": "Jane",
+        "gender": "female",
+        "hobbies": [
+            "cooking",
+            "gaming",
+            "tennis"
+        ],
+        "last name": "Doe",
+        "married": false
+    },
+    "John": {
+        "age": 30,
+        "children": [
+            "James",
+            "Jennifer"
+        ],
+        "favorite_animal": "panda",
+        "first name": "John",
+        "gender": "male",
+        "hobbies": [
+            "photography",
+            "sky diving",
+            "reading"
+        ],
+        "last name": "Doe",
+        "married": true
+    }
+}
