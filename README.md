@@ -119,7 +119,17 @@ We will consider the following questions (along with the core principles) to eva
 * Is the code written in accordance with [the community standards](http://pep8.org/)? (That is: PEP8)
 * Are there tests to ensure that the code works?
 
+
 ## Planning
+There are 4 Blocks with associated chapters and assignments:
+
+| Block   | Chapters | Assignment   | 
+|---------|---------|---------|
+| Block 1 | Chapters 1-4 |	 Assignment 1 |
+| Block 2 |Chapters 5-10  | Assignment 2 |
+| Block 3 |Chapters 11-15 |	Assignments 3a and 3b	|
+| Block 4 |Chapters 16-18 | Assignments 4a and 4b |
+
 The schedule for the entire course follows the same structure, illustrated below.
 
 Each Block will consist of three lectures. In the first lecture, we introduce some of the new topics. 
@@ -127,6 +137,8 @@ After this lecture, you are expected to work through the Chapters belonging to t
 In the second lecture, we will further highlight some of the theory and you will have time to work on the assignment.
 You will finish the assignment between the second and third lecture, and hand it in on either Friday or Thursday.
 Finally, the third lecture is a feedback session where we will discuss some of the main problems that were encountered in the assignments. We will repeat this cycle 4 times (for each assignment).
+
+
 
 
 | week | what     | when                   | description           | downloads/uploads |
@@ -160,9 +172,6 @@ Finally, the third lecture is a feedback session where we will discuss some of t
 |  5  | PRESENTATIONS  | Monday 28-01-2019  <br> 15:30 - 17:15 |  Presentations Final Assignment |  |
 |  5  | consultation  | Monday, Wednesday, Thursday |  Individual feedback |  |
 |  5  | DEADLINE  | Sunday 03-02-2019  <br> before 23:59 |  SUBMIT FINAL ASSIGNMENT |  |
-
-## Attendance policy
-You are expected to attempt to attend all lectures. You are allowed to miss two lectures at most. After more than two absences, you are no longer able to obtain credits for the course.  
 
 ## Plagiarism
 Basically, please don't cheat. For the weekly assignments, let us know in the comments if you have worked together with someone or if you used code from online sources, such as [stackoverflow](http://stackoverflow.com/). If you found some useful code online, do try to understand what that piece of code does. If it looks 'complicated', we expect you to provide comments in the code explaining what it does.
