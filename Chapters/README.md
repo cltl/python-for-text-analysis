@@ -32,7 +32,7 @@ This folder contains all the notebooks that we will use as our course material. 
     
 - **`Block IV`:** In this block you will be introduced to three new data formats: CSV/TSV, JSON and XML. 
 
-  - [Chapter 16 - Data Formats I (CSV and TSV](https://github.com/cltl/python-for-text-analysis/blob/master/Chapters/Chapter%2016%20-%20Data%20formats%20I%20(CSV%20and%20TSV).ipynb)
+  - [Chapter 16 - Data Formats I (CSV and TSV)](https://github.com/cltl/python-for-text-analysis/blob/master/Chapters/Chapter%2016%20-%20Data%20formats%20I%20(CSV%20and%20TSV).ipynb)
   - [Chapter 17 - Data Formats II (JSON)](https://github.com/cltl/python-for-text-analysis/blob/master/Chapters/Chapter%2017%20-%20Data%20formats%20II%20(JSON).ipynb)
   - [Chapter 18 - Data Formats III (XML)](https://github.com/cltl/python-for-text-analysis/blob/master/Chapters/Chapter%2018%20-%20Data%20formats%20III%20(XML).ipynb)
   - [ASSIGNMENT 4a](https://github.com/cltl/python-for-text-analysis/blob/master/Assignments/ASSIGNMENT-4a.ipynb)
