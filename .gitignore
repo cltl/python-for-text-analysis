@@ -65,3 +65,12 @@ target/
 
 # Other folders/files
 Class_Notes/
+
+Assignments/*ANSWERS.ipynb
+Assignments/*-old.ipynb
+Chapters/.DS_Store
+
+
+.DS_Store
+
+Chapters/.DS_Store
