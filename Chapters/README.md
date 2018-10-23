@@ -20,20 +20,20 @@ This folder contains all the notebooks that we will use as our course material. 
   - [Chapter 10 - Dictionaries.ipynb](https://github.com/cltl/python-for-text-analysis/blob/master/Chapters/Chapter%2010%20-%20Dictionaries.ipynb)
   - [ASSIGNMENT 2](https://github.com/cltl/python-for-text-analysis/blob/master/Assignments/ASSIGNMENT-2.ipynb)
   
-- **`Block III`:** In this block for the first time we will interract with the environment outside of our Notebooks, by reading/writing files and by importing some of the most common external libraries (os, datetime, random, requests). We will get familiar with two commonly used file formats: JSON and tabular structures in CSV/TSV. We will also learn how to write our own functions. Finally, we will put our skills together and do some text processing with the Natural Language ToolKit (NLTK) library.
+- **`Block III`:** In this block you will learn how to import and use some of the most common external libraries (os, datatime, dandom, requests), how to create your own functions and how to combine functions and code in a Python file (.py).  We will also introduce you to reading/writing text files and doing some text processing with the Natural Language ToolKit (NLTK) library.
 
-    - [Preparing your environment](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Class_Notes/Preparation%20for%20Chapters%2013%2C%2014%2C%20and%2015.ipynb)
-    - [Chapter 11 - Functions and scope](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Chapters/Chapter%2011%20-%20Functions%20and%20scope.ipynb)
-    - [Chapter 12 - Importing external modules](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Chapters/Chapter%2012%20-%20Importing%20external%20modules.ipynb)
-    - [Chapter 13 - Dealing with files](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Chapters/Chapter%2013%20-%20Dealing%20with%20files.ipynb)
-    - [Chapter 14 - Data formats](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Chapters/Chapter%2014%20-%20Data%20formats.ipynb)
-    - [Chapter 15 - Off to analyzing text](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Chapters/Chapter%2015%20-%20Off%20to%20analyzing%20text.ipynb)
-    - [ASSIGNMENT 3](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Assignments/ASSIGNMENT-3.ipynb)
+    - [Chapter 11 - Functions and scope](https://github.com/cltl/python-for-text-analysis/blob/master/Chapters/Chapter%2011%20-%20Functions%20and%20scope.ipynb)
+    - [Chapter 12 - Importing external modules](https://github.com/cltl/python-for-text-analysis/blob/master/Chapters/Chapter%2012%20-%20Importing%20external%20modules.ipynb)
+    - [Chapter 13 - Working with Python files](https://github.com/cltl/python-for-text-analysis/blob/master/Chapters/Chapter%2013%20-%20Working%20with%20Python%20files.ipynb)
+    - [Chapter 14 - Reading and writing text files](https://github.com/cltl/python-for-text-analysis/blob/master/Chapters/Chapter%2014%20-%20Reading%20and%20writing%20text%20files.ipynb)
+    - [Chapter 15 - Off to analyzing text](https://github.com/cltl/python-for-text-analysis/blob/master/Chapters/Chapter%2015%20-%20Off%20to%20analyzing%20text.ipynb)
+    - [ASSIGNMENT 3a](https://github.com/cltl/python-for-text-analysis/blob/master/Assignments/ASSIGNMENT-3a.ipynb)
+    - [ASSIGNMENT 3b](https://github.com/cltl/python-for-text-analysis/blob/master/Assignments/ASSIGNMENT-3b.ipynb)  
     
-    
-- **`Block IV`:** In this block you will be introduced to a new data format: XML. In addition, you will learn how to run and structure your code using python files.
+- **`Block IV`:** In this block you will be introduced to three new data formats: CSV/TSV, JSON and XML. 
 
-  - [Chapter 16 - XML](https://github.com/cltl/python-for-text-analysis/blob/master/Chapters/Chapter%2016%20-%20XML.ipynb)
-  - [Chapter 17 - Working with Python files](https://github.com/cltl/python-for-text-analysis/blob/master/Chapters/Chapter%2017%20-%20Working%20with%20Python%20files.ipynb)
+  - [Chapter 16 - Data Formats I (CSV and TSV](https://github.com/cltl/python-for-text-analysis/blob/master/Chapters/Chapter%2016%20-%20Data%20formats%20I%20(CSV%20and%20TSV).ipynb)
+  - [Chapter 17 - Data Formats II (JSON)](https://github.com/cltl/python-for-text-analysis/blob/master/Chapters/Chapter%2017%20-%20Data%20formats%20II%20(JSON).ipynb)
+  - [Chapter 18 - Data Formats III (XML)](https://github.com/cltl/python-for-text-analysis/blob/master/Chapters/Chapter%2018%20-%20Data%20formats%20III%20(XML).ipynb)
   - [ASSIGNMENT 4a](https://github.com/cltl/python-for-text-analysis/blob/master/Assignments/ASSIGNMENT-4a.ipynb)
   - [ASSIGNMENT 4b](https://github.com/cltl/python-for-text-analysis/blob/master/Assignments/ASSIGNMENT-4b.ipynb)
