@@ -20,7 +20,7 @@ This folder contains all the notebooks that we will use as our course material. 
   - [Chapter 10 - Dictionaries.ipynb](https://github.com/cltl/python-for-text-analysis/blob/master/Chapters/Chapter%2010%20-%20Dictionaries.ipynb)
   - [ASSIGNMENT 2](https://github.com/cltl/python-for-text-analysis/blob/master/Assignments/ASSIGNMENT-2.ipynb)
   
-- **`Block III`:** In this block you will learn how to import and use some of the most common external libraries (os, datatime, dandom, requests), how to create your own functions and how to combine functions and code in a Python file (.py).  We will also introduce you to reading/writing text files and doing some text processing with the Natural Language ToolKit (NLTK) library.
+- **`Block III`:** In this block you will learn how to import and use some of the most common external libraries (os, datatime, random, requests), how to create your own functions and how to combine functions and code in a Python file (.py).  We will also introduce you to reading/writing text files and doing some text processing with the Natural Language ToolKit (NLTK) library.
 
     - [Chapter 11 - Functions and scope](https://github.com/cltl/python-for-text-analysis/blob/master/Chapters/Chapter%2011%20-%20Functions%20and%20scope.ipynb)
     - [Chapter 12 - Importing external modules](https://github.com/cltl/python-for-text-analysis/blob/master/Chapters/Chapter%2012%20-%20Importing%20external%20modules.ipynb)
