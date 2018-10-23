@@ -10,6 +10,6 @@ At the moment there are the following (dummy) exams. As the course develops over
 
 * [Exam 2015-2016](./Exam_2015-2016.pdf)
 * [Exam 2016-2017](./Exam_2016-2017.pdf) / [Dummy Exam 2016-2017](./Dummy_Exam_2016-2017.ipynb)
-* [Dummy Exam 2017-2018](./Dummy_Exam_2017-2018.ipynb)
+* [Dummy Exam 2017-2018](./Dummy_Exam_2017-2018.ipynb) / [Exam 2017-2018](./Exam_2017-2018.pdf)
 
 Note that this concerns an exam **on paper**. This may seem somewhat unnatural and scary, since you normally don't use pen and paper for programming. However, we want to emphasize that we are not asking you to write complete programs; the exam will only test basic knowledge, most of which will be acquired automatically as long as you keep up with the course material and weekly assignments.
