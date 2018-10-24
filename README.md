@@ -3,7 +3,7 @@
 
 This is a practical course in Python, geared towards those who want to get some hands-on experience working with language data.
 No knowledge of programming is required or presupposed.
-We will work with Python 3. If you haven't worked with Python before, we recommend that you install [Anaconda](https://www.continuum.io/downloads).
+We will work with Python 3. If you haven't worked with Python before, we recommend that you install [Anaconda](https://www.anaconda.com/download).
 
 (If you have worked with Python 3 before, be sure to check if Jupyter Notebook
 is installed on your machine. We will work extensively with notebooks.)
