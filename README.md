@@ -143,22 +143,22 @@ Finally, the third lecture is a feedback session where we will discuss some of t
 
 | week | what     | when                   | description           | downloads/uploads |
 |------|----------|------------------------|-----------------------|-------------|
-|  44  | lecture  | Monday 29-10-2018 <br> 15:30 - 17:15 | BLOCK 1: Introduction | |
-|  44  | lecture  | Thursday 01-11-2018 <br> 13:30 - 15:15  | BLOCK 1: Discussion and work time |  |
+|  44  | lecture  | Monday 29-10-2018 <br> 15:30 - 17:15 | BLOCK 1: Introduction theory | |
+|  44  | lecture  | Thursday 01-11-2018 <br> 13:30 - 15:15  | BLOCK 1: Theory and work time |  |
 |  44  | DEADLINE  | Friday 02-11-2018 <br> before 23:59  | SUBMIT ASSIGNMENT 1 | [submission form](https://goo.gl/forms/ps7GsXtOwnTBHcmy2) |
-|  45  | lecture  | Monday 05-11-2018  <br> 15:30 - 17:15 |  BLOCK 1: Feedback |  |
-|  45  | lecture  | Thursday 08-11-2018  <br> 13:30 - 15:15 |  BLOCK 2: Introduction |  |
-|  46  | lecture  | Monday 12-11-2018  <br> 15:30 - 17:15 |  BLOCK 2: Discussion and work time |  |
+|  45  | lecture  | Monday 05-11-2018  <br> 15:30 - 17:15 |  BLOCK 1: Feedback assignment |  |
+|  45  | lecture  | Thursday 08-11-2018  <br> 13:30 - 15:15 |  BLOCK 2: Introduction theory |  |
+|  46  | lecture  | Monday 12-11-2018  <br> 15:30 - 17:15 |  BLOCK 2: Theory and work time |  |
 |  46  | DEADLINE  | Tuesday 13-11-2018 <br> before 20:00  | SUBMIT ASSIGNMENT 2 | [submission form](https://goo.gl/forms/o7I5jgKMBZrTynsF3) |
-|  46  | lecture  | Thursday 15-11-2018  <br> 13:30 - 15:15 |  BLOCK 2: Feedback |  |
-|  47  | lecture  | Monday 19-11-2018 <br> 15:30 - 17:15  |  BLOCK 3: Introduction |  |
-|  47  | lecture  | Thursday 22-11-2018 <br> 13:30 - 15:15  | BLOCK 3: Discussion and work time |  |
+|  46  | lecture  | Thursday 15-11-2018  <br> 13:30 - 15:15 |  BLOCK 2: Feedback assignment |  |
+|  47  | lecture  | Monday 19-11-2018 <br> 15:30 - 17:15  |  BLOCK 3: Introduction theory |  |
+|  47  | lecture  | Thursday 22-11-2018 <br> 13:30 - 15:15  | BLOCK 3: Theory and work time |  |
 |  47  | DEADLINE  | Friday 23-11-2018 <br> before 23:59  | SUBMIT ASSIGNMENT 3 | [submission form](https://goo.gl/forms/nub97pauI3glh18G3) |
-|  48  | lecture  | Monday 26-11-2018 <br> 15:30 - 17:15  |  BLOCK 3: Feedback |  |
-|  48  | lecture  | Thursday 29-11-2018 <br> 13:30 - 15:15  |  BLOCK 4: Introduction |  |
-|  49  | lecture  | Monday 03-12-2018 <br> 15:30 - 17:15  |  BLOCK 4: Discussion and work time |  |
+|  48  | lecture  | Monday 26-11-2018 <br> 15:30 - 17:15  |  BLOCK 3: Feedback assignment |  |
+|  48  | lecture  | Thursday 29-11-2018 <br> 13:30 - 15:15  |  BLOCK 4: Introduction theory |  |
+|  49  | lecture  | Monday 03-12-2018 <br> 15:30 - 17:15  |  BLOCK 4: Theory and work time |  |
 |  49  | DEADLINE  | Tuesday 04-12-2018 <br> before 20:00  | SUBMIT ASSIGNMENT 4  | [submission form](https://goo.gl/forms/Guqm1p448xMgXo0E3) |
-|  49  | lecture  | Thursday 06-12-2018  <br> 13:30 - 15:15 | BLOCK 4: Feedback |  |
+|  49  | lecture  | Thursday 06-12-2018  <br> 13:30 - 15:15 | BLOCK 4: Feedback assignment |  |
 |  50  | lecture  | Monday 10-12-2018 <br> 15:30 - 17:15  | Mock EXAM  + Introduction Final Assignment |  |
 |  50  | lecture  | Thursday 13-12-2018  <br> 13:30 - 15:15 |  Q&A session |  |
 |  51  | EXAM  | Monday 17-12-2017 <br> 08:45 - 11:30  |  EXAM |  |
