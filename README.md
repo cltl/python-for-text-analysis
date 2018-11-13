@@ -155,7 +155,7 @@ Finally, the third lecture is a feedback session where we will discuss some of t
 |  47  | lecture  | Thursday 22-11-2018 <br> 13:30 - 15:15  | BLOCK 3: Theory and work time |  |
 |  47  | DEADLINE  | Friday 23-11-2018 <br> before 23:59  | SUBMIT ASSIGNMENT 3 | [submission form](https://goo.gl/forms/nub97pauI3glh18G3) |
 |  48  | lecture  | Monday 26-11-2018 <br> 15:30 - 17:15  |  BLOCK 3: Feedback assignment |  |
-|  48  | lecture  | Thursday 29-11-2018 <br> 13:30 - 15:15  |  BLOCK 4: Introduction theory |  |
+|  48  | lecture  | Thursday 29-11-2018 <br> 13:30 - 15:15  |  BLOCK 4: Introduction theory | Please download [Assignment 4a](https://github.com/cltl/python-for-text-analysis/raw/master/Assignments/ASSIGNMENT-4a.ipynb) again |
 |  49  | lecture  | Monday 03-12-2018 <br> 15:30 - 17:15  |  BLOCK 4: Theory and work time |  |
 |  49  | DEADLINE  | Tuesday 04-12-2018 <br> before 20:00  | SUBMIT ASSIGNMENT 4  | [submission form](https://goo.gl/forms/Guqm1p448xMgXo0E3) |
 |  49  | lecture  | Thursday 06-12-2018  <br> 13:30 - 15:15 | BLOCK 4: Feedback assignment |  |
