@@ -7,7 +7,7 @@ scripts that were used to get the data.
 
 * The `authorship` folder contains the C50 corpus that can be used to train and test automatic authorship detection systems. It can be downloaded [here](https://archive.ics.uci.edu/ml/datasets/Reuter_50_50).
 
-* The `baby_names` folder contains baby names from Social Security applications in the USA (downloaded from [here](http://catalog.data.gov/dataset/baby-names-from-social-security-card-applications-national-level-data)). 
+* The `baby_names` folder contains baby names from Social Security applications in the USA.  (names downloaded from [here](https://catalog.data.gov/dataset/baby-names-from-social-security-card-applications-national-level-data), names_by_state downloaded from [here](https://catalog.data.gov/dataset/baby-names-from-social-security-card-applications-national-level-data)). 
 
 * `Charlie` contains 1 simple text file containing a text snippet from Roald Dahl's 'Charlie and the Chocolate Factory'.
 
