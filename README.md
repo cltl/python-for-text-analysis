@@ -139,7 +139,7 @@ Finally, the third lecture is a feedback session where we will discuss some of t
 |  41  | lecture  | Monday 10-07-2019 <br> 13:30 - 15:15  |  BLOCK 4: Theory and work time |  |
 |  41  | DEADLINE  | Tuesday 10-08-2019 <br> before 20:00  | SUBMIT ASSIGNMENT 4  | [submission form](https://forms.gle/ioBtZFoT5iwvn6mX9) |
 |  41  | lecture  | Thursday 10-10-2019  <br> 15:30 - 17:15 | BLOCK 4: Feedback assignment |  |
-|  42  | lecture  | Monday 10-14-2019 <br> 13:30 - 15:15  | Q&A session/practice |  |
+|  42  | lecture  | Monday 10-14-2019 <br> 13:30 - 15:15  | self-study (no class) |  |
 |  42  | lecture  | Thursday 10-17-2019  <br> 15:30 - 17:15 |  Q&A session |  |
 |  43  | EXAM  | Monday 10-21-2019 <br> 15.15-18.00  |  EXAM |  |
 
