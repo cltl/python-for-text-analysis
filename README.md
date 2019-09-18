@@ -59,7 +59,7 @@ Our materials are structured as follows:
 * The `Exam` folder contains sample exams from previous years.
 
 
-* The `Extra_Material` folder contains some extra reading about the Python theory which you may use for future reference. It also contains some information specifically related to natural language processing, and examples on how to organize your code and how to create a Flask website. 
+* The `Extra_Material` folder contains some extra reading about the Python theory which you may use for future reference. It also contains some information specifically related to natural language processing, and examples on how to organize your code and how to create a Flask website.
 
 * The `Data` folder contains all data used in this course and more, as well as the scripts used to obtain
   this data. (So you can see what techniques we used.)
@@ -95,7 +95,7 @@ The exam tests your knowledge of the syntax of Python, and your knowledge of the
 ## Planning
 There are 4 Blocks with associated chapters and assignments:
 
-| Block   | Chapters | Assignment   | 
+| Block   | Chapters | Assignment   |
 |---------|---------|---------|
 | Block 1 | Chapters 1-4 |	 Assignment 1 |
 | Block 2 |Chapters 5-11  | Assignment 2 |
@@ -131,8 +131,8 @@ Finally, the third lecture is a feedback session where we will discuss some of t
 |  38  | lecture  | Monday 09-16-2019  <br> 13:30 - 15:15 |  BLOCK 2: Theory and work time |  |
 |  38  | DEADLINE  | Tuesday 09-17-2019 <br> before 20:00  | SUBMIT ASSIGNMENT 2 | [submission form](https://forms.gle/CeLm2rfQWGsD9S7v6) |
 |  38  | lecture  | Thursday 09-19-2019  <br> 15:30 - 17:15 |  BLOCK 2: Feedback assignment |  |
-|  39  | lecture  | Monday 09-23-2019 <br> 13:30 - 15:15  |  BLOCK 3: Introduction theory |  |
-|  39  | lecture  | Thursday 09-26-2019 <br> 15:30 - 17:15  | BLOCK 3: Theory and work time |  |
+|  39  | lecture  | Monday 09-23-2019 <br> 13:30 - 15:15  |  BLOCK 3: Introduction theory | **Please download and replace on your computer (right click -> save as)** <br> [Chapter 12 - Importing external modules.ipynb](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Chapters/Chapter%2012%20-%20Importing%20external%20modules.ipynb) <br> [Chapter 13 - Working with Python files.ipynb](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Chapters/Chapter%2013%20-%20Working%20with%20Python%20files.ipynb) <br> [Chapter 14 - Reading and writing text files.ipynb](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Chapters/Chapter%2014%20-%20Reading%20and%20writing%20text%20files.ipynb) <br> [Chapter 15 - Off to analyzing text.ipynb](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Chapters/Chapter%2015%20-%20Off%20to%20analyzing%20text.ipynb) <br> [ASSIGNMENT-3a.ipynb](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Assignments/ASSIGNMENT-3a.ipynb) <br> [ASSIGNMENT-3b.ipynb](https://raw.githubusercontent.com/cltl/python-for-text-analysis/master/Assignments/ASSIGNMENT-3b.ipynb) <br> |
+|  39  | lecture  | Thursday 09-26-2019 <br> 15:30 - 17:15  | BLOCK 3: Theory and work time |  | 
 |  39  | DEADLINE  | Friday 09-27-2019 <br> before 23:59  | SUBMIT ASSIGNMENT 3 | [submission form](https://forms.gle/JiDmuLLKxbjgA8Sn8) |
 |  40  | lecture  | Monday 09-30-2019 <br> 13:30 - 15:15  |  BLOCK 3: Feedback assignment |  |
 |  40  | lecture  | Thursday 10-03-2019 <br> 15:30 - 17:15  |  BLOCK 4: Introduction theory |  |
@@ -155,4 +155,4 @@ If you use code you found online in an assignment, please indicate it in the fol
 
 \###
 
-Please use a similar format to indicate that you have worked with a classmate (e.g. mention the name instead of the link). 
+Please use a similar format to indicate that you have worked with a classmate (e.g. mention the name instead of the link).
