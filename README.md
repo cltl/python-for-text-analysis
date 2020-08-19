@@ -106,9 +106,9 @@ There are 4 Blocks with associated chapters and assignments:
 | Block   | Chapters BA | Chapters MA | Assignment BA | Assignment MA |
 |---------|---------|---------|-----|----|
 | I | Chapters 1-4 | Chapters 1-4 |	 Assignment 1 | Assignment 1 |
-| II |Chapters 5-11  |  Assignment 2 |Assignment 2 |
+| II |Chapters 5-11  |  Chapters 5-11 |Assignment 2 | Assignment 2 |
 | III |Chapters 12-15 | Chapters 12-15 |	Assignments 3a and 3b_BA	| Assignments 3a and 3b_MA	|
-| IV |Chapters 16-18 | Chapters 16-18 [to be updated] | Assignments 4a and 4b_BA | Assignments 4a and 4b_MA |
+| IV |Chapters 16, 17, 22 | Chapters 16-18 [to be updated] | Assignments 4a and 4b_BA | Assignments 4a and 4b_MA |
 
 The schedule for the entire course follows the same structure, illustrated below.
 
