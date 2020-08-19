@@ -80,13 +80,12 @@ This file serves as the syllabus and a general reference for this course.
 The course is worth 6ECTS and will consist of **4 assignments** and a **final exam**. The assignments have to be submitted after the content and tutorial session of each block (4 in total). In the third session of each block, we will discuss the assignment in class and provide feedback. The assignments and exam are weighted as follows.
 
 | Part    | weight % |  Part    | weight % |
-|---------|---------|---|---------|---------|
-|Assignment 1|	 0  |  Total Assignments |	60 |
+|---------|----------|----------|---------|
+|Assignment 1| 0     |  Total Assignments |	60 |
 |Assignment 2|	 10  |  Exam	            |	40 |
 |Assignment 3|	 20  |    |	 |
 |Assignment 4|	 30  |    |	 |
-|     **Total**      ||   |	100 |
-
+|  **Total** |       |     |	100 |
 
 
 ### Course assignments
