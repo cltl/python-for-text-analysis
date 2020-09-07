@@ -134,7 +134,7 @@ Finally, the third lecture is a feedback session where we will discuss some of t
 |  37 | lecture  | Monday 2020-09-07  <br> 15:30 - 17:15 |  BLOCK 1: Feedback assignment |  |
 |  37  | lecture  | Thursday 2020-09-10  <br> 15:30 - 17:15 |  BLOCK 2: Introduction theory |  |
 |  38  | lecture  | Monday 2020-09-14  <br> 15:30 - 17:15 |  BLOCK 2: Theory and work time |  |
-|  38  | DEADLINE  | Tuesday 2020-09-15 <br> before 17:00  | SUBMIT ASSIGNMENT 2 | Assignment 2 |
+|  38  | DEADLINE  | Tuesday 2020-09-15 <br> before 20:00  | SUBMIT ASSIGNMENT 2 | Assignment 2 |
 |  38  | lecture  | Thursday 2020-09-17  <br> 15:30 - 17:15 |  BLOCK 2: Feedback assignment |  |
 |  39  | lecture  | Monday 2020-09-21 <br> 15:30 - 17:15  |  BLOCK 3: Introduction theory |  |
 |  39  | lecture  | Thursday 2020-09-24 <br> 15:30 - 17:15  | BLOCK 3: Theory and work time |  |
