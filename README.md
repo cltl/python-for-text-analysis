@@ -1,6 +1,8 @@
 # Python for text analysis
 *As taught at the Vrije Universiteit Amsterdam in the [Humanities Research Master: Linguistics](http://masters.vu.nl/en/programmes/linguistics-research/index.aspx) (track [Human Language Technology](http://www.cltl.nl/teaching/human-language-technology/)) and the [Minor Digital Humanities and Social Analytics (BA)](https://studiegids.vu.nl/en/minor/2019-2020/minor-digital-humanities-and-social-analytics?_ga=2.61745324.1204416539.1597663557-1095921612.1591712788#study-program).*
 
+In case you have questions about exemption, please first read [Python-test.md](https://github.com/cltl/python-for-text-analysis/blob/master/Assignments/Python-test.md).
+
 This is a practical course in Python, geared towards those who want to get some hands-on experience working with language data.
 No knowledge of programming is required or presupposed.
 We will work with Python 3.8. We highly recommend installing [Anaconda](https://www.anaconda.com/download) for this course.
