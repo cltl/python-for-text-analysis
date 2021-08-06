@@ -49,7 +49,7 @@ Programming almost always involves running into problems and getting stuck. This
 
 
 * Check the class material for solutions. The chapters treated in the assignment are usually a good start. As the course progresses, you may have to also check the material from earlier blocks.
-* If you get error messages, read them carefully - they are informative! In particular, check the line in which the error occurs. If you don't understand what it says, try to google it (you will most likely find some explanation on Stackoverflow).
+* If you get error messages, read them carefully - they are informative! In particular, check the line in which the error occurs and the line immediately preceding it. If you don't understand what it says, try to google it (you will most likely find some explanation on Stackoverflow).
 * Break down your task into small steps using pen and paper. Sometimes, you lose sight of the bigger picture when dealing with complicated code. Breaking down a big task into small tasks helps you identify the problem.
 * Explain the problem to someone else (e.g., a classmate). Go through the code line by line and explain what it does (See [pair programming](https://en.wikipedia.org/wiki/Pair_programming) and [rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging)).
 * Finally, take a break! Very often, just having a fresh look at the code helps!
@@ -130,25 +130,25 @@ Finally, the third lecture is a feedback session where we will discuss some of t
 
 | week | what     | when                   | description           | Canvas --> Assignments |
 |------|----------|------------------------|-----------------------|-------------|
-|  36  | lecture  | Monday 2020-08-31 <br> 15:30 - 17:15 | BLOCK 1: Introduction theory | |
-|  36  | lecture  | Thursday 2020-09-03 <br> 15:30 - 17:15  | BLOCK 1: Theory and work time |  |
-|  36  | DEADLINE  | Friday 2020-09-04 <br> before 17:00  | SUBMIT ASSIGNMENT 1 | Assignment 1 |
-|  37 | lecture  | Monday 2020-09-07  <br> 15:30 - 17:15 |  BLOCK 1: Feedback assignment |  |
-|  37  | lecture  | Thursday 2020-09-10  <br> 15:30 - 17:15 |  BLOCK 2: Introduction theory |  |
-|  38  | lecture  | Monday 2020-09-14  <br> 15:30 - 17:15 |  BLOCK 2: Theory and work time |  |
-|  38  | DEADLINE  | Tuesday 2020-09-15 <br> before 20:00  | SUBMIT ASSIGNMENT 2 | Assignment 2 |
-|  38  | lecture  | Thursday 2020-09-17  <br> 15:30 - 17:15 |  BLOCK 2: Feedback assignment |  |
-|  39  | lecture  | Monday 2020-09-21 <br> 15:30 - 17:15  |  BLOCK 3: Introduction theory |  |
-|  39  | lecture  | Thursday 2020-09-24 <br> 15:30 - 17:15  | BLOCK 3: Theory and work time |  |
-|  39  | DEADLINE  | Friday 2020-09-25 <br> before 17:00  | SUBMIT ASSIGNMENT 3 | Assignment 3 |
-|  40  | lecture  | Monday 2020-09-28 <br> 15:30 - 17:15  |  BLOCK 3: Feedback assignment |  |
-|  40  | lecture  | Thursday 2020-10-01 <br> 15:30 - 17:15  |  BLOCK 4: Introduction theory | |
-|  41  | lecture  | Monday 2020-10-05 <br> 15:30 - 17:15  |  BLOCK 4: Theory and work time |  |
-|  41  | lecture  | Thursday 2020-10-08 <br> 15:30-17:15  | BLOCK 4: Theory and work time  | |
-|  41  | DEADLINE  | Friday 2020-10-09 <br> before 17:00  | SUBMIT ASSIGNMENT 4  | Assignment 4 |
-|  42  | lecture  | Monday 2020-10-12  <br> 15:30 - 17:15 | BLOCK 4: Feedback assignment |  |
-|  42  | lecture  | Thursday 2020-10-15  <br> 15:30 - 17:15 |  Exam preparation |  |
-|  43  | EXAM  | Monday 2020-10-19 <br> 15:30-17:45  |  Digital EXAM |  |
+|  36  | lecture  | Monday 2021-09-06 <br> 9:00 - 10:30 | BLOCK 1: Introduction theory | |
+|  36  | lecture  | Wednesday 2021-09-08 <br> 15:30 - 17:15  | BLOCK 1: Theory and work time |  |
+|  36  | DEADLINE  | Friday 2021-09-10 <br> before 17:00  | SUBMIT ASSIGNMENT 1 | Assignment 1 |
+|  37 | lecture  | Monday 2021-09-13  <br> 9:00 - 10:30 |  BLOCK 1: Feedback assignment |  |
+|  37  | lecture  | Wednesday 2021-09-15  <br> 15:30 - 17:15 |  BLOCK 2: Introduction theory |  |
+|  38  | lecture  | Monday 2021-09-20 <br> 9:00 - 10:30 |  BLOCK 2: Theory and work time |  |
+|  38  | DEADLINE  | Tuesday 2020-09-21 <br> before 20:00  | SUBMIT ASSIGNMENT 2 | Assignment 2 |
+|  38  | lecture  | Wednesday 2021-09-22  <br> 15:30 - 17:15 |  BLOCK 2: Feedback assignment |  |
+|  39  | lecture  | Monday 2021-09-27 <br> 9:00 - 10:30 |  BLOCK 3: Introduction theory |  |
+|  39  | lecture  | Wednesday 2021-09-29 <br> 15:30 - 17:15  | BLOCK 3: Theory and work time |  |
+|  39  | DEADLINE  | Friday 2021-10-01 <br> before 17:00  | SUBMIT ASSIGNMENT 3 | Assignment 3 |
+|  40  | lecture  | Monday 2021-10-04 <br> 9:00 - 10:30  |  BLOCK 3: Feedback assignment |  |
+|  40  | lecture  | Wednesday 2021-10-06 <br> 15:30 - 17:15  |  BLOCK 4: Introduction theory | |
+|  41  | lecture  | Monday 2021-10-11 <br> 9:00 - 10:30   |  BLOCK 4: Theory and work time |  |
+|  41  | lecture  | Wednesday 2021-10-13 <br> 15:30-17:15  | BLOCK 4: Theory and work time  | |
+|  41  | DEADLINE  | Friday 2021-10-15 <br> before 17:00  | SUBMIT ASSIGNMENT 4  | Assignment 4 |
+|  42  | lecture  | Monday 2021-10-18  <br> 9:00 - 10:30 | BLOCK 4: Feedback assignment |  |
+|  42  | lecture  | Wednesday 2021-10-20  <br> 15:30 - 17:15 |  Exam preparation |  |
+|  43  | EXAM  | Tuesday 2021-10-26 <br> 8:30-11:15 (11:45, extra time)  |  Digital EXAM |  |
 
 
 ## Plagiarism
