@@ -132,7 +132,7 @@ Finally, the third lecture is a feedback session where we will discuss some of t
 |------|----------|------------------------|-----------------------|-------------|
 |  36  | lecture  | Monday 2021-09-06 <br> 9:00 - 10:30 | BLOCK 1: Introduction theory | |
 |  36  | lecture  | Wednesday 2021-09-08 <br> 15:30 - 17:15  | BLOCK 1: Theory and work time |  |
-|  36  | DEADLINE  | Friday 2021-09-10 <br> before 17:00  | SUBMIT ASSIGNMENT 1 | Assignment 1 |
+|  36  | DEADLINE  | Friday 2021-09-10 <br> before 15:00  | SUBMIT ASSIGNMENT 1 | Assignment 1 |
 |  37 | lecture  | Monday 2021-09-13  <br> 9:00 - 10:30 |  BLOCK 1: Feedback assignment |  |
 |  37  | lecture  | Wednesday 2021-09-15  <br> 15:30 - 17:15 |  BLOCK 2: Introduction theory |  |
 |  38  | lecture  | Monday 2021-09-20 <br> 9:00 - 10:30 |  BLOCK 2: Theory and work time |  |
