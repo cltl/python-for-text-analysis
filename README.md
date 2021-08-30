@@ -140,12 +140,12 @@ Finally, the third lecture is a feedback session where we will discuss some of t
 |  38  | lecture  | Wednesday 2021-09-22  <br> 15:30 - 17:15 |  BLOCK 2: Feedback assignment |  |
 |  39  | lecture  | Monday 2021-09-27 <br> 9:00 - 10:30 |  BLOCK 3: Introduction theory |  |
 |  39  | lecture  | Wednesday 2021-09-29 <br> 15:30 - 17:15  | BLOCK 3: Theory and work time |  |
-|  39  | DEADLINE  | Friday 2021-10-01 <br> before 17:00  | SUBMIT ASSIGNMENT 3 | Assignment 3 |
+|  39  | DEADLINE  | Friday 2021-10-01 <br> before 14:30  | SUBMIT ASSIGNMENT 3 | Assignment 3 |
 |  40  | lecture  | Monday 2021-10-04 <br> 9:00 - 10:30  |  BLOCK 3: Feedback assignment |  |
 |  40  | lecture  | Wednesday 2021-10-06 <br> 15:30 - 17:15  |  BLOCK 4: Introduction theory | |
 |  41  | lecture  | Monday 2021-10-11 <br> 9:00 - 10:30   |  BLOCK 4: Theory and work time |  |
 |  41  | lecture  | Wednesday 2021-10-13 <br> 15:30-17:15  | BLOCK 4: Theory and work time  | |
-|  41  | DEADLINE  | Friday 2021-10-15 <br> before 17:00  | SUBMIT ASSIGNMENT 4  | Assignment 4 |
+|  41  | DEADLINE  | Friday 2021-10-15 <br> before 14:30  | SUBMIT ASSIGNMENT 4  | Assignment 4 |
 |  42  | lecture  | Monday 2021-10-18  <br> 9:00 - 10:30 | BLOCK 4: Feedback assignment |  |
 |  42  | lecture  | Wednesday 2021-10-20  <br> 15:30 - 17:15 |  Exam preparation |  |
 |  43  | EXAM  | Tuesday 2021-10-26 <br> 8:30-11:15 (11:45, extra time)  |  Digital EXAM |  |
