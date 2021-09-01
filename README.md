@@ -89,11 +89,11 @@ The course is worth 6 ECTS and will consist of **4 assignments** and a **final e
 
 
 ### Course assignments
-You are asked to hand in 4 assignments in total. The deadlines are indicated below. Submission 1 day after the deadline downgrades your grade by 2 (e.g., a 9 will result in a 7).  After that, the resulting grade is a 1. We have to be strict about this because we will discuss the assignments in class, and we need time to look at your submissions. In addition, the solutions will be discussed in the feedback session, and we cannot award points after the solutions have been discussed.
+You are asked to hand in 4 assignments in total. The deadlines are indicated below. Submission 1 day after the deadline and before the feedback session downgrades your grade by 2 (e.g., a 9 will result in a 7).  After that (i.e. on day 2 or after the feedback session has started), the resulting grade is a 1. We have to be strict about this because we will discuss the assignments in class, and we need time to look at your submissions. In addition, the solutions will be discussed in the feedback session, and we cannot award points after the solutions have been discussed.
 
 Submission is made through Canvas.
 
-Please note that a passing grade for the assignments (in total) is a requirement for passing the course. It is possible to do a resit for one assignment (with a maximum grade of 7.5), but you are only eligible to do this if you **submitted all assignments**.
+Please note that a passing grade for the assignments (in total) is a requirement for passing the course. It is possible to do a resit for one assignment (with a maximum grade of 7.5), but you are only eligible to do this if you **submitted all assignments**. Note that you also need to do the resit assignment if you failed the first assignment and that this will be graded on a pass/non-pass basis (just like the first assignment).
 
 ### Final exam
 The exam tests your knowledge of the syntax of Python, and your knowledge of the standard library. It serves as an opportunity to show what you've learned and will ensure that you have sufficient knowledge to tackle your own code projects and continue improving your python skills by yourself. You cannot pass the course without a passing grade on the exam. But don't worry: if you are able to finish the assignments, you will be fine on the exam.
@@ -152,7 +152,11 @@ Finally, the third lecture is a feedback session where we will discuss some of t
 
 
 ## Plagiarism
-Basically, please don't cheat. For the weekly assignments, let us know in the comments if you have worked together with someone or if you used code from online sources, such as [stackoverflow](http://stackoverflow.com/). If you found some useful code online, do try to understand what that piece of code does. If it looks 'complicated', we expect you to provide comments in the code explaining what it does.
+Cheating is serious: it is considered fraud and can lead to being excluded from your studies (https://vu.nl/en/student/your-faculty/examination-board). It is also harmful: not only for yourself (you can fool yourself and fail to learn this useful skill), but also for other students (if multiple students do better because of cheating, teachers may think a grading scheme is fair, even though it needs to be adjusted). 
+
+How to avoid this, while making use of online sources and working together:
+
+For the weekly assignments, let us know in the comments if you have worked together with someone or if you used code from online sources, such as [stackoverflow](http://stackoverflow.com/). If you found some useful code online, do try to understand what that piece of code does. If it looks 'complicated', we expect you to provide comments in the code explaining what it does.
 
 If you use code you found online in an assignment, please indicate it in the following way:
 
@@ -162,4 +166,4 @@ If you use code you found online in an assignment, please indicate it in the fol
 
 \###
 
-Please use a similar format to indicate that you have worked with a classmate (e.g. mention the name instead of the link).
+Please use a similar format to indicate that you have worked with a classmate (e.g. mention the name instead of the link). Make sure to provide your own comments to show that you understood and indicate what you did yourself, e.g. by commenting your partial solution out (we cannot give credits for copy-pasting full answers from classmates, but you may get full points for a partial individual solution and well commented working one with components from a classmate). If you work on a solution together, also indicate this and make sure to provide individual explanations.
