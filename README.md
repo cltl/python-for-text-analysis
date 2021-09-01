@@ -148,7 +148,7 @@ Finally, the third lecture is a feedback session where we will discuss some of t
 |  41  | DEADLINE  | Friday 2021-10-15 <br> before 14:30  | SUBMIT ASSIGNMENT 4  | Assignment 4 |
 |  42  | lecture  | Monday 2021-10-18  <br> 9:00 - 10:30 | BLOCK 4: Feedback assignment |  |
 |  42  | lecture  | Wednesday 2021-10-20  <br> 15:30 - 17:15 |  Exam preparation |  |
-|  43  | EXAM  | Tuesday 2021-10-26 <br> 8:30-11:15 (11:45, extra time)  |  Digital EXAM |  |
+|  43  | EXAM  | Tuesday 2021-10-26 <br> 8:30-11:15 (11:45, extra time)  |  EXAM |  |
 
 
 ## Plagiarism
