@@ -93,7 +93,7 @@ You are asked to hand in 4 assignments in total. The deadlines are indicated bel
 
 Submission is made through Canvas.
 
-Please note that a passing grade for the assignments (in total) is a requirement for passing the course and you need at least a 5.0 for the final assignment (this can also be the resit). It is possible to do a resit for one assignment (with a maximum grade of 7.5), but you are only eligible to do this if you **submitted all assignments**. Note that you also need to do the resit assignment if you failed the first assignment and that this will be graded on a pass/non-pass basis (just like the first assignment).
+Please note that a passing grade for the assignments (in total) is a requirement for passing the course and you need at least a 5.0 for the final assignment (this can also be the resit). It is possible to do a resit for one assignment (with a maximum grade of 7.5), but you are only eligible to do this if you **submitted all assignments**. Note that you also need to do the resit assignment if you failed the first assignment and that this will be graded on a pass/non-pass basis (just like the first assignment): you will need to pass the resit, but it will not improve your grade.
 
 ### Final exam
 The exam tests your knowledge of the syntax of Python, and your knowledge of the standard library. It serves as an opportunity to show what you've learned and will ensure that you have sufficient knowledge to tackle your own code projects and continue improving your python skills by yourself. You cannot pass the course without a passing grade on the exam. But don't worry: if you are able to finish the assignments, you will be fine on the exam.
