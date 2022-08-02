@@ -5,10 +5,10 @@ In case you have questions about exemption, please first read [Python-test.md](h
 
 This is a practical course in Python, geared towards those who want to get some hands-on experience working with language data.
 No knowledge of programming is required or presupposed.
-We will work with Python 3.8. We highly recommend installing [Anaconda](https://www.anaconda.com/download) for this course.
+We will work with Python 3.9. We highly recommend installing [Anaconda](https://www.anaconda.com/download) for this course.
 
 (If you have worked with Python 3 before, be sure to check if Jupyter Notebook
-is installed on your machine. We will work extensively with notebooks. Make sure you are working with Python 3.8.)
+is installed on your machine. We will work extensively with notebooks. Make sure you are working with Python 3.9.)
 
 *This course is based on the material used in [previous years](https://github.com/cltl/python-for-text-analysis/releases) and in [this course](https://github.com/kadarakos/python-course).*
 
@@ -130,25 +130,25 @@ Finally, the third lecture is a feedback session where we will discuss some of t
 
 | week | what     | when                   | description           | Canvas --> Assignments |
 |------|----------|------------------------|-----------------------|-------------|
-|  36  | lecture  | Monday 2021-09-06 <br> 9:00 - 10:30 | BLOCK 1: Introduction theory | |
-|  36  | lecture  | Wednesday 2021-09-08 <br> 15:30 - 17:15  | BLOCK 1: Theory and work time |  |
-|  36  | DEADLINE  | Friday 2021-09-10 <br> before 15:00  | SUBMIT ASSIGNMENT 1 | Assignment 1 |
-|  37 | lecture  | Monday 2021-09-13  <br> 9:00 - 10:30 |  BLOCK 1: Feedback assignment |  |
-|  37  | lecture  | Wednesday 2021-09-15  <br> 15:30 - 17:15 |  BLOCK 2: Introduction theory |  |
-|  38  | lecture  | Monday 2021-09-20 <br> 9:00 - 10:30 |  BLOCK 2: Theory and work time |  |
-|  38  | DEADLINE  | Tuesday 2021-09-21 <br> before 20:00  | SUBMIT ASSIGNMENT 2 | Assignment 2 |
-|  38  | lecture  | Wednesday 2021-09-22  <br> 15:30 - 17:15 |  BLOCK 2: Feedback assignment |  |
-|  39  | lecture  | Monday 2021-09-27 <br> 9:00 - 10:30 |  BLOCK 3: Introduction theory |  |
-|  39  | lecture  | Wednesday 2021-09-29 <br> 15:30 - 17:15  | BLOCK 3: Theory and work time |  |
-|  39  | DEADLINE  | Friday 2021-10-01 <br> before 14:30  | SUBMIT ASSIGNMENT 3 | Assignment 3 |
-|  40  | lecture  | Monday 2021-10-04 <br> 9:00 - 10:30  |  BLOCK 3: Feedback assignment |  |
-|  40  | lecture  | Wednesday 2021-10-06 <br> 15:30 - 17:15  |  BLOCK 4: Introduction theory | |
-|  41  | lecture  | Monday 2021-10-11 <br> 9:00 - 10:30   |  BLOCK 4: Theory and work time |  |
-|  41  | lecture  | Wednesday 2021-10-13 <br> 15:30-17:15  | BLOCK 4: Theory and work time  | |
-|  41  | DEADLINE  | Friday 2021-10-15 <br> before 14:30  | SUBMIT ASSIGNMENT 4  | Assignment 4 |
-|  42  | lecture  | Monday 2021-10-18  <br> 9:00 - 10:30 | BLOCK 4: Feedback assignment |  |
-|  42  | lecture  | Wednesday 2021-10-20  <br> 15:30 - 17:15 |  Exam preparation |  |
-|  43  | EXAM  | Tuesday 2021-10-26 <br> 8:30-11:15 (11:45, extra time)  |  EXAM |  |
+|  36  | lecture  | Monday 2021-09-05 <br> 15:30 - 17:15 | BLOCK 1: Introduction theory | |
+|  36  | lecture  | Thursday 2021-09-08 <br> 13:30 - 15:15  | BLOCK 1: Theory and work time |  |
+|  36  | DEADLINE  | Friday 2021-09-09 <br> before 17:00  | SUBMIT ASSIGNMENT 1 | Assignment 1 |
+|  37 | lecture  | Monday 2021-09-12  <br> 15:30 - 17:15 |  BLOCK 1: Feedback assignment |  |
+|  37  | lecture  | Thursday 2021-09-15  <br> 13:30 - 15:15 |  BLOCK 2: Introduction theory |  |
+|  38  | lecture  | Monday 2021-09-19 <br> 15:30 - 17:15 |  BLOCK 2: Theory and work time |  |
+|  38  | DEADLINE  | Tuesday 2021-09-20 <br> before 17:00  | SUBMIT ASSIGNMENT 2 | Assignment 2 |
+|  38  | lecture  | Thursday 2021-09-22  <br> 13:30 - 15:15 |  BLOCK 2: Feedback assignment |  |
+|  39  | lecture  | Monday 2021-09-26 <br> 15:30 - 17:15 |  BLOCK 3: Introduction theory |  |
+|  39  | lecture  | Thursday 2021-09-29 <br> 13:30 - 15:15  | BLOCK 3: Theory and work time |  |
+|  39  | DEADLINE  | Friday 2021-09-30 <br> before 17:00  | SUBMIT ASSIGNMENT 3 | Assignment 3 |
+|  40  | lecture  | Monday 2021-10-03 <br> 15:30 - 17:15  |  BLOCK 3: Feedback assignment |  |
+|  40  | lecture  | Thursday 2021-10-06 <br> 13:30 - 15:15  |  BLOCK 4: Introduction theory | |
+|  41  | lecture  | Monday 2021-10-10 <br> 15:30 - 17:15   |  BLOCK 4: Theory and work time |  |
+|  41  | lecture  | Thursday 2021-10-13 <br> 13:30 - 15:15  | BLOCK 4: Theory and work time  | |
+|  41  | DEADLINE  | Friday 2021-10-14 <br> before 17:00  | SUBMIT ASSIGNMENT 4  | Assignment 4 |
+|  42  | lecture  | Monday 2021-10-17  <br> 15:30 - 17:15 | BLOCK 4: Feedback assignment |  |
+|  42  | lecture  | Thursday 2021-10-20  <br> 13:30 - 15:15 |  Exam preparation |  |
+|  43  | EXAM  | Tuesday 2021-10-25 <br> 8:30-11:15 (11:45, extra time)  |  EXAM |  |
 
 
 ## Plagiarism
