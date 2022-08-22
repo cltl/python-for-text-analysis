@@ -81,11 +81,13 @@ The course is worth 6 ECTS and will consist of **4 assignments** and a **final e
 
 | Part    | weight % |  Part    | weight % |
 |---------|----------|----------|---------|
-|Assignment 1| 0     |  Total Assignments |	60 |
+|Assignment 1| 0*   |  Total Assignments |	60 |
 |Assignment 2|	 10  |  Exam	            |	40 |
 |Assignment 3|	 20  |    |	 |
 |Assignment 4|	 30  |    |	 |
 |  **Total** |       |     |	100 |
+
+*Assignment 1 is not graded, but you are required to submit a serious attempt by the deadline to pass the course.
 
 
 ### Course assignments
@@ -93,10 +95,32 @@ You are asked to hand in 4 assignments in total. The deadlines are indicated bel
 
 Submission is made through Canvas.
 
-Please note that a passing grade for the assignments (in total) is a requirement for passing the course and you need at least a 5.0 for the final assignment (this can also be the resit). It is possible to do a resit for one assignment (with a maximum grade of 7.5), but you are only eligible to do this if you **submitted all assignments**. Note that you also need to do the resit assignment if you failed the first assignment and that this will be graded on a pass/non-pass basis (just like the first assignment): you will need to pass the resit, but it will not improve your grade.
+Please note that a passing grade for the assignments (in total) is a requirement for passing the course and you need at least a 5.0 for the final assignment (this can also be the resit).
+
+### Resits for Assignments
+
+We provide a resit opportunity for each assignment at the end of the course (deadline will be announced). The maximum grade for the resit assignments is 7.5.
+
+The following Assignments have to be completed as resits for the regular assignments.
+
+| Assignment    | Resit |
+|---------|----------|
+|Assignment 1| Resit part A (serious attempt)  |
+|Assignment 2|	Resit part A  |
+|Assignment 3|	Resit part B  |   
+|Assignment 4|	 Resit part C  |    
+
+**It is highly recommended to aim for passing grades at the first attempt. Please only make use of the resit opportunities in case you failed an assignment or were dealing with exceptional circumstances (e.g. illness).**
+
 
 ### Final exam
 The exam tests your knowledge of the syntax of Python, and your knowledge of the standard library. It serves as an opportunity to show what you've learned and will ensure that you have sufficient knowledge to tackle your own code projects and continue improving your python skills by yourself. You cannot pass the course without a passing grade on the exam. But don't worry: if you are able to finish the assignments, you will be fine on the exam.
+
+### Resit exam
+
+There will be an opportunity to take a resit exam. The exact date will be announced.
+
+**It is highly recommended to aim for a passing grade at the regular exam date. Please only make use of the resit exam if you fail the regular exam or were dealing with exceptional circumstances (e.g. exam date conflict, illness).
 
 
 ## Planning
@@ -152,7 +176,7 @@ Finally, the third lecture is a feedback session where we will discuss some of t
 
 
 ## Plagiarism
-Cheating is serious: it is considered fraud and can lead to being excluded from your studies (https://vu.nl/en/student/your-faculty/examination-board). It is also harmful: not only for yourself (you can fool yourself and fail to learn this useful skill), but also for other students (if multiple students do better because of cheating, teachers may think a grading scheme is fair, even though it needs to be adjusted). 
+Cheating is serious: it is considered fraud and can lead to being excluded from your studies (https://vu.nl/en/student/your-faculty/examination-board). It is also harmful: not only for yourself (you can fool yourself and fail to learn this useful skill), but also for other students (if multiple students do better because of cheating, teachers may think a grading scheme is fair, even though it needs to be adjusted).
 
 How to avoid this, while making use of online sources and working together:
 
