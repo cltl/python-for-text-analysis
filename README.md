@@ -93,9 +93,14 @@ The course is worth 6 ECTS and will consist of **4 assignments** and a **final e
 ### Course assignments
 You are asked to hand in 4 assignments in total. The deadlines are indicated below. Submission 1 day after the deadline and before the feedback session downgrades your grade by 2 (e.g., a 9 will result in a 7).  After that (i.e. on day 2 or after the feedback session has started), the resulting grade is a 1. We have to be strict about this because we will discuss the assignments in class, and we need time to look at your submissions. In addition, the solutions will be discussed in the feedback session, and we cannot award points after the solutions have been discussed.
 
-Submission is made through Canvas.
 
-Please note that a passing grade for the assignments (in total) is a requirement for passing the course and you need at least a 5.0 for the final assignment (this can also be the resit).
+Please note that a passing grade for the assignments (in total) is a requirement for passing the course and you need at least a 5.0 for the final assignment (regular assignment or resit assignment).
+
+### Assignment submissions
+
+Submission is made through Canvas. Please submit your assignments using the corresponding assignment submission on Canvas (e.g. labeled 'Assignment 1' for Assignment 1).
+
+Please note that we cannot accept assignments submitted via email. 
 
 ### Resits for Assignments
 
@@ -152,27 +157,27 @@ Finally, the third lecture is a feedback session where we will discuss some of t
 
 
 
-| week | what     | when                   | description           | Canvas --> Assignments |
-|------|----------|------------------------|-----------------------|-------------|
-|  36  | lecture  | Monday 2022-09-05 <br> 15:30 - 17:15 | BLOCK 1: Introduction theory | |
-|  36  | lecture  | Thursday 2022-09-08 <br> 13:30 - 15:15  | BLOCK 1: Theory and work time |  |
-|  36  | DEADLINE  | Friday 2022-09-09 <br> before 17:00  | SUBMIT ASSIGNMENT 1 | Assignment 1 |
-|  37 | lecture  | Monday 2022-09-12  <br> 15:30 - 17:15 |  BLOCK 1: Feedback assignment |  |
-|  37  | lecture  | Thursday 2022-09-15  <br> 13:30 - 15:15 |  BLOCK 2: Introduction theory |  |
-|  38  | lecture  | Monday 2022-09-19 <br> 15:30 - 17:15 |  BLOCK 2: Theory and work time |  |
-|  38  | DEADLINE  | Tuesday 2022-09-20 <br> before 17:00  | SUBMIT ASSIGNMENT 2 | Assignment 2 |
-|  38  | lecture  | Thursday 2022-09-22  <br> 13:30 - 15:15 |  BLOCK 2: Feedback assignment |  |
-|  39  | lecture  | Monday 2022-09-26 <br> 15:30 - 17:15 |  BLOCK 3: Introduction theory |  |
-|  39  | lecture  | Thursday 2022-09-29 <br> 13:30 - 15:15  | BLOCK 3: Theory and work time |  |
-|  39  | DEADLINE  | Friday 2022-09-30 <br> before 17:00  | SUBMIT ASSIGNMENT 3 | Assignment 3 |
-|  40  | lecture  | Monday 2022-10-03 <br> 15:30 - 17:15  |  BLOCK 3: Feedback assignment |  |
-|  40  | lecture  | Thursday 2022-10-06 <br> 13:30 - 15:15  |  BLOCK 4: Introduction theory | |
-|  41  | lecture  | Monday 2022-10-10 <br> 15:30 - 17:15   |  BLOCK 4: Theory and work time |  |
-|  41  | lecture  | Thursday 2022-10-13 <br> 13:30 - 15:15  | BLOCK 4: Theory and work time  | |
-|  41  | DEADLINE  | Friday 2022-10-14 <br> before 17:00  | SUBMIT ASSIGNMENT 4  | Assignment 4 |
-|  42  | lecture  | Monday 2022-10-17  <br> 15:30 - 17:15 | BLOCK 4: Feedback assignment |  |
-|  42  | lecture  | Thursday 2022-10-20  <br> 13:30 - 15:15 |  Exam preparation |  |
-|  43  | EXAM  | Tuesday 2022-10-25 <br> 8:30-11:15 (11:45, extra time)  |  EXAM |  |
+| week | what     | when                   | description           |
+|------|----------|------------------------|-----------------------|
+|  36  | lecture  | Monday 2022-09-05 <br> 15:30 - 17:15 | BLOCK 1: Introduction theory |
+|  36  | lecture  | Thursday 2022-09-08 <br> 13:30 - 15:15  | BLOCK 1: Theory and work time |  
+|  36  | DEADLINE  | Friday 2022-09-09 <br> before 17:00  | SUBMIT ASSIGNMENT 1 |
+|  37 | lecture  | Monday 2022-09-12  <br> 15:30 - 17:15 |  BLOCK 1: Feedback assignment |  
+|  37  | lecture  | Thursday 2022-09-15  <br> 13:30 - 15:15 |  BLOCK 2: Introduction theory |  
+|  38  | lecture  | Monday 2022-09-19 <br> 15:30 - 17:15 |  BLOCK 2: Theory and work time |  
+|  38  | DEADLINE  | Tuesday 2022-09-20 <br> before 17:00  | SUBMIT ASSIGNMENT 2 |
+|  38  | lecture  | Thursday 2022-09-22  <br> 13:30 - 15:15 |  BLOCK 2: Feedback assignment |  
+|  39  | lecture  | Monday 2022-09-26 <br> 15:30 - 17:15 |  BLOCK 3: Introduction theory |  
+|  39  | lecture  | Thursday 2022-09-29 <br> 13:30 - 15:15  | BLOCK 3: Theory and work time |  
+|  39  | DEADLINE  | Friday 2022-09-30 <br> before 17:00  | SUBMIT ASSIGNMENT 3 |
+|  40  | lecture  | Monday 2022-10-03 <br> 15:30 - 17:15  |  BLOCK 3: Feedback assignment |  
+|  40  | lecture  | Thursday 2022-10-06 <br> 13:30 - 15:15  |  BLOCK 4: Introduction theory |
+|  41  | lecture  | Monday 2022-10-10 <br> 15:30 - 17:15   |  BLOCK 4: Theory and work time |  
+|  41  | lecture  | Thursday 2022-10-13 <br> 13:30 - 15:15  | BLOCK 4: Theory and work time  |
+|  41  | DEADLINE  | Friday 2022-10-14 <br> before 17:00  | SUBMIT ASSIGNMENT 4  |
+|  42  | lecture  | Monday 2022-10-17  <br> 15:30 - 17:15 | BLOCK 4: Feedback assignment |  
+|  42  | lecture  | Thursday 2022-10-20  <br> 13:30 - 15:15 |  Exam preparation |
+|  43  | EXAM  | Tuesday 2022-10-25 <br> 8:30-11:15 (11:45, extra time)  |  EXAM |
 
 
 ## Plagiarism
