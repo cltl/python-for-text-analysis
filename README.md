@@ -48,12 +48,12 @@ outlined by Mike Bostock in his article
 Programming almost always involves running into problems and getting stuck. This is normal and even happens to very experienced programmers. We are trying to offer support to all students, but this means we have to prioritize and manage our time well. In order for this to work, please try to follow these strategies when you get stuck:
 
 
-* Check the class material for solutions. The chapters treated in the assignment are usually a good start. As the course progresses, you may have to also check the material from earlier blocks.
-* If you get error messages, read them carefully - they are informative! In particular, check the line in which the error occurs and the line immediately preceding it. If you don't understand what it says, try to google it (you will most likely find some explanation on Stackoverflow).
-* Break down your task into small steps using pen and paper. Sometimes, you lose sight of the bigger picture when dealing with complicated code. Breaking down a big task into small tasks helps you identify the problem.
-* Explain the problem to someone else (e.g., a classmate). Go through the code line by line and explain what it does (See [pair programming](https://en.wikipedia.org/wiki/Pair_programming) and [rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging)).
-* Finally, take a break! Very often, just having a fresh look at the code helps!
-* If none of these steps helped, please ask us for help (see assignment notebooks for contact details). If you ask for help, please always email your code rather than a screenshot.
+* Check the **class material** for solutions. The chapters treated in the assignment are usually a good start. As the course progresses, you may have to also check the material from earlier blocks.
+* If you get **error messages**, read them carefully - they are informative! In particular, check the line in which the error occurs and the line immediately preceding it. If you don't understand what it says, try to google it (you will most likely find some explanation on Stackoverflow).
+* Break down your task into **small steps using pen and paper**. Sometimes, you lose sight of the bigger picture when dealing with complicated code. Breaking down a big task into small tasks helps you identify the problem.
+* **Explain the problem to someone else** (e.g., a classmate). Go through the code line by line and explain what it does (See [pair programming](https://en.wikipedia.org/wiki/Pair_programming) and [rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging)).
+* Finally, **take a break**! Very often, just having a fresh look at the code helps!
+* If none of these steps helped, please try to ask for help well before the assignment deadline. Please start by posting your questions on Piazza.  If you email the teachers or TAs, please always email your code rather than a screenshot.
 
 Learning how to help yourself is a valuable skill and will be very useful in your future programming projects.
 
@@ -100,13 +100,13 @@ Please note that a passing grade for the assignments (in total) is a requirement
 
 Submission is made through Canvas. Please submit your assignments using the corresponding assignment submission on Canvas (e.g. labeled 'Assignment 1' for Assignment 1).
 
-Please note that we cannot accept assignments submitted via email. 
+Please note that we cannot accept assignments submitted via email.
 
 ### Resits for Assignments
 
 We provide a resit opportunity for each assignment at the end of the course (deadline will be announced). The maximum grade for the resit assignments is 7.5.
 
-The following Assignments have to be completed as resits for the regular assignments.
+The following Assignments have to be completed as resits for the regular assignments. The deadline for the resit assignments will be announced at the end of the course.
 
 | Assignment    | Resit |
 |---------|----------|
@@ -189,10 +189,12 @@ For the weekly assignments, let us know in the comments if you have worked toget
 
 If you use code you found online in an assignment, please indicate it in the following way:
 
-###Taken from [link] [date]
+```
+### Taken from [link] [date]
 
 [code]
 
 \###
+```
 
 Please use a similar format to indicate that you have worked with a classmate (e.g. mention the name instead of the link). Make sure to provide your own comments to show that you understood and indicate what you did yourself, e.g. by commenting your partial solution out (we cannot give credits for copy-pasting full answers from classmates, but you may get full points for a partial individual solution and well commented working one with components from a classmate). If you work on a solution together, also indicate this and make sure to provide individual explanations.
