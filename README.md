@@ -110,10 +110,10 @@ The following Assignments have to be completed as resits for the regular assignm
 
 | Assignment    | Resit |
 |---------|----------|
-|Assignment 1| Resit part A (serious attempt)  |
-|Assignment 2|	Resit part A  |
-|Assignment 3|	Resit part B  |   
-|Assignment 4|	 Resit part C  |    
+|Assignment 1| Resit A1 (serious attempt)  |
+|Assignment 2|	Resit A2  |
+|Assignment 3|	Resit A3  |   
+|Assignment 4|	 Resit A4  |    
 
 **It is highly recommended to aim for passing grades at the first attempt. Please only make use of the resit opportunities in case you failed an assignment or were dealing with exceptional circumstances (e.g. illness).**
 
