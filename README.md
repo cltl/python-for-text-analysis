@@ -1,4 +1,5 @@
 # Python for text analysis
+
 *As taught at the Vrije Universiteit Amsterdam in the [Humanities Research Master: Linguistics](http://masters.vu.nl/en/programmes/linguistics-research/index.aspx) (track [Human Language Technology](http://www.cltl.nl/teaching/human-language-technology/)) and the [Minor Digital Humanities and Social Analytics (BA)](https://studiegids.vu.nl/en/minor/2019-2020/minor-digital-humanities-and-social-analytics?_ga=2.61745324.1204416539.1597663557-1095921612.1591712788#study-program).*
 
 In case you have questions about exemption, please first read [Python-test.md](https://github.com/cltl/python-for-text-analysis/blob/master/Assignments/Python-test.md).
@@ -45,7 +46,7 @@ outlined by Mike Bostock in his article
 
 ## What to do if you get stuck
 
-Programming almost always involves running into problems and getting stuck. This is normal and even happens to very experienced programmers. We are trying to offer support to all students, but this means we have to prioritize and manage our time well. In order for this to work, please try to follow these strategies when you get stuck:
+Programming almost always involves running into problems and getting stuck. This is normal and even happens to very experienced programmers. We are trying to offer support to all students, but this means we have to prioritize and manage our time well. In order for this to work, please try to follow the following strategies when you get stuck:
 
 
 * Check the **class material** for solutions. The chapters treated in the assignment are usually a good start. As the course progresses, you may have to also check the material from earlier blocks.
@@ -94,7 +95,7 @@ The course is worth 6 ECTS and will consist of **4 assignments** and a **final e
 You are asked to hand in 4 assignments in total. The deadlines are indicated below. Submission 1 day after the deadline and before the feedback session downgrades your grade by 2 (e.g., a 9 will result in a 7).  After that (i.e. on day 2 or after the feedback session has started), the resulting grade is a 1. We have to be strict about this because we will discuss the assignments in class, and we need time to look at your submissions. In addition, the solutions will be discussed in the feedback session, and we cannot award points after the solutions have been discussed.
 
 
-Please note that a passing grade for the assignments (in total) is a requirement for passing the course and you need at least a 5.0 for the final assignment (regular assignment or resit assignment).
+Please note that a passing grade for the assignments (in total) is a requirement for passing the course and you need at least a 5.0 for Assignment 4 (regular assignment or resit assignment).
 
 ### Assignment submissions
 
@@ -104,18 +105,12 @@ Please note that we cannot accept assignments submitted via email.
 
 ### Resits for Assignments
 
-We provide a resit opportunity for each assignment at the end of the course (deadline will be announced). The maximum grade for the resit assignments is 7.5.
+You can retake a maximum of two out of the four assignments. You have to retake assignments you missed and can retake assignments to improve your grade (this is highly recommended if you run risk of obtaining an overall assignment grade below 5.5). Please note that the latest grade you obtained for an assignment counts (i.e. if you take a resit assignment to replace one of the regular assignments, the resit grade counts). As a consequence, you 
 
-The following Assignments have to be completed as resits for the regular assignments. The deadline for the resit assignments will be announced at the end of the course.
+Please note that the level of the resit assignments will be equivalent to the more advanced components of Assignment 4. The resit assignments will be published at the end of the course and there will be a deadline for submission. 
 
-| Assignment    | Resit |
-|---------|----------|
-|Assignment 1| Resit A1 (serious attempt)  |
-|Assignment 2|	Resit A2  |
-|Assignment 3|	Resit A3  |   
-|Assignment 4|	 Resit A4  |    
 
-**It is highly recommended to aim for passing grades at the first attempt. Please only make use of the resit opportunities in case you failed an assignment or were dealing with exceptional circumstances (e.g. illness).**
+**It is highly recommended to submit all of your assignments at the regular deadlines. Please only make use of the resit opportunities in case you failed an assignment or were dealing with exceptional circumstances (e.g. illness). Please note that the deadline of the resit assignments will fall into period 2 and thus interfere with your new courses.**
 
 
 ### Final exam
@@ -142,13 +137,17 @@ The schedule for the entire course follows the same structure, illustrated below
 
 All blocks except block IV will consist of three lectures. There is one additional lecture for block IV.
 
+Chapters 19, 20, and 21 will not be tested in the Assignments (nor on the exam). They serve as additional resources. 
+
 **Lecture 1**
 
-In the first lecture, we introduce some of the new topics. It is highly recommended to go through the chapter notebooks in preparation for the classes. After the first lecture, you are expected to start working on the assignment and consult the chapters for things that are unclear to you. Please be aware that the assignments can most likely not be completed in a single day. Also, solving code problems is much easier if you have **sufficient time for breaks**.
+In the first lecture, we explain and practice the basics of the new block. It is highly recommended to go through the chapter notebooks **in preparation** for the classes. Feel free to watch the additional video material provided on Canvas to understand the basic notions. After the first lecture, you are expected to start working on the assignment and consult the chapters for things that are unclear to you. 
+
+Please be aware that the level of the assignments is a little bit higher than the level of the exercises provided at the end of each chapter. Solving the assignments requires taking some extra steps; you will have to combine notions from different chapters and most likely go through several cycles of trial and error. Therefore, please tkae into account that the assignments can most likely not be completed in a single day. Also, solving code problems is much easier if you have **sufficient time for breaks**.
 
 **Lecture 2**
 
-In the second lecture, we will further highlight some of the theory, and you will have time to work on the assignment in class. Support will be provided by the teachers and student assistants. It is highly recommended to prepare questions you have about the assignment. We will dedicate time TO this in this lecture. You will finish the assignment between the second and third lecture and hand it in on either Tuesday or Friday.
+In the second lecture, we will further highlight some of the theory, and you will have time to practice more advanced notions. Support will be provided by the teachers and student assistants. It is highly recommended to prepare questions you have about the assignment and post them on Piazza (see bellow) before class. Ideally, we can prepare the lecture in such a way that it will help you finalize your assignment. You will finish the assignment between the second and third lecture and hand it in on either Wednesday or Friday.
 
 **Lecture 3**
 
@@ -159,33 +158,36 @@ Finally, the third lecture is a feedback session where we will discuss some of t
 
 | week | what     | when                   | description           |
 |------|----------|------------------------|-----------------------|
-|  36  | lecture  | Monday 2022-09-05 <br> 15:30 - 17:15 | BLOCK 1: Introduction theory |
-|  36  | lecture  | Thursday 2022-09-08 <br> 13:30 - 15:15  | BLOCK 1: Theory and work time |  
-|  36  | DEADLINE  | Friday 2022-09-09 <br> before 17:00  | SUBMIT ASSIGNMENT 1 |
-|  37 | lecture  | Monday 2022-09-12  <br> 15:30 - 17:15 |  BLOCK 1: Feedback assignment |  
-|  37  | lecture  | Thursday 2022-09-15  <br> 13:30 - 15:15 |  BLOCK 2: Introduction theory |  
-|  38  | lecture  | Monday 2022-09-19 <br> 15:30 - 17:15 |  BLOCK 2: Theory and work time |  
-|  38  | DEADLINE  | Tuesday 2022-09-20 <br> before 17:00  | SUBMIT ASSIGNMENT 2 |
-|  38  | lecture  | Thursday 2022-09-22  <br> 13:30 - 15:15 |  BLOCK 2: Feedback assignment |  
-|  39  | lecture  | Monday 2022-09-26 <br> 15:30 - 17:15 |  BLOCK 3: Introduction theory |  
-|  39  | lecture  | Thursday 2022-09-29 <br> 13:30 - 15:15  | BLOCK 3: Theory and work time |  
-|  39  | DEADLINE  | Friday 2022-09-30 <br> before 17:00  | SUBMIT ASSIGNMENT 3 |
-|  40  | lecture  | Monday 2022-10-03 <br> 15:30 - 17:15  |  BLOCK 3: Feedback assignment |  
-|  40  | lecture  | Thursday 2022-10-06 <br> 13:30 - 15:15  |  BLOCK 4: Introduction theory |
-|  41  | lecture  | Monday 2022-10-10 <br> 15:30 - 17:15   |  BLOCK 4: Theory and work time |  
-|  41  | lecture  | Thursday 2022-10-13 <br> 13:30 - 15:15  | BLOCK 4: Theory and work time  |
-|  41  | DEADLINE  | Friday 2022-10-14 <br> before 17:00  | SUBMIT ASSIGNMENT 4  |
-|  42  | lecture  | Monday 2022-10-17  <br> 15:30 - 17:15 | BLOCK 4: Feedback assignment |  
-|  42  | lecture  | Thursday 2022-10-20  <br> 13:30 - 15:15 |  Exam preparation |
-|  43  | EXAM  | Tuesday 2022-10-25 <br> 8:30-11:15 (11:45, extra time)  |  EXAM |
+|  36  | lecture  | Tuesday 2023-09-05 <br> 13:30 - 15:15 | BLOCK 1: Introduction theory |
+|  36  | lecture  | Thursday 2023-09-07 <br> 9:00 - 10:45  | BLOCK 1: Theory and work time |  
+|  36  | DEADLINE  | Friday 2023-09-08 <br> before 17:00  | SUBMIT ASSIGNMENT 1 |
+|  37 | lecture  | Tuesday 2023-09-12  <br> 13:30 - 15:15 |  BLOCK 1: Feedback assignment |  
+|  37  | lecture  | Thursday 2023-09-14  <br> 9:00 - 10:45 |  BLOCK 2: Introduction theory |  
+|  38  | lecture  | Tuesday 2023-09-19 <br> 13:30 - 15:15 |  BLOCK 2: Theory and work time |  
+|  38  | DEADLINE  | Wednesday 2023-09-20 <br> before 17:00  | SUBMIT ASSIGNMENT 2 |
+|  38  | lecture  | Thursday 2023-09-21  <br> 9:00 - 10:45 |  BLOCK 2: Feedback assignment |  
+|  39  | lecture  | Tuesday 2023-09-26 <br> 13:30 - 15:15 |  BLOCK 3: Introduction theory |  
+|  39  | lecture  | Thursday 2023-09-28 <br> 9:00 - 10:45  | BLOCK 3: Theory and work time |  
+|  39  | DEADLINE  | Friday 2023-09-29 <br> before 17:00  | SUBMIT ASSIGNMENT 3 |
+|  40  | lecture  | Tuesday 2023-10-03 <br> 13:30 - 15:15  |  BLOCK 3: Feedback assignment |  
+|  40  | lecture  | Thursday 2023-10-05 <br> 9:00 - 10:45  |  BLOCK 4: Introduction theory |
+|  41  | MA lecture  | Tuesday 2023-10-10 <br> 13:30 - 15:15   |  BLOCK 4: Theory and work time |
+|  41  | BA lecture  | Tuesday 2023-10-10 <br> 17:30 - 19:15   |  BLOCK 4: Theory and work time |   
+|  41  | MA lecture  | Thursday 2023-10-12 <br> 9:00 - 10:45  | BLOCK 4: Theory and work time  |
+|  41  | BA lecture  | Thursday 2023-10-12 <br> 13:30 - 15:15  | BLOCK 4: Theory and work time  |
+|  41  | DEADLINE  | Friday 2023-10-13 <br> before 17:00  | SUBMIT ASSIGNMENT 4  |
+|  42  | MA lecture  | Tuesday 2023-10-17  <br> 13:30 - 15:15 | BLOCK 4: Feedback assignment |  
+|  42  | BA lecture  | Tuesday 2023-10-17  <br> 17:30 - 19:15 | BLOCK 4: Feedback assignment |  
+|  42  | lecture  | Thursday 2023-10-19  <br> 13:30 - 15:15 |  Exam preparation |
+|  43  | EXAM  | Tuesday 2023-10-24 <br> 8:30-11:15 (11:45, extra time)  |  EXAM (important: check location) |
 
 
 ## Plagiarism
-Cheating is serious: it is considered fraud and can lead to being excluded from your studies (https://vu.nl/en/student/your-faculty/examination-board). It is also harmful: not only for yourself (you can fool yourself and fail to learn this useful skill), but also for other students (if multiple students do better because of cheating, teachers may think a grading scheme is fair, even though it needs to be adjusted).
+Cheating is serious; it is considered fraud and can lead to being excluded from your studies (https://vu.nl/en/student/your-faculty/examination-board). It is also harmful; not only for yourself (you can fool yourself and fail to learn this useful skill), but also for other students (if multiple students do better because of cheating, teachers may think a grading scheme is fair, even though it needs to be adjusted).
 
-How to avoid this, while making use of online sources and working together:
+How to avoid plagiarism, while making use of online sources and collaborating with fellow students:
 
-For the weekly assignments, let us know in the comments if you have worked together with someone or if you used code from online sources, such as [stackoverflow](http://stackoverflow.com/). If you found some useful code online, do try to understand what that piece of code does. If it looks 'complicated', we expect you to provide comments in the code explaining what it does.
+For the weekly assignments, let us know in the comments if you have worked together with a class mate or if you used code from online sources, such as [stackoverflow](http://stackoverflow.com/). If you found some useful code online, do try to understand what that piece of code does. If it looks 'complicated', we expect you to provide in-line comments in the code explaining what it does.
 
 If you use code you found online in an assignment, please indicate it in the following way:
 
