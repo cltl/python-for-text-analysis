@@ -147,12 +147,11 @@ Please be aware that the level of the assignments is a little bit higher than th
 
 **Lecture 2**
 
-In the second lecture, we will further highlight some of the theory, and you will have time to practice more advanced notions. Support will be provided by the teachers and student assistants. It is highly recommended to prepare questions you have about the assignment and post them on Piazza (see bellow) before class. Ideally, we can prepare the lecture in such a way that it will help you finalize your assignment. You will finish the assignment between the second and third lecture and hand it in on either Wednesday or Friday.
+In the second lecture, we will further highlight some of the theory, and you will have time to practice more advanced notions. Support will be provided by the teachers and student assistants. It is highly recommended to prepare questions you have about the assignment and post them on Piazza (QA forum - access provided via our Canvas) before class. Ideally, we can prepare the lecture in such a way that it will help you finalize your assignment. You will finish the assignment between the second and third lecture and hand it in on either Wednesday or Friday.
 
 **Lecture 3**
 
 Finally, the third lecture is a feedback session where we will discuss some of the main problems that were encountered in the assignments. We will repeat this cycle 4 times (for each assignment).
-
 
 
 
