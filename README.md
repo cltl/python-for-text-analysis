@@ -159,24 +159,14 @@ Finally, the third lecture is a feedback session where we will discuss some of t
 
 ### Course schedule
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-kwiq{border-color:inherit;color:#000000;text-align:left;vertical-align:top}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-21f3{border-color:inherit;color:#000000;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-uzvj{border-color:inherit;font-weight:bold;text-align:center;vertical-align:middle}
-</style>
+
 <table class="tg">
 <thead>
   <tr>
     <th class="tg-0pky"><span style="font-weight:bold">Block</span></th>
-    <th class="tg-21f3">what</th>
-    <th class="tg-21f3">when</th>
-    <th class="tg-21f3">description</th>
+    <th class="tg-21f3">What</th>
+    <th class="tg-21f3">When</th>
+    <th class="tg-21f3">Description</th>
   </tr>
 </thead>
 <tbody>
