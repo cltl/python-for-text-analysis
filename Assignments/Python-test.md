@@ -5,7 +5,7 @@ This is very reasonable question.
 
 The goal of the Python course is to learn the following learnings goals:
 
-Be able to create a string and make use of its methods.
+* Be able to create a string and make use of its methods.
 * be able to create a list and make use of its methods
 * be able to create a set and make use of its methods
 * be able to create a dictionary and make use of its methods
