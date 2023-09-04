@@ -1,11 +1,12 @@
 # Python for text analysis
+
 *As taught at the Vrije Universiteit Amsterdam in the [Humanities Research Master: Linguistics](http://masters.vu.nl/en/programmes/linguistics-research/index.aspx) (track [Human Language Technology](http://www.cltl.nl/teaching/human-language-technology/)) and the [Minor Digital Humanities and Social Analytics (BA)](https://studiegids.vu.nl/en/minor/2019-2020/minor-digital-humanities-and-social-analytics?_ga=2.61745324.1204416539.1597663557-1095921612.1591712788#study-program).*
 
 In case you have questions about exemption, please first read [Python-test.md](https://github.com/cltl/python-for-text-analysis/blob/master/Assignments/Python-test.md).
 
 This is a practical course in Python, geared towards those who want to get some hands-on experience working with language data.
 No knowledge of programming is required or presupposed.
-We will work with Python 3.9. We highly recommend installing [Anaconda](https://www.anaconda.com/download) for this course.
+We will work with Python 3.9 or higher. We highly recommend installing [Anaconda](https://www.anaconda.com/download) for this course.
 
 (If you have worked with Python 3 before, be sure to check if Jupyter Notebook
 is installed on your machine. We will work extensively with notebooks. Make sure you are working with Python 3.9.)
@@ -25,7 +26,7 @@ You will
 
 We will focus on readability and understandability, so that you will be able to share your code and results with others, and re-use your code in the future. This is a practical course, in which you will get a lot of hands-on experience. Due to the nature of this course, active participation is required.
 
-As of 2021-22, we are offering a bachelor- and a master-level version of this course. For the bachelor version, we emphasize applications in Digital Humanities. For the Master-level, we emphasize a more thorough understanding of the fundamentals of python and independent problem-solving. These differences are reflected in the material of the second half of the course (Block III and IV).
+Since 2021-22, we have been offering a bachelor- and a master-level version of this course. For the bachelor version, we emphasize applications in Digital Humanities. For the Master-level, we emphasize a more thorough understanding of the fundamentals of python and independent problem-solving. These differences are reflected in the material of the second half of the course (Block III and IV).
 
 ## Core principles
 
@@ -45,7 +46,7 @@ outlined by Mike Bostock in his article
 
 ## What to do if you get stuck
 
-Programming almost always involves running into problems and getting stuck. This is normal and even happens to very experienced programmers. We are trying to offer support to all students, but this means we have to prioritize and manage our time well. In order for this to work, please try to follow these strategies when you get stuck:
+Programming almost always involves running into problems and getting stuck. This is normal and even happens to very experienced programmers. We are trying to offer support to all students, but this means we have to prioritize and manage our time well. In order for this to work, please try to follow the following strategies when you get stuck:
 
 
 * Check the **class material** for solutions. The chapters treated in the assignment are usually a good start. As the course progresses, you may have to also check the material from earlier blocks.
@@ -62,7 +63,7 @@ Learning how to help yourself is a valuable skill and will be very useful in you
 
 Our materials are structured as follows:
 
-* The `Chapters` folder contains our primary teaching material. Every week, you will work through a subset of these interactive notebooks. It is highly recommended to start looking at the material in preparation for the lectures. If you get stuck with an assignment, first see if you can find the solution in the Chapters.
+* The `Chapters` folder contains our primary teaching material. Every week, you will work through a subset of these interactive notebooks. We expect you to look at the material in preparation for the lectures. If you get stuck with an assignment, first see if you can find the solution in the Chapters.
 
 * The `Assignments` folder contains the assignments that you will be asked to submit during the course.
 
@@ -79,13 +80,14 @@ This file serves as the syllabus and a general reference for this course.
 
 The course is worth 6 ECTS and will consist of **4 assignments** and a **final exam**. The assignments have to be submitted after the content and tutorial session of each block (4 in total). In the third session of each block, we will discuss the assignment in class and provide feedback. The assignments and the exam are weighted as follows.
 
-| Part    | weight % |  Part    | weight % |
-|---------|----------|----------|---------|
-|Assignment 1| 0*   |  Total Assignments |	60 |
-|Assignment 2|	 10  |  Exam	            |	40 |
-|Assignment 3|	 20  |    |	 |
-|Assignment 4|	 30  |    |	 |
-|  **Total** |       |     |	100 |
+| Part    | weight % |  
+|---------|----------|
+|Assignment 1| 0*   |  
+|Assignment 2|	 10  | 
+|Assignment 3|	 20  |   
+|Assignment 4|	 30  |    
+| Exam | 40 |
+|  **Total** |    100   |	
 
 *Assignment 1 is not graded, but you are required to submit a serious attempt by the deadline to pass the course.
 
@@ -94,7 +96,8 @@ The course is worth 6 ECTS and will consist of **4 assignments** and a **final e
 You are asked to hand in 4 assignments in total. The deadlines are indicated below. Submission 1 day after the deadline and before the feedback session downgrades your grade by 2 (e.g., a 9 will result in a 7).  After that (i.e. on day 2 or after the feedback session has started), the resulting grade is a 1. We have to be strict about this because we will discuss the assignments in class, and we need time to look at your submissions. In addition, the solutions will be discussed in the feedback session, and we cannot award points after the solutions have been discussed.
 
 
-Please note that a passing grade for the assignments (in total) is a requirement for passing the course and you need at least a 5.0 for the final assignment (regular assignment or resit assignment).
+Please note that a passing grade for each assignment (5.5) is required to pass the course. If you fail an assignment, you can submit a resit assignment to make up for it (please consider the limitations on resit opportunities outlined below). 
+
 
 ### Assignment submissions
 
@@ -104,22 +107,16 @@ Please note that we cannot accept assignments submitted via email.
 
 ### Resits for Assignments
 
-We provide a resit opportunity for each assignment at the end of the course (deadline will be announced). The maximum grade for the resit assignments is 7.5.
+You can retake a maximum of two out of the four assignments. You have to retake assignments you missed and can retake assignments you failed. Please note that if you fail or miss more than two assignments, you automatically fail the course. 
 
-The following Assignments have to be completed as resits for the regular assignments. The deadline for the resit assignments will be announced at the end of the course.
+Please note that the level of the resit assignments will be equivalent to the more advanced components of Assignment 4. The resit assignments will be published at the end of the course and there will be a deadline for submission. The deadline will be the same regardless of whether you have to submit one or two resit assingments. 
 
-| Assignment    | Resit |
-|---------|----------|
-|Assignment 1| Resit A1 (serious attempt)  |
-|Assignment 2|	Resit A2  |
-|Assignment 3|	Resit A3  |   
-|Assignment 4|	 Resit A4  |    
 
-**It is highly recommended to aim for passing grades at the first attempt. Please only make use of the resit opportunities in case you failed an assignment or were dealing with exceptional circumstances (e.g. illness).**
+**It is highly recommended to submit all of your assignments at the regular deadlines. Please only make use of the resit opportunities in case you failed an assignment or were dealing with exceptional circumstances (e.g. illness). Please note that the deadline of the resit assignments will fall into period 2 and thus interfere with your new courses.**
 
 
 ### Final exam
-The exam tests your knowledge of the syntax of Python, and your knowledge of the standard library. It serves as an opportunity to show what you've learned and will ensure that you have sufficient knowledge to tackle your own code projects and continue improving your python skills by yourself. You cannot pass the course without a passing grade on the exam. But don't worry: if you are able to finish the assignments, you will be fine on the exam.
+The exam tests your knowledge of the syntax of Python, and your knowledge of the standard library. It serves as an opportunity to show what you've learned and will ensure that you have sufficient knowledge to tackle your own code projects and continue improving your python skills by yourself. You cannot pass the course without a passing grade on the exam. But don't worry: if you are able to finish the assignments, you will be fine on the exam. Please note that the format of the final exam is pen on paper (without the use of a computer or notes). 
 
 ### Resit exam
 
@@ -138,54 +135,169 @@ There are 4 Blocks with associated chapters and assignments:
 | III |Chapters 12-15 | Chapters 12-15 |	Assignments 3a and 3b (Exercises 3 and 4 of Assignment 3b are excluded for BA students)	| Assignments 3a and 3b	|
 | IV |Chapters 16, 17, 22 | Chapters 16-18 | Assignments 4a and 4b-BA | Assignments 4a and 4b-MA |
 
+The content of the exam only covers the content of the chapters treated in the course. Chapters 19, 20, and 21 will not be tested in the Assignments (nor on the exam). They serve as additional resources.
+
 The schedule for the entire course follows the same structure, illustrated below.
 
 All blocks except block IV will consist of three lectures. There is one additional lecture for block IV.
 
+ ### Block structure
+
 **Lecture 1**
 
-In the first lecture, we introduce some of the new topics. It is highly recommended to go through the chapter notebooks in preparation for the classes. After the first lecture, you are expected to start working on the assignment and consult the chapters for things that are unclear to you. Please be aware that the assignments can most likely not be completed in a single day. Also, solving code problems is much easier if you have **sufficient time for breaks**.
+In the first lecture, we explain and practice the basics of the new block. It is highly recommended to go through the chapter notebooks **in preparation** for the classes. Feel free to watch the additional video material provided on Canvas to understand the basic notions. After the first lecture, you are expected to start working on the assignment and consult the chapters for things that are unclear to you. 
+
+Please be aware that the level of the assignments is a little bit higher than the level of the exercises provided at the end of each chapter. Solving the assignments requires taking some extra steps; you will have to combine notions from different chapters and most likely go through several cycles of trial and error. Therefore, please take into account that the assignments can most likely not be completed in a single day. Also, solving code problems is much easier if you have **sufficient time for breaks**.
 
 **Lecture 2**
 
-In the second lecture, we will further highlight some of the theory, and you will have time to work on the assignment in class. Support will be provided by the teachers and student assistants. It is highly recommended to prepare questions you have about the assignment. We will dedicate time TO this in this lecture. You will finish the assignment between the second and third lecture and hand it in on either Tuesday or Friday.
+In the second lecture, we will further highlight some of the theory, and you will have time to practice more advanced notions. Support will be provided by the teachers and student assistants. It is highly recommended to prepare questions you have about the assignment and post them on Piazza (QA forum - access provided via our Canvas) before class. Ideally, we can prepare the lecture in such a way that it will help you finalize your assignment. You will finish the assignment between the second and third lecture and hand it in on either Wednesday or Friday.
 
 **Lecture 3**
 
 Finally, the third lecture is a feedback session where we will discuss some of the main problems that were encountered in the assignments. We will repeat this cycle 4 times (for each assignment).
 
+### Course schedule
+
+
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky"><span style="font-weight:bold">Block</span></th>
+    <th class="tg-21f3">What</th>
+    <th class="tg-21f3">When</th>
+    <th class="tg-21f3">Description</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-uzvj" rowspan="4">1</td>
+    <td class="tg-kwiq">lecture</td>
+    <td class="tg-kwiq">Tuesday 2023-09-05<br>13:30 - 15:15</td>
+    <td class="tg-kwiq">Introduction theory</td>
+  </tr>
+  <tr>
+    <td class="tg-kwiq">lecture</td>
+    <td class="tg-kwiq">Thursday 2023-09-07<br>9:00 - 10:45</td>
+    <td class="tg-kwiq">Theory and work time</td>
+  </tr>
+  <tr>
+    <td class="tg-kwiq">DEADLINE</td>
+    <td class="tg-kwiq">Friday 2023-09-08<br>before 17:00</td>
+    <td class="tg-kwiq">SUBMIT ASSIGNMENT 1</td>
+  </tr>
+  <tr>
+    <td class="tg-kwiq">lecture</td>
+    <td class="tg-kwiq">Tuesday 2023-09-12<br>13:30 - 15:15</td>
+    <td class="tg-kwiq">Feedback assignment</td>
+  </tr>
+  <tr>
+    <td class="tg-uzvj" rowspan="4">2</td>
+    <td class="tg-kwiq">lecture</td>
+    <td class="tg-kwiq">Thursday 2023-09-14<br>9:00 - 10:45</td>
+    <td class="tg-kwiq">Introduction theory</td>
+  </tr>
+  <tr>
+    <td class="tg-kwiq">lecture</td>
+    <td class="tg-kwiq">Tuesday 2023-09-19<br>13:30 - 15:15</td>
+    <td class="tg-kwiq">Theory and work time</td>
+  </tr>
+  <tr>
+    <td class="tg-kwiq">DEADLINE</td>
+    <td class="tg-kwiq">Wednesday 2023-09-20<br>before 17:00</td>
+    <td class="tg-kwiq">SUBMIT ASSIGNMENT 2</td>
+  </tr>
+  <tr>
+    <td class="tg-kwiq">lecture</td>
+    <td class="tg-kwiq">Thursday 2023-09-21<br>9:00 - 10:45</td>
+    <td class="tg-kwiq">Feedback assignment</td>
+  </tr>
+  <tr>
+    <td class="tg-uzvj" rowspan="4">3</td>
+    <td class="tg-kwiq">lecture</td>
+    <td class="tg-kwiq">Tuesday 2023-09-26<br>13:30 - 15:15</td>
+    <td class="tg-kwiq">Introduction theory</td>
+  </tr>
+  <tr>
+    <td class="tg-kwiq">lecture</td>
+    <td class="tg-kwiq">Thursday 2023-09-28<br>9:00 - 10:45</td>
+    <td class="tg-kwiq">Theory and work time</td>
+  </tr>
+  <tr>
+    <td class="tg-kwiq">DEADLINE</td>
+    <td class="tg-kwiq">Friday 2023-09-29<br>before 17:00</td>
+    <td class="tg-kwiq">SUBMIT ASSIGNMENT 3</td>
+  </tr>
+  <tr>
+    <td class="tg-kwiq">lecture</td>
+    <td class="tg-kwiq">Tuesday 2023-10-03<br>13:30 - 15:15</td>
+    <td class="tg-kwiq">Feedback assignment</td>
+  </tr>
+  <tr>
+    <td class="tg-uzvj" rowspan="8">4</td>
+    <td class="tg-kwiq">lecture</td>
+    <td class="tg-kwiq">Thursday 2023-10-05<br>9:00 - 10:45</td>
+    <td class="tg-kwiq">Introduction theory</td>
+  </tr>
+  <tr>
+    <td class="tg-kwiq">MA lecture</td>
+    <td class="tg-kwiq">Tuesday 2023-10-10<br>13:30 - 15:15</td>
+    <td class="tg-kwiq">Theory and work time</td>
+  </tr>
+  <tr>
+    <td class="tg-kwiq">BA lecture</td>
+    <td class="tg-kwiq">Tuesday 2023-10-10<br>17:30 - 19:15</td>
+    <td class="tg-kwiq">Theory and work time</td>
+  </tr>
+  <tr>
+    <td class="tg-kwiq">MA lecture</td>
+    <td class="tg-kwiq">Thursday 2023-10-12<br>9:00 - 10:45</td>
+    <td class="tg-kwiq">Theory and work time</td>
+  </tr>
+  <tr>
+    <td class="tg-kwiq">BA lecture</td>
+    <td class="tg-kwiq">Thursday 2023-10-12<br>13:30 - 15:15</td>
+    <td class="tg-kwiq">Theory and work time</td>
+  </tr>
+  <tr>
+    <td class="tg-kwiq">DEADLINE</td>
+    <td class="tg-kwiq">Friday 2023-10-13<br>before 17:00</td>
+    <td class="tg-kwiq">SUBMIT ASSIGNMENT 4</td>
+  </tr>
+  <tr>
+    <td class="tg-kwiq">MA lecture</td>
+    <td class="tg-kwiq">Tuesday 2023-10-17<br>13:30 - 15:15</td>
+    <td class="tg-kwiq">Feedback assignment</td>
+  </tr>
+  <tr>
+    <td class="tg-kwiq">BA lecture</td>
+    <td class="tg-kwiq">Tuesday 2023-10-17<br>17:30 - 19:15</td>
+    <td class="tg-kwiq">Feedback assignment</td>
+  </tr>
+  <tr>
+    <td class="tg-uzvj" rowspan="2">Exam</td>
+    <td class="tg-kwiq">lecture</td>
+    <td class="tg-kwiq">Thursday 2023-10-19<br>13:30 - 15:15</td>
+    <td class="tg-kwiq">Exam preparation</td>
+  </tr>
+  <tr>
+    <td class="tg-kwiq">EXAM</td>
+    <td class="tg-kwiq">Tuesday 2023-10-24<br>8:30-11:15 (11:45, extra time)</td>
+    <td class="tg-kwiq">EXAM (important: check location)</td>
+  </tr>
+</tbody>
+</table>
 
 
 
-| week | what     | when                   | description           |
-|------|----------|------------------------|-----------------------|
-|  36  | lecture  | Monday 2022-09-05 <br> 15:30 - 17:15 | BLOCK 1: Introduction theory |
-|  36  | lecture  | Thursday 2022-09-08 <br> 13:30 - 15:15  | BLOCK 1: Theory and work time |  
-|  36  | DEADLINE  | Friday 2022-09-09 <br> before 17:00  | SUBMIT ASSIGNMENT 1 |
-|  37 | lecture  | Monday 2022-09-12  <br> 15:30 - 17:15 |  BLOCK 1: Feedback assignment |  
-|  37  | lecture  | Thursday 2022-09-15  <br> 13:30 - 15:15 |  BLOCK 2: Introduction theory |  
-|  38  | lecture  | Monday 2022-09-19 <br> 15:30 - 17:15 |  BLOCK 2: Theory and work time |  
-|  38  | DEADLINE  | Tuesday 2022-09-20 <br> before 17:00  | SUBMIT ASSIGNMENT 2 |
-|  38  | lecture  | Thursday 2022-09-22  <br> 13:30 - 15:15 |  BLOCK 2: Feedback assignment |  
-|  39  | lecture  | Monday 2022-09-26 <br> 15:30 - 17:15 |  BLOCK 3: Introduction theory |  
-|  39  | lecture  | Thursday 2022-09-29 <br> 13:30 - 15:15  | BLOCK 3: Theory and work time |  
-|  39  | DEADLINE  | Friday 2022-09-30 <br> before 17:00  | SUBMIT ASSIGNMENT 3 |
-|  40  | lecture  | Monday 2022-10-03 <br> 15:30 - 17:15  |  BLOCK 3: Feedback assignment |  
-|  40  | lecture  | Thursday 2022-10-06 <br> 13:30 - 15:15  |  BLOCK 4: Introduction theory |
-|  41  | lecture  | Monday 2022-10-10 <br> 15:30 - 17:15   |  BLOCK 4: Theory and work time |  
-|  41  | lecture  | Thursday 2022-10-13 <br> 13:30 - 15:15  | BLOCK 4: Theory and work time  |
-|  41  | DEADLINE  | Friday 2022-10-14 <br> before 17:00  | SUBMIT ASSIGNMENT 4  |
-|  42  | lecture  | Monday 2022-10-17  <br> 15:30 - 17:15 | BLOCK 4: Feedback assignment |  
-|  42  | lecture  | Thursday 2022-10-20  <br> 13:30 - 15:15 |  Exam preparation |
-|  43  | EXAM  | Tuesday 2022-10-25 <br> 8:30-11:15 (11:45, extra time)  |  EXAM |
 
 
 ## Plagiarism
-Cheating is serious: it is considered fraud and can lead to being excluded from your studies (https://vu.nl/en/student/your-faculty/examination-board). It is also harmful: not only for yourself (you can fool yourself and fail to learn this useful skill), but also for other students (if multiple students do better because of cheating, teachers may think a grading scheme is fair, even though it needs to be adjusted).
+Cheating is serious; it is considered fraud and can lead to being excluded from your studies (https://vu.nl/en/student/your-faculty/examination-board). It is also harmful; not only for yourself (you can fool yourself and fail to learn this useful skill), but also for other students (if multiple students do better because of cheating, teachers may think a grading scheme is fair, even though it needs to be adjusted).
 
-How to avoid this, while making use of online sources and working together:
+How to avoid plagiarism, while making use of online sources and collaborating with fellow students:
 
-For the weekly assignments, let us know in the comments if you have worked together with someone or if you used code from online sources, such as [stackoverflow](http://stackoverflow.com/). If you found some useful code online, do try to understand what that piece of code does. If it looks 'complicated', we expect you to provide comments in the code explaining what it does.
+For the weekly assignments, let us know in the comments if you have worked together with a class mate or if you used code from online sources, such as [stackoverflow](http://stackoverflow.com/). If you found some useful code online, do try to understand what that piece of code does. If it looks 'complicated', we expect you to provide in-line comments in the code explaining what it does.
 
 If you use code you found online in an assignment, please indicate it in the following way:
 

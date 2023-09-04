@@ -5,7 +5,7 @@ This is very reasonable question.
 
 The goal of the Python course is to learn the following learnings goals:
 
-Be able to create a string and make use of its methods.
+* Be able to create a string and make use of its methods.
 * be able to create a list and make use of its methods
 * be able to create a set and make use of its methods
 * be able to create a dictionary and make use of its methods
@@ -23,9 +23,9 @@ Be able to create a string and make use of its methods.
 
 To show that you've mastered these learnings goals, we ask you to do the following assignments.
 All of them are found in the same folder as this file.
-- Assignment 2 (to show Python objects)
 - Assignment 3a (to show reading and writing files + analyzing text)
-- Resit assignment 4a (to show analyzing text + JSON)
-- Resit assignment 4b (to show Python modules + CSV/TSV)
+- Assignment 3b (to show analyzing multiple files and extracting simple statistics)
+- Assignment 4a (to show analyzing csv/tsv and JSON)
+- Resit assignment 4b (to show working with XML)
 
 The teacher will evaluate your submission and discuss the next steps.
