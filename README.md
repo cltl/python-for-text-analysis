@@ -173,116 +173,116 @@ Finally, the third lecture is a feedback session where we will discuss some of t
   <tr>
     <td class="tg-uzvj" rowspan="4">1</td>
     <td class="tg-kwiq">lecture</td>
-    <td class="tg-kwiq">Tuesday 2023-09-05<br>13:30 - 15:15</td>
+    <td class="tg-kwiq">Tuesday 2023-09-03<br>13:30 - 15:15</td>
     <td class="tg-kwiq">Introduction theory</td>
   </tr>
   <tr>
     <td class="tg-kwiq">lecture</td>
-    <td class="tg-kwiq">Thursday 2023-09-07<br>9:00 - 10:45</td>
+    <td class="tg-kwiq">Thursday 2023-09-05<br>15:30 - 17:15</td>
     <td class="tg-kwiq">Theory and work time</td>
   </tr>
   <tr>
     <td class="tg-kwiq">DEADLINE</td>
-    <td class="tg-kwiq">Friday 2023-09-08<br>before 17:00</td>
+    <td class="tg-kwiq">???<br>before 17:00</td>
     <td class="tg-kwiq">SUBMIT ASSIGNMENT 1</td>
   </tr>
   <tr>
     <td class="tg-kwiq">lecture</td>
-    <td class="tg-kwiq">Tuesday 2023-09-12<br>13:30 - 15:15</td>
+    <td class="tg-kwiq">Tuesday 2023-09-10<br>13:30 - 15:15</td>
     <td class="tg-kwiq">Feedback assignment</td>
   </tr>
   <tr>
     <td class="tg-uzvj" rowspan="4">2</td>
     <td class="tg-kwiq">lecture</td>
-    <td class="tg-kwiq">Thursday 2023-09-14<br>9:00 - 10:45</td>
+    <td class="tg-kwiq">Thursday 2023-09-12<br>15:30 - 17:15</td>
     <td class="tg-kwiq">Introduction theory</td>
   </tr>
   <tr>
     <td class="tg-kwiq">lecture</td>
-    <td class="tg-kwiq">Tuesday 2023-09-19<br>13:30 - 15:15</td>
+    <td class="tg-kwiq">Tuesday 2023-09-17<br>13:30 - 15:15</td>
     <td class="tg-kwiq">Theory and work time</td>
   </tr>
   <tr>
     <td class="tg-kwiq">DEADLINE</td>
-    <td class="tg-kwiq">Wednesday 2023-09-20<br>before 17:00</td>
+    <td class="tg-kwiq">???<br>before 17:00</td>
     <td class="tg-kwiq">SUBMIT ASSIGNMENT 2</td>
   </tr>
   <tr>
     <td class="tg-kwiq">lecture</td>
-    <td class="tg-kwiq">Thursday 2023-09-21<br>9:00 - 10:45</td>
+    <td class="tg-kwiq">Thursday 2023-09-19<br>15:30 - 17:15</td>
     <td class="tg-kwiq">Feedback assignment</td>
   </tr>
   <tr>
     <td class="tg-uzvj" rowspan="4">3</td>
     <td class="tg-kwiq">lecture</td>
-    <td class="tg-kwiq">Tuesday 2023-09-26<br>13:30 - 15:15</td>
+    <td class="tg-kwiq">Tuesday 2023-09-24<br>13:30 - 15:15</td>
     <td class="tg-kwiq">Introduction theory</td>
   </tr>
   <tr>
     <td class="tg-kwiq">lecture</td>
-    <td class="tg-kwiq">Thursday 2023-09-28<br>9:00 - 10:45</td>
+    <td class="tg-kwiq">Thursday 2023-09-26<br>15:30 - 17:15</td>
     <td class="tg-kwiq">Theory and work time</td>
   </tr>
   <tr>
     <td class="tg-kwiq">DEADLINE</td>
-    <td class="tg-kwiq">Friday 2023-09-29<br>before 17:00</td>
+    <td class="tg-kwiq">???<br>before 17:00</td>
     <td class="tg-kwiq">SUBMIT ASSIGNMENT 3</td>
   </tr>
   <tr>
     <td class="tg-kwiq">lecture</td>
-    <td class="tg-kwiq">Tuesday 2023-10-03<br>13:30 - 15:15</td>
+    <td class="tg-kwiq">Tuesday 2023-10-01<br>13:30 - 15:15</td>
     <td class="tg-kwiq">Feedback assignment</td>
   </tr>
   <tr>
     <td class="tg-uzvj" rowspan="8">4</td>
     <td class="tg-kwiq">lecture</td>
-    <td class="tg-kwiq">Thursday 2023-10-05<br>9:00 - 10:45</td>
+    <td class="tg-kwiq">Thursday 2023-10-03<br>15:30 - 17:15</td>
     <td class="tg-kwiq">Introduction theory</td>
   </tr>
   <tr>
     <td class="tg-kwiq">MA lecture</td>
-    <td class="tg-kwiq">Tuesday 2023-10-10<br>13:30 - 15:15</td>
+    <td class="tg-kwiq">Tuesday 2023-10-08<br>13:30 - 15:15</td>
     <td class="tg-kwiq">Theory and work time</td>
   </tr>
   <tr>
     <td class="tg-kwiq">BA lecture</td>
-    <td class="tg-kwiq">Tuesday 2023-10-10<br>17:30 - 19:15</td>
+    <td class="tg-kwiq">Tuesday 2023-10-08<br>15:30 - 17:15</td>
     <td class="tg-kwiq">Theory and work time</td>
   </tr>
   <tr>
     <td class="tg-kwiq">MA lecture</td>
-    <td class="tg-kwiq">Thursday 2023-10-12<br>9:00 - 10:45</td>
+    <td class="tg-kwiq">Thursday 2023-10-10<br>15:30 - 17:15</td>
     <td class="tg-kwiq">Theory and work time</td>
   </tr>
   <tr>
     <td class="tg-kwiq">BA lecture</td>
-    <td class="tg-kwiq">Thursday 2023-10-12<br>13:30 - 15:15</td>
+    <td class="tg-kwiq">Thursday 2023-10-10<br>15:30 - 17:15</td>
     <td class="tg-kwiq">Theory and work time</td>
   </tr>
   <tr>
     <td class="tg-kwiq">DEADLINE</td>
-    <td class="tg-kwiq">Friday 2023-10-13<br>before 17:00</td>
+    <td class="tg-kwiq">????<br>before 17:00</td>
     <td class="tg-kwiq">SUBMIT ASSIGNMENT 4</td>
   </tr>
   <tr>
     <td class="tg-kwiq">MA lecture</td>
-    <td class="tg-kwiq">Tuesday 2023-10-17<br>13:30 - 15:15</td>
+    <td class="tg-kwiq">Tuesday 2023-10-15<br>13:30 - 15:15</td>
     <td class="tg-kwiq">Feedback assignment</td>
   </tr>
   <tr>
     <td class="tg-kwiq">BA lecture</td>
-    <td class="tg-kwiq">Tuesday 2023-10-17<br>17:30 - 19:15</td>
+    <td class="tg-kwiq">Tuesday 2023-10-15<br>15:30 - 17:15</td>
     <td class="tg-kwiq">Feedback assignment</td>
   </tr>
   <tr>
-    <td class="tg-uzvj" rowspan="2">Exam</td>
+    <td class="tg-uzvj" rowspan="2">Exam Preparation</td>
     <td class="tg-kwiq">lecture</td>
-    <td class="tg-kwiq">Thursday 2023-10-19<br>13:30 - 15:15</td>
+    <td class="tg-kwiq">Thursday 2023-10-17<br>15:30 - 17:15</td>
     <td class="tg-kwiq">Exam preparation</td>
   </tr>
   <tr>
     <td class="tg-kwiq">EXAM</td>
-    <td class="tg-kwiq">Tuesday 2023-10-24<br>8:30-11:15 (11:45, extra time)</td>
+    <td class="tg-kwiq">Tuesday 2023-10-22<br>8:30-11:15 (11:45, extra time)</td>
     <td class="tg-kwiq">EXAM (important: check location)</td>
   </tr>
 </tbody>
