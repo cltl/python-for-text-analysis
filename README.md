@@ -193,7 +193,7 @@ Finally, the third lecture is a feedback session where we will discuss some of t
     <td class="tg-kwiq">Theory and work time</td>
   </tr>
   <tr>
-    <td class="tg-kwiq">lecture</td>
+    <td class="tg-kwiq"><b>EXAM</b></td>
     <td class="tg-kwiq">Tuesday 2024-09-17<br>13:30 - 15:15</td>
     <td class="tg-kwiq">Midterm Exam (in class)</td>
   </tr>
@@ -255,18 +255,18 @@ Finally, the third lecture is a feedback session where we will discuss some of t
     <td class="tg-kwiq">SUBMIT ASSIGNMENT 4</td>
   </tr>
   <tr>
-    <td class="tg-kwiq">MA lecture</td>
+    <td class="tg-kwiq">Resit</td>
     <td class="tg-kwiq">Tuesday 2023-10-15<br>13:30 - 15:15</td>
-    <td class="tg-kwiq">Feedback assignment</td>
+    <td class="tg-kwiq">Resit for Midterm Exam</td>
   </tr>
   <tr>
-    <td class="tg-kwiq">BA lecture</td>
+    <td class="tg-kwiq">BA/MA lecture</td>
     <td class="tg-kwiq">Tuesday 2023-10-15<br>15:30 - 17:15</td>
-    <td class="tg-kwiq">Feedback assignment</td>
+    <td class="tg-kwiq">BA/MA Feedback assignment</td>
   </tr>
   <tr>
     <td class="tg-uzvj" rowspan="2">Exam Preparation</td>
-    <td class="tg-kwiq">lecture</td>
+    <td class="tg-kwiq">Lecture</td>
     <td class="tg-kwiq">Thursday 2023-10-17<br>15:30 - 17:15</td>
     <td class="tg-kwiq">Exam preparation</td>
   </tr>
