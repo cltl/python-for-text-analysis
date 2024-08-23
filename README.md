@@ -184,12 +184,12 @@ Finally, the third lecture is a feedback session where we will discuss some of t
   <tr>
     <td class="tg-uzvj" rowspan="4">2</td>
     <td class="tg-kwiq">lecture</td>
-    <td class="tg-kwiq">Thursday 2024-09-12<br>15:30 - 17:15</td>
+    <td class="tg-kwiq">Tuesday 2024-09-10<br>13:30 - 15:15</td>
     <td class="tg-kwiq">Introduction theory</td>
   </tr>
   <tr>
     <td class="tg-kwiq">lecture</td>
-    <td class="tg-kwiq">Tuesday 2024-09-10<br>13:30 - 15:15</td>
+    <td class="tg-kwiq">Thursday 2024-09-12<br>15:30 - 17:15</td>
     <td class="tg-kwiq">Theory and work time</td>
   </tr>
   <tr>
