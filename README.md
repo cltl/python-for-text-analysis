@@ -82,9 +82,10 @@ The course is worth 6 ECTS and will consist of **4 assignments** and a **final e
 
 | Part    | weight % |  
 |---------|----------|
-|Assignment 1| 0*   |  
-|Assignment 2|	 10  | 
-|Assignment 3|	 20  |   
+|Assignment 1| not graded   |  
+|Assignment 2| not graded  | 
+|Midterm Exam| 20
+|Assignment 3|	 10  |   
 |Assignment 4|	 30  |    
 | Exam | 40 |
 |  **Total** |    100   |	
@@ -93,15 +94,15 @@ The course is worth 6 ECTS and will consist of **4 assignments** and a **final e
 
 
 ### Course assignments
-You are asked to hand in 4 assignments in total. The deadlines are indicated below. Submission 1 day after the deadline and before the feedback session downgrades your grade by 2 (e.g., a 9 will result in a 7).  After that (i.e. on day 2 or after the feedback session has started), the resulting grade is a 1. We have to be strict about this because we will discuss the assignments in class, and we need time to look at your submissions. In addition, the solutions will be discussed in the feedback session, and we cannot award points after the solutions have been discussed.
+You are asked to hand in 2 assignments in total. The deadlines are indicated below. Submission 1 day after the deadline and before the feedback session downgrades your grade by 2 (e.g., a 9 will result in a 7).  After that (i.e. on day 2 or after the feedback session has started), the resulting grade is a 1. We have to be strict about this because we will discuss the assignments in class, and we need time to look at your submissions. In addition, the solutions will be discussed in the feedback session, and we cannot award points after the solutions have been discussed.
 
 
-Please note that a passing grade for each assignment (5.5) is required to pass the course. If you fail an assignment, you can submit a resit assignment to make up for it (please consider the limitations on resit opportunities outlined below). 
+Please note that a **passing grade** for **each assignment (5.5)** is required to pass the course. If you fail an assignment, you can submit a resit assignment to make up for it (please consider the limitations on resit opportunities outlined below). 
 
 
 ### Assignment submissions
 
-Submission is made through Canvas. Please submit your assignments using the corresponding assignment submission on Canvas (e.g. labeled 'Assignment 1' for Assignment 1).
+Submission is made through Canvas. Please submit your assignments using the corresponding assignment submission on Canvas (e.g. labeled 'Assignment 3' for Assignment 3).
 
 Please note that we cannot accept assignments submitted via email.
 
@@ -114,15 +115,17 @@ Please note that the level of the resit assignments will be equivalent to the mo
 
 **It is highly recommended to submit all of your assignments at the regular deadlines. Please only make use of the resit opportunities in case you failed an assignment or were dealing with exceptional circumstances (e.g. illness). Please note that the deadline of the resit assignments will fall into period 2 and thus interfere with your new courses.**
 
+### Midterm exam
+The midterm exam will assess the basics of Python syntax and over the content covered in Block 1 and Block 2. As preparation for this exam, please work through the material of the blocks and complete Assignment 1 and 2. Passing the midterm exam ensures that you are ready for the more advanced component of the course. The format of the exam is pen on paper (no external tools allowd).
 
 ### Final exam
-The exam tests your knowledge of the syntax of Python, and your knowledge of the standard library. It serves as an opportunity to show what you've learned and will ensure that you have sufficient knowledge to tackle your own code projects and continue improving your python skills by yourself. You cannot pass the course without a passing grade on the exam. But don't worry: if you are able to finish the assignments, you will be fine on the exam. Please note that the format of the final exam is pen on paper (without the use of a computer or notes). 
+The exam tests your knowledge of the syntax of Python, and your knowledge of the standard library. It serves as an opportunity to show what you've learned and will ensure that you have sufficient knowledge to tackle your own code projects and continue improving your python skills by yourself. You cannot pass the course without a passing grade on the exam. But don't worry: if you are able to finish the assignments, you will be fine on the exam. Please note that the format of the final exam is computer-based, but you will **not have access to a python interface or the internet** (just like in the midterm exam). 
 
-### Resit exam
+### Resit exams
 
-There will be an opportunity to take a resit exam. The exact date will be announced.
+There will be an opportunity to take a resit for the exams. The exact dates will be announced.
 
-**It is highly recommended to aim for a passing grade at the regular exam date. Please only make use of the resit exam if you fail the regular exam or were dealing with exceptional circumstances (e.g. exam date conflict, illness).
+**It is highly recommended to aim for a passing grade at the regular exam dates. Please only make use of the resit exam if you fail a regular exam or were dealing with exceptional circumstances (e.g. exam date conflict, illness).
 
 
 ## Planning
@@ -155,7 +158,7 @@ In the second lecture, we will further highlight some of the theory, and you wil
 
 **Lecture 3**
 
-Finally, the third lecture is a feedback session where we will discuss some of the main problems that were encountered in the assignments. We will repeat this cycle 4 times (for each assignment).
+Finally, the third lecture is a feedback session where we will discuss some of the main problems that were encountered in the assignments. We will repeat this cycle 4 times (for each assignment). Please note that we will use a single feedback lecture for Blocks 1 and 2 (see course schedule below). 
 
 ### Course schedule
 
@@ -288,6 +291,12 @@ Cheating is serious; it is considered fraud and can lead to being excluded from 
 How to avoid plagiarism, while making use of online sources and collaborating with fellow students:
 
 For the weekly assignments, let us know in the comments if you have worked together with a class mate or if you used code from online sources, such as [stackoverflow](http://stackoverflow.com/). If you found some useful code online, do try to understand what that piece of code does. If it looks 'complicated', we expect you to provide in-line comments in the code explaining what it does.
+
+We highly discourage relying on ChatGPT (or similar tools) in this course. While code support can be useful later on, we know that it has a negative impact on the learning process early on. Students who rely too much on such tools fail to progress to more advanced coding assignments. If you use code generated by a model, please provide:
+
+* your prompt (what you provided as input)
+* the code generated by the model
+* your comments explaining what the code does and how you adapted it
 
 If you use code you found online in an assignment, please indicate it in the following way:
 
