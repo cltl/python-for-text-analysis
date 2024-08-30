@@ -82,9 +82,9 @@ The course is worth 6 ECTS and will consist of **2 ungraded assignments**, **a m
 |---------|----------|
 |Assignment 1| not graded   |  
 |Assignment 2| not graded  | 
-|Midterm Exam| 20
-|Assignment 3|	 10  |   
-|Assignment 4|	 30  |    
+|Midterm Exam| 20   |
+|Assignment 3|	 20  |   
+|Assignment 4|	 20  |    
 | Exam | 40 |
 |  **Total** |    100   |	
 
