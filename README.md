@@ -121,7 +121,7 @@ The exam tests your knowledge of the syntax of Python, and your knowledge of the
 
 There will be an opportunity to take a resit for the exams. The exact dates will be announced.
 
-**It is highly recommended to aim for a passing grade at the regular exam dates. Please only make use of a resit exam if you fail a regular exam or were dealing with exceptional circumstances (e.g. exam date conflict, illness).
+**It is highly recommended to aim for a passing grade at the regular exam dates. Please only make use of a resit exam if you fail a regular exam or were dealing with exceptional circumstances (e.g. exam date conflict, illness).**
 
 
 ## Planning
@@ -138,8 +138,6 @@ The content of the exam only covers the content of the chapters treated in the c
 
 The schedule for the entire course follows the same structure, illustrated below.
 
-All blocks except block IV will consist of three lectures. There is one additional lecture for block IV.
-
  ### Block structure
 
 **Lecture 1**
@@ -154,7 +152,7 @@ In the second lecture, we will further highlight some of the theory, and you wil
 
 **Lecture 3**
 
-Finally, the third lecture is a feedback session where we will discuss some of the main problems that were encountered in the assignments. We will repeat this cycle 4 times (for each assignment). Please note that we will use a single feedback lecture for Blocks 1 and 2 (see course schedule below). 
+Finally, the third lecture is a feedback session where we will discuss some of the main problems that were encountered in the assignments. We will repeat this cycle multiple times (for each assignment). Please note that we will use a single feedback lecture for Blocks 1 and 2 (see course schedule below). 
 
 ### Course schedule
 
