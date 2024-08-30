@@ -75,7 +75,8 @@ This file serves as the syllabus and a general reference for this course.
 
 ## Assignments and Grading
 
-The course is worth 6 ECTS and will consist of **4 assignments** and a **final exam**. The assignments have to be submitted after the content and tutorial session of each block (4 in total). In the third session of each block, we will discuss the assignment in class and provide feedback. The assignments and the exam are weighted as follows.
+The course is worth 6 ECTS and will consist of **2 ungraded assignments**, **a midterm exam**, **2 graded assignments** and **a final exam**. There will be no submission for Assignments 1 and 2. Please check the submission schedule for details about the submission of Assignments 3 and 4. We have reserved some lectures to discuss the assignments in class and provide feedback. The assignments and the exams are weighted as follows.
+
 
 | Part    | weight % |  
 |---------|----------|
