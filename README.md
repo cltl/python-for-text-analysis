@@ -93,7 +93,7 @@ The course is worth 6 ECTS and will consist of **2 ungraded assignments**, **a m
 You are asked to hand in 2 assignments in total. The deadlines are indicated below. Submission 1 day after the deadline and before the feedback session downgrades your grade by 2 (e.g., a 9 will result in a 7).  After that (i.e. on day 2 or after the feedback session has started), the resulting grade is a 1. We have to be strict about this because we will discuss the assignments in class, and we need time to look at your submissions. In addition, the solutions will be discussed in the feedback session, and we cannot award points after the solutions have been discussed.
 
 
-Please note that a **passing grade** for **each assignment (5.5)** is required to pass the course. If you fail an assignment, you can submit a resit assignment to make up for it (please consider the limitations on resit opportunities outlined below). 
+Please note that a **passing grade** for **each assignment (5.5)** is required to pass the course. You will be allowed to fail one assignment, which will need to be made up by submitting a resit assignment (please read the limitations on resit opportunities outlined below). 
 
 
 ### Assignment submissions
@@ -104,15 +104,15 @@ Please note that we cannot accept assignments submitted via email.
 
 ### Resits for Assignments
 
-You can retake a maximum of two out of the four assignments. You have to retake assignments you missed and can retake assignments you failed. Please note that if you fail or miss more than two assignments, you automatically fail the course. 
+You can retake a maximum of one out of the two graded assignments. **Important note**: if you fail or miss more than one assignment, you automatically fail the course. 
 
-Please note that the level of the resit assignments will be equivalent to the more advanced components of Assignment 4. The resit assignments will be published at the end of the course and there will be a deadline for submission. The deadline will be the same regardless of whether you have to submit one or two resit assingments. 
+Please note that the level of the resit assignment will be equivalent to the more advanced components of Assignment 4. The resit assignments will be published at the end of the course and there will be a deadline for submission (tba). 
 
 
-**It is highly recommended to submit all of your assignments at the regular deadlines. Please only make use of the resit opportunities in case you failed an assignment or were dealing with exceptional circumstances (e.g. illness). Please note that the deadline of the resit assignments will fall into period 2 and thus interfere with your new courses.**
+**It is highly recommended to submit both assignments at the regular deadlines. Please only make use of the resit opportunity in case you failed an assignment or were dealing with exceptional circumstances (e.g. illness). Please note also that the deadline of the resit assignment will fall into period 2 and thus interfere with your new courses.**
 
 ### Midterm exam
-The midterm exam will assess the basics of Python syntax and over the content covered in Block 1 and Block 2. As preparation for this exam, please work through the material of the blocks and complete Assignment 1 and 2. Passing the midterm exam ensures that you are ready for the more advanced component of the course. The format of the exam is pen on paper (no external tools allowd).
+The midterm exam will assess the basics of Python syntax and over the content covered in Block 1 and Block 2. As preparation for this exam, please work through the material of the blocks and complete Assignment 1 and 2. Passing the midterm exam ensures that you are ready for the more advanced component of the course. The format of the exam is pen on paper (no external tools allowed).
 
 ### Final exam
 The exam tests your knowledge of the syntax of Python, and your knowledge of the standard library. It serves as an opportunity to show what you've learned and will ensure that you have sufficient knowledge to tackle your own code projects and continue improving your python skills by yourself. You cannot pass the course without a passing grade on the exam. But don't worry: if you are able to finish the assignments, you will be fine on the exam. Please note that the format of the final exam is computer-based, but you will **not have access to a python interface or the internet** (just like in the midterm exam). 
@@ -121,7 +121,7 @@ The exam tests your knowledge of the syntax of Python, and your knowledge of the
 
 There will be an opportunity to take a resit for the exams. The exact dates will be announced.
 
-**It is highly recommended to aim for a passing grade at the regular exam dates. Please only make use of the resit exam if you fail a regular exam or were dealing with exceptional circumstances (e.g. exam date conflict, illness).
+**It is highly recommended to aim for a passing grade at the regular exam dates. Please only make use of a resit exam if you fail a regular exam or were dealing with exceptional circumstances (e.g. exam date conflict, illness).
 
 
 ## Planning
