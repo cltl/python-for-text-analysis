@@ -67,9 +67,6 @@ Our materials are structured as follows:
 
 * The `Assignments` folder contains the assignments that you will be asked to submit during the course.
 
-* The `Exam` folder contains sample exams from previous years.
-
-
 * The `Extra_Material` folder contains some extra reading about the Python theory, which you may use for future reference. It also contains some information specifically related to natural language processing, and examples on how to organize your code and how to create a Flask website.
 
 * The `Data` folder contains all data used in this course and more, as well as the scripts used to obtain this data. (So you can see what techniques we used.)
