@@ -88,8 +88,6 @@ The course is worth 6 ECTS and will consist of **2 ungraded assignments**, **a m
 | Exam | 40 |
 |  **Total** |    100   |	
 
-*Assignment 1 is not graded, but you are required to submit a serious attempt by the deadline to pass the course.
-
 
 ### Course assignments
 You are asked to hand in 2 assignments in total. The deadlines are indicated below. Submission 1 day after the deadline and before the feedback session downgrades your grade by 2 (e.g., a 9 will result in a 7).  After that (i.e. on day 2 or after the feedback session has started), the resulting grade is a 1. We have to be strict about this because we will discuss the assignments in class, and we need time to look at your submissions. In addition, the solutions will be discussed in the feedback session, and we cannot award points after the solutions have been discussed.
