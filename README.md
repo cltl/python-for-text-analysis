@@ -253,18 +253,18 @@ Finally, the third lecture is a feedback session where we will discuss some of t
   </tr>
   <tr>
     <td class="tg-kwiq">Resit</td>
-    <td class="tg-kwiq">Tuesday 2023-10-15<br>13:30 - 15:15</td>
+    <td class="tg-kwiq">Tuesday 2024-10-15<br>13:30 - 15:15</td>
     <td class="tg-kwiq">Resit for Midterm Exam</td>
   </tr>
   <tr>
     <td class="tg-kwiq">BA/MA lecture</td>
-    <td class="tg-kwiq">Tuesday 2023-10-15<br>15:30 - 17:15</td>
+    <td class="tg-kwiq">Tuesday 2024-10-15<br>15:30 - 17:15</td>
     <td class="tg-kwiq">BA/MA Feedback assignment</td>
   </tr>
   <tr>
     <td class="tg-uzvj" rowspan="2">Exam Preparation</td>
     <td class="tg-kwiq">Lecture</td>
-    <td class="tg-kwiq">Thursday 2023-10-17<br>15:30 - 17:15</td>
+    <td class="tg-kwiq">Thursday 2024-10-17<br>15:30 - 17:15</td>
     <td class="tg-kwiq">Exam preparation</td>
   </tr>
   <tr>
