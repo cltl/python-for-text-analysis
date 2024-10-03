@@ -269,7 +269,7 @@ Finally, the third lecture is a feedback session where we will discuss some of t
   </tr>
   <tr>
     <td class="tg-kwiq">EXAM</td>
-    <td class="tg-kwiq">Tuesday 2023-10-22<br>8:30-11:15 (11:45, extra time)</td>
+    <td class="tg-kwiq">Tuesday 2024-10-22<br>8:30-11:15 (11:45, extra time)</td>
     <td class="tg-kwiq">EXAM (important: check location)</td>
   </tr>
 </tbody>
