@@ -75,53 +75,69 @@ This file serves as the syllabus and a general reference for this course.
 
 ## Assignments and Grading
 
-The course is worth 6 ECTS and will consist of **2 ungraded assignments**, **a midterm exam**, **2 graded assignments** and **a final exam**. There will be no submission for Assignments 1 and 2. Please check the submission schedule for details about the submission of Assignments 3 and 4. We have reserved some lectures to discuss the assignments in class and provide feedback. The assignments and the exams are weighted as follows.
+The course is worth 6 ECTS and will consist of **3 self/auto-graded assignments**, **1 midterm exam**, **1 graded assignments** 
+and **1 final exam**. Even through Assignments 1, 2 and 3 do not weigh in your final grade, we highly encourage you to 
+submit them to the auto-grading system. This will also help you confirm if you are keeping up with the course. You must 
+obtain a passing grade in the Midterm Exam, Assignment 4 and the Final Exam to complete the course.
 
+The assignments and the exams are weighted as follows:
 
-| Part    | weight % |  
-|---------|----------|
-|Assignment 1| not graded   |  
-|Assignment 2| not graded  | 
-|Midterm Exam| 20   |
-|Assignment 3|	 20  |   
-|Assignment 4|	 20  |    
-| Exam | 40 |
-|  **Total** |    100   |	
+| Part         | weight %         |  
+|--------------|------------------|
+| Assignment 1 | self/auto-graded |  
+| Assignment 2 | self/auto-graded      | 
+| Midterm Exam | 30 %             |
+| Assignment 3 | self/auto-graded      |   
+| Assignment 4 | 30 %             |    
+| Exam         | 40 %             |
+| **Total**    | 100 %            |	
 
 
 ### Course assignments
-You are asked to hand in 2 assignments in total. The deadlines are indicated below. Submission 1 day after the deadline and before the feedback session downgrades your grade by 2 (e.g., a 9 will result in a 7).  After that (i.e. on day 2 or after the feedback session has started), the resulting grade is a 1. We have to be strict about this because we will discuss the assignments in class, and we need time to look at your submissions. In addition, the solutions will be discussed in the feedback session, and we cannot award points after the solutions have been discussed.
 
+The course have four assignments (3 self/auto-graded assignments and 1 human-graded assignments). You can complete 
+assignments 1, 2 and 3 at anytime during the course. They will not count for your final grade. You must pass assignment
+4 to be able to pass the course. Assignment 4 will be submitted through canvas (we do not accept email submissions). 
+Please check the schedule for details about its submission deadline. 
 
-Please note that a **passing grade** for **each assignment (5.5)** is required to pass the course. You will be allowed to fail one assignment, which will need to be made up by submitting a resit assignment (please read the limitations on resit opportunities outlined below). 
+**Schedule:** The course is built around four blocks. Each block is tied to one assignment. Even though assignments 1, 
+2 and 3 will not count towards your final grade, it is highly recommend that you complete them in preparation for each  
+respective block. This will allow you to maximise your learning experience as each block as reserved  lectures 
+to discuss the assignments in class and provide feedback.
 
+**Late Submissions:** The deadline for assignment 4 indicated in the schedule below. Submission 1 day after the 
+deadline and before the feedback session downgrades your grade by 2 (e.g., a 9 will result in a 7).  After that (i.e. 
+on day 2 or after the feedback session has started), the resulting grade is a 1. We have to be strict about this 
+because we will discuss the assignments in class, and we need time to look at your submissions. In addition, the 
+solutions will be discussed in the feedback session, and we cannot award points after the solutions have been discussed.
 
-### Assignment submissions
-
-Submission is made through Canvas. Please submit your assignments using the corresponding assignment submission on Canvas (e.g. labeled 'Assignment 3' for Assignment 3).
-
-Please note that we cannot accept assignments submitted via email.
-
-### Resits for Assignments
-
-You can retake a maximum of one out of the two graded assignments. **Important note**: if you fail or miss more than one assignment, you automatically fail the course. 
-
-Please note that the level of the resit assignment will be equivalent to the more advanced components of Assignment 4. The resit assignments will be published at the end of the course and there will be a deadline for submission (tba). 
-
-
-**It is highly recommended to submit both assignments at the regular deadlines. Please only make use of the resit opportunity in case you failed an assignment or were dealing with exceptional circumstances (e.g. illness). Please note also that the deadline of the resit assignment will fall into period 2 and thus interfere with your new courses.**
+**Resits:**
+* The passing grade for Assignment 4 is 5.5/10. If you fail Assignment 4 (or do not submit in time), you will be given 
+the possibility to submit a resit assignment. Please note that the level of the resit assignment will be equivalent to 
+the more advanced components of Assignment 4. The resit assignments will be published at the end of the course and 
+there will be a deadline for submission (tba).
+* **Note**: Please note also that the deadline of the resit assignment will fall into period 2 and thus interfere 
+with your new courses. It is highly recommended to attempt to pass Assignment 4 during regular course time. Please 
+only make use of the resit opportunity in case you were dealing with exceptional circumstances (e.g. illness).
 
 ### Midterm exam
-The midterm exam will assess the basics of Python syntax and over the content covered in Block 1 and Block 2. As preparation for this exam, please work through the material of the blocks and complete Assignment 1 and 2. Passing the midterm exam ensures that you are ready for the more advanced component of the course. The format of the exam is pen on paper (no external tools allowed).
+The midterm exam will assess the basics of Python syntax and over the content covered in Block 1 and Block 2. As 
+preparation for this exam, please work through the material of the blocks and complete Assignment 1 and 2. Passing 
+the midterm exam ensures that you are ready for the more advanced component of the course. It will be a TestVision 
+(computer) exam with no external tools allowed. If you fail the midterm you will be allowed a resit during the course. 
+See the schedule for details. 
 
 ### Final exam
-The exam tests your knowledge of the syntax of Python, and your knowledge of the standard library. It serves as an opportunity to show what you've learned and will ensure that you have sufficient knowledge to tackle your own code projects and continue improving your python skills by yourself. You cannot pass the course without a passing grade on the exam. But don't worry: if you are able to finish the assignments, you will be fine on the exam. Please note that the format of the final exam is computer-based, but you will **not have access to a python interface or the internet** (just like in the midterm exam). 
+The exam tests your knowledge of the syntax of Python, and your knowledge of the standard library. It serves as an 
+opportunity to show what you've learned and will ensure that you have sufficient knowledge to tackle your own code 
+projects and continue improving your python skills by yourself. You cannot pass the course without a passing grade 
+on the exam. But don't worry: if you are able to finish the assignments, you will be fine on the exam. Please note 
+that the format of the final exam is computer-based, but you will **not have access to a python interface or the 
+internet** (just like in the midterm exam). The resit for the exam follows the official schedule. Please see 
+https://rooster.vu.nl/ for details.
 
-### Resit exams
-
-There will be an opportunity to take a resit for the exams. The exact dates will be announced.
-
-**It is highly recommended to aim for a passing grade at the regular exam dates. Please only make use of a resit exam if you fail a regular exam or were dealing with exceptional circumstances (e.g. exam date conflict, illness).**
+**Note:** It is highly recommended to aim for a passing grade at the regular exam dates. Please only make use of a 
+resit exam if you fail a regular exam or were dealing with exceptional circumstances (e.g. exam date conflict, illness).
 
 
 ## Planning
@@ -140,19 +156,40 @@ The schedule for the entire course follows the same structure, illustrated below
 
  ### Block structure
 
-**Lecture 1**
+**First Lecture**
 
-In the first lecture, we explain and practice the basics of the new block. It is highly recommended to go through the chapter notebooks **in preparation** for the classes. Feel free to watch the additional video material provided on Canvas to understand the basic notions. After the first lecture, you are expected to start working on the assignment and consult the chapters for things that are unclear to you. 
+In the first lecture of each block, we explain and practice the basics of the block. It is highly recommended to go 
+through the chapter notebooks **in preparation** for the classes. Feel free to watch the additional video material 
+provided on Canvas to understand the basic notions. After the first lecture, you are expected to start working on the 
+assignment and consult the chapters for things that are unclear to you. 
 
-Please be aware that the level of the assignments is a little bit higher than the level of the exercises provided at the end of each chapter. Solving the assignments requires taking some extra steps; you will have to combine notions from different chapters and most likely go through several cycles of trial and error. Therefore, please take into account that the assignments can most likely not be completed in a single day. Also, solving code problems is much easier if you have **sufficient time for breaks**.
+Please be aware that the level of the assignments is a little bit higher than the level of the exercises provided at 
+the end of each chapter. Solving the assignments requires taking some extra steps; you will have to combine notions 
+from different chapters and most likely go through several cycles of trial and error. Therefore, please take into 
+account that the assignments can most likely not be completed in a single day. Also, solving code problems is much 
+easier if you have **sufficient time for breaks**.
 
-**Lecture 2**
+**Middle Lectures**
 
-In the second lecture, we will further highlight some of the theory, and you will have time to practice more advanced notions. Support will be provided by the teachers and student assistants. It is highly recommended to prepare questions you have about the assignment and post them on Piazza (QA forum - access provided via our Canvas) before class. Ideally, we can prepare the lecture in such a way that it will help you finalize your assignment. You will finish the assignment between the second and third lecture and hand it in on either Wednesday or Friday.
+In the middle lectures of each block (either one or two), we will further highlight some of the theory, and you will 
+have time to practice more advanced notions with the support of the lecturers. Ideally, we can prepare the lecture in 
+such a way that it will help you finalize the block's assignment. You should aim to finish the assignment between 
+during the middle lectures (so you can use the lecture to ask for questions).
 
-**Lecture 3**
+**Last Lecture**
 
-Finally, the third lecture is a feedback session where we will discuss some of the main problems that were encountered in the assignments. We will repeat this cycle multiple times (for each assignment). Please note that we will use a single feedback lecture for Blocks 1 and 2 (see course schedule below). 
+Finally, the last lecture of each block is a feedback session where we will discuss some of the main problems that 
+were encountered in the assignments. We will repeat this cycle multiple times (for each assignment). Please note that 
+we will use a single feedback lecture for Blocks 1 and 2 (see course schedule below). 
+
+**Office Hours**
+
+Office hours are held most Thursdays, from 17:30. This session is indented to help students solve problems or to 
+answer questions. Course email will also be answered during this session. It is preferred that you questions in class 
+or come to this session instead of using email.  This session is also scheduled on rooster but attendance is optional.
+If no students are present in the session, the session will end early. If you want to use this session make sure you 
+
+
 
 ### Course schedule
 
@@ -170,107 +207,113 @@ Finally, the third lecture is a feedback session where we will discuss some of t
   <tr>
     <td class="tg-uzvj" rowspan="2">1</td>
     <td class="tg-kwiq">lecture</td>
-    <td class="tg-kwiq">Tuesday 2024-09-03<br>13:30 - 15:15</td>
+    <td class="tg-kwiq">Tuesday 2025-09-02<br>15:30 - 17:15</td>
     <td class="tg-kwiq">Introduction theory</td>
   </tr>
   <tr>
     <td class="tg-kwiq">lecture</td>
-    <td class="tg-kwiq">Thursday 2024-09-05<br>15:30 - 17:15</td>
+    <td class="tg-kwiq">Thursday 2025-09-04<br>15:30 - 17:15</td>
     <td class="tg-kwiq">Theory and work time</td>
   </tr>
   <tr>
     <td class="tg-uzvj" rowspan="4">2</td>
     <td class="tg-kwiq">lecture</td>
-    <td class="tg-kwiq">Tuesday 2024-09-10<br>13:30 - 15:15</td>
+    <td class="tg-kwiq">Tuesday 2025-09-9<br>15:30 - 17:15</td>
     <td class="tg-kwiq">Introduction theory</td>
   </tr>
   <tr>
     <td class="tg-kwiq">lecture</td>
-    <td class="tg-kwiq">Thursday 2024-09-12<br>15:30 - 17:15</td>
+    <td class="tg-kwiq">Thursday 2025-09-11<br>15:30 - 17:15</td>
     <td class="tg-kwiq">Theory and work time</td>
   </tr>
   <tr>
-    <td class="tg-kwiq"><b>EXAM</b></td>
-    <td class="tg-kwiq">Tuesday 2024-09-17<br>13:30 - 15:15</td>
-    <td class="tg-kwiq">Midterm Exam (in class)</td>
+    <td class="tg-kwiq"><b>MIDTERM</b></td>
+    <td class="tg-kwiq"><b>Monday 2025-09-15<br>18:45 - 21:00</b></td>
+    <td class="tg-kwiq"><b>(check rooster for location)</b></td>
   </tr>
   <tr>
     <td class="tg-kwiq">lecture</td>
-    <td class="tg-kwiq">Thursday 2024-09-19<br>15:30 - 17:15</td>
+    <td class="tg-kwiq">Tuesday 2025-09-16<br>15:30 - 17:15</td>
     <td class="tg-kwiq">Feedback Midterm/Assignments</td>
   </tr>
   <tr>
-    <td class="tg-uzvj" rowspan="4">3</td>
+    <td class="tg-uzvj" rowspan="3">3</td>
     <td class="tg-kwiq">lecture</td>
-    <td class="tg-kwiq">Tuesday 2024-09-24<br>13:30 - 15:15</td>
+    <td class="tg-kwiq">Thursday 2025-09-18<br>15:30 - 17:15</td>
     <td class="tg-kwiq">Introduction theory</td>
   </tr>
   <tr>
     <td class="tg-kwiq">lecture</td>
-    <td class="tg-kwiq">Thursday 2024-09-26<br>15:30 - 17:15</td>
+    <td class="tg-kwiq">Tuesday 2025-09-23<br>15:30 - 17:15</td>
     <td class="tg-kwiq">Theory and work time</td>
   </tr>
   <tr>
-    <td class="tg-kwiq">DEADLINE</td>
-    <td class="tg-kwiq">Monday 2024-09-30<br>before 17:00</td>
-    <td class="tg-kwiq">SUBMIT ASSIGNMENT 3</td>
-  </tr>
-  <tr>
     <td class="tg-kwiq">lecture</td>
-    <td class="tg-kwiq">Tuesday 2024-10-01<br>13:30 - 15:15</td>
+    <td class="tg-kwiq">Thursday 2025-09-25<br>15:30 - 17:15</td>
     <td class="tg-kwiq">Feedback assignment</td>
   </tr>
   <tr>
     <td class="tg-uzvj" rowspan="8">4</td>
     <td class="tg-kwiq">lecture</td>
-    <td class="tg-kwiq">Thursday 2024-10-03<br>15:30 - 17:15</td>
+    <td class="tg-kwiq">Tuesday 2025-09-30<br>13:30 - 15:15</td>
     <td class="tg-kwiq">Introduction theory</td>
   </tr>
   <tr>
     <td class="tg-kwiq">MA lecture</td>
-    <td class="tg-kwiq">Tuesday 2024-10-08<br>13:30 - 15:15</td>
+    <td class="tg-kwiq">Thursday 2025-10-02<br>15:30 - 17:15</td>
     <td class="tg-kwiq">Theory and work time</td>
   </tr>
   <tr>
     <td class="tg-kwiq">BA lecture</td>
-    <td class="tg-kwiq">Tuesday 2024-10-08<br>15:30 - 17:15</td>
+    <td class="tg-kwiq">Thursday 2025-10-02<br>15:30 - 17:15</td>
     <td class="tg-kwiq">Theory and work time</td>
   </tr>
   <tr>
     <td class="tg-kwiq">MA lecture</td>
-    <td class="tg-kwiq">Thursday 2024-10-10<br>15:30 - 17:15</td>
+    <td class="tg-kwiq">Tuesday 2025-10-07<br>13:30 - 15:15</td>
     <td class="tg-kwiq">Theory and work time</td>
   </tr>
   <tr>
     <td class="tg-kwiq">BA lecture</td>
-    <td class="tg-kwiq">Thursday 2024-10-10<br>15:30 - 17:15</td>
+    <td class="tg-kwiq">Tuesday 2025-10-07<br>15:30 - 17:15</td>
     <td class="tg-kwiq">Theory and work time</td>
   </tr>
   <tr>
-    <td class="tg-kwiq">DEADLINE</td>
-    <td class="tg-kwiq">2024-10-14<br>before 17:00</td>
-    <td class="tg-kwiq">SUBMIT ASSIGNMENT 4</td>
+    <td class="tg-kwiq"><b>DEADLINE</b></td>
+    <td class="tg-kwiq"><b>Wednesday 2025-10-08<br>before 17:00</b></td>
+    <td class="tg-kwiq"><b>SUBMIT ASSIGNMENT 4</b></td>
   </tr>
   <tr>
-    <td class="tg-kwiq">Resit</td>
-    <td class="tg-kwiq">Tuesday 2024-10-15<br>13:30 - 15:15</td>
-    <td class="tg-kwiq">Resit for Midterm Exam</td>
+    <td class="tg-kwiq">MA lecture</td>
+    <td class="tg-kwiq">Thursday 2025-10-09<br>15:30 - 15:15</td>
+    <td class="tg-kwiq">MA Feedback assignment</td>
+  </tr>
+  <tr>
+    <td class="tg-kwiq">BA lecture</td>
+    <td class="tg-kwiq">Thursday 2025-10-09<br>15:30 - 17:15</td>
+    <td class="tg-kwiq">BA Feedback assignment</td>
+  </tr>
+  <tr>
+    <td class="tg-uzvj" rowspan="4">Exam Preparation</td>
+    <td class="tg-kwiq"><b>RESIT</b></td>
+    <td class="tg-kwiq"><b>Tuesday 2025-10-14<br>15:30 - 17:15</b></td>
+    <td class="tg-kwiq"><b>Resit for Midterm Exam</b> (no class)</td>
+  </tr>
+  <tr>
+    <td class="tg-kwiq">MA lecture</td>
+    <td class="tg-kwiq">Tuesday 2025-10-16<br>13:30 - 15:15</td>
+    <td class="tg-kwiq">MA Exam preparation</td>
   </tr>
   <tr>
     <td class="tg-kwiq">BA/MA lecture</td>
-    <td class="tg-kwiq">Tuesday 2024-10-15<br>15:30 - 17:15</td>
-    <td class="tg-kwiq">BA/MA Feedback assignment</td>
+    <td class="tg-kwiq">Tuesday 2025-10-16<br>15:30 - 17:15</td>
+    <td class="tg-kwiq">BA Exam preparation</td>
   </tr>
+
   <tr>
-    <td class="tg-uzvj" rowspan="2">Exam Preparation</td>
-    <td class="tg-kwiq">Lecture</td>
-    <td class="tg-kwiq">Thursday 2024-10-17<br>15:30 - 17:15</td>
-    <td class="tg-kwiq">Exam preparation</td>
-  </tr>
-  <tr>
-    <td class="tg-kwiq">EXAM</td>
-    <td class="tg-kwiq">Tuesday 2024-10-22<br>8:30-11:15 (11:45, extra time)</td>
-    <td class="tg-kwiq">EXAM (important: check location)</td>
+    <td class="tg-kwiq"><b>EXAM</b></td>
+    <td class="tg-kwiq"><b>Tuesday 2024-10-21<br>8:30-11:15 (11:45, extra time)</b></td>
+    <td class="tg-kwiq"><b>(check rooster for location)</b></td>
   </tr>
 </tbody>
 </table>
