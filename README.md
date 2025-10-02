@@ -301,12 +301,12 @@ If no students are present in the session, the session will end early. If you wa
   </tr>
   <tr>
     <td class="tg-kwiq">MA lecture</td>
-    <td class="tg-kwiq">Tuesday 2025-10-16<br>13:30 - 15:15</td>
+    <td class="tg-kwiq">Thursday 2025-10-16<br>13:30 - 15:15</td>
     <td class="tg-kwiq">MA Exam preparation</td>
   </tr>
   <tr>
     <td class="tg-kwiq">BA/MA lecture</td>
-    <td class="tg-kwiq">Tuesday 2025-10-16<br>15:30 - 17:15</td>
+    <td class="tg-kwiq">Thursday 2025-10-16<br>15:30 - 17:15</td>
     <td class="tg-kwiq">BA Exam preparation</td>
   </tr>
 
