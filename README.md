@@ -206,112 +206,101 @@ let the lecturer know during the Thursday lecture (or by email, if you can't mak
   <tr>
     <td class="tg-uzvj" rowspan="2">1</td>
     <td class="tg-kwiq">lecture</td>
-    <td class="tg-kwiq">Tuesday 2025-09-02<br>15:30 - 17:15</td>
+    <td class="tg-kwiq">Tuesday 2025-09-01<br>15:30 - 17:15</td>
     <td class="tg-kwiq">Introduction theory</td>
   </tr>
   <tr>
     <td class="tg-kwiq">lecture</td>
-    <td class="tg-kwiq">Thursday 2025-09-04<br>15:30 - 17:15</td>
+    <td class="tg-kwiq">Thursday 2025-09-03<br>15:30 - 17:15</td>
     <td class="tg-kwiq">Theory and work time</td>
   </tr>
   <tr>
     <td class="tg-uzvj" rowspan="4">2</td>
     <td class="tg-kwiq">lecture</td>
-    <td class="tg-kwiq">Tuesday 2025-09-9<br>15:30 - 17:15</td>
+    <td class="tg-kwiq">Tuesday 2025-09-08<br>15:30 - 17:15</td>
     <td class="tg-kwiq">Introduction theory</td>
   </tr>
   <tr>
     <td class="tg-kwiq">lecture</td>
-    <td class="tg-kwiq">Thursday 2025-09-11<br>15:30 - 17:15</td>
+    <td class="tg-kwiq">Thursday 2025-09-10<br>15:30 - 17:15</td>
     <td class="tg-kwiq">Theory and work time</td>
   </tr>
   <tr>
     <td class="tg-kwiq"><b>MIDTERM</b></td>
-    <td class="tg-kwiq"><b>Monday 2025-09-15<br>18:45 - 21:00</b></td>
+    <td class="tg-kwiq"><b>Monday 2025-09-14<br>18:45 - 21:00</b></td>
     <td class="tg-kwiq"><b>(check rooster for location)</b></td>
   </tr>
   <tr>
     <td class="tg-kwiq">lecture</td>
-    <td class="tg-kwiq">Tuesday 2025-09-16<br>15:30 - 17:15</td>
+    <td class="tg-kwiq">Tuesday 2025-09-15<br>15:30 - 17:15</td>
     <td class="tg-kwiq">Feedback Midterm/Assignments</td>
   </tr>
   <tr>
     <td class="tg-uzvj" rowspan="3">3</td>
     <td class="tg-kwiq">lecture</td>
-    <td class="tg-kwiq">Thursday 2025-09-18<br>15:30 - 17:15</td>
+    <td class="tg-kwiq">Thursday 2025-09-17<br>15:30 - 17:15</td>
     <td class="tg-kwiq">Introduction theory</td>
   </tr>
   <tr>
     <td class="tg-kwiq">lecture</td>
-    <td class="tg-kwiq">Tuesday 2025-09-23<br>15:30 - 17:15</td>
+    <td class="tg-kwiq">Tuesday 2025-09-22<br>15:30 - 17:15</td>
     <td class="tg-kwiq">Theory and work time</td>
   </tr>
   <tr>
     <td class="tg-kwiq">lecture</td>
-    <td class="tg-kwiq">Thursday 2025-09-25<br>15:30 - 17:15</td>
+    <td class="tg-kwiq">Thursday 2025-09-24<br>15:30 - 17:15</td>
     <td class="tg-kwiq">Feedback assignment</td>
   </tr>
   <tr>
-    <td class="tg-uzvj" rowspan="8">4</td>
+    <td class="tg-uzvj" rowspan="6">4</td>
     <td class="tg-kwiq">lecture</td>
-    <td class="tg-kwiq">Tuesday 2025-09-30<br>13:30 - 15:15</td>
+    <td class="tg-kwiq">Tuesday 2025-09-29<br>15:30 - 17:15</td>
+    <td class="tg-kwiq">Introduction theory</td>
+  </tr>
+  <tr>
+    <td class="tg-kwiq">lecture</td>
+    <td class="tg-kwiq">Thursday 2025-10-01<br>15:30 - 17:15</td>
     <td class="tg-kwiq">Introduction theory</td>
   </tr>
   <tr>
     <td class="tg-kwiq">MA lecture</td>
-    <td class="tg-kwiq">Thursday 2025-10-02<br>15:30 - 17:15</td>
+    <td class="tg-kwiq">Thursday 2025-10-06<br>13:30 - 15:15</td>
     <td class="tg-kwiq">Theory and work time</td>
   </tr>
   <tr>
     <td class="tg-kwiq">BA lecture</td>
-    <td class="tg-kwiq">Thursday 2025-10-02<br>15:30 - 17:15</td>
+    <td class="tg-kwiq">Thursday 2025-10-06<br>15:30 - 17:15</td>
+    <td class="tg-kwiq">Theory and work time</td>
+  </tr>
+  <tr>
+    <td class="tg-kwiq">BA lecture</td>
+    <td class="tg-kwiq">Thursday 2025-10-08<br>13:30 - 15:15</td>
     <td class="tg-kwiq">Theory and work time</td>
   </tr>
   <tr>
     <td class="tg-kwiq">MA lecture</td>
-    <td class="tg-kwiq">Tuesday 2025-10-07<br>13:30 - 15:15</td>
+    <td class="tg-kwiq">Thursday 2025-10-08<br>15:30 - 17:15</td>
     <td class="tg-kwiq">Theory and work time</td>
-  </tr>
-  <tr>
-    <td class="tg-kwiq">BA lecture</td>
-    <td class="tg-kwiq">Tuesday 2025-10-07<br>15:30 - 17:15</td>
-    <td class="tg-kwiq">Theory and work time</td>
-  </tr>
-  <tr>
-    <td class="tg-kwiq"><b>DEADLINE</b></td>
-    <td class="tg-kwiq"><b>Wednesday 2025-10-08<br>before 17:00</b></td>
-    <td class="tg-kwiq"><b>SUBMIT ASSIGNMENT 4</b></td>
-  </tr>
-  <tr>
-    <td class="tg-kwiq">MA lecture</td>
-    <td class="tg-kwiq">Thursday 2025-10-09<br>15:30 - 15:15</td>
-    <td class="tg-kwiq">MA Feedback assignment</td>
-  </tr>
-  <tr>
-    <td class="tg-kwiq">BA lecture</td>
-    <td class="tg-kwiq">Thursday 2025-10-09<br>15:30 - 17:15</td>
-    <td class="tg-kwiq">BA Feedback assignment</td>
   </tr>
   <tr>
     <td class="tg-uzvj" rowspan="4">Exam Preparation</td>
+    <td class="tg-kwiq">MA lecture</td>
+    <td class="tg-kwiq">Thursday 2025-10-13<br>13:30 - 15:15</td>
+    <td class="tg-kwiq">Feedback assignment/Exam preparation</td>
+  </tr>
+  <tr>
+    <td class="tg-kwiq">BA lecture</td>
+    <td class="tg-kwiq">Thursday 2025-10-13<br>15:30 - 17:15</td>
+    <td class="tg-kwiq">Feedback assignment/Exam preparation</td>
+  </tr>
+ <tr>
     <td class="tg-kwiq"><b>RESIT</b></td>
-    <td class="tg-kwiq"><b>Tuesday 2025-10-14<br>15:30 - 17:15</b></td>
+    <td class="tg-kwiq"><b>Tuesday 2025-10-15<br>15:30 - 17:15</b></td>
     <td class="tg-kwiq"><b>Resit for Midterm Exam</b> (no class)</td>
   </tr>
   <tr>
-    <td class="tg-kwiq">MA lecture</td>
-    <td class="tg-kwiq">Thursday 2025-10-16<br>13:30 - 15:15</td>
-    <td class="tg-kwiq">MA Exam preparation</td>
-  </tr>
-  <tr>
-    <td class="tg-kwiq">BA/MA lecture</td>
-    <td class="tg-kwiq">Thursday 2025-10-16<br>15:30 - 17:15</td>
-    <td class="tg-kwiq">BA Exam preparation</td>
-  </tr>
-
-  <tr>
     <td class="tg-kwiq"><b>EXAM</b></td>
-    <td class="tg-kwiq"><b>Tuesday 2024-10-21<br>8:30-11:15 (11:45, extra time)</b></td>
+    <td class="tg-kwiq"><b>Tuesday 2024-10-20<br>8:30-11:15 (11:45, extra time)</b></td>
     <td class="tg-kwiq"><b>(check rooster for location)</b></td>
   </tr>
 </tbody>
