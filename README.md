@@ -72,7 +72,7 @@ Our materials are structured as follows:
 
 * The `Chapters` folder contains our primary teaching material. Every week, you will work through a subset of these interactive notebooks. We expect you to look at the material in preparation for the lectures. If you get stuck with an assignment, first see if you can find the solution in the Chapters.
 
-* The `Assignments` folder contains the assignments that you will be asked to submit during the course.
+* The `Assignments` folder contains the assignments that you will be asked to complete during the course. These assignments will be self/auto-graded. Each assignment will have a specific feedback session to go over student-led questions about the assignments. 
 
 * The `Extra_Material` folder contains some extra reading about the Python theory, which you may use for future reference. It also contains some information specifically related to natural language processing, and examples on how to organize your code and how to create a Flask website.
 
@@ -82,72 +82,61 @@ This file serves as the syllabus and a general reference for this course.
 
 ## Assignments and Grading
 
-The course is worth 6 ECTS and will consist of **3 self/auto-graded assignments**, **1 midterm exam**, **1 graded assignments** 
-and **1 final exam**. Even through Assignments 1, 2 and 3 do not weigh in your final grade, we highly encourage you to 
-submit them to the auto-grading system. This will also help you confirm if you are keeping up with the course. You must 
-obtain a passing grade in the Midterm Exam, Assignment 4 and the Final Exam to complete the course.
+The course is worth 6 ECTS and will consist of **4 self/auto-graded assignments**, **1 midterm exam** and **1 final exam**. 
+Each assignment is tied to one block (see below). It is very important that you do the assignments within their respective block. 
+Each block as session dedicated to going over the assignment and to discuss issues students encountered during the assignment. 
+You will only get something out of these sessions if you come prepared (i.e., having done the assignment). **Full solutions for the assignments will not be provided!**
 
 The assignments and the exams are weighted as follows:
 
-| Part         | weight %         |  
-|--------------|------------------|
-| Assignment 1 | self/auto-graded |  
-| Assignment 2 | self/auto-graded      | 
-| Midterm Exam | 30 %             |
-| Assignment 3 | self/auto-graded      |   
-| Assignment 4 | 30 %             |    
-| Exam         | 40 %             |
-| **Total**    | 100 %            |	
+| Part           | weight %             |  
+|----------------|----------------------|
+| Assignment 1   | self/auto-graded     |  
+| Assignment 2   | self/auto-graded     | 
+| Midterm Exam   | 30 %                 |
+| Assignment 3   | self/auto-graded     |   
+| Assignment 4   | self-graded          |    
+| Exam           | 70 %                 |
+| **Total**      | 100 %                |	
 
 
-### Course assignments
+Even though the assignments do not need to be submitted, and do not weight directly in your final grade, the final exam will contain a 
+number of exercises extracted directly or adapted from the assignments. The 70% of the final exam can be decomposed in the following way: 
+40% (new questions) + 30% (assignment-based questions).
 
-The course have four assignments (3 self/auto-graded assignments and 1 human-graded assignments). You can complete 
-assignments 1, 2 and 3 at anytime during the course. They will not count for your final grade. You must pass assignment
-4 to be able to pass the course. Assignment 4 will be submitted through canvas (we do not accept email submissions). 
-Please check the schedule for details about its submission deadline. 
+As such, keeping up with assignments and making use of the auto-grading system (when available) is a great way to ensure you do well in this course!
 
-**Schedule:** The course is built around four blocks. Each block is tied to one assignment. Even though assignments 1, 
-2 and 3 will not count towards your final grade, it is highly recommend that you complete them in preparation for each  
-respective block. This will allow you to maximise your learning experience as each block as reserved  lectures 
-to discuss the assignments in class and provide feedback.
-
-**Late Submissions:** The deadline for assignment 4 indicated in the schedule below. Submission 1 day after the 
-deadline and before the feedback session downgrades your grade by 2 (e.g., a 9 will result in a 7).  After that (i.e. 
-on day 2 or after the feedback session has started), the resulting grade is a 1. We have to be strict about this 
-because we will discuss the assignments in class, and we need time to look at your submissions. In addition, the 
-solutions will be discussed in the feedback session, and we cannot award points after the solutions have been discussed.
-
-**Resits:**
-* The passing grade for Assignment 4 is 5.5/10. If you fail Assignment 4 (or do not submit in time), you will be given 
-the possibility to submit a resit assignment. Please note that the level of the resit assignment will be equivalent to 
-the more advanced components of Assignment 4. The resit assignments will be published at the end of the course and 
-there will be a deadline for submission (tba).
-* **Note**: Please note also that the deadline of the resit assignment will fall into period 2 and thus interfere 
-with your new courses. It is highly recommended to attempt to pass Assignment 4 during regular course time. Please 
-only make use of the resit opportunity in case you were dealing with exceptional circumstances (e.g. illness).
-
-### Midterm exam
+### Midterm exam (and Resit)
 The midterm exam will assess the basics of Python syntax and over the content covered in Block 1 and Block 2. As 
 preparation for this exam, please work through the material of the blocks and complete Assignment 1 and 2. Passing 
 the midterm exam ensures that you are ready for the more advanced component of the course. It will be a TestVision 
-(computer) exam with no external tools allowed. If you fail the midterm you will be allowed a resit during the course. 
-See the schedule for details. 
+(computer) exam with no external tools allowed. You will need a minimum grade of 5.5 (out of 10) to pass the midterm. 
+If you fail the midterm you will be allowed a resit during the course.  See the schedule for details. 
 
-### Final exam
+### Final exam (and Resit)
 The exam tests your knowledge of the syntax of Python, and your knowledge of the standard library. It serves as an 
 opportunity to show what you've learned and will ensure that you have sufficient knowledge to tackle your own code 
 projects and continue improving your python skills by yourself. You cannot pass the course without a passing grade 
 on the exam. But don't worry: if you are able to finish the assignments, you will be fine on the exam. Please note 
 that the format of the final exam is computer-based, but you will **not have access to a python interface or the 
-internet** (just like in the midterm exam). The resit for the exam follows the official schedule. Please see 
-https://rooster.vu.nl/ for details.
+internet** (just like in the midterm exam). You will need a minimum grade of 5.5 (out of 10) to pass the final exam. 
+The resit for the exam follows the official schedule. Please see https://rooster.vu.nl/ for details.
 
 **Note:** It is highly recommended to aim for a passing grade at the regular exam dates. Please only make use of a 
 resit exam if you fail a regular exam or were dealing with exceptional circumstances (e.g. exam date conflict, illness).
 
 
-## Planning
+## Schedule
+
+The course is built around four blocks. Each block is tied to one assignment. Even though assignments
+not count directly towards your final grade, it is highly recommend that you complete them in preparation for each respective block. 
+This will allow you to maximise your learning experience as each block as reserved lectures 
+to discuss the assignments in class and provide feedback.  This is not the type of course one can easily cram before the exam. 
+If you feel you are falling behind, please approach the lecturers as soon as possible. 
+They can help you make a plan to get back on track.
+
+
+### Planning
 There are 4 Blocks with associated chapters and assignments:
 
 | Block   | Chapters BA | Chapters MA | Assignment BA | Assignment MA |
@@ -192,13 +181,16 @@ we will use a single feedback lecture for Blocks 1 and 2 (see course schedule be
 **Office Hours**
 
 Office hours are held most Thursdays, from 17:30. This session is indented to help students solve problems or to 
-answer questions. Course email will also be answered during this session. It is preferred that you questions in class 
-or come to this session instead of using email.  This session is also scheduled on rooster but attendance is optional.
-If no students are present in the session, the session will end early. If you want to use this session make sure you 
+answer questions. The lecturers will also try to answer any emails sent to the course email this session. 
+It is preferred that you ask questions in class or come to this session instead of using the email.  
 
+**This session is scheduled on rooster but attendance is completely optional.** 
+If no students are present during the session, the session will end early. If you want to use this session make sure you 
+let the lecturer know during the Thursday lecture (or by email, if you can't make it to the lecture for some reason).
 
 
 ### Course schedule
+
 
 
 <table class="tg">
