@@ -1,15 +1,14 @@
 # Python for text analysis
 
-*As taught at the Vrije Universiteit Amsterdam in the [Humanities Research Master: Linguistics](http://masters.vu.nl/en/programmes/linguistics-research/index.aspx) (track [Human Language Technology](http://www.cltl.nl/teaching/human-language-technology/)) and the [Minor Digital Humanities and Social Analytics (BA)](https://studiegids.vu.nl/en/minor/2019-2020/minor-digital-humanities-and-social-analytics?_ga=2.61745324.1204416539.1597663557-1095921612.1591712788#study-program).*
+*As taught at the Vrije Universiteit Amsterdam in the [Humanities Research Master: Linguistics](https://vu.nl/en/education/master/humanities-research-linguistics) (track [Human Language Technology](https://home.cltl.labs.vu.nl/education-ma-hlt)), the [Linguistics Master: Language and AI](https://vu.nl/en/education/master/linguistics-language-and-ai) and the [Minor Digital Humanities and Social Analytics (BA)](https://vu.nl/en/education/minor/digital-humanities-and-social-data-analytics).*
 
 In case you have questions about exemption, please first read [Python-test.md](https://github.com/cltl/python-for-text-analysis/blob/master/Assignments/Python-test.md).
 
 This is a practical course in Python, geared towards those who want to get some hands-on experience working with language data.
 No knowledge of programming is required or presupposed.
-We will work with Python 3.9 or higher. We highly recommend installing [Anaconda](https://www.anaconda.com/download) for this course.
+We will work with Python 3.12 or higher. We highly recommend installing [Anaconda](https://www.anaconda.com/download) for this course.
 
-(If you have worked with Python 3 before, be sure to check if Jupyter Notebook
-is installed on your machine. We will work extensively with notebooks. Make sure you are working with Python 3.9.)
+(If you have worked with Python 3 before, be sure to check if Jupyter Notebook is installed on your machine. We will work extensively with notebooks. Make sure you are working with Python 3.12.)
 
 *This course is based on the material used in [previous years](https://github.com/cltl/python-for-text-analysis/releases) and in [this course](https://github.com/kadarakos/python-course).*
 
@@ -54,9 +53,17 @@ Programming almost always involves running into problems and getting stuck. This
 * Break down your task into **small steps using pen and paper**. Sometimes, you lose sight of the bigger picture when dealing with complicated code. Breaking down a big task into small tasks helps you identify the problem.
 * **Explain the problem to someone else** (e.g., a classmate). Go through the code line by line and explain what it does (See [pair programming](https://en.wikipedia.org/wiki/Pair_programming) and [rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging)).
 * Finally, **take a break**! Very often, just having a fresh look at the code helps!
-* If none of these steps helped, please try to ask for help well before the assignment deadline. Please start by posting your questions on Piazza.  If you email the teachers or TAs, please always email your code rather than a screenshot.
+* If none of these steps helped, please try to ask for help in a timely manner (i.e., within the respective block). You can approach the lecturers in class for small questions or come to office hours if you feel you need to review a concept. In person discussions are always preferred! If you end up emailing the lecturer, please include your code rather than a screenshot.
 
-Learning how to help yourself is a valuable skill and will be very useful in your future programming projects.
+Learning how to help yourself is a valuable skill and will be very useful in your future programming projects!
+
+## Notes on the use of Generative AI:
+
+Everyone knows how easy it has become to ask Generative AI models to do tasks for us. We want to ask you: **RESIST THIS URGE!** 
+
+While trying to avoid broader discussions, we are open to the arguments that Generative AI has role to play in modern societies. We do believe, however, that their role in education is not yet well understood and that, when used incorrectly, it can seriously hinder the learning process. Please remember that passively accepting a solution provided by these models is very different than coming up with solutions yourself. During exams, you will need to come up with solutions yourself (i.e., without the help of generative models). Resisting the urge to use generative AI during your learning journey will pay off! Trust the system! Finding ways to solve a problem when you get stuck is one of the most important skills a programmer can have, and one of this course's learning learning goals. We highly discourage the use of Generative AI during this course. 
+
+That being said, we believe Generative AI can be a useful tool for experienced programmers. Towards the end of the course, we will come back to discuss how to best use Generative AI in your future programming careers.   
 
 
 ## Courseware structure
