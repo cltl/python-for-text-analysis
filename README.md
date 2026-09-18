@@ -285,17 +285,17 @@ let the lecturer know during the Thursday lecture (or by email, if you can't mak
   <tr>
     <td class="tg-uzvj" rowspan="4">Exam Preparation</td>
     <td class="tg-kwiq">MA lecture</td>
-    <td class="tg-kwiq">Thursday 2026-10-13<br>13:30 - 15:15</td>
+    <td class="tg-kwiq">Tuesday 2026-10-13<br>13:30 - 15:15</td>
     <td class="tg-kwiq">Feedback assignment/Exam preparation</td>
   </tr>
   <tr>
     <td class="tg-kwiq">BA lecture</td>
-    <td class="tg-kwiq">Thursday 2026-10-13<br>15:30 - 17:15</td>
+    <td class="tg-kwiq">Tuesday 2026-10-13<br>15:30 - 17:15</td>
     <td class="tg-kwiq">Feedback assignment/Exam preparation</td>
   </tr>
  <tr>
     <td class="tg-kwiq"><b>RESIT</b></td>
-    <td class="tg-kwiq"><b>Tuesday 2026-10-15<br>15:30 - 17:15</b></td>
+    <td class="tg-kwiq"><b>Thursday 2026-10-15<br>15:30 - 17:15</b></td>
     <td class="tg-kwiq"><b>Resit for Midterm Exam</b> (no class)</td>
   </tr>
   <tr>
